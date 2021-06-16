@@ -1,0 +1,94 @@
+# Translation of Themes - WorkPress in Russian
+# This file is distributed under the same license as the Themes - WorkPress package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2017-06-05 12:13:20+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: ru\n"
+"Project-Id-Version: Themes - WorkPress\n"
+
+#. Description of the plugin/theme
+msgid "WorkPress is an ideal WordPress theme for those who wish to create an impressive web presence. WorkPress is easy to use, providing everything you need to create a great looking website. It is professional, smooth and sleek with a clean modern layout, suitable for almost any business type: agency, freelance, blog, startup, portfolio, corporate, food, fashion, law, digital media agency, architecture, real estate, etc. The theme is developed using the latest Bootstrap CSS framework that makes it friendly for all modern devices like mobiles, tablets, and laptops."
+msgstr "WorkPress — идеальная тема для тех, кто хочет создать впечатляющий сайт. WorkPress проста в использовании и предоставляет все необходимое для создания великолепного веб-сайта. Это профессиональная, гладкая тема с чистым современным макетом, подходящая практически для любого типа бизнеса: агентство, фриланс, блог, стартап, портфолио, корпоративный, гастрономия, мода, право, медиа-агентство, архитектура, недвижимость и тому подобное. Тема разработана с использованием новейшей платформы CSS Bootstrap, которая делает ее дружественной для всех современных устройств, таких как мобильные телефоны, планшеты и ноутбуки."
+
+#. Theme Name of the plugin/theme
+msgid "WorkPress"
+msgstr "WorkPress"
+
+#: functions.php:55
+msgid ""
+"Click the large blue button to start the dummy data import process.</br></br>Please be patient while WordPress imports all the content.</br></br>\n"
+"\t\t\t<h3>Recommended Plugins</h3> WorkPress theme supports the following plugins:</br> </br><li> <a href=\"https://wordpress.org/plugins/contact-form-7/\"> Contact Form 7</a></li> <li> <a href=\"https://wordpress.org/plugins/woocommerce/\"> WooCommerce </a> </li><li> <a href=\"https://wordpress.org/plugins/spoontalk-social-media-icons-widget/\"> Spoon Talk Social Media Icons </a></li>"
+msgstr ""
+"Нажмите большую синюю кнопку, чтобы начать импорт тестовых данных.</br></br>Пожалуйста, будьте терпеливы, пока WordPress импортирует все данные.</br></br>\n"
+"\t\t\t<h3>Рекомендованные плагины</h3> Тема WorkPress поддерживает такие плагины:</br> </br><li> <a href=\"https://wordpress.org/plugins/contact-form-7/\"> Contact Form 7</a></li> <li> <a href=\"https://wordpress.org/plugins/woocommerce/\"> WooCommerce </a> </li><li> <a href=\"https://wordpress.org/plugins/spoontalk-social-media-icons-widget/\"> Spoon Talk Social Media Icons </a></li>"
+
+#: header.php:44
+msgid "R<small>ambo</small>"
+msgstr "R<small>ambo</small>"
+
+#: functions/widget/custom-sidebar.php:27
+msgid "Use the Project Widget to add project-type content."
+msgstr "Воспользуйтесь виджетом Проект для добавления информации о проектах."
+
+#: functions/widget/custom-sidebar.php:25
+msgid "Homepage Project section - sidebar"
+msgstr "Секция проектов домашней страницы - боковая колонка"
+
+#: functions/widget/custom-sidebar.php:16
+msgid "Use the Page/Service Widget to add service-type content."
+msgstr "Воспользуйтесь виджетом Страница/Услуги для добавления информации об услугах."
+
+#: functions/widget/custom-sidebar.php:14
+msgid "Homepage Service section - sidebar"
+msgstr "Секция услуг домашней страницы - боковая колонка"
+
+#: functions/customizer/customizer_service_panel.php:29
+msgid "Hide Service section"
+msgstr "Спрятать секцию услуг"
+
+#: functions/customizer/customizer_service_panel.php:7
+msgid "Service section"
+msgstr "Секция услуг"
+
+#: functions/customizer/customizer_project.php:42
+#: functions/customizer/customizer_service_panel.php:43
+msgid "Select column layout"
+msgstr "Выбрать макет столбцов"
+
+#: functions/customizer/customizer_project.php:28
+msgid "Hide Project section"
+msgstr "Спрятать секцию проекта"
+
+#: functions/customizer/customizer_project.php:12
+#: functions/customizer/customizer_service_panel.php:14
+msgid "Settings"
+msgstr "Настройки"
+
+#: functions/customizer/customizer_project.php:5
+msgid "Project section"
+msgstr "Секция проекта"
+
+#: footer.php:23
+msgid "WordPress"
+msgstr "WordPress"
+
+#: footer.php:23
+msgid "Copyright @ 2014 - RAMBO Powered By "
+msgstr "Авторские права на тему @ 2014 - RAMBO, Сайт работает на"
+
+#. Author URI of the plugin/theme
+msgid "https://www.webriti.com"
+msgstr "https://www.webriti.com"
+
+#. Author of the plugin/theme
+msgid "webriti"
+msgstr "webriti"
+
+#. Theme URI of the plugin/theme
+msgid "https://webriti.com/workpress-details-page/"
+msgstr "https://webriti.com/workpress-details-page/"

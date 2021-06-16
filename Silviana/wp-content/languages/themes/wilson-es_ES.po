@@ -1,0 +1,357 @@
+# Translation of Themes - Wilson in Spanish (Spain)
+# This file is distributed under the same license as the Themes - Wilson package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2016-11-12 12:42:59+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.3.0-alpha\n"
+"Language: es\n"
+"Project-Id-Version: Themes - Wilson\n"
+
+#. Description of the plugin/theme
+msgid "Wilson is a clean, simple and responsive theme for personal sites and blogs. Features responsive design, retina-ready assets, custom accent color support, custom logo support, custom widgets for video and Flickr embeds, page templates, editor styles and translation-ready code. Included translations: Swedish/svenska, German/deutsch. Demo: http://www.andersnoren.se/themes/wilson/"
+msgstr "Wilson es un tema limpio, simple y adaptativo para sitios personales y blogs. Tiene funcionalidades del diseño adaptativo, recursos preparados para retina, soporta acentos personalizados de color, logos personalizados, widgets para incrustar vídeos y Flickr, plantillas de página, edición de estilos y código preparado para traduciones. Incluye las traducciones: Swedish/svenska, German/deutsch. Demo: http://www.andersnoren.se/themes/wilson/"
+
+#. Theme Name of the plugin/theme
+msgid "Wilson"
+msgstr "Wilson"
+
+#: searchform.php:3
+msgid "Submit"
+msgstr "Enviar"
+
+#: functions.php:251
+msgid "%s at %s"
+msgstr "%s a las %s"
+
+#: footer.php:47
+msgid "Theme by %s"
+msgstr "Tema por %s"
+
+#: comments.php:32
+msgid "%s Pingback"
+msgid_plural "%s Pingbacks"
+msgstr[0] "%s Pingback"
+msgstr[1] "%s Pingbacks"
+
+#: comments.php:9
+msgid "%s Comment"
+msgid_plural "%s Comments"
+msgstr[0] "%s comentario"
+msgstr[1] "%s comentarios"
+
+#: widgets/video-widget.php:13
+msgid "Video Widget"
+msgstr "Widget de vídeo"
+
+#: widgets/flickr-widget.php:13
+msgid "Flickr Widget"
+msgstr "Widget de Flickr"
+
+#. Template Name of the plugin/theme
+msgid "Archive template"
+msgstr "Plantilla de archivo"
+
+#: widgets/video-widget.php:69
+msgid "Video URL"
+msgstr "URL del vídeo"
+
+#: widgets/video-widget.php:10
+msgid "Displays a video of your choosing."
+msgstr "Muestra un vídeo elegido por ti."
+
+#: widgets/flickr-widget.php:66
+msgid "Flickr ID (use <a target=\"_blank\" href=\"http://www.idgettr.com\">idGettr</a>):"
+msgstr "Flickr ID (usa <a target=\"_blank\" href=\"http://www.idgettr.com\">idGettr</a>):"
+
+#: widgets/flickr-widget.php:41
+msgid "More on Flickr &raquo;"
+msgstr "Más en Flickr &raquo;"
+
+#: widgets/flickr-widget.php:10
+msgid "Displays your latest Flickr photos."
+msgstr "Muestra tus últimas fotos en Flickr."
+
+#: widgets/flickr-widget.php:71
+msgid "Number of images to display"
+msgstr "Número de imágenes a mostrar"
+
+#: widgets/flickr-widget.php:61 widgets/video-widget.php:64
+msgid "Title"
+msgstr "Título"
+
+#: template-archives.php:91
+msgid "Archives by Day"
+msgstr "Archivo diario"
+
+#: template-archives.php:85
+msgid "Archives by Month"
+msgstr "Archivo mensual"
+
+#: template-archives.php:79
+msgid "Archives by Year"
+msgstr "Archivo anual"
+
+#: template-archives.php:73
+msgid "Contributors"
+msgstr "Contribuidores"
+
+#: template-archives.php:65
+msgid "View all posts in %s"
+msgstr "Ver todas las entradas en %s"
+
+#: template-archives.php:57
+msgid "Archives by Tags"
+msgstr "Archivos por etiquetas"
+
+#: template-archives.php:51
+msgid "Archives by Categories"
+msgstr "Archivos por categorías"
+
+#: template-archives.php:31
+msgid "Last 30 Posts"
+msgstr "Últimas 30 entradas"
+
+#: single.php:87
+msgid "Next post:"
+msgstr "Entrada siguiente:"
+
+#: single.php:77
+msgid "Previous post:"
+msgstr "Entrada anterior:"
+
+#: single.php:67
+msgid "Tags:"
+msgstr "Etiquetas: "
+
+#: single.php:65
+msgid "Categories:"
+msgstr "Categorías:"
+
+#: searchform.php:2
+msgid "Search form"
+msgstr "Formulario de búsqueda"
+
+#: search.php:37
+msgid "No results. Try again, would you kindly?"
+msgstr "No hay resultados. Puedes intentarlo de nuevo."
+
+#: search.php:9
+msgid "Search"
+msgstr "Buscar"
+
+#: index.php:45 search.php:59
+msgid "Newer<span> posts</span> &raquo;"
+msgstr "Siguientes<span> entradas</span> &raquo;"
+
+#: index.php:43 search.php:57
+msgid "&laquo; Older<span> posts</span>"
+msgstr "&laquo; Anteriores<span> entradas</span>"
+
+#: index.php:17
+msgid "Page %s of %s"
+msgstr "Página %s de %s"
+
+#: image.php:111 page.php:41 single.php:103 template-archives.php:121
+msgid "We couldn't find any posts that matched your query. Please try again."
+msgstr "No hemos encontrado ninguna entrada relacionada con tu búsqueda. Por favor, inténtalo de nuevo."
+
+#: image.php:99
+msgid "Next<span> attachment</span> &raquo;"
+msgstr "Próximo<span> archivo adjunto</span> &raquo;"
+
+#: image.php:98
+msgid "&laquo; Previous<span> attachment</span>"
+msgstr "&laquo; Anterior<span> archivo adjunto</span>"
+
+#: header.php:44
+msgid "Hide menu"
+msgstr "Ocultar menú"
+
+#: header.php:43
+msgid "Show menu"
+msgstr "Mostrar menú"
+
+#: functions.php:340
+msgid "Accent Color"
+msgstr "Color de énfasis"
+
+#: functions.php:313
+msgid "Upload a logo to replace the default site name and description in the sidebar"
+msgstr "Subir un logo para reemplazar el nombre del sitio por defecto y la descripción de la barra lateral"
+
+#: functions.php:315 functions.php:348
+msgid "Logo"
+msgstr "Logo"
+
+#: functions.php:306
+msgid "Allows you to customize theme options for Wilson."
+msgstr "Te permite personalizar las opciones del tema para Wilson."
+
+#: functions.php:308
+msgid "Wilson Options"
+msgstr "Opciones de Wilson"
+
+#: functions.php:275
+msgid "Reply"
+msgstr "Responder"
+
+#: functions.php:261
+msgid "Awaiting moderation"
+msgstr "Esperando moderación"
+
+#: functions.php:248
+msgid "(Post author)"
+msgstr "(Autor del artículo) "
+
+#: functions.php:226
+msgid "Pingback:"
+msgstr "Pingback: "
+
+#: functions.php:155
+msgid "Continue reading"
+msgstr "Seguir leyendo"
+
+#: functions.php:95
+msgid "Widgets in this area will be displayed in the right column in the footer."
+msgstr "Widgets en esta área serán mostrados en la columna derecha del pie de página."
+
+#: functions.php:93
+msgid "Footer B"
+msgstr "Pie de Página B"
+
+#: functions.php:85
+msgid "Widgets in this area will be displayed in the left column in the footer."
+msgstr "Widgets en esta área serán mostrados en la columna izquierda del pie de página."
+
+#: functions.php:83
+msgid "Footer A"
+msgstr "Pie de Página A"
+
+#: functions.php:75
+msgid "Widgets in this area will be displayed in the sidebar."
+msgstr "Widgets en esta área serán mostrados en la barra lateral."
+
+#: functions.php:73
+msgid "Sidebar"
+msgstr "Barra lateral"
+
+#: footer.php:47
+msgid "Up"
+msgstr "Subir"
+
+#: footer.php:47
+msgid "To the top"
+msgstr "A la parte superior"
+
+#: content.php:5
+msgid "Sticky post"
+msgstr "Entrada fija"
+
+#: functions.php:191 functions.php:226 functions.php:269 page.php:25
+#: template-archives.php:101
+msgid "Edit"
+msgstr "Editar"
+
+#: functions.php:175
+msgid "% Comments"
+msgstr "% comentarios"
+
+#: functions.php:175
+msgid "1 Comment"
+msgstr "1 comentario"
+
+#: functions.php:175
+msgid "0 Comments"
+msgstr "Sin comentarios"
+
+#: content-aside.php:11 content-quote.php:11 functions.php:183
+msgid "Sticky"
+msgstr "Fija"
+
+#: comments.php:97
+msgid "Website"
+msgstr "Web"
+
+#: comments.php:94
+msgid "Email"
+msgstr "Correo electrónico"
+
+#: comments.php:91
+msgid "Name"
+msgstr "Nombre"
+
+#: comments.php:82
+msgid "Your email address will not be published."
+msgstr "Tu dirección de correo electrónico no será publicada."
+
+#: comments.php:74
+msgid "Comments are closed."
+msgstr "Los comentarios están cerrados."
+
+#: comments.php:59
+msgid "Newer<span> Comments</span> &raquo;"
+msgstr "Nuevos<span> comentarios</span> &raquo;"
+
+#: comments.php:57
+msgid "&laquo; Older<span> Comments</span>"
+msgstr "&laquo; Antiguos<span> comentarios</span>"
+
+#: archive.php:65
+msgid "Newer<span> posts</span>"
+msgstr "Nuevas<span> entradas</span>"
+
+#: archive.php:63
+msgid "Older<span> posts</span>"
+msgstr "Antiguas<span> entradas</span>"
+
+#: archive.php:29
+msgid "Archive"
+msgstr "Archivo"
+
+#: archive.php:26 comments.php:91
+msgid "Author"
+msgstr "Autor"
+
+#: archive.php:22
+msgid "Tag"
+msgstr "Etiqueta"
+
+#: archive.php:19
+msgid "Category"
+msgstr "Categoría"
+
+#: archive.php:16
+msgid "Year"
+msgstr "año"
+
+#: archive.php:13
+msgid "Month"
+msgstr "mes"
+
+#: archive.php:10
+msgid "Date"
+msgstr "Fecha"
+
+#: 404.php:19
+msgid "It seems like you have tried to open a page that doesn't exist. It could have been deleted, moved, or it never existed at all. You are welcome to search for what you are looking for with the form below."
+msgstr "Parece que has intentado abrir una página que no existe, o tal vez,  haya sido borrada o movida. Puede que encuentres lo que buscas usando el formulario de abajo."
+
+#: 404.php:13
+msgid "Error 404"
+msgstr "Error 404 "
+
+#. Author URI of the plugin/theme
+msgid "http://www.andersnoren.se"
+msgstr "http://www.andersnoren.se"
+
+#. Author of the plugin/theme
+msgid "Anders Norén"
+msgstr "Anders Norén"
+
+#. Theme URI of the plugin/theme
+msgid "http://www.andersnoren.se/teman/wilson-wordpress-theme/"
+msgstr "http://www.andersnoren.se/teman/wilson-wordpress-theme/"

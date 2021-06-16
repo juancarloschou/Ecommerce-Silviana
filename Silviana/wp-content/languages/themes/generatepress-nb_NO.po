@@ -1,0 +1,762 @@
+# Translation of Themes - GeneratePress in Norwegian (Bokmål)
+# This file is distributed under the same license as the Themes - GeneratePress package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2016-10-07 14:19:08+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.3.0-alpha\n"
+"Language: nb_NO\n"
+"Project-Id-Version: Themes - GeneratePress\n"
+
+#. Description of the plugin/theme
+msgid "GeneratePress is a fast, lightweight (less than 1MB zipped), mobile responsive WordPress theme built with speed, SEO and usability in mind. GP is compatible with major plugins like WooCommerce, Beaver Builder, Elementor, WPML, BuddyPress, bbPress and many more. It's also mobile & tablet responsive, 100% valid HTML, Schema microdata integrated, search engine friendly, translated into over 20 languages and cross browser compatible (including IE8). GeneratePress has 8 widget areas, 5 navigation positions, 5 sidebar layouts, dropdown menus (click or hover), a back to top button and so much more. Navigate to Appearance > Customize to start customizing. Create your website exactly the way you want it using the Customizer and see your changes take place right in front of you before publishing. See more and check out our awesome add-ons at https://generatepress.com"
+msgstr "GeneratePress er et raskt, lett (mindre enn 1 MB zippet), mobil-responsivt WordPress-tema bygget med fart, SEO og brukervennlighet i tankene. GP er kompatibel med populære utvidelser som WooCommerce, WPML, Buddypress , bbPress og mange flere. Det er også mobil- og nettbrett-responsivt, 100% gyldig HTML, Schema mikrodata-integrert, søkemotorvennlig, oversatt til over 15 språk og kryssnettleser-kompatibelt (inkludert IE8). GeneratePress har 8 widgetområder, 5 navigasjonsstillinger, 5 sidefeltoppsett, rullegardinmenyer (klikk eller hold over), en tilbake til toppen-knapp og mye mer. Gå til Utseende > Tilpass for å begynne å tilpasse. Lag ditt nettsted nøyaktig slik du vil ha det med Tilpasser, og se endringene finne sted rett foran øynene dine, før du publiserer. Se mer og sjekk ut våre fantastiske tillegg på https://generatepress.com"
+
+#. Theme Name of the plugin/theme
+msgid "GeneratePress"
+msgstr "GeneratePress"
+
+#: inc/customizer.php:258
+msgid "Container"
+msgstr "Beholder"
+
+#: inc/customizer.php:388
+msgid "Primary Navigation"
+msgstr "Hovednavigasjon"
+
+#: inc/customizer.php:592
+msgid "Sidebars"
+msgstr "Sidefelt"
+
+#: inc/metaboxes.php:266
+msgid "Full Width Content"
+msgstr "Fullbredde-innhold"
+
+#: inc/metaboxes.php:240
+msgid "Page Builder Integration"
+msgstr "Sidebygger-integrering"
+
+#: inc/customizer.php:692
+msgid "Footer"
+msgstr "Sidebunn"
+
+#: comments.php:88
+msgid "Logged in as <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\" class=\"comment-logout\" title=\"Log out of this account\">Log out?</a>"
+msgstr "Logget inn som <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\" class=\"comment-logout\" title=\"Log out of this account\">Logg ut?</a>"
+
+#: inc/template-tags.php:651
+msgid "Scroll back to top"
+msgstr "Rull tilbake til toppen"
+
+#: inc/customizer.php:411
+msgid "Navigation Width"
+msgstr "Navigeringsbredde"
+
+#: inc/customizer.php:528
+msgid "Click - Menu Item"
+msgstr "Klikk - Menyelement"
+
+#: inc/customizer.php:529
+msgid "Click - Arrow"
+msgstr "Klikk - Pil"
+
+#: inc/customizer.php:715
+msgid "Footer Width"
+msgstr "Fotbredde"
+
+#: inc/customizer.php:798
+msgid "Back to Top Button"
+msgstr "Tilbake til Toppen Knapp"
+
+#: inc/customizer.php:524
+msgid "Navigation Dropdown"
+msgstr "Navigering Nedtrekksmeny"
+
+#: inc/customizer.php:527
+msgid "Hover"
+msgstr "Hold over"
+
+#: inc/customizer.php:322 inc/customizer.php:350 inc/customizer.php:414
+#: inc/customizer.php:442 inc/customizer.php:718 inc/customizer.php:746
+msgid "Full"
+msgstr "Full"
+
+#: inc/customizer.php:319
+msgid "Header Width"
+msgstr "Toppbredde"
+
+#: inc/customizer.php:471
+msgid "Float Left"
+msgstr "Flyt til venstre"
+
+#: inc/options.php:71
+msgctxt "made with love"
+msgid "Made with %s by Tom Usborne"
+msgstr "Laget med %s av Tom Usborne"
+
+#: inc/options.php:78
+msgid "Knowledgebase"
+msgstr "Kunnskapsbase"
+
+#: inc/options.php:77
+msgid "Support"
+msgstr "Support"
+
+#: inc/add-ons/disable-elements.php:86 inc/add-ons/disable-elements.php:88
+msgid "Content Title"
+msgstr "Innholdstittel"
+
+#: 404.php:25
+msgid "It looks like nothing was found at this location. Maybe try searching?"
+msgstr "Det ser ikke ut til at det finnes noe her. Kanskje du kan prøve å gjøre ett søk istedet?"
+
+#: footer.php:42 footer.php:56 footer.php:70 footer.php:84 footer.php:98
+msgid "Replace this widget content by going to <a href=\"%1$s\"><strong>Appearance / Widgets</strong></a> and dragging widgets into this widget area."
+msgstr "Erstatt widgetens innhold ved å gå til <a href=\"%1$s\"><strong>Utseende / Widgets</strong></a>og dra widgets til dette widget-området."
+
+#: inc/options.php:103
+msgid "<strong>Warning:</strong> Deleting your <a href=\"%1$s\">Customizer</a> settings can not be undone."
+msgstr "<strong>Advarsel:</strong> Slette dine <a href=\"%1$s\">Tilpasning</a> innstillinger kan ikke gjøres om."
+
+#: footer.php:43 footer.php:57 footer.php:71 footer.php:85 footer.php:99
+msgid "To remove or choose the number of footer widgets, go to <a href=\"%1$s\"><strong>Appearance / Customize / Layout / Footer Widgets</strong></a>."
+msgstr "For å fjerne eller endre antall bunn-widgets, gå til <a href=\"%1$s\"><strong>Utseende / Tilpass / Layout / Bunnfeltwidgeter</strong></a>."
+
+#: searchform.php:14
+msgctxt "placeholder"
+msgid "Search &hellip;"
+msgstr "Søk &hellip;"
+
+#: searchform.php:13 searchform.php:14
+msgctxt "label"
+msgid "Search for:"
+msgstr "Søk etter:"
+
+#: search.php:19
+msgid "Search Results for: %s"
+msgstr "Søkeresultater for: %s"
+
+#: no-results.php:34
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Vi klarer ikke å finne det du leter etter. Prøv å søke."
+
+#: no-results.php:29
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Beklager, men det ble ikke funnet noe som passet det du søkte etter. Vennligst prøv med noen andre søkeord."
+
+#: no-results.php:25
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Klar for å publisere ditt første innlegg? <a href=\"%1$s\">Kom i gang her</a>."
+
+#: no-results.php:18
+msgid "Nothing Found"
+msgstr "Ingenting funnet"
+
+#: inc/template-tags.php:247
+msgid "% Comments"
+msgstr "% kommentarer"
+
+#: inc/template-tags.php:247
+msgid "1 Comment"
+msgstr "1 kommentar"
+
+#: inc/template-tags.php:247
+msgid "Leave a comment"
+msgstr "Legg igjen en kommentar"
+
+#: inc/template-tags.php:240
+msgctxt "Used before tag names."
+msgid "Tags"
+msgstr "Stikkord"
+
+#: inc/template-tags.php:232
+msgctxt "Used before category names."
+msgid "Categories"
+msgstr "Kategorier"
+
+#: inc/template-tags.php:229 inc/template-tags.php:237
+msgctxt "Used between list items, there is a space after the comma."
+msgid ", "
+msgstr ", "
+
+#: inc/template-tags.php:376
+msgctxt "label"
+msgid "Search"
+msgstr "Søk"
+
+#: inc/template-tags.php:259 inc/template-tags.php:270
+msgid "Read more"
+msgstr "Les mer"
+
+#: inc/template-tags.php:208
+msgid "View all posts by %s"
+msgstr "Vis alle innlegg av %s"
+
+#: inc/template-tags.php:206
+msgid "by"
+msgstr "av"
+
+#: inc/template-tags.php:158
+msgid "Your comment is awaiting moderation."
+msgstr "Din kommentar avventer moderasjon."
+
+#: inc/template-tags.php:141
+msgctxt "1: date, 2: time"
+msgid "%1$s at %2$s"
+msgstr "%1$s, %2$s"
+
+#: inc/template-tags.php:124
+msgid "Pingback:"
+msgstr "Tilbaketråkk:"
+
+#: inc/template-tags.php:97
+msgid "Newer posts"
+msgstr "Nyere innlegg"
+
+#: inc/template-tags.php:93
+msgid "Older posts"
+msgstr "Eldre innlegg"
+
+#: inc/template-tags.php:88 inc/template-tags.php:97
+msgid "Next"
+msgstr "Neste"
+
+#: inc/template-tags.php:87 inc/template-tags.php:93
+msgid "Previous"
+msgstr "Forrige"
+
+#: inc/template-tags.php:83
+msgid "Post navigation"
+msgstr "Innleggsnavigasjon"
+
+#: inc/template-tags.php:46
+msgid "Next &rarr;"
+msgstr "Neste &rarr;"
+
+#: inc/template-tags.php:45
+msgid "&larr; Previous"
+msgstr "&larr; Forrige"
+
+#: inc/options.php:257
+msgid "Import successful."
+msgstr "Import vellykket."
+
+#: inc/options.php:261
+msgid "Settings removed."
+msgstr "Innstillinger fjernet."
+
+#: inc/options.php:253
+msgid "Settings saved."
+msgstr "Innstillinger lagret."
+
+#: inc/options.php:75 inc/options.php:127
+msgid "Add-ons"
+msgstr "Tillegg"
+
+#: inc/add-ons/disable-elements.php:63
+msgid "Disable Elements"
+msgstr "Deaktiver elementer"
+
+#: inc/options.php:80
+msgid "Buy me a coffee :)"
+msgstr "Kjøp en kaffe til meg :-)"
+
+#: inc/options.php:101
+msgid "Delete Customizer Settings"
+msgstr "Slett tilpasserinnstillinger"
+
+#: inc/options.php:111
+msgid "Delete Default Customizer Settings"
+msgstr "Slett standard tilpasserinnstillinger"
+
+#: inc/options.php:80
+msgid "Please help support the ongoing development of GeneratePress by buying me a coffee :)"
+msgstr "Vær så snill å støtte utviklingen av GeneratePress ved å kjøpe en kopp kaffe til meg :-)"
+
+#: inc/options.php:89
+msgid "Add-on Updates"
+msgstr "Tilleggsoppdateringer"
+
+#: inc/options.php:104
+msgid "Consider using our Import/Export add-on to export your settings before deleting them."
+msgstr "Vurder å bruke vårt Import/Eksport tillegg for å eksportere dine innstillinger før du sletter dem."
+
+#: inc/options.php:109
+msgid "Warning: This will delete your settings."
+msgstr "Advarsel: Dette vil slette dine innstillinger."
+
+#: inc/options.php:65 inc/options.php:123
+msgid "Customize"
+msgstr "Tilpass"
+
+#: inc/navigation.php:136 inc/template-tags.php:402 inc/template-tags.php:431
+#: inc/template-tags.php:434 searchform.php:16
+msgctxt "submit button"
+msgid "Search"
+msgstr "Søk"
+
+#: header.php:25
+msgid "Skip to content"
+msgstr "Hopp til innhold"
+
+#: inc/navigation.php:90
+msgid "Menu"
+msgstr "Meny"
+
+#: inc/metaboxes.php:65
+msgid "No Sidebars"
+msgstr "Ingen sidemenyer"
+
+#: inc/metaboxes.php:69
+msgid "Both Sidebars"
+msgstr "Begge sidemenyer"
+
+#: inc/metaboxes.php:73
+msgid "Both Sidebars on Left"
+msgstr "Begge sidemenyer til venstre"
+
+#: inc/metaboxes.php:77
+msgid "Both Sidebars on Right"
+msgstr "Begge sidemenyer til høyre"
+
+#: inc/metaboxes.php:161
+msgid "Global Footer Widget Settings"
+msgstr "Globale bunnfeltwidgetinnstillinger"
+
+#: inc/metaboxes.php:163 inc/metaboxes.php:165
+msgid "0 Widgets"
+msgstr "0 widgeter"
+
+#: inc/metaboxes.php:167 inc/metaboxes.php:169
+msgid "1 Widget"
+msgstr "1 widget"
+
+#: inc/metaboxes.php:171 inc/metaboxes.php:173
+msgid "2 Widgets"
+msgstr "2 widgeter"
+
+#: inc/metaboxes.php:175 inc/metaboxes.php:177
+msgid "3 Widgets"
+msgstr "3 widgeter"
+
+#: inc/metaboxes.php:179 inc/metaboxes.php:181
+msgid "4 Widgets"
+msgstr "4 widgeter"
+
+#: inc/metaboxes.php:183 inc/metaboxes.php:185
+msgid "5 Widgets"
+msgstr "5 widgeter"
+
+#: inc/metaboxes.php:59 inc/metaboxes.php:63 inc/metaboxes.php:71
+#: inc/metaboxes.php:75 inc/metaboxes.php:79
+msgid "Sidebar"
+msgstr "Sidekolonnen"
+
+#: inc/metaboxes.php:59 inc/metaboxes.php:63 inc/metaboxes.php:71
+#: inc/metaboxes.php:75 inc/metaboxes.php:79
+msgid "Content"
+msgstr "Innhold"
+
+#: inc/metaboxes.php:55
+msgid "Global Layout Settings"
+msgstr "Globale oppsettinnstillinger"
+
+#: inc/add-ons/disable-elements.php:92 inc/controls.php:98
+msgid "Add-on available"
+msgstr "Tillegg tilgjengelig"
+
+#: inc/customizer.php:65
+msgid "Add-ons Available! Take a look"
+msgstr "Tillegg tilgjengelig! Ta en titt"
+
+#: inc/controls.php:121
+msgid "Default"
+msgstr "Standard"
+
+#: inc/customizer.php:835
+msgid "Blog Post Content"
+msgstr "Blogginnlegginnhold"
+
+#: inc/customizer.php:838
+msgid "Show full post"
+msgstr "Vis hele innlegget"
+
+#: inc/customizer.php:839
+msgid "Show excerpt"
+msgstr "Vis utdrag"
+
+#: inc/customizer.php:858
+msgid "Looking to add more blog settings?<br /> %s."
+msgstr "Vil du legge til flere blogginnstillinger?<br /> %s."
+
+#: inc/customizer.php:862
+msgid "Check out Generate Blog"
+msgstr "Sjekk Generate Blog"
+
+#: inc/customizer.php:813
+msgid "Blog"
+msgstr "Blogg"
+
+#: inc/customizer.php:618 inc/customizer.php:648 inc/customizer.php:678
+msgid "Content / Sidebar"
+msgstr "Innhold / sidemeny"
+
+#: inc/customizer.php:619 inc/customizer.php:649 inc/customizer.php:679
+#: inc/metaboxes.php:67
+msgid "Content (no sidebars)"
+msgstr "Innhold (ingen sidemenyer)"
+
+#: inc/customizer.php:620 inc/customizer.php:650 inc/customizer.php:680
+msgid "Sidebar / Content / Sidebar"
+msgstr "Sidemeny / innhold / sidemeny"
+
+#: inc/customizer.php:621 inc/customizer.php:651 inc/customizer.php:681
+msgid "Sidebar / Sidebar / Content"
+msgstr "Sidemeny / sidemeny / innhold"
+
+#: inc/customizer.php:622 inc/customizer.php:652 inc/customizer.php:682
+msgid "Content / Sidebar / Sidebar"
+msgstr "Innhold / sidemeny / sidemeny"
+
+#: inc/customizer.php:644
+msgid "Blog Sidebar Layout"
+msgstr "Bloggsidemenyoppsett"
+
+#: inc/customizer.php:674
+msgid "Single Post Sidebar Layout"
+msgstr "Innleggssidemenyoppsett"
+
+#: inc/customizer.php:768 inc/metaboxes.php:134
+msgid "Footer Widgets"
+msgstr "Bunnfeltwidgeter"
+
+#: inc/customizer.php:578
+msgid "Content Layout"
+msgstr "Innholdsoppsett"
+
+#: inc/customizer.php:581
+msgid "Separate Containers"
+msgstr "Adskilte beholdere"
+
+#: inc/customizer.php:582
+msgid "One Container"
+msgstr "En beholder"
+
+#: inc/customizer.php:614 inc/metaboxes.php:26
+msgid "Sidebar Layout"
+msgstr "Sidemenyoppsett"
+
+#: inc/customizer.php:617 inc/customizer.php:647 inc/customizer.php:677
+msgid "Sidebar / Content"
+msgstr "Sidemeny / innhold"
+
+#: inc/customizer.php:555 inc/customizer.php:802
+msgid "Disabled"
+msgstr "Deaktivert"
+
+#: inc/customizer.php:554 inc/customizer.php:801
+msgid "Enabled"
+msgstr "Aktivert"
+
+#: inc/customizer.php:465
+msgid "Navigation Position"
+msgstr "Navigasjonsplassering"
+
+#: inc/customizer.php:468
+msgid "Below Header"
+msgstr "Under toppfelt"
+
+#: inc/customizer.php:469
+msgid "Above Header"
+msgstr "Over toppfelt"
+
+#: inc/customizer.php:470
+msgid "Float Right"
+msgstr "Flytende til høyre"
+
+#: inc/customizer.php:474
+msgid "No Navigation"
+msgstr "Ingen navigasjon"
+
+#: inc/customizer.php:497
+msgid "Navigation Alignment"
+msgstr "Navigasjonsjustering"
+
+#: inc/customizer.php:551
+msgid "Navigation Search"
+msgstr "Navigasjonssøk"
+
+#: inc/customizer.php:378 inc/customizer.php:502
+msgid "Right"
+msgstr "Høyre"
+
+#: inc/customizer.php:377 inc/customizer.php:501
+msgid "Center"
+msgstr "Senter"
+
+#: inc/customizer.php:376 inc/customizer.php:500
+msgid "Left"
+msgstr "Venstre"
+
+#: inc/customizer.php:281
+msgid "Container Width"
+msgstr "Beholderbredde"
+
+#: inc/customizer.php:323 inc/customizer.php:349 inc/customizer.php:415
+#: inc/customizer.php:441 inc/customizer.php:719 inc/customizer.php:745
+msgid "Contained"
+msgstr "Inngjerdet"
+
+#: inc/customizer.php:373
+msgid "Header Alignment"
+msgstr "Toppfeltjustering"
+
+#: inc/customizer.php:248
+msgid "Layout"
+msgstr "Layout"
+
+#: inc/customizer.php:183
+msgid "Link Color Hover"
+msgstr "Lenkefarge, hover"
+
+#: inc/customizer.php:189
+msgid "Link Color Visited"
+msgstr "Lenkefarge, besøkte lenker"
+
+#: inc/customizer.php:228
+msgid "Looking to add more color settings?<br /> %s."
+msgstr "Vil du legge til flere fargeinnstillinger?<br /> %s."
+
+#: inc/customizer.php:232
+msgid "Check out Generate Colors"
+msgstr "Sjekk Generate Colors"
+
+#: inc/customizer.php:177
+msgid "Link Color"
+msgstr "Lenkefarge"
+
+#: inc/customizer.php:171
+msgid "Text Color"
+msgstr "Tekstfarge"
+
+#: inc/customizer.php:165
+msgid "Background Color"
+msgstr "Bakgrunnsfarge"
+
+#: inc/customizer.php:153
+msgid "Colors"
+msgstr "Farger"
+
+#: inc/customizer.php:89
+msgid "Hide site title"
+msgstr "Skjul sidetittel"
+
+#: inc/customizer.php:109
+msgid "Hide site tagline"
+msgstr "Skjul nettstedslagord"
+
+#: inc/customizer.php:131
+msgid "Logo"
+msgstr "Logo"
+
+#: inc/add-ons/typography.php:592 inc/customizer.php:225 inc/customizer.php:855
+msgid "More Settings"
+msgstr "Flere innstillinger"
+
+#: inc/add-ons/typography.php:595
+msgid "Looking to add more typography settings?<br /> %s."
+msgstr "Lyst til å legge til flere typografi-innstillinger?<br /> %s."
+
+#: inc/add-ons/typography.php:599
+msgid "Check out Generate Typography"
+msgstr "Sjekk ut Generate Typography"
+
+#: inc/add-ons/typography.php:520
+msgid "Font size"
+msgstr "Skriftstørrelse"
+
+#: inc/add-ons/typography.php:388 inc/customizer.php:143
+msgid "Body"
+msgstr "Kropp"
+
+#: inc/add-ons/typography.php:452
+msgid "Font weight"
+msgstr "Skrifttykkelse"
+
+#: inc/add-ons/typography.php:490
+msgid "Text transform"
+msgstr "Tekstforvandling"
+
+#: inc/add-ons/typography.php:366
+msgid "Typography"
+msgstr "Typografi"
+
+#: inc/add-ons/controls.php:30
+msgid "Font family"
+msgstr "Skriftfamilie"
+
+#: inc/add-ons/controls.php:28
+msgid "Default fonts"
+msgstr "Standardskrifttyper"
+
+#: inc/add-ons/controls.php:29
+msgid "Google fonts"
+msgstr "Google-skrifttyper"
+
+#: functions.php:456
+msgid "Copyright"
+msgstr "Opphavsrett"
+
+#: functions.php:171 inc/customizer.php:296
+msgid "Header"
+msgstr "Sidetopp"
+
+#: functions.php:168 inc/customizer.php:472 inc/metaboxes.php:61
+msgid "Left Sidebar"
+msgstr "Venstre sidekolonne"
+
+#: functions.php:165 inc/customizer.php:473 inc/metaboxes.php:57
+msgid "Right Sidebar"
+msgstr "Høyre sidekolonne"
+
+#: functions.php:47
+msgid "Primary Menu"
+msgstr "Primærmeny"
+
+#: footer.php:40 functions.php:174
+msgid "Footer Widget 1"
+msgstr "Bunnfeltwidget 1"
+
+#: footer.php:54 functions.php:177
+msgid "Footer Widget 2"
+msgstr "Bunnfeltwidget 2"
+
+#: footer.php:68 functions.php:180
+msgid "Footer Widget 3"
+msgstr "Bunnfeltwidget 3"
+
+#: footer.php:82 functions.php:183
+msgid "Footer Widget 4"
+msgstr "Bunnfeltwidget 4"
+
+#: footer.php:96 functions.php:186
+msgid "Footer Widget 5"
+msgstr "Bunnfeltwidget 5"
+
+#: inc/template-tags.php:124 inc/template-tags.php:144
+msgid "Edit"
+msgstr "Rediger"
+
+#: content-link.php:29 content-page.php:27 content-single.php:27 content.php:28
+msgid "Pages:"
+msgstr "Sider:"
+
+#: comments.php:96
+msgid "Post Comment"
+msgstr "Publiser kommentar"
+
+#: comments.php:95
+msgid "Cancel reply"
+msgstr "Avbryt svar"
+
+#: comments.php:94
+msgid "Leave a Reply to %s"
+msgstr "Legg igjen en kommentar til %s"
+
+#: comments.php:93
+msgid "Leave a Comment"
+msgstr "Legg igjen en kommentar"
+
+#: comments.php:87
+msgid "You must be <a href=\"%1$s\">logged in</a> to post a comment."
+msgstr "Du må <a href=\"%1$s\">logge inn</a> for å kommentere."
+
+#: comments.php:82
+msgid "Website"
+msgstr "Nettsted"
+
+#: comments.php:81
+msgid "Email"
+msgstr "E-post"
+
+#: comments.php:80
+msgid "Name"
+msgstr "Navn"
+
+#: comments.php:75
+msgid "Comments are closed."
+msgstr "Det er stengt for kommentarer."
+
+#: comments.php:43 comments.php:65
+msgid "Newer Comments &rarr;"
+msgstr "Nyere kommentarer &rarr;"
+
+#: comments.php:42 comments.php:64
+msgid "&larr; Older Comments"
+msgstr "&larr; Eldre kommentarer"
+
+#: comments.php:41 comments.php:63
+msgid "Comment navigation"
+msgstr "Kommentarnavigasjon"
+
+#: comments.php:32
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "En kommentar om &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s kommentarer om &ldquo;%2$s&rdquo;"
+
+#: inc/template-tags.php:714 sidebar-left.php:35 sidebar.php:34
+msgid "Archives"
+msgstr "Arkiv"
+
+#: inc/template-tags.php:711
+msgid "Links"
+msgstr "Lenker"
+
+#: inc/template-tags.php:708
+msgid "Quotes"
+msgstr "Sitater"
+
+#: inc/template-tags.php:705
+msgid "Videos"
+msgstr "Filmer"
+
+#: inc/template-tags.php:702
+msgid "Images"
+msgstr "Bilder"
+
+#: inc/template-tags.php:699
+msgid "Asides"
+msgstr "Notiser"
+
+#: inc/template-tags.php:696
+msgid "Year: %s"
+msgstr "År: %s"
+
+#: inc/template-tags.php:693
+msgid "Month: %s"
+msgstr "Måned: %s"
+
+#: inc/template-tags.php:690
+msgid "Day: %s"
+msgstr "Dag: %s"
+
+#: 404.php:20
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Oops! Denne siden ble ikke funnet"
+
+#. Author of the plugin/theme
+msgid "Tom Usborne"
+msgstr "Tom Usborne"
+
+#. Author URI of the plugin/theme
+msgid "https://tomusborne.com"
+msgstr "https://tomusborne.com"
+
+#. Theme URI of the plugin/theme
+msgid "https://generatepress.com"
+msgstr "https://generatepress.com"

@@ -1,0 +1,807 @@
+# Translation of Themes - GeneratePress in Danish
+# This file is distributed under the same license as the Themes - GeneratePress package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2017-01-30 13:04:39+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.3.0-alpha\n"
+"Language: da_DK\n"
+"Project-Id-Version: Themes - GeneratePress\n"
+
+#. Description of the plugin/theme
+msgid "GeneratePress is a fast, lightweight (less than 1MB zipped), mobile responsive WordPress theme built with speed, SEO and usability in mind. GP can serve as a solid base for any website, and works great with any of your favorite page builders. With an emphasis on WordPress coding standards, we ensure GeneratePress is compatible with all well-coded plugins, including major ones like WooCommerce, WPML, BuddyPress and bbPress. GeneratePress is device friendly (mobile and tablet), uses 100% valid HTML, is fully schema microdata integrated, is translated into over 20 languages by our amazing community and is cross browser compatible (including IE8). Some of our features include 9 widget areas, 5 navigation positions, 5 sidebar layouts, dropdown menus (click or hover) and a back to top button. All our options use the native WordPress Customizer, meaning you can see every change you make instantly before pressing the publish button. Learn more and check out our powerful premium version at https://generatepress.com"
+msgstr "GeneratePress er et hurtigt, let (mindre end 1MB zipped), mobilvenligt Wordpress tema bygget med hastighed, SEO og brugervenlighed i top. GP kan fungere til enhvert hjemmesideprojekt og arbejder fint sammen med andre Page Builders. Der er lagt vægt på at følge Wordpress' kodestandarder, så du er sikker på at GeneratePress virker sammen med kvalitetsplugins, såsom Woocommerce, WPML, BuddyPress og bbPress. GeneratePress virker på både mobil og tablet, bruger 100% valideret HTML og har Schema mikrodata integreret i temaet. GP er oversat til mere end 20 sprog af vores fantastiske fællesskab og virker på tværs af browsere (inkl. IE8). Nogle af temaets funktioner er 9 forskellige widgetområder, 5 placeringer af navigation, 5 typer sidebars, dropdown menuer og tilbage til toppen knap. All funktioner virker med Wordpress' egen tilretningsbrugerflade, hvilket betyder at du kan ændringer øjeblikkeligt før du udgiver din hjemmeside. Læs mere og tjek vores premiumudgave på https://generatepress.com"
+
+#. #-#-#-#-#  generatepress.pot (GeneratePress 1.3.44)  #-#-#-#-#
+#. Theme Name of the plugin/theme
+#: functions.php:469
+msgid "GeneratePress"
+msgstr "GeneratePress"
+
+#. translators: %s: post title
+#: comments.php:36
+msgctxt "comments title"
+msgid "One thought on &ldquo;%s&rdquo;"
+msgstr "En kommentar til %s"
+
+#: inc/options.php:146
+msgid "Learn more"
+msgstr "Læs mere"
+
+#: inc/options.php:51
+msgid "Premium"
+msgstr "Premium"
+
+#: inc/options.php:54 inc/options.php:173
+msgid "Documentation"
+msgstr "Dokumentation"
+
+#: inc/options.php:176
+msgid "Adding a Logo"
+msgstr "Tilføjer et logo"
+
+#: inc/options.php:173
+msgid "View all"
+msgstr "Se alle"
+
+#: functions.php:190
+msgid "Footer Bar"
+msgstr "Sidefod"
+
+#: inc/customizer.php:799
+msgid "Footer Bar Alignment"
+msgstr "Sidefod justering"
+
+#: inc/add-ons/controls.php:77 inc/controls.php:23
+msgid "Reset"
+msgstr "Nulstil"
+
+#: inc/add-ons/typography.php:520
+msgid "Line height"
+msgstr "Linjehøjde"
+
+#: inc/customizer.php:438
+msgid "Inner Navigation Width"
+msgstr "Indre navigationsbredde"
+
+#: inc/add-ons/typography.php:546
+msgid "Paragraph margin"
+msgstr "Afsnitsmargin"
+
+#: inc/customizer.php:346
+msgid "Inner Header Width"
+msgstr "Indre sidehovedbredde"
+
+#: inc/customizer.php:742
+msgid "Inner Footer Width"
+msgstr "Indre sidefodbredde"
+
+#: inc/metaboxes.php:266
+msgid "Full Width Content"
+msgstr "Helsidesindhold"
+
+#: inc/metaboxes.php:240
+msgid "Page Builder Integration"
+msgstr "Page Builder-integration"
+
+#: inc/customizer.php:692
+msgid "Footer"
+msgstr "Sidefod"
+
+#: inc/customizer.php:592
+msgid "Sidebars"
+msgstr "Sidepaneler"
+
+#: inc/customizer.php:388
+msgid "Primary Navigation"
+msgstr "Primær navigation"
+
+#: inc/customizer.php:258
+msgid "Container"
+msgstr "Område"
+
+#: comments.php:107
+msgid "Logged in as <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\" class=\"comment-logout\" title=\"Log out of this account\">Log out?</a>"
+msgstr "Logget ind som <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\" class=\"comment-logout\" title=\"Log out of this account\">Logg ud?</a>"
+
+#: inc/customizer.php:527
+msgid "Hover"
+msgstr "Hover"
+
+#: inc/template-tags.php:670
+msgid "Scroll back to top"
+msgstr "Scroll tilbage til toppen"
+
+#: inc/customizer.php:524
+msgid "Navigation Dropdown"
+msgstr "Navigation dropdown"
+
+#: inc/customizer.php:411
+msgid "Navigation Width"
+msgstr "Navigation bredde"
+
+#: inc/customizer.php:715
+msgid "Footer Width"
+msgstr "Sidefod bredde"
+
+#: inc/customizer.php:827
+msgid "Back to Top Button"
+msgstr "Tilbage til toppen knap"
+
+#: inc/customizer.php:528
+msgid "Click - Menu Item"
+msgstr "Klik - Menupunkt"
+
+#: inc/customizer.php:529
+msgid "Click - Arrow"
+msgstr "Klik - Pil"
+
+#: inc/customizer.php:322 inc/customizer.php:350 inc/customizer.php:414
+#: inc/customizer.php:442 inc/customizer.php:718 inc/customizer.php:746
+msgid "Full"
+msgstr "Fuld"
+
+#: inc/customizer.php:319
+msgid "Header Width"
+msgstr "Header bredde"
+
+#: inc/customizer.php:471
+msgid "Float Left"
+msgstr "Venstre, flydende"
+
+#: inc/options.php:208
+msgctxt "made with love"
+msgid "Made with %s by Tom Usborne"
+msgstr "Lavet med %s af Tom Usborne"
+
+#: inc/options.php:53
+msgid "Support"
+msgstr "Hjælp"
+
+#: inc/add-ons/disable-elements.php:42 inc/add-ons/disable-elements.php:44
+msgid "Content Title"
+msgstr "Indholdstitel"
+
+#: 404.php:25
+msgid "It looks like nothing was found at this location. Maybe try searching?"
+msgstr "Det ser ud til, at der ikke kunne findes noget her. Hvad med at prøve en søgning i stedet?"
+
+#: inc/options.php:188
+msgid "<strong>Warning:</strong> Deleting your <a href=\"%1$s\">Customizer</a> settings can not be undone."
+msgstr "<strong>Advarsel:</strong> Sletning af dine <a href=\"%1$s\">Customizer</a> indstillinger kan ikke fortrydes."
+
+#: inc/template-tags.php:834 inc/template-tags.php:848
+#: inc/template-tags.php:862 inc/template-tags.php:876
+#: inc/template-tags.php:890
+msgid "To remove or choose the number of footer widgets, go to <a href=\"%1$s\"><strong>Appearance / Customize / Layout / Footer Widgets</strong></a>."
+msgstr "For at fjerne eller vælge antallet af sidefodswidgets, gå til <a href=\"%1$s\"><strong>Udseende / Tilpas / Layout / Sidefodswidgets</strong></a>."
+
+#: inc/template-tags.php:833 inc/template-tags.php:847
+#: inc/template-tags.php:861 inc/template-tags.php:875
+#: inc/template-tags.php:889
+msgid "Replace this widget content by going to <a href=\"%1$s\"><strong>Appearance / Widgets</strong></a> and dragging widgets into this widget area."
+msgstr "Erstat dette widget-indhold ved at gå til <a href=\"%1$s\"><strong>Udseende / Widgets</strong></a> og træk herefter widgets ind i dette widget-område."
+
+#: searchform.php:14
+msgctxt "placeholder"
+msgid "Search &hellip;"
+msgstr "Søg &hellip;"
+
+#: searchform.php:13 searchform.php:14
+msgctxt "label"
+msgid "Search for:"
+msgstr "Søg efter:"
+
+#: search.php:19
+msgid "Search Results for: %s"
+msgstr "Søgeresultater for: %s"
+
+#: no-results.php:34
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Det ser ud til, at vi ikke kan finde det, du leder efter. Måske vil en søgning hjælpe."
+
+#: no-results.php:29
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Beklager, men din søgning gav ingen resultater. Prøv igen med nogle andre søgeord."
+
+#: no-results.php:25
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Klar til at udgive dit første indlæg? <a href=\"%1$s\">Start her</a>."
+
+#: no-results.php:18
+msgid "Nothing Found"
+msgstr "Intet fundet"
+
+#: inc/template-tags.php:247
+msgid "% Comments"
+msgstr "% kommentarer"
+
+#: inc/template-tags.php:247
+msgid "1 Comment"
+msgstr "1 kommentar"
+
+#: inc/template-tags.php:247
+msgid "Leave a comment"
+msgstr "Skriv en kommentar"
+
+#: inc/template-tags.php:240
+msgctxt "Used before tag names."
+msgid "Tags"
+msgstr "Tags"
+
+#: inc/template-tags.php:232
+msgctxt "Used before category names."
+msgid "Categories"
+msgstr "Kategorier"
+
+#: inc/template-tags.php:229 inc/template-tags.php:237
+msgctxt "Used between list items, there is a space after the comma."
+msgid ", "
+msgstr ", "
+
+#: inc/template-tags.php:376
+msgctxt "label"
+msgid "Search"
+msgstr "Søg"
+
+#: inc/template-tags.php:259 inc/template-tags.php:270
+msgid "Read more"
+msgstr "Læs mere "
+
+#: inc/template-tags.php:208
+msgid "View all posts by %s"
+msgstr "Vis alle indlæg af %s"
+
+#: inc/template-tags.php:206
+msgid "by"
+msgstr "Af"
+
+#: inc/template-tags.php:158
+msgid "Your comment is awaiting moderation."
+msgstr "Din kommentar afventer godkendelse."
+
+#: inc/template-tags.php:141
+msgctxt "1: date, 2: time"
+msgid "%1$s at %2$s"
+msgstr "%1$s kl. %2$s"
+
+#: inc/template-tags.php:124
+msgid "Pingback:"
+msgstr "Pingback:"
+
+#: inc/template-tags.php:97
+msgid "Newer posts"
+msgstr "Nyere indlæg"
+
+#: inc/template-tags.php:93
+msgid "Older posts"
+msgstr "Ældre indlæg"
+
+#: inc/template-tags.php:88 inc/template-tags.php:97
+msgid "Next"
+msgstr "Næste"
+
+#: inc/template-tags.php:87 inc/template-tags.php:93
+msgid "Previous"
+msgstr "Forrige"
+
+#: inc/template-tags.php:83
+msgid "Post navigation"
+msgstr "Indlægsnavigation"
+
+#: inc/template-tags.php:46
+msgid "Next &rarr;"
+msgstr "Næste &rarr;"
+
+#: inc/template-tags.php:45
+msgid "&larr; Previous"
+msgstr "&larr; Forrige"
+
+#: inc/options.php:255
+msgid "Import successful."
+msgstr "Det lykkedes at Importere"
+
+#: inc/options.php:259
+msgid "Settings removed."
+msgstr "Indstillinger fjernet."
+
+#: inc/options.php:251
+msgid "Settings saved."
+msgstr "Indstillinger gemt."
+
+#: inc/options.php:137
+msgid "Add-ons"
+msgstr "Add-ons"
+
+#: inc/add-ons/disable-elements.php:19
+msgid "Disable Elements"
+msgstr "Deaktiver elementer"
+
+#: inc/options.php:186
+msgid "Delete Customizer Settings"
+msgstr "Slet tilpassede indstillinger"
+
+#: inc/options.php:196
+msgid "Delete Default Customizer Settings"
+msgstr "Slet Standard tilpasningsindstillinger"
+
+#: inc/options.php:194
+msgid "Warning: This will delete your settings."
+msgstr "Advarsel: Dette vil slette dine indstillinger."
+
+#: inc/options.php:189
+msgid "Consider using our Import/Export add-on to export your settings before deleting them."
+msgstr "Overvej at bruge vores Import/Eksport add-on til at eksportere dine indstillinger inden du sletter dem."
+
+#: inc/options.php:72 inc/options.php:166
+msgid "Customize"
+msgstr "Tilpas"
+
+#: inc/navigation.php:136 inc/template-tags.php:402 inc/template-tags.php:431
+#: inc/template-tags.php:434 searchform.php:16
+msgctxt "submit button"
+msgid "Search"
+msgstr "Søg"
+
+#: header.php:23
+msgid "Skip to content"
+msgstr "Hop til indhold"
+
+#: inc/navigation.php:90
+msgid "Menu"
+msgstr "Menu"
+
+#: inc/metaboxes.php:65
+msgid "No Sidebars"
+msgstr "Ingen Sidebars"
+
+#: inc/metaboxes.php:69
+msgid "Both Sidebars"
+msgstr "Begge Sidebars"
+
+#: inc/metaboxes.php:73
+msgid "Both Sidebars on Left"
+msgstr "Begge Sidebars til Venstre"
+
+#: inc/metaboxes.php:77
+msgid "Both Sidebars on Right"
+msgstr "Begge Sidebars til Højre"
+
+#: inc/metaboxes.php:161
+msgid "Global Footer Widget Settings"
+msgstr "Globale indstillinger for Sidefodswidgets"
+
+#: inc/metaboxes.php:163 inc/metaboxes.php:165
+msgid "0 Widgets"
+msgstr "0 Widgets"
+
+#: inc/metaboxes.php:167 inc/metaboxes.php:169
+msgid "1 Widget"
+msgstr "1 Widget"
+
+#: inc/metaboxes.php:171 inc/metaboxes.php:173
+msgid "2 Widgets"
+msgstr "2 Widgets"
+
+#: inc/metaboxes.php:175 inc/metaboxes.php:177
+msgid "3 Widgets"
+msgstr "3 Widgets"
+
+#: inc/metaboxes.php:179 inc/metaboxes.php:181
+msgid "4 Widgets"
+msgstr "4 Widgets"
+
+#: inc/metaboxes.php:183 inc/metaboxes.php:185
+msgid "5 Widgets"
+msgstr "5 Widgets"
+
+#: inc/metaboxes.php:59 inc/metaboxes.php:63 inc/metaboxes.php:71
+#: inc/metaboxes.php:75 inc/metaboxes.php:79
+msgid "Sidebar"
+msgstr "Sidebar"
+
+#: inc/metaboxes.php:59 inc/metaboxes.php:63 inc/metaboxes.php:71
+#: inc/metaboxes.php:75 inc/metaboxes.php:79
+msgid "Content"
+msgstr "Indhold"
+
+#: inc/metaboxes.php:55
+msgid "Global Layout Settings"
+msgstr "Globale indstillinger for Layout"
+
+#: inc/add-ons/disable-elements.php:48 inc/controls.php:100
+msgid "Add-on available"
+msgstr "Add-on tilgængelig"
+
+#: inc/customizer.php:65
+msgid "Add-ons Available! Take a look"
+msgstr "Add-ons tilgængelige! Tag et kig"
+
+#: inc/customizer.php:868
+msgid "Show excerpt"
+msgstr "Vis resumé"
+
+#: inc/controls.php:123
+msgid "Default"
+msgstr "Standard"
+
+#: inc/customizer.php:864
+msgid "Blog Post Content"
+msgstr "Blogindlægs Indhold"
+
+#: inc/customizer.php:867
+msgid "Show full post"
+msgstr "Vis helt indlæg"
+
+#: inc/customizer.php:887
+msgid "Looking to add more blog settings?<br /> %s."
+msgstr "Vil du tilføje flere blogindstillinger?<br /> %s."
+
+#: inc/customizer.php:891
+msgid "Check out Generate Blog"
+msgstr "Tjek Generate Blog"
+
+#: inc/customizer.php:842
+msgid "Blog"
+msgstr "Blog"
+
+#: inc/customizer.php:618 inc/customizer.php:648 inc/customizer.php:678
+msgid "Content / Sidebar"
+msgstr "Indhold / Sidebar"
+
+#: inc/customizer.php:619 inc/customizer.php:649 inc/customizer.php:679
+#: inc/metaboxes.php:67
+msgid "Content (no sidebars)"
+msgstr "Indhold (ingen sidebars)"
+
+#: inc/customizer.php:620 inc/customizer.php:650 inc/customizer.php:680
+msgid "Sidebar / Content / Sidebar"
+msgstr "Sidebar / Indhold / Sidebar"
+
+#: inc/customizer.php:621 inc/customizer.php:651 inc/customizer.php:681
+msgid "Sidebar / Sidebar / Content"
+msgstr "Sidebar / Sidebar / Indhold"
+
+#: inc/customizer.php:622 inc/customizer.php:652 inc/customizer.php:682
+msgid "Content / Sidebar / Sidebar"
+msgstr "Indhold / Sidebar / Sidebar"
+
+#: inc/customizer.php:644
+msgid "Blog Sidebar Layout"
+msgstr "Blog Sidebar Layout"
+
+#: inc/customizer.php:674
+msgid "Single Post Sidebar Layout"
+msgstr "Single Post Sidebar Layout"
+
+#: inc/customizer.php:768 inc/metaboxes.php:134 inc/options.php:180
+msgid "Footer Widgets"
+msgstr "Sidefodswidgets"
+
+#: inc/customizer.php:578
+msgid "Content Layout"
+msgstr "Indholdslayout"
+
+#: inc/customizer.php:581
+msgid "Separate Containers"
+msgstr "Adskilte Containere"
+
+#: inc/customizer.php:582
+msgid "One Container"
+msgstr "En Container"
+
+#: inc/customizer.php:614 inc/metaboxes.php:26 inc/options.php:177
+msgid "Sidebar Layout"
+msgstr "Sidebar Layout"
+
+#: inc/customizer.php:617 inc/customizer.php:647 inc/customizer.php:677
+msgid "Sidebar / Content"
+msgstr "Sidebar / Indhold"
+
+#: inc/customizer.php:555 inc/customizer.php:831
+msgid "Disabled"
+msgstr "Deaktiveret"
+
+#: inc/customizer.php:554 inc/customizer.php:830
+msgid "Enabled"
+msgstr "Aktiveret"
+
+#: inc/customizer.php:468
+msgid "Below Header"
+msgstr "Under Sidehoved"
+
+#: inc/customizer.php:469
+msgid "Above Header"
+msgstr "Over Sidehoved"
+
+#: inc/customizer.php:470
+msgid "Float Right"
+msgstr "Svævende til højre"
+
+#: inc/customizer.php:474
+msgid "No Navigation"
+msgstr "Ingen Navigation"
+
+#: inc/customizer.php:497
+msgid "Navigation Alignment"
+msgstr "Navigation justering"
+
+#: inc/customizer.php:551
+msgid "Navigation Search"
+msgstr "Søgning i Navigationen"
+
+#: inc/customizer.php:465 inc/options.php:179
+msgid "Navigation Location"
+msgstr "Navigationsplacering"
+
+#: inc/customizer.php:378 inc/customizer.php:502 inc/customizer.php:804
+msgid "Right"
+msgstr "Højre"
+
+#: inc/customizer.php:377 inc/customizer.php:501 inc/customizer.php:803
+msgid "Center"
+msgstr "Center"
+
+#: inc/customizer.php:376 inc/customizer.php:500 inc/customizer.php:802
+msgid "Left"
+msgstr "Venstre"
+
+#: inc/customizer.php:281 inc/options.php:178
+msgid "Container Width"
+msgstr "Container Bredde"
+
+#: inc/customizer.php:323 inc/customizer.php:349 inc/customizer.php:415
+#: inc/customizer.php:441 inc/customizer.php:719 inc/customizer.php:745
+msgid "Contained"
+msgstr "Indholdt"
+
+#: inc/customizer.php:373
+msgid "Header Alignment"
+msgstr "Sidehoved Justering"
+
+#: inc/customizer.php:248
+msgid "Layout"
+msgstr "Layout"
+
+#: inc/customizer.php:183
+msgid "Link Color Hover"
+msgstr "Linkfarve hover"
+
+#: inc/customizer.php:189
+msgid "Link Color Visited"
+msgstr "Linkfarve Besøgt"
+
+#: inc/customizer.php:228
+msgid "Looking to add more color settings?<br /> %s."
+msgstr "Vil du tilføje flere farveindstillinger?<br /> %s."
+
+#: inc/customizer.php:232
+msgid "Check out Generate Colors"
+msgstr "Tjek Generate Farver"
+
+#: inc/customizer.php:177
+msgid "Link Color"
+msgstr "Linkfarve"
+
+#: inc/customizer.php:171
+msgid "Text Color"
+msgstr "Tekstfarve"
+
+#: inc/customizer.php:165
+msgid "Background Color"
+msgstr "Baggrundsfarve"
+
+#: inc/customizer.php:153
+msgid "Colors"
+msgstr "Farver"
+
+#: inc/customizer.php:89
+msgid "Hide site title"
+msgstr "Skjul Site Titel"
+
+#: inc/customizer.php:109
+msgid "Hide site tagline"
+msgstr "Skjul Sitebeskrivelse"
+
+#: inc/customizer.php:131
+msgid "Logo"
+msgstr "Logo"
+
+#: inc/add-ons/typography.php:566 inc/customizer.php:225 inc/customizer.php:884
+msgid "More Settings"
+msgstr "Flere indstillinger"
+
+#: inc/add-ons/typography.php:569
+msgid "Looking to add more typography settings?<br /> %s."
+msgstr "Vil du gerne tilføje flere indstillinger for typografi?<br /> %s."
+
+#: inc/add-ons/typography.php:573
+msgid "Check out Generate Typography"
+msgstr "Tjek Generate Typografi"
+
+#: inc/add-ons/typography.php:494
+msgid "Font size"
+msgstr "Fontstørrelse"
+
+#: inc/add-ons/typography.php:362 inc/customizer.php:143
+msgid "Body"
+msgstr "Body"
+
+#: inc/add-ons/typography.php:426
+msgid "Font weight"
+msgstr "Vægtning"
+
+#: inc/add-ons/typography.php:464
+msgid "Text transform"
+msgstr "Tekst tranformering"
+
+#: inc/add-ons/typography.php:340
+msgid "Typography"
+msgstr "Typografi"
+
+#: inc/add-ons/controls.php:30
+msgid "Font family"
+msgstr "Fontfamilie"
+
+#: inc/add-ons/controls.php:28
+msgid "Default fonts"
+msgstr "Standard skrifttyper"
+
+#: inc/add-ons/controls.php:29
+msgid "Google fonts"
+msgstr "Google skrifttyper"
+
+#: functions.php:172 inc/customizer.php:296
+msgid "Header"
+msgstr "Header"
+
+#: functions.php:169 inc/customizer.php:472 inc/metaboxes.php:61
+msgid "Left Sidebar"
+msgstr "Venstre sidebar"
+
+#: functions.php:166 inc/customizer.php:473 inc/metaboxes.php:57
+msgid "Right Sidebar"
+msgstr "H&#248;jre sidebar"
+
+#: functions.php:47
+msgid "Primary Menu"
+msgstr "Primær menu"
+
+#: functions.php:175 inc/template-tags.php:831
+msgid "Footer Widget 1"
+msgstr "Sidefods Widget 1"
+
+#: functions.php:178 inc/template-tags.php:845
+msgid "Footer Widget 2"
+msgstr "Sidefods Widget 2"
+
+#: functions.php:181 inc/template-tags.php:859
+msgid "Footer Widget 3"
+msgstr "Sidefods Widget 3"
+
+#: functions.php:184 inc/template-tags.php:873
+msgid "Footer Widget 4"
+msgstr "Sidefods Widget 4"
+
+#: functions.php:187 inc/template-tags.php:887
+msgid "Footer Widget 5"
+msgstr "Sidefods Widget 5"
+
+#: inc/template-tags.php:124 inc/template-tags.php:144
+msgid "Edit"
+msgstr "Rediger"
+
+#: content-link.php:29 content-page.php:27 content-single.php:27 content.php:28
+msgid "Pages:"
+msgstr "Sider:"
+
+#: comments.php:115
+msgid "Post Comment"
+msgstr "Skriv kommentar"
+
+#: comments.php:114
+msgid "Cancel reply"
+msgstr "Annuller svar"
+
+#: comments.php:113
+msgid "Leave a Reply to %s"
+msgstr "Skriv et svar til %s"
+
+#: comments.php:112
+msgid "Leave a Comment"
+msgstr "Skriv en kommentar"
+
+#: comments.php:106
+msgid "You must be <a href=\"%1$s\">logged in</a> to post a comment."
+msgstr "Du skal være <a href=\"%1$s\">logget ind</a> for at kunne tilføje en kommentar."
+
+#: comments.php:101
+msgid "Website"
+msgstr "Websted"
+
+#: comments.php:100
+msgid "Email"
+msgstr "E-mail"
+
+#: comments.php:99
+msgid "Name"
+msgstr "Navn"
+
+#: comments.php:94
+msgid "Comments are closed."
+msgstr "Der er lukket for kommentarer."
+
+#: comments.php:62 comments.php:84
+msgid "Newer Comments &rarr;"
+msgstr "Nyere kommentarer &rarr;"
+
+#: comments.php:61 comments.php:83
+msgid "&larr; Older Comments"
+msgstr "&larr; Ældre kommentarer"
+
+#: comments.php:60 comments.php:82
+msgid "Comment navigation"
+msgstr "Kommentar navigation"
+
+#. translators: 1: number of comments, 2: post title
+#: comments.php:42
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "En kommentar til &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s kommentarer til &ldquo;%2$s&rdquo;"
+
+#: inc/template-tags.php:733 sidebar-left.php:35 sidebar.php:34
+msgid "Archives"
+msgstr "Arkiver"
+
+#: inc/template-tags.php:730
+msgid "Links"
+msgstr "Links"
+
+#: inc/template-tags.php:727
+msgid "Quotes"
+msgstr "Citater"
+
+#: inc/template-tags.php:724
+msgid "Videos"
+msgstr "Videoer"
+
+#: inc/template-tags.php:721
+msgid "Images"
+msgstr "Billeder"
+
+#: inc/template-tags.php:718
+msgid "Asides"
+msgstr "Sidebemærkninger"
+
+#: inc/template-tags.php:715
+msgid "Year: %s"
+msgstr "År: %s"
+
+#: inc/template-tags.php:712
+msgid "Month: %s"
+msgstr "Måned: %s"
+
+#: inc/template-tags.php:709
+msgid "Day: %s"
+msgstr "Dag: %s"
+
+#: 404.php:20
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Hov! Den side findes ikke."
+
+#. Author of the plugin/theme
+msgid "Tom Usborne"
+msgstr "Tom Usborne"
+
+#. Author URI of the plugin/theme
+msgid "https://tomusborne.com"
+msgstr "https://tomusborne.com"
+
+#. Theme URI of the plugin/theme
+msgid "https://generatepress.com"
+msgstr "https://generatepress.com"

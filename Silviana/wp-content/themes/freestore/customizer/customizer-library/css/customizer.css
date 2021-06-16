@@ -1,0 +1,92 @@
+/* ---- FreeStore custom Customizer CSS ---- */
+#customize-theme-controls #accordion-section-title_tagline .accordion-section-title:hover,
+#customize-theme-controls #accordion-panel-freestore-panel-layout .accordion-section-title:hover,
+#customize-theme-controls #accordion-panel-freestore-panel-text .accordion-section-title:hover,
+#customize-theme-controls #accordion-section-colors .accordion-section-title:hover,
+#customize-theme-controls #accordion-section-freestore-social-section .accordion-section-title:hover {
+    background-color: #006CC9 !important;
+    color: #FFF !important;
+}
+#customize-theme-controls #accordion-section-title_tagline:hover .accordion-section-title:after,
+#customize-theme-controls #accordion-panel-freestore-panel-layout:hover .accordion-section-title:after,
+#customize-theme-controls #accordion-panel-freestore-panel-text:hover .accordion-section-title:after,
+#customize-theme-controls #accordion-section-colors:hover .accordion-section-title:after,
+#customize-theme-controls #accordion-section-freestore-social-section:hover .accordion-section-title:after {
+    color: #FFF !important;
+}
+
+#accordion-section-freestore_premium a.button {
+    background-color: #006CC9;
+    color: #FFF;
+    box-shadow: 0 0 0 1px rgba(0, 0, 0, 0.1) inset;
+    border: 0;
+    position: relative;
+    top: -2px;
+}
+#accordion-section-freestore_premium a.button:hover {
+    background-color: #0952A9;
+    color: #FFF;
+}
+
+.hide-section {
+    display: none !important;
+}
+
+#customize-controls .control-section .customize-section-title h3 {
+	color: inherit;
+}
+
+.kaira-upsell {
+    font-size: 12px;
+    padding: 8px 0 0 5px;
+    color: #999;
+}
+.kaira-upsell a {
+    color: inherit;
+    text-decoration: none;
+}
+
+#customize-control-freestore-logo-max-width,
+#customize-control-custom_logo,
+#customize-control-blogdescription,
+#customize-control-freestore-tagline-font-size,
+#customize-control-freestore-site-layout,
+#customize-control-freestore-title-font-size,
+#customize-control-freestore-set-container-width,
+#customize-control-freestore-page-fimage-size,
+#customize-control-freestore-header-remove-topbar,
+#customize-control-freestore-header-menu-text,
+#customize-control-freestore-nav-styling,
+#customize-control-freestore-slider-type,
+#customize-control-freestore-slider-cats,
+#customize-control-freestore-slider-size,
+#customize-control-freestore-page-titles,
+#customize-control-freestore-blog-layout,
+#customize-control-freestore-blog-cats,
+#customize-control-freestore-blog-search-left-sidebar,
+#customize-control-freestore-blog-search-full-width,
+#customize-control-freestore-footer-layout,
+#customize-control-freestore-footer-bottombar,
+#customize-control-freestore-header-remove-cart,
+#customize-control-freestore-remove-product-border,
+#customize-control-freestore-woocommerce-products-per-page,
+#customize-control-freestore-woocommerce-shop-single-leftsidebar,
+#customize-control-freestore-body-font-color,
+#customize-control-freestore-website-site-add,
+#customize-control-freestore-website-head-no,
+#customize-control-freestore-website-error-msg,
+#customize-control-freestore-topbar-font-color,
+#customize-control-freestore-header-font-color,
+#customize-control-freestore-secondary-color,
+#customize-control-freestore-social-github {
+    border-bottom: 1px solid rgba(0, 0, 0, 0.2);
+    padding: 0 0 25px;
+    margin-bottom: 20px;
+}
+
+#customize-control-freestore-page-fimage-layout,
+#customize-control-freestore-topbar-bg-color {
+    border-top: 1px solid rgba(0, 0, 0, 0.2);
+    padding: 25px 0 0;
+    margin-top: 20px;
+}

@@ -1,0 +1,262 @@
+# Translation of Plugins - Easy WP SMTP - Development (trunk) in Greek
+# This file is distributed under the same license as the Plugins - Easy WP SMTP - Development (trunk) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2017-12-10 11:09:22+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: el_GR\n"
+"Project-Id-Version: Plugins - Easy WP SMTP - Development (trunk)\n"
+
+#: easy-wp-smtp-admin-menu.php:226
+msgid "When enabled, plugin attempts to block ALL emails from being sent out if domain mismtach."
+msgstr "Όταν είναι ενεργοποιημένο, το πρόσθετο προσπαθεί να εμποδίσει την αποστολή ΟΛΩΝ των emails αν η διεύθυνση διαδικτύου δεν ταιριάζει."
+
+#: easy-wp-smtp-admin-menu.php:213
+msgid "This option is useful when you are using several email aliases on your SMTP server. If you don't want your aliases to be replaced by the address specified in \"From\" field, enter them in this field."
+msgstr "Αυτή η επιλογή είναι χρήσιμη όταν χρησιμοποιείτε πολλά ψευδώνυμα email στον διακομιστή SMTP σας. Αν δεν θέλετε τα ψευδώνυμά σας να αντικατασταθούν από τη διεύθυνση που καθορίστηκε στο πεδίο \"Από\", εισάγετέ τις σε αυτό το πεδίο."
+
+#: easy-wp-smtp-admin-menu.php:212
+msgid "Comma separated emails list. Example value: email1@domain.com, email2@domain.com"
+msgstr "Λίστα emails χωρισμένων με κόμμα. Ενδεικτική τιμή: email1@domain.com, email2@domain.com"
+
+#: easy-wp-smtp-admin-menu.php:209
+msgid "Don't Replace \"From\" Field"
+msgstr "Μη Αντικατάσταση του Πεδίου \"Από\""
+
+#: easy-wp-smtp-admin-menu.php:205
+msgid "Additional Settings (Optional)"
+msgstr "Επιπρόσθετες Ρυθμίσεις (Προαιρετικό)"
+
+#: easy-wp-smtp-admin-menu.php:273
+msgid "Test Email"
+msgstr "Δοκιμαστικό Email"
+
+#: easy-wp-smtp-admin-menu.php:260
+msgid "Log cleared."
+msgstr "Έγινε εκκαθάριση του αρχείου καταγραφής."
+
+#: easy-wp-smtp-admin-menu.php:252
+msgid "Are you sure want to clear log?"
+msgstr "Είστε σίγουροι πως θέλετε να διαγράψετε το αρχείο καταγραφής;"
+
+#: easy-wp-smtp-admin-menu.php:234
+msgid "Clear Log"
+msgstr "Εκκαθάριση του Αρχείου καταγραφής"
+
+#: easy-wp-smtp-admin-menu.php:234
+msgid "View Log"
+msgstr "Εμφάνιση του Αρχείου καταγραφής"
+
+#: easy-wp-smtp-admin-menu.php:233
+msgid "Check this box to enable mail debug log"
+msgstr "Επιλέξτε αυτό το κουτάκι για να ενεργοποιήσετε το αρχείο καταγραφής της αποσφαλμάτωσης της αλληλογραφίας."
+
+#: easy-wp-smtp-admin-menu.php:230
+msgid "Enable Debug Log"
+msgstr "Ενεργοποίηση του Αρχείου καταγραφής Αποσφαλμάτωσης"
+
+#: easy-wp-smtp-admin-menu.php:222
+msgid "Coma-separated domains list. Example: domain1.com, domain2.com"
+msgstr "Λίστα διευθύνσεων διαδικτύου χωρισμένων με κόμμα. Παράδειγμα: domain1.com, domain2.com"
+
+#: easy-wp-smtp-admin-menu.php:220
+msgid "This option is usually used by developers only. SMTP settings will be used only if the site is running on following domain(s):"
+msgstr "Αυτή η επιλογή συνήθως χρησιμοποιείται μόνο από τους προγραμματιστές. Οι ρυθμίσεις SMTP θα χρησιμοποιηθούν μόνο αν ο ιστότοπος τρέχει στην(ις) ακόλουθη(ες) διεύθυνση(εις) διαδικτύου:"
+
+#: easy-wp-smtp-admin-menu.php:217
+msgid "Enable Domain Check"
+msgstr "Ενεργοποίηση του Ελέγχου της Διεύθυνσης Διαδικτύου"
+
+#: easy-wp-smtp-admin-menu.php:149
+msgid "Optional. This email address will be used in the 'Reply-To' field of the email. Leave it blank to use 'From' email as the reply-to value."
+msgstr "Προαιρετικό. Αυτή η διεύθυνση email θα χρησιμοποιηθεί στο πεδίο 'Απάντηση Προς' του email. Αφήστε το κενό για να χρησιμοποιήσετε το email 'Από' ως τιμή απάντησης."
+
+#: easy-wp-smtp-admin-menu.php:146
+msgid "Reply-To Email Address"
+msgstr "Διεύθυνση Email Απάντησης"
+
+#: easy-wp-smtp-admin-menu.php:299
+msgid "Write your email message"
+msgstr "Συντάξτε το μήνυμα του email σας"
+
+#: easy-wp-smtp-admin-menu.php:285
+msgid "Enter the recipient's email address"
+msgstr "Εισάγετε την διεύθυνση email του παραλήπτη"
+
+#: easy-wp-smtp-admin-menu.php:125
+msgid "SMTP Configuration Settings"
+msgstr "Ρυθμίσεις Παραμέτρων SMTP"
+
+#: easy-wp-smtp-admin-menu.php:92
+msgid "Please enter a valid email address in the recipient email field."
+msgstr "Παρακαλούμε, εισάγετε μία έγκυρη διεύθυνση email στο πεδίο email του παραλήπτη."
+
+#: easy-wp-smtp.php:322
+msgid "Please configure your SMTP credentials in the <a href=\"%s\">settings menu</a> in order to send email using Easy WP SMTP plugin."
+msgstr "Παρακαλούμε, ρυθμίστε τα διαπιστευτήρια του SMTP σας στο <a href=\"%s\">μενού ρυθμίσεων</a> για να στείλετε email χρησιμοποιώντας το πρόσθετο Easy WP SMTP."
+
+#. Author URI of the plugin/theme
+msgid "https://wp-ecommerce.net/"
+msgstr "https://wp-ecommerce.net/"
+
+#. Author of the plugin/theme
+msgid "wpecommerce"
+msgstr "wpecommerce"
+
+#. Description of the plugin/theme
+msgid "Send email via SMTP from your WordPress Blog"
+msgstr "Στείλτε email μέσω SMTP από το WordPress Ιστολόγιο σας"
+
+#. Plugin URI of the plugin/theme
+msgid "https://wp-ecommerce.net/easy-wordpress-smtp-send-emails-from-your-wordpress-site-using-a-smtp-server-2197"
+msgstr "https://wp-ecommerce.net/easy-wordpress-smtp-send-emails-from-your-wordpress-site-using-a-smtp-server-2197"
+
+#: easy-wp-smtp-admin-menu.php:304
+msgid "Send Test Email"
+msgstr "Αποστολή Δοκιμαστικού Email"
+
+#: easy-wp-smtp-admin-menu.php:296
+msgid "Message"
+msgstr "Μήνυμα"
+
+#: easy-wp-smtp-admin-menu.php:292
+msgid "Enter a subject for your message"
+msgstr "Εισάγετε ένα θέμα για το μήνυμά σας"
+
+#: easy-wp-smtp-admin-menu.php:289
+msgid "Subject"
+msgstr "Θέμα"
+
+#: easy-wp-smtp-admin-menu.php:282
+msgid "To"
+msgstr "Προς"
+
+#: easy-wp-smtp-admin-menu.php:199 easy-wp-smtp-admin-menu.php:239
+msgid "Save Changes"
+msgstr "Αποθήκευση Αλλαγών"
+
+#: easy-wp-smtp-admin-menu.php:194
+msgid "The password to login to your mail server"
+msgstr "Ο κωδικός για την είσοδο στον διακομιστή αλληλογραφίας σας"
+
+#: easy-wp-smtp-admin-menu.php:191
+msgid "SMTP Password"
+msgstr "Κωδικός SMTP"
+
+#: easy-wp-smtp-admin-menu.php:187
+msgid "The username to login to your mail server"
+msgstr "Το όνομα χρήστη για την είσοδο στον διακομιστή αλληλογραφίας σας"
+
+#: easy-wp-smtp-admin-menu.php:184
+msgid "SMTP username"
+msgstr "Όνομα χρήστη SMTP"
+
+#: easy-wp-smtp-admin-menu.php:180
+msgid "This options should always be checked 'Yes'"
+msgstr "Αυτή η επιλογή θα πρέπει να είναι πάντα 'Ναι'"
+
+#: easy-wp-smtp-admin-menu.php:179
+msgid "Yes"
+msgstr "Ναι"
+
+#: easy-wp-smtp-admin-menu.php:178
+msgid "No"
+msgstr "Όχι"
+
+#: easy-wp-smtp-admin-menu.php:176
+msgid "SMTP Authentication"
+msgstr "Επικύρωση SMTP"
+
+#: easy-wp-smtp-admin-menu.php:172
+msgid "The port to your mail server"
+msgstr "Η θύρα προς τον διακομιστή αλληλογραφίας σας"
+
+#: easy-wp-smtp-admin-menu.php:169
+msgid "SMTP Port"
+msgstr "Θύρα SMTP"
+
+#: easy-wp-smtp-admin-menu.php:165
+msgid "For most servers SSL is the recommended option"
+msgstr "Για τους περισσότερους διακομιστές το SSL είναι η προτεινόμενη επιλογή"
+
+#: easy-wp-smtp-admin-menu.php:164
+msgid "TLS"
+msgstr "TLS"
+
+#: easy-wp-smtp-admin-menu.php:163
+msgid "SSL"
+msgstr "SSL"
+
+#: easy-wp-smtp-admin-menu.php:162
+msgid "None"
+msgstr "Καμία"
+
+#: easy-wp-smtp-admin-menu.php:160
+msgid "Type of Encryption"
+msgstr "Τύπος της Κρυπτογράφησης"
+
+#: easy-wp-smtp-admin-menu.php:156
+msgid "Your mail server"
+msgstr "Ο διακομιστής αλληλογραφίας σας"
+
+#: easy-wp-smtp-admin-menu.php:153
+msgid "SMTP Host"
+msgstr "Πάροχος SMTP"
+
+#: easy-wp-smtp-admin-menu.php:142
+msgid "This text will be used in the 'FROM' field"
+msgstr "Αυτό το κείμενο θα χρησιμοποιηθεί στο πεδίο 'ΑΠΟΣΤΟΛΕΑΣ'"
+
+#: easy-wp-smtp-admin-menu.php:139
+msgid "From Name"
+msgstr "Όνομα Αποστολέα"
+
+#: easy-wp-smtp-admin-menu.php:135
+msgid "This email address will be used in the 'From' field."
+msgstr "Αυτή η διεύθυνση email θα χρησιμοποιηθεί στο πεδίο 'Αποστολέας'."
+
+#: easy-wp-smtp-admin-menu.php:132
+msgid "From Email Address"
+msgstr "Διεύθυνση Email Αποστολέα"
+
+#: easy-wp-smtp-admin-menu.php:120
+msgid "The plugin's settings have been changed. In order to save them please don't forget to click the 'Save Changes' button."
+msgstr "Οι ρυθμίσεις του πρόσθετου έχουν αλλάξει. Για να τις αποθηκεύσετε, παρακαλούμε, μην ξεχάσετε να πατήσετε το κουμπί 'Αποθήκευση Αλλαγών'."
+
+#: easy-wp-smtp-admin-menu.php:120
+msgid "Notice:"
+msgstr "Σημείωση:"
+
+#: easy-wp-smtp-admin-menu.php:18
+msgid "Easy WP SMTP Settings"
+msgstr "Ρυθμίσεις Easy WP SMTP"
+
+#: easy-wp-smtp-admin-menu.php:80
+msgid "Settings are not saved."
+msgstr "Οι ρυθμίσεις δεν αποθηκεύτηκαν."
+
+#: easy-wp-smtp-admin-menu.php:78
+msgid "Settings saved."
+msgstr "Οι ρυθμίσεις αποθηκεύτηκαν."
+
+#: easy-wp-smtp-admin-menu.php:69
+msgid "Please enter a valid port in the 'SMTP Port' field."
+msgstr "Παρακαλούμε, εισάγετε μία έγκυρη θύρα στο πεδίο 'Θύρα SMTP'."
+
+#: easy-wp-smtp-admin-menu.php:37
+msgid "Please enter a valid email address in the 'FROM' field."
+msgstr "Παρακαλούμε, εισάγετε μία έγκυρη διεύθυνση email στο πεδίο 'ΑΠΟΣΤΟΛΕΑΣ'."
+
+#: easy-wp-smtp.php:32 easy-wp-smtp.php:51
+msgid "Settings"
+msgstr "Ρυθμίσεις"
+
+#. #-#-#-#-#  easy-wp-smtp-code.pot (Easy WP SMTP 1.3.1)  #-#-#-#-#
+#. Plugin Name of the plugin/theme
+#: easy-wp-smtp-admin-menu.php:9
+msgid "Easy WP SMTP"
+msgstr "Easy WP SMTP"

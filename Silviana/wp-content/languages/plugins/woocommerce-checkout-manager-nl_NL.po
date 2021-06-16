@@ -1,0 +1,1866 @@
+# Translation of Plugins - WooCommerce Checkout Manager - Stable (latest release) in Dutch
+# This file is distributed under the same license as the Plugins - WooCommerce Checkout Manager - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2018-02-08 23:50:57+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: nl\n"
+"Project-Id-Version: Plugins - WooCommerce Checkout Manager - Stable (latest release)\n"
+
+#: includes/template.php:342
+msgid "No"
+msgstr "Nee"
+
+#: includes/export.php:757
+msgid "Additional Fields"
+msgstr "Extra velden"
+
+#. Author URI of the plugin/theme
+msgid "http://www.visser.com.au"
+msgstr "http://www.visser.com.au"
+
+#. Author of the plugin/theme
+msgid "Visser Labs"
+msgstr "Visser Labs"
+
+#: includes/templates/functions/woocm_editing_wrapper.php:217
+msgid "Concentrate"
+msgstr "Concentraat"
+
+#: includes/templates/functions/woocm_editing_wrapper.php:216
+msgid "Hemingway"
+msgstr "Hemingway"
+
+#: includes/templates/functions/woocm_editing_wrapper.php:215
+msgid "Nostalgia"
+msgstr "Nostalgisch"
+
+#: includes/templates/functions/woocm_editing_wrapper.php:214
+msgid "Her Majesty"
+msgstr "Hare koninklijkheid"
+
+#: includes/templates/functions/woocm_editing_wrapper.php:213
+msgid "Hazy Days"
+msgstr "Vage dagen"
+
+#: includes/templates/functions/woocm_editing_wrapper.php:212
+msgid "Glowing Sun"
+msgstr "Gloeiende zon"
+
+#: includes/templates/functions/woocm_editing_wrapper.php:211
+msgid "Old Boot"
+msgstr "Oude laars"
+
+#: includes/templates/functions/woocm_editing_wrapper.php:210
+msgid "Pinhole"
+msgstr "Pinhole"
+
+#: includes/templates/functions/woocm_editing_wrapper.php:209
+msgid "Jarques"
+msgstr "Jarques"
+
+#: includes/templates/functions/woocm_editing_wrapper.php:208
+msgid "Grungy"
+msgstr "Mopperig"
+
+#: includes/templates/functions/woocm_editing_wrapper.php:207
+msgid "Love"
+msgstr "Liefde"
+
+#: includes/templates/functions/woocm_editing_wrapper.php:206
+msgid "Orange Peel"
+msgstr "Sinaasappelschil"
+
+#: includes/templates/functions/woocm_editing_wrapper.php:205
+msgid "Cross Process"
+msgstr "Kruisproces"
+
+#: includes/templates/functions/woocm_editing_wrapper.php:204
+msgid "Sunrise"
+msgstr "Zonsopgang"
+
+#: includes/templates/functions/woocm_editing_wrapper.php:203
+msgid "Sin City"
+msgstr "Sin City"
+
+#: includes/templates/functions/woocm_editing_wrapper.php:202
+msgid "Clarity"
+msgstr "Helderheid"
+
+#: includes/templates/functions/woocm_editing_wrapper.php:201
+msgid "Lomo"
+msgstr "Lomo"
+
+#: includes/templates/functions/woocm_editing_wrapper.php:200
+msgid "Vintage"
+msgstr "Vintage"
+
+#: includes/templates/functions/woocm_editing_wrapper.php:182
+msgid "StackBlur"
+msgstr "StackBlur"
+
+#: includes/templates/functions/woocm_editing_wrapper.php:168
+msgid "Sharpen"
+msgstr "Scherper maken"
+
+#: includes/templates/functions/woocm_editing_wrapper.php:154
+msgid "Clip"
+msgstr "Knipsel"
+
+#: includes/templates/functions/woocm_editing_wrapper.php:140
+msgid "Noise"
+msgstr "Ruis"
+
+#: includes/templates/functions/woocm_editing_wrapper.php:126
+msgid "Gamma"
+msgstr "Gamma"
+
+#: includes/templates/functions/woocm_editing_wrapper.php:112
+msgid "Sepia"
+msgstr "Sepia"
+
+#: includes/templates/functions/woocm_editing_wrapper.php:98
+msgid "Hue"
+msgstr "Tint"
+
+#: includes/templates/functions/woocm_editing_wrapper.php:84
+msgid "Exposure"
+msgstr "Belichting"
+
+#: includes/templates/functions/woocm_editing_wrapper.php:70
+msgid "Vibrance"
+msgstr "Levendigheid"
+
+#: includes/templates/functions/woocm_editing_wrapper.php:56
+msgid "Saturation"
+msgstr "Verzadiging"
+
+#: includes/templates/functions/woocm_editing_wrapper.php:42
+msgid "Contrast"
+msgstr "Contrast"
+
+#: includes/templates/functions/woocm_editing_wrapper.php:28
+msgid "Brightness"
+msgstr "Helderheid"
+
+#: includes/templates/functions/woocm_editing_wrapper.php:19
+msgid "Photo Editing"
+msgstr "Fotobewerking"
+
+#: includes/templates/functions/woocm_editing_wrapper.php:18
+msgid "Close"
+msgstr "Sluiten"
+
+#: includes/templates/functions/woocm_editing_wrapper.php:17
+msgid "Save"
+msgstr "Opslaan"
+
+#: includes/templates/admin/woocheckout-general.php:15
+msgid "Switches"
+msgstr "Schakelaars"
+
+#: includes/templates/admin/woocheckout-general.php:12
+msgid "Checkout Notices"
+msgstr "Afrekenmeldingen"
+
+#: includes/templates/admin/woocheckout-general.php:9
+msgid "Hide Address Fields"
+msgstr "Verberg adresvelden"
+
+#: includes/templates/admin/woocheckout-general.php:9
+msgid "Address Fields"
+msgstr "Adresvelden"
+
+#: includes/templates/admin/woocheckout-general.php:6
+msgid "Uploads"
+msgstr "Uploads"
+
+#: includes/templates/admin/woocheckout-general-uploads.php:105
+msgid "Picture Saved!"
+msgstr "Afbeelding opgeslagen"
+
+#: includes/templates/admin/woocheckout-general-uploads.php:105
+msgid "Picture Saved"
+msgstr "Afbeelding opgeslagen"
+
+#: includes/templates/admin/woocheckout-general-uploads.php:86
+#: includes/templates/admin/woocheckout-general-uploads.php:95
+msgid "Enter Category Slug(s); Example: my-cat, flowers_in"
+msgstr "Voer categorie-slug(s) in; bijvoorbeeld: mijn-kat, bloemen"
+
+#: includes/templates/admin/woocheckout-general-uploads.php:67
+#: includes/templates/admin/woocheckout-general-uploads.php:76
+msgid "Enter Product ID(s); Example: 1674, 1423, 1234"
+msgstr "Voer product-ID(s) in; Bijvoorbeeld: 1674, 1423, 1234"
+
+#: includes/templates/admin/woocheckout-general-uploads.php:46
+msgid "Upload Title"
+msgstr "Titel van upload"
+
+#: includes/templates/admin/woocheckout-general-switches.php:179
+msgid "Additional Checkout fields will appear after the Order Notes Checkout section."
+msgstr "Extra afrekenvelden verschijnen na de bestelnotities-afrekenvelden."
+
+#: includes/templates/admin/woocheckout-general-switches.php:178
+msgid "Default"
+msgstr "Standaard"
+
+#: includes/templates/admin/woocheckout-general-switches.php:163
+msgid "Additional Checkout fields will appear after the Shipping Checkout fields section."
+msgstr "Extra afrekenvelden verschijnen na de verzend-afrekenvelden."
+
+#: includes/templates/admin/woocheckout-general-switches.php:162
+msgid "After Shipping fields"
+msgstr "Na verzendvelden"
+
+#: includes/templates/admin/woocheckout-general-switches.php:147
+msgid "Additional Checkout fields will appear before the Shipping Checkout fields section."
+msgstr "Extra afrekenvelden verschijnen voor de verzend-afrekenvelden."
+
+#: includes/templates/admin/woocheckout-general-switches.php:146
+msgid "Before Shipping fields"
+msgstr "Voor verzendvelden"
+
+#: includes/templates/admin/woocheckout-general-switches.php:131
+msgid "Additional Checkout fields will appear after the Billing Checkout fields section."
+msgstr "Extra afrekenvelden verschijnen na de factuur-afrekenvelden."
+
+#: includes/templates/admin/woocheckout-general-switches.php:130
+msgid "After Billing fields"
+msgstr "Na factuurvelden"
+
+#: includes/templates/admin/woocheckout-general-switches.php:115
+msgid "Additional Checkout fields will appear before the Billing Checkout fields section."
+msgstr "Extra afrekenvelden verschijnen voor de factuur-afrekenvelden."
+
+#: includes/templates/admin/woocheckout-general-switches.php:114
+msgid "Before Billing fields"
+msgstr "Voor factuurvelden"
+
+#: includes/templates/admin/woocheckout-general-switches.php:104
+msgid "Additional Fields Position on Checkout"
+msgstr "Positie van additionele afrekenvelden"
+
+#: includes/templates/admin/woocheckout-general-switches.php:94
+msgid "Translate WooCommerce Checkout Manager Options Panel"
+msgstr "Vertaal WooCommerce Checkout Manager optiespaneel"
+
+#: includes/templates/admin/woocheckout-general-switches.php:49
+msgid "Create an account?"
+msgstr "Een account aanmaken?"
+
+#: includes/templates/admin/woocheckout-general-switches.php:49
+msgid "Hide %s checkbox on Checkout page for guests"
+msgstr "Verberg %s checkbox op afrekenpagina voor klanten"
+
+#: includes/templates/admin/woocheckout-general-switches.php:34
+msgid " Force show Shipping Checkout fields (to be used in conjunction with %s)"
+msgstr "Forceer de weergave van verzend-afrekenvelden (te gebruiken samen met %s)"
+
+#: includes/templates/admin/woocheckout-general-switches.php:19
+#: includes/templates/admin/woocheckout-general-switches.php:34
+msgid "Ship to a different address?"
+msgstr "Verzenden naar een ander adres?"
+
+#: includes/templates/admin/woocheckout-general-switches.php:19
+#: includes/templates/admin/woocheckout-general-switches.php:34
+msgid "Hide %s heading"
+msgstr "Verberg %s koptekst"
+
+#: includes/templates/admin/woocheckout-general-advanced.php:17
+msgid "Delete WooCommerce Checkout Manager Users Post meta"
+msgstr "Verwijder gebruikersberichten-meta voor WooCommerce Checkout Manager"
+
+#: includes/templates/admin/woocheckout-general-advanced.php:16
+msgid "Delete WooCommerce Checkout Manager Orders Post meta"
+msgstr "Verwijder bestellings-meta voor WooCommerce Checkout Manager"
+
+#: includes/templates/admin/woocheckout-general-advanced.php:15
+msgid "Delete WooCommerce Checkout Manager WordPress Options"
+msgstr "Verwijder opties voor WooCommerce Checkout Manager"
+
+#: includes/templates/admin/woocheckout-general-advanced.php:14
+msgid "Reset <em>Run the updater</em> prompt"
+msgstr "Herstel <em>Draai de updater</em> prompt"
+
+#: includes/templates/admin/woocheckout-general-advanced.php:11
+msgid "Administrator Actions"
+msgstr "Actions van beheerder"
+
+#: includes/templates/admin/woocheckout-general-advanced.php:4
+#: includes/templates/admin/woocheckout-general.php:24
+msgid "Advanced"
+msgstr "Geavanceerd"
+
+#: includes/templates/admin/woocheckout-additional.php:32
+#: includes/templates/admin/woocheckout-additional.php:56
+#: includes/templates/admin/woocheckout-billing.php:50
+#: includes/templates/admin/woocheckout-billing.php:75
+#: includes/templates/admin/woocheckout-shipping.php:48
+#: includes/templates/admin/woocheckout-shipping.php:73
+msgid "Delete this Checkout field"
+msgstr "Verwijder dit afrekenveld"
+
+#: includes/templates/admin/woocheckout-additional.php:28
+#: includes/templates/admin/woocheckout-additional.php:52
+#: includes/templates/admin/woocheckout-billing.php:41
+#: includes/templates/admin/woocheckout-billing.php:71
+#: includes/templates/admin/woocheckout-shipping.php:39
+#: includes/templates/admin/woocheckout-shipping.php:69
+msgid "Drag-and-drop this Checkout field to adjust its ordering"
+msgstr "Versleep dit afrekenveld om de volgorde aan te passen"
+
+#: includes/templates/admin/woocheckout-additional.php:5
+#: includes/templates/admin/woocheckout-billing.php:5
+#: includes/templates/admin/woocheckout-shipping.php:5
+msgid "Change the order of Checkout fields"
+msgstr "Pas de volgorde aan van de afrekenvelden"
+
+#: includes/templates/admin/woocheckout-additional-tbody.php:263
+#: includes/templates/admin/woocheckout-billing-tbody.php:251
+#: includes/templates/admin/woocheckout-shipping-tbody.php:251
+msgid "Type of the Checkout field"
+msgstr "Type van het afrekenveld"
+
+#: includes/templates/admin/woocheckout-additional-tbody.php:258
+#: includes/templates/admin/woocheckout-billing-tbody.php:246
+#: includes/templates/admin/woocheckout-shipping-tbody.php:246
+msgid "Open additional options for this Checkout field"
+msgstr "Voeg additionele opties toe voor dit afrekenveld"
+
+#: includes/templates/admin/woocheckout-additional-tbody.php:180
+#: includes/templates/admin/woocheckout-billing-tbody.php:180
+#: includes/templates/admin/woocheckout-shipping-tbody.php:180
+msgid "Placeholder text for the Checkout field"
+msgstr "Placeholder-tekst voor het afrekenveld"
+
+#: includes/templates/admin/woocheckout-additional-tbody.php:176
+#: includes/templates/admin/woocheckout-billing-tbody.php:176
+#: includes/templates/admin/woocheckout-shipping-tbody.php:176
+msgid "Label text for the Checkout field"
+msgstr "Labeltekst voor het afrekenveld"
+
+#: includes/templates/admin/woocheckout-additional-tbody.php:136
+#: includes/templates/admin/woocheckout-billing-tbody.php:136
+#: includes/templates/admin/woocheckout-shipping-tbody.php:136
+msgid "Applies a clear fix to the Checkout field"
+msgstr "Past een 'clearfix' toe op het afrekenveld"
+
+#: includes/templates/admin/woocheckout-additional-tbody.php:128
+#: includes/templates/admin/woocheckout-billing-tbody.php:128
+#: includes/templates/admin/woocheckout-shipping-tbody.php:128
+msgid "Placement of the Checkout field"
+msgstr "PLaats van het afrekenveld"
+
+#: includes/templates/admin/woocheckout-additional-tbody.php:124
+#: includes/templates/admin/woocheckout-billing-tbody.php:124
+#: includes/templates/admin/woocheckout-shipping-tbody.php:124
+msgid "Whether or not the Checkout field is required"
+msgstr "Of het afrekenveld verplicht is"
+
+#: includes/templates/admin/woocheckout-additional-clone.php:147
+#: includes/templates/admin/woocheckout-additional-tbody.php:265
+#: includes/templates/admin/woocheckout-billing-clone.php:141
+#: includes/templates/admin/woocheckout-billing-tbody.php:253
+#: includes/templates/admin/woocheckout-shipping-clone.php:142
+#: includes/templates/admin/woocheckout-shipping-tbody.php:253
+msgid "Textarea"
+msgstr "Tekstvak"
+
+#: includes/templates/admin/woocheckout-additional-clone.php:71
+#: includes/templates/admin/woocheckout-additional-tbody.php:129
+#: includes/templates/admin/woocheckout-billing-clone.php:71
+#: includes/templates/admin/woocheckout-billing-tbody.php:129
+#: includes/templates/admin/woocheckout-shipping-clone.php:71
+#: includes/templates/admin/woocheckout-shipping-tbody.php:129
+msgid "Wide"
+msgstr "Breed"
+
+#: includes/export.php:756
+msgid "Shipping Fields"
+msgstr "Verzendvelden"
+
+#: includes/export.php:755
+msgid "Billing Fields"
+msgstr "Factuurvelden"
+
+#: includes/export.php:737
+msgid "Export"
+msgstr "Exporteren"
+
+#: includes/classes/import.php:160
+msgid "Shipping fields"
+msgstr "Verzendvelden"
+
+#: includes/classes/import.php:154
+msgid "Billing fields"
+msgstr "Factuurvelden"
+
+#: includes/classes/import.php:148
+msgid "General Settings"
+msgstr "Algemene instellingen"
+
+#: includes/classes/import.php:140
+msgid "Field Data Import"
+msgstr "Importeren van veldgegevens"
+
+#: includes/admin.php:2103
+msgid "No uploads were recognised. Files were not uploaded."
+msgstr "Er zijn geen uploads herkend. Bestanden zijn niet verzonden."
+
+#: includes/admin.php:2095
+msgid "WooCommerce Checkout Manager - Files Uploaded by Customer"
+msgstr "WooCommerce Checkout Manager - Uploadbestanden van klant"
+
+#: includes/admin.php:2051
+msgid "WooCommerce Checkout Manager - Files Uploaded by Customer [%s]"
+msgstr "WooCommerce Checkout Manager - Uploadbestanden van klant [%s]"
+
+#: includes/admin.php:1991
+msgid "Invalid Order. Files were not uploaded."
+msgstr "Ongeldige bestelling. Bestanden zijn niet verzonden."
+
+#: includes/admin.php:1986
+msgid "Upload failed. Files were not uploaded."
+msgstr "Upload mislukt. Bestanden zijn niet verzonden."
+
+#: includes/admin.php:1868
+msgid "No uploaded files have been assigned to this Order."
+msgstr "Er zijn geen uploads toegewezen aan deze bestelling."
+
+#: includes/admin.php:1662
+msgid "Upload Files!"
+msgstr "Bestanden uploaden"
+
+#: includes/admin.php:1660
+msgid "Add Order Files"
+msgstr "Bestellingsbestanden toevoegen"
+
+#: includes/admin.php:1647
+msgid "No files have been uploaded to this Order."
+msgstr "Voor deze bestelling zijn geen bestanden als upload toegevoegd."
+
+#: includes/admin.php:1595 includes/admin.php:1811
+msgid "Dimensions"
+msgstr "Afmetingen"
+
+#: includes/admin.php:1593 includes/admin.php:1809
+msgid "Image"
+msgstr "Afbeelding"
+
+#: includes/admin.php:1591
+msgid "ID"
+msgstr "ID"
+
+#: includes/admin.php:1591 includes/admin.php:1808
+msgid "Attachment ID"
+msgstr "Bijlage-ID"
+
+#: includes/admin.php:1566
+msgid "Saving, please wait..."
+msgstr "Opslaan, even geduld..."
+
+#: includes/admin.php:1182 includes/admin.php:1290 includes/admin.php:1399
+msgid "Multi-Select or Multi-Checkbox"
+msgstr "Multi-select of Multi-checkbox"
+
+#: includes/admin.php:1156 includes/admin.php:1263 includes/admin.php:1374
+msgid "Generic"
+msgstr "Standaard"
+
+#: includes/admin.php:1156 includes/admin.php:1182 includes/admin.php:1263
+#: includes/admin.php:1290 includes/admin.php:1374 includes/admin.php:1399
+msgid "ID: %s | Field Type: %s"
+msgstr "ID: %s | Veldtype: %s"
+
+#: includes/admin.php:1144
+msgid "Additional Details"
+msgstr "Extra details"
+
+#: includes/admin.php:1070
+msgid "It is strongly recommended that you backup your database before proceeding. Are you sure you wish to run the updater now?"
+msgstr "Het wordt sterk aangeraden om eerst een database back-up te maken voordat je verder gaat. Weet je zeker dat je nu wilt bijwerken?"
+
+#: includes/admin.php:1056
+msgid "Open WooCheckout"
+msgstr "Open WooCheckout"
+
+#: includes/admin.php:1050
+msgid "Run the updater"
+msgstr "Voer de updater uit"
+
+#: includes/admin.php:1023
+msgid "Send feedback"
+msgstr "Verstuur feedback"
+
+#: includes/admin.php:1022
+msgid "Join the Developers list"
+msgstr "Schrijf je in op de ontwikkelaarslijst"
+
+#: includes/admin.php:1018 includes/admin.php:1041
+msgid "Dismiss"
+msgstr "Sluiten"
+
+#: includes/admin.php:774 includes/admin.php:881 includes/admin.php:991
+msgid "Your changes have been saved."
+msgstr "Wijzigingen opgeslagen."
+
+#: includes/admin.php:615
+msgid "Are you sure you wish to reset the settings on this tab for WooCommerce Checkout Manager?"
+msgstr "Weet je zeker dat je de instellingen wilt herstellen van deze tab van WooCommerce Checkout Manager?"
+
+#: includes/admin.php:486
+msgid "Email Address"
+msgstr "E-mailadres"
+
+#: includes/admin.php:421 includes/admin.php:485
+msgid "Zip"
+msgstr "Postcode"
+
+#: includes/admin.php:419 includes/admin.php:483
+msgid "Town/ City"
+msgstr "Plaats"
+
+#: includes/admin.php:417 includes/admin.php:481
+msgid "Address"
+msgstr "Adres"
+
+#: includes/admin.php:416 includes/admin.php:480
+msgid "Company Name"
+msgstr "Bedrijfsnaam"
+
+#: includes/templates/admin/woocheckout-additional-clone.php:161
+#: includes/templates/admin/woocheckout-additional-tbody.php:279
+#: includes/templates/admin/woocheckout-billing-clone.php:154
+#: includes/templates/admin/woocheckout-billing-tbody.php:266
+#: includes/templates/admin/woocheckout-shipping-clone.php:155
+#: includes/templates/admin/woocheckout-shipping-tbody.php:266
+msgid "File Picker"
+msgstr "Bestandskiezer"
+
+#: includes/templates/admin/woocheckout-additional-thead.php:125
+#: includes/templates/admin/woocheckout-billing-thead.php:115
+#: includes/templates/admin/woocheckout-shipping-thead.php:114
+msgid "List of Options (Separated by "
+msgstr "Lijst van opties (gescheiden door"
+
+#: includes/templates/admin/woocheckout-additional-thead.php:122
+#: includes/templates/admin/woocheckout-billing-thead.php:113
+#: includes/templates/admin/woocheckout-shipping-thead.php:112
+msgid "Title"
+msgstr "Titel"
+
+#: includes/templates/admin/woocheckout-additional-thead.php:120
+#: includes/templates/admin/woocheckout-billing-thead.php:111
+#: includes/templates/admin/woocheckout-shipping-thead.php:110
+msgid "Adapt"
+msgstr "Wijzigen"
+
+#: includes/templates/admin/woocheckout-additional-thead.php:118
+msgid "Change Name to"
+msgstr "Naam wijzigen in"
+
+#: includes/templates/admin/woocheckout-additional-thead.php:116
+msgid "Input Name"
+msgstr "Naam invoerveld"
+
+#: includes/templates/admin/woocheckout-additional-thead.php:114
+#: includes/templates/admin/woocheckout-billing-thead.php:109
+#: includes/templates/admin/woocheckout-shipping-thead.php:108
+msgid "Class"
+msgstr "Klas"
+
+#: includes/templates/admin/woocheckout-additional-thead.php:111
+#: includes/templates/admin/woocheckout-billing-thead.php:107
+#: includes/templates/admin/woocheckout-shipping-thead.php:106
+msgid "Hide from Roles (Separated by "
+msgstr "Toon van rollen (gescheiden door"
+
+#: includes/templates/admin/woocheckout-additional-thead.php:107
+#: includes/templates/admin/woocheckout-billing-thead.php:105
+#: includes/templates/admin/woocheckout-shipping-thead.php:104
+msgid "Show for Roles (Separated by "
+msgstr "Toon voor rollen (gescheiden door"
+
+#: includes/templates/admin/woocheckout-additional-thead.php:104
+#: includes/templates/admin/woocheckout-billing-thead.php:103
+#: includes/templates/admin/woocheckout-shipping-thead.php:102
+msgid "User Role"
+msgstr "Gebruikersrol"
+
+#: includes/templates/admin/woocheckout-additional-thead.php:102
+#: includes/templates/admin/woocheckout-billing-thead.php:101
+#: includes/templates/admin/woocheckout-shipping-thead.php:100
+msgid "Picker Type"
+msgstr "Type kiezer"
+
+#: includes/templates/admin/woocheckout-additional-thead.php:98
+#: includes/templates/admin/woocheckout-billing-thead.php:97
+#: includes/templates/admin/woocheckout-shipping-thead.php:96
+msgid "Conditional Tie"
+msgstr "Voorwaardelijk verband"
+
+#: includes/templates/admin/woocheckout-additional-thead.php:96
+#: includes/templates/admin/woocheckout-billing-thead.php:95
+#: includes/templates/admin/woocheckout-shipping-thead.php:94
+msgid "Chosen Value"
+msgstr "Gekozen waarde"
+
+#: includes/templates/admin/woocheckout-additional-thead.php:88
+#: includes/templates/admin/woocheckout-billing-thead.php:87
+#: includes/templates/admin/woocheckout-shipping-thead.php:86
+msgid "Conditional"
+msgstr "Voorwaardelijk"
+
+#: includes/templates/admin/woocheckout-additional-thead.php:86
+#: includes/templates/admin/woocheckout-billing-thead.php:85
+#: includes/templates/admin/woocheckout-shipping-thead.php:84
+msgid "Enter Amount"
+msgstr "Bedrag invoeren"
+
+#: includes/templates/admin/woocheckout-additional-thead.php:78
+#: includes/templates/admin/woocheckout-billing-thead.php:77
+#: includes/templates/admin/woocheckout-shipping-thead.php:76
+msgid "Remove Tax"
+msgstr "Belasting verwijderen"
+
+#: includes/templates/admin/woocheckout-additional-thead.php:70
+#: includes/templates/admin/woocheckout-billing-thead.php:71
+#: includes/templates/admin/woocheckout-shipping-thead.php:70
+msgid "Clear"
+msgstr "Wissen"
+
+#: includes/templates/admin/woocheckout-additional-thead.php:68
+#: includes/templates/admin/woocheckout-billing-thead.php:69
+#: includes/templates/admin/woocheckout-shipping-thead.php:68
+msgid "Position"
+msgstr "Rol"
+
+#: includes/templates/admin/woocheckout-additional-thead.php:56
+#: includes/templates/admin/woocheckout-additional-thead.php:64
+#: includes/templates/admin/woocheckout-billing-thead.php:57
+#: includes/templates/admin/woocheckout-billing-thead.php:65
+#: includes/templates/admin/woocheckout-shipping-thead.php:56
+#: includes/templates/admin/woocheckout-shipping-thead.php:64
+msgid "DD"
+msgstr "DD"
+
+#: includes/templates/admin/woocheckout-additional-thead.php:54
+#: includes/templates/admin/woocheckout-additional-thead.php:62
+#: includes/templates/admin/woocheckout-billing-thead.php:55
+#: includes/templates/admin/woocheckout-billing-thead.php:63
+#: includes/templates/admin/woocheckout-shipping-thead.php:54
+#: includes/templates/admin/woocheckout-shipping-thead.php:62
+msgid "MM"
+msgstr "MM"
+
+#: includes/templates/admin/woocheckout-additional-thead.php:52
+#: includes/templates/admin/woocheckout-additional-thead.php:60
+#: includes/templates/admin/woocheckout-billing-thead.php:53
+#: includes/templates/admin/woocheckout-billing-thead.php:61
+#: includes/templates/admin/woocheckout-shipping-thead.php:52
+#: includes/templates/admin/woocheckout-shipping-thead.php:60
+msgid "YY"
+msgstr "JJ"
+
+#: includes/templates/admin/woocheckout-additional-thead.php:48
+#: includes/templates/admin/woocheckout-billing-thead.php:49
+#: includes/templates/admin/woocheckout-shipping-thead.php:48
+msgid "Satudays"
+msgstr "Zaterdagen"
+
+#: includes/templates/admin/woocheckout-additional-thead.php:46
+#: includes/templates/admin/woocheckout-billing-thead.php:47
+#: includes/templates/admin/woocheckout-shipping-thead.php:46
+msgid "Fridays"
+msgstr "Vrijdagen"
+
+#: includes/templates/admin/woocheckout-additional-thead.php:44
+#: includes/templates/admin/woocheckout-billing-thead.php:45
+#: includes/templates/admin/woocheckout-shipping-thead.php:44
+msgid "Thursdays"
+msgstr "Donderdagen"
+
+#: includes/templates/admin/woocheckout-additional-thead.php:42
+#: includes/templates/admin/woocheckout-billing-thead.php:43
+#: includes/templates/admin/woocheckout-shipping-thead.php:42
+msgid "Wednesdays"
+msgstr "Woensdagen"
+
+#: includes/templates/admin/woocheckout-additional-thead.php:40
+#: includes/templates/admin/woocheckout-billing-thead.php:41
+#: includes/templates/admin/woocheckout-shipping-thead.php:40
+msgid "Tuesdays"
+msgstr "Dinsdags"
+
+#: includes/templates/admin/woocheckout-additional-thead.php:38
+#: includes/templates/admin/woocheckout-billing-thead.php:39
+#: includes/templates/admin/woocheckout-shipping-thead.php:38
+msgid "Mondays"
+msgstr "Maandags"
+
+#: includes/templates/admin/woocheckout-additional-thead.php:36
+#: includes/templates/admin/woocheckout-billing-thead.php:37
+#: includes/templates/admin/woocheckout-shipping-thead.php:36
+msgid "Sundays"
+msgstr "Zondags"
+
+#: includes/templates/admin/woocheckout-additional-thead.php:34
+#: includes/templates/admin/woocheckout-billing-thead.php:35
+#: includes/templates/admin/woocheckout-shipping-thead.php:34
+msgid "Days Enabler"
+msgstr "Dagen activeren"
+
+#: includes/templates/admin/woocheckout-additional-thead.php:32
+#: includes/templates/admin/woocheckout-billing-thead.php:33
+#: includes/templates/admin/woocheckout-shipping-thead.php:32
+msgid "Days After"
+msgstr "Dagen na"
+
+#: includes/templates/admin/woocheckout-additional-thead.php:30
+#: includes/templates/admin/woocheckout-billing-thead.php:31
+#: includes/templates/admin/woocheckout-shipping-thead.php:30
+msgid "Days before"
+msgstr "Dagen voor"
+
+#: includes/templates/admin/woocheckout-additional-thead.php:28
+#: includes/templates/admin/woocheckout-billing-thead.php:29
+#: includes/templates/admin/woocheckout-shipping-thead.php:28
+msgid "Date Format"
+msgstr "Datum aanduiding"
+
+#: includes/templates/admin/woocheckout-additional-thead.php:26
+#: includes/templates/admin/woocheckout-billing-thead.php:27
+#: includes/templates/admin/woocheckout-shipping-thead.php:26
+msgid "Manual Min."
+msgstr "Handmatig min."
+
+#: includes/templates/admin/woocheckout-additional-thead.php:24
+#: includes/templates/admin/woocheckout-billing-thead.php:25
+#: includes/templates/admin/woocheckout-shipping-thead.php:24
+msgid "Interval Min."
+msgstr "Interval min."
+
+#: includes/templates/admin/woocheckout-additional-thead.php:22
+#: includes/templates/admin/woocheckout-billing-thead.php:23
+#: includes/templates/admin/woocheckout-shipping-thead.php:22
+msgid "End Hour"
+msgstr "Einduur"
+
+#: includes/templates/admin/woocheckout-additional-thead.php:20
+#: includes/templates/admin/woocheckout-billing-thead.php:21
+#: includes/templates/admin/woocheckout-shipping-thead.php:20
+msgid "Start Hour"
+msgstr "Beginuur"
+
+#: includes/templates/admin/woocheckout-additional-thead.php:16
+#: includes/templates/admin/woocheckout-billing-thead.php:17
+#: includes/templates/admin/woocheckout-shipping-thead.php:16
+msgid "Hide Field from Category"
+msgstr "Verberg veld van categorie"
+
+#: includes/templates/admin/woocheckout-additional-thead.php:14
+#: includes/templates/admin/woocheckout-billing-thead.php:15
+#: includes/templates/admin/woocheckout-shipping-thead.php:14
+msgid "Show Field for Product"
+msgstr "Toon veld van product"
+
+#: includes/templates/admin/woocheckout-additional-thead.php:12
+#: includes/templates/admin/woocheckout-billing-thead.php:13
+#: includes/templates/admin/woocheckout-shipping-thead.php:12
+msgid "Hide Field from Product"
+msgstr "Verberg veld van product"
+
+#: includes/templates/admin/woocheckout-additional-thead.php:10
+#: includes/templates/admin/woocheckout-billing-thead.php:11
+#: includes/templates/admin/woocheckout-shipping-thead.php:10
+msgid "More"
+msgstr "Meer"
+
+#: includes/templates/admin/woocheckout-additional-clone.php:126
+#: includes/templates/admin/woocheckout-billing-clone.php:122
+#: includes/templates/admin/woocheckout-shipping-clone.php:123
+msgid "Adapt to woocommerce style"
+msgstr "Aanpassen aan WooCommerce stijl"
+
+#: includes/templates/admin/woocheckout-additional-clone.php:105
+#: includes/templates/admin/woocheckout-additional-thead.php:100
+#: includes/templates/admin/woocheckout-billing-clone.php:105
+#: includes/templates/admin/woocheckout-billing-thead.php:99
+#: includes/templates/admin/woocheckout-shipping-clone.php:105
+#: includes/templates/admin/woocheckout-shipping-thead.php:98
+msgid "Default Color"
+msgstr "Standaard kleur"
+
+#: includes/templates/admin/woocheckout-additional-clone.php:101
+#: includes/templates/admin/woocheckout-billing-clone.php:101
+#: includes/templates/admin/woocheckout-shipping-clone.php:101
+msgid "Chosen value for conditional"
+msgstr "Gekozen waarde als voorwaardelijk"
+
+#: includes/templates/admin/woocheckout-additional-clone.php:95
+#: includes/templates/admin/woocheckout-additional-thead.php:90
+#: includes/templates/admin/woocheckout-billing-clone.php:95
+#: includes/templates/admin/woocheckout-billing-thead.php:89
+#: includes/templates/admin/woocheckout-shipping-clone.php:95
+#: includes/templates/admin/woocheckout-shipping-thead.php:88
+msgid "Conditional Parent"
+msgstr "Hoofdvoorwaarde"
+
+#: includes/templates/admin/woocheckout-additional-clone.php:93
+#: includes/templates/admin/woocheckout-billing-clone.php:93
+#: includes/templates/admin/woocheckout-shipping-clone.php:93
+msgid "Conditional Field On"
+msgstr "Voorwaardelijk veld geactiveerd"
+
+#: includes/templates/admin/woocheckout-additional-clone.php:91
+#: includes/templates/admin/woocheckout-billing-clone.php:91
+#: includes/templates/admin/woocheckout-shipping-clone.php:91
+msgid "Add Amount Field"
+msgstr "Voeg bedragveld toe"
+
+#: includes/templates/admin/woocheckout-additional-clone.php:89
+#: includes/templates/admin/woocheckout-additional-thead.php:84
+#: includes/templates/admin/woocheckout-billing-clone.php:89
+#: includes/templates/admin/woocheckout-billing-thead.php:83
+#: includes/templates/admin/woocheckout-shipping-clone.php:89
+#: includes/templates/admin/woocheckout-shipping-thead.php:82
+msgid "Amount Name"
+msgstr "Bedrag naam"
+
+#: includes/templates/admin/woocheckout-additional-clone.php:87
+#: includes/templates/admin/woocheckout-additional-thead.php:82
+#: includes/templates/admin/woocheckout-billing-clone.php:87
+#: includes/templates/admin/woocheckout-billing-thead.php:81
+#: includes/templates/admin/woocheckout-shipping-clone.php:87
+#: includes/templates/admin/woocheckout-shipping-thead.php:80
+msgid "Add Amount"
+msgstr "Bedrag toevoegen"
+
+#: includes/templates/admin/woocheckout-additional-clone.php:85
+#: includes/templates/admin/woocheckout-additional-thead.php:80
+#: includes/templates/admin/woocheckout-billing-clone.php:85
+#: includes/templates/admin/woocheckout-billing-thead.php:79
+#: includes/templates/admin/woocheckout-shipping-clone.php:85
+#: includes/templates/admin/woocheckout-shipping-thead.php:78
+msgid "Deny Receipt"
+msgstr "Factuur weigeren"
+
+#: includes/templates/admin/woocheckout-additional-clone.php:83
+#: includes/templates/admin/woocheckout-billing-clone.php:83
+#: includes/templates/admin/woocheckout-shipping-clone.php:83
+msgid "Remove tax"
+msgstr "Belasting verwijderen"
+
+#: includes/templates/admin/woocheckout-additional-clone.php:79
+#: includes/templates/admin/woocheckout-additional-thead.php:72
+#: includes/templates/admin/woocheckout-billing-clone.php:79
+#: includes/templates/admin/woocheckout-billing-thead.php:73
+#: includes/templates/admin/woocheckout-shipping-clone.php:79
+#: includes/templates/admin/woocheckout-shipping-thead.php:72
+msgid "Deny Checkout"
+msgstr "Weiger afrekenen"
+
+#: includes/templates/admin/woocheckout-additional-clone.php:77
+#: includes/templates/admin/woocheckout-billing-clone.php:77
+#: includes/templates/admin/woocheckout-shipping-clone.php:77
+msgid "Clear Row"
+msgstr "Rij wissen"
+
+#: includes/templates/admin/woocheckout-additional-clone.php:19
+#: includes/templates/admin/woocheckout-additional-thead.php:18
+#: includes/templates/admin/woocheckout-billing-clone.php:19
+#: includes/templates/admin/woocheckout-billing-thead.php:19
+#: includes/templates/admin/woocheckout-shipping-clone.php:19
+#: includes/templates/admin/woocheckout-shipping-thead.php:18
+msgid "Show Field for Category"
+msgstr "Toon veld van categorie"
+
+#: includes/templates/admin/woocheckout-additional-clone.php:17
+#: includes/templates/admin/woocheckout-billing-clone.php:17
+#: includes/templates/admin/woocheckout-shipping-clone.php:17
+msgid "Hide field from Category"
+msgstr "Verberg veld van categorie"
+
+#: includes/templates/admin/woocheckout-additional-clone.php:15
+#: includes/templates/admin/woocheckout-billing-clone.php:15
+#: includes/templates/admin/woocheckout-shipping-clone.php:15
+msgid "Display Field for these Products Only"
+msgstr "Toon veld enkel van deze producten"
+
+#: includes/templates/admin/woocheckout-additional-clone.php:13
+#: includes/templates/admin/woocheckout-billing-clone.php:13
+#: includes/templates/admin/woocheckout-shipping-clone.php:13
+msgid "Hide field from this Products Only"
+msgstr "Verberg veld enkel van deze producten"
+
+#: includes/templates/admin/woocheckout-additional-clone.php:11
+#: includes/templates/admin/woocheckout-billing-clone.php:11
+#: includes/templates/admin/woocheckout-shipping-clone.php:11
+msgid "More than two content"
+msgstr "Meer dan 2 inhoudsvelden"
+
+#: includes/templates/admin/woocheckout-additional-clone.php:158
+#: includes/templates/admin/woocheckout-additional-tbody.php:276
+#: includes/templates/admin/woocheckout-billing-clone.php:151
+#: includes/templates/admin/woocheckout-billing-tbody.php:263
+#: includes/templates/admin/woocheckout-shipping-clone.php:152
+#: includes/templates/admin/woocheckout-shipping-tbody.php:263
+msgid "Multi-Checkbox"
+msgstr "Meervoudige-Checkbox"
+
+#: includes/templates/admin/woocheckout-additional-clone.php:152
+#: includes/templates/admin/woocheckout-additional-tbody.php:270
+#: includes/templates/admin/woocheckout-billing-clone.php:146
+#: includes/templates/admin/woocheckout-billing-tbody.php:258
+#: includes/templates/admin/woocheckout-shipping-clone.php:147
+#: includes/templates/admin/woocheckout-shipping-tbody.php:258
+msgid "Date Picker"
+msgstr "Datumkiezer"
+
+#: includes/templates/admin/woocheckout-additional-clone.php:151
+#: includes/templates/admin/woocheckout-additional-tbody.php:269
+#: includes/templates/admin/woocheckout-billing-clone.php:145
+#: includes/templates/admin/woocheckout-billing-tbody.php:257
+#: includes/templates/admin/woocheckout-shipping-clone.php:146
+#: includes/templates/admin/woocheckout-shipping-tbody.php:257
+msgid "Select Options"
+msgstr "Selecteer opties"
+
+#: includes/templates/admin/woocheckout-additional-clone.php:150
+#: includes/templates/admin/woocheckout-additional-tbody.php:268
+#: includes/templates/admin/woocheckout-billing-clone.php:144
+#: includes/templates/admin/woocheckout-billing-tbody.php:256
+#: includes/templates/admin/woocheckout-shipping-clone.php:145
+#: includes/templates/admin/woocheckout-shipping-tbody.php:256
+msgid "Check Box"
+msgstr "Meerkeuze"
+
+#: includes/templates/admin/woocheckout-additional-clone.php:149
+#: includes/templates/admin/woocheckout-additional-tbody.php:267
+#: includes/templates/admin/woocheckout-billing-clone.php:143
+#: includes/templates/admin/woocheckout-billing-tbody.php:255
+#: includes/templates/admin/woocheckout-shipping-clone.php:144
+#: includes/templates/admin/woocheckout-shipping-tbody.php:255
+msgid "Radio Buttons"
+msgstr "Radioknop"
+
+#: includes/templates/admin/woocheckout-additional-clone.php:146
+#: includes/templates/admin/woocheckout-additional-tbody.php:264
+#: includes/templates/admin/woocheckout-billing-clone.php:140
+#: includes/templates/admin/woocheckout-billing-tbody.php:252
+#: includes/templates/admin/woocheckout-shipping-clone.php:141
+#: includes/templates/admin/woocheckout-shipping-tbody.php:252
+msgid "Text Input"
+msgstr "Tekstveld"
+
+#: includes/templates/admin/woocheckout-additional-clone.php:142
+#: includes/templates/admin/woocheckout-additional-tbody.php:259
+#: includes/templates/admin/woocheckout-billing-clone.php:136
+#: includes/templates/admin/woocheckout-billing-tbody.php:247
+#: includes/templates/admin/woocheckout-shipping-clone.php:137
+#: includes/templates/admin/woocheckout-shipping-tbody.php:247
+msgid "More Toggler"
+msgstr "Meer-wisselaar"
+
+#: includes/templates/admin/woocheckout-additional-clone.php:140
+#: includes/templates/admin/woocheckout-additional-tbody.php:255
+#: includes/templates/admin/woocheckout-billing-clone.php:134
+#: includes/templates/admin/woocheckout-billing-tbody.php:243
+#: includes/templates/admin/woocheckout-shipping-clone.php:135
+#: includes/templates/admin/woocheckout-shipping-tbody.php:243
+msgid "Hidden Toggler"
+msgstr "Verborgen wisselaar"
+
+#: includes/templates/admin/woocheckout-additional-clone.php:138
+#: includes/templates/admin/woocheckout-additional-tbody.php:251
+#: includes/templates/admin/woocheckout-billing-clone.php:132
+#: includes/templates/admin/woocheckout-billing-tbody.php:239
+#: includes/templates/admin/woocheckout-shipping-clone.php:133
+#: includes/templates/admin/woocheckout-shipping-tbody.php:239
+msgid "Date Toggler"
+msgstr "Wisselaar voor datum"
+
+#: includes/templates/admin/woocheckout-additional-clone.php:136
+#: includes/templates/admin/woocheckout-additional-tbody.php:247
+#: includes/templates/admin/woocheckout-billing-clone.php:130
+#: includes/templates/admin/woocheckout-billing-tbody.php:235
+#: includes/templates/admin/woocheckout-shipping-clone.php:131
+#: includes/templates/admin/woocheckout-shipping-tbody.php:235
+msgid "Time Toggler"
+msgstr "Wisselaar voor tijd"
+
+#: includes/templates/admin/woocheckout-additional-clone.php:134
+#: includes/templates/admin/woocheckout-additional-tbody.php:243
+msgid "Swapper Toggler"
+msgstr "Wisselaar voor omwisselaar"
+
+#: includes/templates/admin/woocheckout-additional-clone.php:132
+#: includes/templates/admin/woocheckout-additional-tbody.php:239
+#: includes/templates/admin/woocheckout-billing-clone.php:128
+#: includes/templates/admin/woocheckout-billing-tbody.php:231
+#: includes/templates/admin/woocheckout-shipping-clone.php:129
+#: includes/templates/admin/woocheckout-shipping-tbody.php:231
+msgid "Options Toggler"
+msgstr "Wisselaar voor opties"
+
+#: includes/templates/admin/woocheckout-additional-clone.php:128
+#: includes/templates/admin/woocheckout-additional-tbody.php:231
+#: includes/templates/admin/woocheckout-billing-clone.php:124
+#: includes/templates/admin/woocheckout-billing-tbody.php:223
+#: includes/templates/admin/woocheckout-shipping-clone.php:125
+#: includes/templates/admin/woocheckout-shipping-tbody.php:223
+msgid "Name Guide"
+msgstr "Naam gids"
+
+#: includes/templates/admin/woocheckout-additional-clone.php:124
+#: includes/templates/admin/woocheckout-additional-tbody.php:223
+msgid "Bill Form"
+msgstr "Afrekenformulier"
+
+#: includes/templates/admin/woocheckout-additional-clone.php:122
+#: includes/templates/admin/woocheckout-additional-tbody.php:219
+msgid "Billing Details"
+msgstr "Factuurgegevens"
+
+#: includes/templates/admin/woocheckout-additional-clone.php:110
+#: includes/templates/admin/woocheckout-additional-tbody.php:198
+#: includes/templates/admin/woocheckout-billing-clone.php:110
+#: includes/templates/admin/woocheckout-billing-tbody.php:198
+#: includes/templates/admin/woocheckout-shipping-clone.php:110
+#: includes/templates/admin/woocheckout-shipping-tbody.php:198
+msgid "Iris"
+msgstr "Iris"
+
+#: includes/templates/admin/woocheckout-additional-clone.php:109
+#: includes/templates/admin/woocheckout-additional-tbody.php:197
+#: includes/templates/admin/woocheckout-billing-clone.php:109
+#: includes/templates/admin/woocheckout-billing-tbody.php:197
+#: includes/templates/admin/woocheckout-shipping-clone.php:109
+#: includes/templates/admin/woocheckout-shipping-tbody.php:197
+msgid "Farbtastic"
+msgstr "Verftastisch"
+
+#: includes/templates/admin/woocheckout-additional-tbody.php:192
+#: includes/templates/admin/woocheckout-billing-tbody.php:192
+#: includes/templates/admin/woocheckout-shipping-tbody.php:192
+msgid "#000000"
+msgstr "#000000"
+
+#: includes/template.php:340
+#: includes/templates/admin/woocheckout-additional-clone.php:101
+#: includes/templates/admin/woocheckout-additional-tbody.php:184
+#: includes/templates/admin/woocheckout-billing-clone.php:101
+#: includes/templates/admin/woocheckout-billing-tbody.php:184
+#: includes/templates/admin/woocheckout-shipping-clone.php:101
+#: includes/templates/admin/woocheckout-shipping-tbody.php:184
+msgid "Yes"
+msgstr "Ja"
+
+#: includes/templates/admin/woocheckout-additional-clone.php:99
+#: includes/templates/admin/woocheckout-additional-tbody.php:180
+#: includes/templates/admin/woocheckout-billing-clone.php:99
+#: includes/templates/admin/woocheckout-billing-tbody.php:180
+#: includes/templates/admin/woocheckout-shipping-clone.php:99
+#: includes/templates/admin/woocheckout-shipping-tbody.php:180
+msgid "Example red"
+msgstr "Voorbeeld rood"
+
+#: includes/templates/admin/woocheckout-additional-clone.php:97
+#: includes/templates/admin/woocheckout-additional-tbody.php:176
+#: includes/templates/admin/woocheckout-billing-clone.php:97
+#: includes/templates/admin/woocheckout-billing-tbody.php:176
+#: includes/templates/admin/woocheckout-shipping-clone.php:97
+#: includes/templates/admin/woocheckout-shipping-tbody.php:176
+msgid "My Field Name"
+msgstr "Mijn veldnaam"
+
+#: includes/templates/admin/woocheckout-additional-clone.php:89
+#: includes/templates/admin/woocheckout-additional-tbody.php:160
+#: includes/templates/admin/woocheckout-billing-clone.php:89
+#: includes/templates/admin/woocheckout-billing-tbody.php:160
+#: includes/templates/admin/woocheckout-shipping-clone.php:89
+#: includes/templates/admin/woocheckout-shipping-tbody.php:160
+msgid "My Custom Charge"
+msgstr "Mijn extra toeslag"
+
+#: includes/templates/admin/woocheckout-additional-clone.php:81
+#: includes/templates/admin/woocheckout-additional-tbody.php:144
+#: includes/templates/admin/woocheckout-billing-clone.php:81
+#: includes/templates/admin/woocheckout-billing-tbody.php:144
+#: includes/templates/admin/woocheckout-shipping-clone.php:81
+#: includes/templates/admin/woocheckout-shipping-tbody.php:144
+msgid "Filter Toggler"
+msgstr "Wisselaar voor filter"
+
+#: includes/templates/admin/woocheckout-additional-clone.php:73
+#: includes/templates/admin/woocheckout-additional-tbody.php:131
+#: includes/templates/admin/woocheckout-billing-clone.php:73
+#: includes/templates/admin/woocheckout-billing-tbody.php:131
+#: includes/templates/admin/woocheckout-shipping-clone.php:73
+#: includes/templates/admin/woocheckout-shipping-tbody.php:131
+msgid "Right"
+msgstr "Rechts"
+
+#: includes/templates/admin/woocheckout-additional-clone.php:72
+#: includes/templates/admin/woocheckout-additional-tbody.php:130
+#: includes/templates/admin/woocheckout-billing-clone.php:72
+#: includes/templates/admin/woocheckout-billing-tbody.php:130
+#: includes/templates/admin/woocheckout-shipping-clone.php:72
+#: includes/templates/admin/woocheckout-shipping-tbody.php:130
+msgid "Left"
+msgstr "Links"
+
+#: includes/templates/admin/woocheckout-additional-clone.php:59
+#: includes/templates/admin/woocheckout-additional-tbody.php:108
+#: includes/templates/admin/woocheckout-billing-clone.php:59
+#: includes/templates/admin/woocheckout-billing-tbody.php:108
+#: includes/templates/admin/woocheckout-shipping-clone.php:59
+#: includes/templates/admin/woocheckout-shipping-tbody.php:108
+msgid "Max Date"
+msgstr "Max datum"
+
+#: includes/templates/admin/woocheckout-additional-clone.php:57
+#: includes/templates/admin/woocheckout-additional-clone.php:65
+#: includes/templates/admin/woocheckout-additional-tbody.php:104
+#: includes/templates/admin/woocheckout-additional-tbody.php:120
+#: includes/templates/admin/woocheckout-billing-clone.php:57
+#: includes/templates/admin/woocheckout-billing-clone.php:65
+#: includes/templates/admin/woocheckout-billing-tbody.php:104
+#: includes/templates/admin/woocheckout-billing-tbody.php:120
+#: includes/templates/admin/woocheckout-shipping-clone.php:57
+#: includes/templates/admin/woocheckout-shipping-clone.php:65
+#: includes/templates/admin/woocheckout-shipping-tbody.php:104
+#: includes/templates/admin/woocheckout-shipping-tbody.php:120
+msgid "dd"
+msgstr "dd"
+
+#: includes/templates/admin/woocheckout-additional-clone.php:57
+#: includes/templates/admin/woocheckout-additional-clone.php:65
+#: includes/templates/admin/woocheckout-additional-tbody.php:104
+#: includes/templates/admin/woocheckout-additional-tbody.php:120
+#: includes/templates/admin/woocheckout-billing-clone.php:57
+#: includes/templates/admin/woocheckout-billing-clone.php:65
+#: includes/templates/admin/woocheckout-billing-tbody.php:104
+#: includes/templates/admin/woocheckout-billing-tbody.php:120
+#: includes/templates/admin/woocheckout-shipping-clone.php:57
+#: includes/templates/admin/woocheckout-shipping-clone.php:65
+#: includes/templates/admin/woocheckout-shipping-tbody.php:104
+#: includes/templates/admin/woocheckout-shipping-tbody.php:120
+msgid "25"
+msgstr "Natte sneeuw"
+
+#: includes/templates/admin/woocheckout-additional-clone.php:55
+#: includes/templates/admin/woocheckout-additional-clone.php:63
+#: includes/templates/admin/woocheckout-additional-tbody.php:100
+#: includes/templates/admin/woocheckout-additional-tbody.php:116
+#: includes/templates/admin/woocheckout-billing-clone.php:55
+#: includes/templates/admin/woocheckout-billing-clone.php:63
+#: includes/templates/admin/woocheckout-billing-tbody.php:100
+#: includes/templates/admin/woocheckout-billing-tbody.php:116
+#: includes/templates/admin/woocheckout-shipping-clone.php:55
+#: includes/templates/admin/woocheckout-shipping-clone.php:63
+#: includes/templates/admin/woocheckout-shipping-tbody.php:100
+#: includes/templates/admin/woocheckout-shipping-tbody.php:116
+msgid "mm"
+msgstr "mm"
+
+#: includes/templates/admin/woocheckout-additional-clone.php:55
+#: includes/templates/admin/woocheckout-additional-clone.php:63
+#: includes/templates/admin/woocheckout-additional-tbody.php:100
+#: includes/templates/admin/woocheckout-additional-tbody.php:116
+#: includes/templates/admin/woocheckout-billing-clone.php:55
+#: includes/templates/admin/woocheckout-billing-clone.php:63
+#: includes/templates/admin/woocheckout-billing-tbody.php:100
+#: includes/templates/admin/woocheckout-billing-tbody.php:116
+#: includes/templates/admin/woocheckout-shipping-clone.php:55
+#: includes/templates/admin/woocheckout-shipping-clone.php:63
+#: includes/templates/admin/woocheckout-shipping-tbody.php:100
+#: includes/templates/admin/woocheckout-shipping-tbody.php:116
+msgid "10"
+msgstr "10"
+
+#: includes/templates/admin/woocheckout-additional-clone.php:53
+#: includes/templates/admin/woocheckout-additional-clone.php:61
+#: includes/templates/admin/woocheckout-additional-tbody.php:96
+#: includes/templates/admin/woocheckout-additional-tbody.php:112
+#: includes/templates/admin/woocheckout-billing-clone.php:53
+#: includes/templates/admin/woocheckout-billing-clone.php:61
+#: includes/templates/admin/woocheckout-billing-tbody.php:96
+#: includes/templates/admin/woocheckout-billing-tbody.php:112
+#: includes/templates/admin/woocheckout-shipping-clone.php:53
+#: includes/templates/admin/woocheckout-shipping-clone.php:61
+#: includes/templates/admin/woocheckout-shipping-tbody.php:96
+#: includes/templates/admin/woocheckout-shipping-tbody.php:112
+msgid "yy"
+msgstr "jj"
+
+#: includes/templates/admin/woocheckout-additional-clone.php:53
+#: includes/templates/admin/woocheckout-additional-clone.php:61
+#: includes/templates/admin/woocheckout-additional-tbody.php:96
+#: includes/templates/admin/woocheckout-additional-tbody.php:112
+#: includes/templates/admin/woocheckout-billing-clone.php:53
+#: includes/templates/admin/woocheckout-billing-clone.php:61
+#: includes/templates/admin/woocheckout-billing-tbody.php:96
+#: includes/templates/admin/woocheckout-billing-tbody.php:112
+#: includes/templates/admin/woocheckout-shipping-clone.php:53
+#: includes/templates/admin/woocheckout-shipping-clone.php:61
+#: includes/templates/admin/woocheckout-shipping-tbody.php:96
+#: includes/templates/admin/woocheckout-shipping-tbody.php:112
+msgid "2013"
+msgstr "2013"
+
+#: includes/templates/admin/woocheckout-additional-clone.php:51
+#: includes/templates/admin/woocheckout-additional-tbody.php:92
+#: includes/templates/admin/woocheckout-billing-clone.php:51
+#: includes/templates/admin/woocheckout-billing-tbody.php:92
+#: includes/templates/admin/woocheckout-shipping-clone.php:51
+#: includes/templates/admin/woocheckout-shipping-tbody.php:92
+msgid "Min Date"
+msgstr "Min datum"
+
+#: includes/templates/admin/woocheckout-additional-clone.php:17
+#: includes/templates/admin/woocheckout-additional-clone.php:19
+#: includes/templates/admin/woocheckout-additional-tbody.php:24
+#: includes/templates/admin/woocheckout-additional-tbody.php:28
+#: includes/templates/admin/woocheckout-billing-clone.php:17
+#: includes/templates/admin/woocheckout-billing-clone.php:19
+#: includes/templates/admin/woocheckout-billing-tbody.php:24
+#: includes/templates/admin/woocheckout-billing-tbody.php:28
+#: includes/templates/admin/woocheckout-shipping-clone.php:17
+#: includes/templates/admin/woocheckout-shipping-clone.php:19
+#: includes/templates/admin/woocheckout-shipping-tbody.php:24
+#: includes/templates/admin/woocheckout-shipping-tbody.php:28
+msgid "Category Slug(s) e.g my-cat||my-cat2"
+msgstr "Category-slug(s) bijv. mijn-kat||mijn-kat2"
+
+#: includes/templates/admin/woocheckout-additional-clone.php:13
+#: includes/templates/admin/woocheckout-additional-clone.php:15
+#: includes/templates/admin/woocheckout-additional-tbody.php:16
+#: includes/templates/admin/woocheckout-additional-tbody.php:20
+#: includes/templates/admin/woocheckout-billing-clone.php:13
+#: includes/templates/admin/woocheckout-billing-clone.php:15
+#: includes/templates/admin/woocheckout-billing-tbody.php:16
+#: includes/templates/admin/woocheckout-billing-tbody.php:20
+#: includes/templates/admin/woocheckout-shipping-clone.php:13
+#: includes/templates/admin/woocheckout-shipping-clone.php:15
+#: includes/templates/admin/woocheckout-shipping-tbody.php:16
+#: includes/templates/admin/woocheckout-shipping-tbody.php:20
+msgid "Product ID(s) e.g 1674||1233"
+msgstr "Product ID(s) bijv. 1674||1233"
+
+#: includes/classes/main.php:809
+msgid "No Added Fields"
+msgstr "Geen toegevoegde velden"
+
+#: includes/admin.php:135
+msgid "WooCommerce is not active. WooCommerce Checkout Manager requires WooCommerce to be active."
+msgstr "WooCommerce is niet actief. WooCommerce Checkout Manager vereist dat WooCommerce actief is."
+
+#: includes/classes/main.php:115
+msgid "Shipping Address"
+msgstr "Verzendadres"
+
+#: includes/classes/main.php:104 includes/classes/main.php:119
+msgid "N/A"
+msgstr "N/A"
+
+#: includes/classes/main.php:100
+msgid "Billing Address"
+msgstr "Factuuradres"
+
+#: includes/classes/main.php:81
+msgid "Customer details"
+msgstr "Klantgegevens"
+
+#: includes/admin.php:830 includes/admin.php:939
+msgid "Sorry! An error occurred. WooCommerce Checkout Manager requires you to not have values in both hidden category options."
+msgstr "Er kwam een fout voor. WooCommerce Checkout Manager verwacht dat je geen waardes hebt in beide opties voor verborgen categorie."
+
+#: includes/admin.php:820 includes/admin.php:929
+msgid "Sorry! An error occurred. WooCommerce Checkout Manager requires you to not have values in both hidden product options."
+msgstr "Er kwam een fout voor. WooCommerce Checkout Manager verwacht dat je geen waardes hebt in beide opties voor verborgen product."
+
+#: includes/admin.php:810 includes/admin.php:919
+msgid "Sorry! An error occurred. WooCommerce Checkout Manager requires you to not have values in both role options."
+msgstr "Er kwam een fout voor. WooCommerce Checkout Manager verwacht dat je geen waardes hebt in beide opties voor rol."
+
+#: includes/admin.php:724
+msgid "Sorry! An error occurred. WooCommerce Checkout Manager requires you to not have values in both hidden category options. OK."
+msgstr "Er kwam een fout voor. WooCommerce Checkout Manager verwacht dat je geen waardes hebt in beide opties voor verborgen categorie. OK."
+
+#: includes/admin.php:714
+msgid "Sorry! An error occurred. WooCommerce Checkout Manager requires you to not have values in both hidden product options. OK."
+msgstr "Er kwam een fout voor. WooCommerce Checkout Manager verwacht dat je geen waardes hebt in beide opties voor verborgen product. OK."
+
+#: includes/admin.php:704
+msgid "Sorry! An error occurred. WooCommerce Checkout Manager requires you to not have values in both role options. OK."
+msgstr "Er kwam een fout voor. WooCommerce Checkout Manager verwacht dat je geen waardes hebt in beide opties voor rol. OK."
+
+#: includes/classes/main.php:87
+msgid "Telephone:"
+msgstr "Telefoon:"
+
+#: includes/admin.php:116
+msgid "Support"
+msgstr "Hulp nodig?"
+
+#: includes/classes/import.php:150 includes/classes/import.php:156
+#: includes/classes/import.php:162 includes/classes/import.php:168
+msgid "Import CSV"
+msgstr "Importeer CSV"
+
+#: includes/classes/field_filters.php:662
+msgid "Select some options"
+msgstr "Selecteer opties"
+
+#: includes/classes/field_filters.php:603
+msgid "Update country"
+msgstr "Land bijwerken"
+
+#: includes/classes/field_filters.php:595
+msgid "Select a country&hellip;"
+msgstr "Selecteer een land&hellip;"
+
+#: includes/classes/field_filters.php:476
+msgid "Select a state&hellip;"
+msgstr "Selecteer een provincie&hellip;"
+
+#: includes/admin.php:1885 includes/classes/field_filters.php:875
+msgid "Upload Files"
+msgstr "Upload Bestanden"
+
+#: includes/export.php:842
+msgid "Shipping Fields Section"
+msgstr "Sectie verzendvelden"
+
+#: includes/export.php:776
+msgid "Billing Fields Section"
+msgstr "Sectie factuurvelden"
+
+#: includes/export.php:818 includes/export.php:884 includes/export.php:949
+msgid "Export Settings"
+msgstr "Instellingen exporteren"
+
+#: includes/export.php:804 includes/export.php:870 includes/export.php:935
+msgid "Export All Orders"
+msgstr "Exporteer alle bestellingen"
+
+#: includes/admin.php:1628 includes/export.php:795 includes/export.php:810
+#: includes/export.php:824 includes/export.php:861 includes/export.php:876
+#: includes/export.php:890 includes/export.php:926 includes/export.php:941
+#: includes/export.php:955
+msgid "Download"
+msgstr "Download"
+
+#: includes/export.php:782 includes/export.php:848 includes/export.php:913
+msgid "Export All Orders with abbreviation name : "
+msgstr "Exporteer alle bestellingen met de afgekorte naam:"
+
+#: includes/export.php:909
+msgid "Additional Fields Section"
+msgstr "Sectie additionele velden"
+
+#: includes/export.php:762
+msgid "Field Data Export"
+msgstr "Veldgegevens exporteren"
+
+#. Description of the plugin/theme
+msgid "Manages WooCommerce Checkout, the advanced way."
+msgstr "Beheer WooCommerce Afrekenen op de geavanceerde manier."
+
+#. Plugin URI of the plugin/theme
+msgid "https://wordpress.org/plugins/woocommerce-checkout-manager/"
+msgstr "https://nl.wordpress.org/plugins/woocommerce-checkout-manager/"
+
+#: includes/templates/admin/woocheckout-general-switches.php:178
+msgid "After Order Notes"
+msgstr "Na bestelnotities"
+
+#: includes/templates/admin/woocheckout-general-switches.php:64
+msgid "Retain Fields Information"
+msgstr "Bewaar informatie van velden"
+
+#: includes/templates/admin/woocheckout-general-switches.php:9
+msgid "General Switches"
+msgstr "Algemene schakelaars"
+
+#: includes/templates/admin/woocheckout-general-checkout-notices.php:44
+msgid "Position for notification two"
+msgstr "Plaats voor melding twee"
+
+#: includes/templates/admin/woocheckout-general-checkout-notices.php:34
+#: includes/templates/admin/woocheckout-general-checkout-notices.php:73
+msgid "for the same design as WooCommerce Coupon."
+msgstr "Voor hetzelfde design als WooCommerce Coupon."
+
+#: includes/templates/admin/woocheckout-general-checkout-notices.php:34
+#: includes/templates/admin/woocheckout-general-checkout-notices.php:73
+msgid "Notification text area: You can use class"
+msgstr "Tekstvak voor meldingen: je kunt class gebruiken"
+
+#: includes/templates/admin/woocheckout-general-checkout-notices.php:25
+#: includes/templates/admin/woocheckout-general-checkout-notices.php:64
+msgid "Before Order Summary"
+msgstr "Voor besteloverzicht"
+
+#: includes/templates/admin/woocheckout-general-checkout-notices.php:12
+#: includes/templates/admin/woocheckout-general-checkout-notices.php:51
+msgid "Before Customer Address Fields"
+msgstr "Voor adresvelden van klant"
+
+#: includes/templates/admin/woocheckout-general-checkout-notices.php:5
+msgid "Position for notification one"
+msgstr "Positie voor melding één"
+
+#: includes/templates/admin/woocheckout-general-custom-css.php:17
+msgid "Support Forum"
+msgstr "Forum voor ondersteuning"
+
+#: includes/templates/admin/woocheckout-general-custom-css.php:17
+msgid "Get help in our"
+msgstr "Verkrijg hulp in ons"
+
+#: includes/templates/admin/woocheckout-general-custom-css.php:5
+#: includes/templates/admin/woocheckout-general.php:21
+msgid "Custom CSS"
+msgstr "Eigen CSS"
+
+#: includes/templates/admin/woocheckout-general-order-notes.php:138
+msgid "Enable default state code."
+msgstr "Activeer standaard provincie."
+
+#: includes/templates/admin/woocheckout-general-order-notes.php:126
+msgid "Default State code for Checkout."
+msgstr "Standaard provincie voor afrekenen."
+
+#: includes/templates/admin/woocheckout-general-order-notes.php:113
+msgid "Enable display of Shipping Method."
+msgstr "Activeer weergave van verzendmethode."
+
+#: includes/templates/admin/woocheckout-general-order-notes.php:101
+msgid "Shipping method used by customer"
+msgstr "Verzendmethode gebruikt door de klant"
+
+#: includes/templates/admin/woocheckout-general-order-notes.php:88
+msgid "Enable display of Payment Method."
+msgstr "Activeer weergave van betaalmethode."
+
+#: includes/templates/admin/woocheckout-general-order-notes.php:76
+msgid "Payment Method used by Customer"
+msgstr "Betaalmethode gebruikt door de klant"
+
+#: includes/templates/admin/woocheckout-general-order-notes.php:63
+msgid "Enable 24 hour time."
+msgstr "Schakel 24-uurs klok in."
+
+#: includes/templates/admin/woocheckout-general-order-notes.php:55
+msgid "Enable display of order time."
+msgstr "Activeer weergave van besteltijd."
+
+#: includes/templates/admin/woocheckout-general-order-notes.php:45
+msgid "Set TimeZone"
+msgstr "Stel tijdzone in"
+
+#: includes/templates/admin/woocheckout-general-order-notes.php:39
+msgid "Order time title"
+msgstr "Titel besteltijd"
+
+#: includes/templates/admin/woocheckout-general-order-notes.php:36
+msgid "Time Order was purchased"
+msgstr "De tijd van aankoop"
+
+#: includes/templates/admin/woocheckout-general-order-notes.php:24
+msgid "Disable Order Notes."
+msgstr "Bestelnotities uitschakelen."
+
+#: includes/templates/admin/woocheckout-general-order-notes.php:14
+msgid "Order Notes Placeholder"
+msgstr "Placeholder van bestelnotities"
+
+#: includes/templates/admin/woocheckout-general-order-notes.php:8
+msgid "Order Notes Label"
+msgstr "Label van bestelnotities"
+
+#: includes/templates/admin/woocheckout-general-address-fields.php:5
+msgid "Disable Billing Address fields for certain products"
+msgstr "Deactiveer factuuradresvelden voor bepaalde producten"
+
+#: includes/admin.php:628 includes/admin.php:640 includes/admin.php:652
+#: includes/admin.php:1726
+msgid "Save Changes"
+msgstr ""
+"Wijzigingen\n"
+" \n"
+"opslaan"
+
+#: includes/admin.php:592 includes/export.php:739
+msgid "Like the plugin? Rate it! On WordPress.org"
+msgstr "Vind je de plugin goed? Waardeer het op WordPress.org"
+
+#: includes/admin.php:590
+msgid "Additional"
+msgstr "Extra"
+
+#: includes/admin.php:589
+msgid "Shipping"
+msgstr "Verzendmethoden"
+
+#: includes/admin.php:588
+msgid "Billing"
+msgstr "Facturering"
+
+#: includes/admin.php:587
+msgid "General"
+msgstr "Algemeen"
+
+#: includes/admin.php:408
+msgid "Order Time"
+msgstr "Ordertijd"
+
+#: includes/admin.php:407
+msgid "Shipping Method"
+msgstr "Verzendingswijze"
+
+#: includes/admin.php:406
+msgid "Payment Method"
+msgstr "Betaalmedthode"
+
+#: includes/admin.php:540 includes/install.php:94 includes/install.php:163
+msgid "Postcode / Zip"
+msgstr "Postcode"
+
+#: includes/admin.php:463 includes/admin.php:531 includes/install.php:85
+#: includes/install.php:154
+msgid "Town / City"
+msgstr "Plaats"
+
+#: includes/admin.php:458 includes/admin.php:526 includes/install.php:80
+#: includes/install.php:149
+msgid "Apartment, suite, unit etc. (optional)"
+msgstr "Appartement, suite, unit etc. (optioneel)"
+
+#: includes/admin.php:453 includes/admin.php:521 includes/install.php:75
+#: includes/install.php:144
+msgid "Street address"
+msgstr "Straatnaam huisnummer"
+
+#: includes/templates/admin/woocheckout-general-uploads.php:141
+msgid "Allow Upload for Order Status"
+msgstr "Sta uploaden van bestelstatus toe"
+
+#: includes/templates/admin/woocheckout-general-uploads.php:130
+msgid "Number Of Files to Upload"
+msgstr "Aantal bestanden om te uploaden"
+
+#: includes/templates/admin/woocheckout-general-uploads.php:124
+msgid "File types"
+msgstr "Bestandstypes"
+
+#: includes/templates/admin/woocheckout-general-uploads.php:122
+msgid "Restrictions"
+msgstr "Beperkingen"
+
+#: includes/templates/admin/woocheckout-general-uploads.php:112
+msgid "Deletion confirmation"
+msgstr "Bevestiging voor verwijderen"
+
+#: includes/templates/admin/woocheckout-general-uploads.php:103
+msgid "Picture Editing Saved"
+msgstr "Afbeeldingsbewerking opgeslagen"
+
+#: includes/templates/admin/woocheckout-general-uploads.php:102
+msgid "General Alerts"
+msgstr "Algemene waarschuwingen"
+
+#: includes/templates/admin/woocheckout-general-uploads.php:83
+msgid "Categories"
+msgstr "Categorieën"
+
+#: includes/templates/admin/woocheckout-general-uploads.php:74
+#: includes/templates/admin/woocheckout-general-uploads.php:93
+msgid "Deny File Upload"
+msgstr "Bestandsupload niet toestaan"
+
+#: includes/templates/admin/woocheckout-general-uploads.php:65
+#: includes/templates/admin/woocheckout-general-uploads.php:84
+msgid "Allow File Upload"
+msgstr "Bestandsupload toestaan"
+
+#: includes/templates/admin/woocheckout-general-uploads.php:64
+msgid "Products"
+msgstr "Producten"
+
+#: includes/templates/admin/woocheckout-general-uploads.php:55
+msgid "Notification E-mail"
+msgstr "E-mailmelding"
+
+#: includes/templates/admin/woocheckout-general-uploads.php:33
+msgid "to"
+msgstr "naar"
+
+#: includes/templates/admin/woocheckout-general-uploads.php:31
+msgid "Changes uploaded files location folder from"
+msgstr "Wijzigt lokatiemap van uploads van"
+
+#: includes/templates/admin/woocheckout-general-uploads.php:28
+msgid "Categorize Uploaded Files"
+msgstr "Categoriseer bestanden na upload"
+
+#: includes/templates/admin/woocheckout-general-uploads.php:13
+msgid "Allow Customers to Upload Files"
+msgstr "Sta klanten toe bestanden te uploaden"
+
+#: includes/templates/admin/woocheckout-general-uploads.php:4
+msgid "General File Upload"
+msgstr "Algemene bestandsupload"
+
+#: includes/templates/functions/add_functions.php:300
+#: includes/templates/functions/billing_functions.php:331
+#: includes/templates/functions/shipping_functions.php:334
+msgid "Apply"
+msgstr "Toepassen"
+
+#: includes/admin.php:2144
+msgid "Deleted Successfully."
+msgstr "Verwijderd."
+
+#: includes/admin.php:1629 includes/admin.php:1850
+#: includes/templates/admin/woocheckout-general-uploads.php:114
+msgid "Delete"
+msgstr "Verwijderen"
+
+#: includes/admin.php:1629 includes/admin.php:1850
+msgid "Delete image"
+msgstr "Afbeelding verwijderen"
+
+#: includes/admin.php:1597 includes/admin.php:1814
+msgid "Name"
+msgstr "Naam"
+
+#: includes/admin.php:1813
+msgid "Link"
+msgstr "Verwijzing"
+
+#: includes/admin.php:1596 includes/admin.php:1812
+msgid "Extension"
+msgstr "Extensie"
+
+#: includes/admin.php:1594 includes/admin.php:1810
+msgid "Action"
+msgstr "Actie"
+
+#: includes/admin.php:1474
+#: includes/templates/admin/woocheckout-general-uploads.php:48
+msgid "Order Uploaded Files"
+msgstr "Volgorde van upload-bestanden"
+
+#: includes/admin.php:2101
+msgid "Files were uploaded successfully."
+msgstr "Uploaden van bestanden is geslaagd."
+
+#. #-#-#-#-#  woocommerce-checkout-manager-code.pot (WooCommerce Checkout
+#. Manager 4.1.7)  #-#-#-#-#
+#. Plugin Name of the plugin/theme
+#: includes/admin.php:583 includes/export.php:731
+msgid "WooCommerce Checkout Manager"
+msgstr "WooCommerce Checkout Manager"
+
+#: includes/checkout.php:422 includes/checkout.php:439
+#: includes/classes/main.php:916 includes/classes/main.php:929
+#: includes/classes/main.php:961 includes/classes/main.php:976
+#: includes/templates/functions/required/add_required.php:36
+#: includes/templates/functions/required/add_required.php:59
+#: includes/templates/functions/required/add_required.php:83
+#: includes/templates/functions/required/add_required.php:101
+#: includes/templates/functions/required/billing_required.php:32
+#: includes/templates/functions/required/billing_required.php:49
+#: includes/templates/functions/required/billing_required.php:73
+#: includes/templates/functions/required/billing_required.php:96
+#: includes/templates/functions/required/billing_required.php:120
+#: includes/templates/functions/required/billing_required.php:138
+#: includes/templates/functions/required/shipping_required.php:36
+#: includes/templates/functions/required/shipping_required.php:53
+#: includes/templates/functions/required/shipping_required.php:78
+#: includes/templates/functions/required/shipping_required.php:101
+#: includes/templates/functions/required/shipping_required.php:125
+#: includes/templates/functions/required/shipping_required.php:143
+msgid "%s is a required field."
+msgstr "%s is een verplicht veld."
+
+#: includes/admin.php:115
+msgid "Settings"
+msgstr "Instellingen"
+
+#: includes/templates/admin/woocheckout-additional.php:65
+#: includes/templates/admin/woocheckout-billing.php:84
+#: includes/templates/admin/woocheckout-shipping.php:82
+msgid "+ Add New Field"
+msgstr "+ Nieuw veld toevoegen"
+
+#: includes/templates/admin/woocheckout-additional-clone.php:67
+#: includes/templates/admin/woocheckout-billing-clone.php:67
+#: includes/templates/admin/woocheckout-shipping-clone.php:67
+msgid "Add/Remove Required Attribute"
+msgstr "toevoegen / verwijderen Verplichte attribuut"
+
+#: includes/templates/admin/woocheckout-additional-clone.php:165
+#: includes/templates/admin/woocheckout-billing-clone.php:158
+#: includes/templates/admin/woocheckout-shipping-clone.php:159
+msgid "Abbreviation (No spaces)"
+msgstr "Afkorting (Geen spaties)"
+
+#: includes/templates/admin/woocheckout-additional-clone.php:99
+#: includes/templates/admin/woocheckout-billing-clone.php:99
+#: includes/templates/admin/woocheckout-shipping-clone.php:99
+msgid "Placeholder - Preview of Data to Input"
+msgstr "Placeholder - Preview van gegevens naar Input"
+
+#: includes/templates/admin/woocheckout-additional-clone.php:97
+#: includes/templates/admin/woocheckout-billing-clone.php:97
+#: includes/templates/admin/woocheckout-shipping-clone.php:97
+msgid "Label of the New Field"
+msgstr "Etiket van de Nieuw veld"
+
+#: includes/templates/admin/woocheckout-additional.php:9
+#: includes/templates/admin/woocheckout-billing.php:9
+#: includes/templates/admin/woocheckout-shipping.php:9
+msgid "Remove button"
+msgstr "verwijder knop"
+
+#: includes/templates/admin/woocheckout-additional-thead.php:66
+#: includes/templates/admin/woocheckout-billing-thead.php:67
+#: includes/templates/admin/woocheckout-shipping-thead.php:66
+msgid "Required"
+msgstr "Vereist"
+
+#: includes/templates/admin/woocheckout-additional-thead.php:154
+#: includes/templates/admin/woocheckout-billing-thead.php:129
+#: includes/templates/admin/woocheckout-shipping-thead.php:128
+msgid "Abbreviation"
+msgstr "Afkorting"
+
+#: includes/templates/admin/woocheckout-additional-thead.php:152
+#: includes/templates/admin/woocheckout-billing-thead.php:127
+#: includes/templates/admin/woocheckout-shipping-thead.php:126
+msgid "Choose Type"
+msgstr "Kies Type"
+
+#: includes/templates/admin/woocheckout-additional-thead.php:94
+#: includes/templates/admin/woocheckout-billing-thead.php:93
+#: includes/templates/admin/woocheckout-shipping-thead.php:92
+msgid "Placeholder"
+msgstr "Placeholder"
+
+#: includes/templates/admin/woocheckout-additional-thead.php:92
+#: includes/templates/admin/woocheckout-billing-thead.php:91
+#: includes/templates/admin/woocheckout-shipping-thead.php:90
+msgid "Label"
+msgstr "Label"
+
+#: includes/templates/admin/woocheckout-additional-clone.php:156
+#: includes/templates/admin/woocheckout-additional-tbody.php:274
+#: includes/templates/admin/woocheckout-billing-clone.php:149
+#: includes/templates/admin/woocheckout-billing-tbody.php:261
+#: includes/templates/admin/woocheckout-shipping-clone.php:150
+#: includes/templates/admin/woocheckout-shipping-tbody.php:261
+msgid "Heading"
+msgstr "Koppen"
+
+#: includes/templates/admin/woocheckout-additional-clone.php:155
+#: includes/templates/admin/woocheckout-additional-tbody.php:273
+#: includes/templates/admin/woocheckout-billing-clone.php:148
+#: includes/templates/admin/woocheckout-billing-tbody.php:260
+#: includes/templates/admin/woocheckout-shipping-clone.php:149
+#: includes/templates/admin/woocheckout-shipping-tbody.php:260
+msgid "Color Picker"
+msgstr "Kleurenkiezer"
+
+#: includes/templates/admin/woocheckout-additional-clone.php:153
+#: includes/templates/admin/woocheckout-additional-tbody.php:271
+msgid "Text/ Html Swapper"
+msgstr "Tekst/Html omwisselaar"
+
+#: includes/templates/admin/woocheckout-additional-clone.php:154
+#: includes/templates/admin/woocheckout-additional-tbody.php:272
+#: includes/templates/admin/woocheckout-billing-clone.php:147
+#: includes/templates/admin/woocheckout-billing-tbody.php:259
+#: includes/templates/admin/woocheckout-shipping-clone.php:148
+#: includes/templates/admin/woocheckout-shipping-tbody.php:259
+msgid "Time Picker"
+msgstr "Tijdkiezer"
+
+#: includes/templates/admin/woocheckout-additional-clone.php:157
+#: includes/templates/admin/woocheckout-additional-tbody.php:275
+#: includes/templates/admin/woocheckout-billing-clone.php:150
+#: includes/templates/admin/woocheckout-billing-tbody.php:262
+#: includes/templates/admin/woocheckout-shipping-clone.php:151
+#: includes/templates/admin/woocheckout-shipping-tbody.php:262
+msgid "Multi-Select"
+msgstr "Multi-Selectie"
+
+#: includes/templates/admin/woocheckout-additional-clone.php:148
+#: includes/templates/admin/woocheckout-additional-tbody.php:266
+#: includes/templates/admin/woocheckout-billing-clone.php:142
+#: includes/templates/admin/woocheckout-billing-tbody.php:254
+#: includes/templates/admin/woocheckout-shipping-clone.php:143
+#: includes/templates/admin/woocheckout-shipping-tbody.php:254
+msgid "Password"
+msgstr "Wachtwoord"
+
+#: includes/admin.php:420 includes/admin.php:484
+#: includes/templates/admin/woocheckout-additional-clone.php:160
+#: includes/templates/admin/woocheckout-additional-tbody.php:278
+#: includes/templates/admin/woocheckout-billing-clone.php:153
+#: includes/templates/admin/woocheckout-billing-tbody.php:265
+#: includes/templates/admin/woocheckout-shipping-clone.php:154
+#: includes/templates/admin/woocheckout-shipping-tbody.php:265
+msgid "State"
+msgstr "Provincie"
+
+#: includes/templates/admin/woocheckout-general-order-notes.php:5
+#: includes/templates/admin/woocheckout-general.php:18
+msgid "Order Notes"
+msgstr "Order notities"
+
+#: includes/classes/main.php:86
+msgid "Email:"
+msgstr "E-mail:"
+
+#: includes/admin.php:487
+msgid "Phone"
+msgstr "Telefoon"
+
+#: includes/admin.php:413 includes/admin.php:477
+#: includes/templates/admin/woocheckout-additional-clone.php:159
+#: includes/templates/admin/woocheckout-additional-tbody.php:277
+#: includes/templates/admin/woocheckout-billing-clone.php:152
+#: includes/templates/admin/woocheckout-billing-tbody.php:264
+#: includes/templates/admin/woocheckout-shipping-clone.php:153
+#: includes/templates/admin/woocheckout-shipping-tbody.php:264
+msgid "Country"
+msgstr "Land"
+
+#: includes/admin.php:415 includes/admin.php:479
+msgid "Last Name"
+msgstr "achternaam"
+
+#: includes/admin.php:414 includes/admin.php:478
+msgid "First Name"
+msgstr "Voornaam"
+
+#: includes/classes/main.php:811
+msgid "Field Name"
+msgstr "Veldnaam"
+
+#: includes/classes/import.php:166
+msgid "Additional fields"
+msgstr "Additionele velden"
+
+#: includes/admin.php:384
+msgid "You do not have sufficient permissions to access this page."
+msgstr "Je hebt niet voldoende rechten om deze pagina te benaderen."

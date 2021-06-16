@@ -1,0 +1,119 @@
+== Changelog ==
+
+= 1.1.1 - 18 July 2017 =
+* Added new Offset blog layout.
+* Updated settings framework to resolve "Menu in line with logo" settings padding bug.
+
+= 1.1.0 - 10 July 2017 =
+* Added two new blog layouts, Grid and Alternate.
+* Added a post excerpt length setting.
+* Resolved left sidebar responsive bug.
+
+= 1.0.14 - 27 June 2017 =
+* Improved sticky menu initiation.
+* Fixed drop down menu position in header layout layout 4 (Menu in line with logo).
+* Added a Scroll to Top button. Turned off by default. Setting found at Customize > Theme Settings > Navigation.
+* Further fix to header z-index issue.
+* Removed extra logo margin incorrectly displaying.
+
+= 1.0.13 - 19 June 2017 =
+* Fixed mini-cart overflow issue.
+* Fixed header z-index issue.
+
+= 1.0.12 - 13 June 2017 =
+* Add new blog theme setting to allow for the more link to be inserted after the excerpt.
+* Resolved small display bug with the Menu in line with logo header layout.
+* Added the ability to close the WooCommerce Quick View using the escape key.
+
+= 1.0.11 - 29 May 2017 =
+* Resolved sticky menu bar bugs in the new header layouts.
+
+= 1.0.10 - 22 May 2017 =
+* Updated WooCommerce gallery to slideshow and lightbox.
+* Added setting for all WooCommerce gallery combinations.
+
+= 1.0.9 - 09 May 2017 =
+* Fixed Page Settings. Header Bottom Margin setting bug on home, archive and search results page.
+
+= 1.0.8 - 02 May 2017 =
+* Added support for Jetpack Related Posts.
+* Added three new header layouts. Setting found at Customize > Theme Settings > Header.
+* Updated WooCommerce template files and styling for new versions.
+* Fixed WooCommerce coupon code display bug in Firefox.
+
+= 1.0.7 - 28 March 2017 =
+* Fixed top bar social media icon inheritance bug.
+* Update build script to prevent z-index reduction.
+* Prevent footer border from outputting when no widgets are present.
+
+= 1.0.6 - 16 March 2017 =
+* Switched to minified CSS files.
+* Updated settings framework.
+* Updated styling for WooCommerce variable products.
+* Corrected Max Mega Menu output, fixed mini-cart alignment.
+* Changed WooCommerce Customizer CSS to only output when WooCommerce active.
+
+= 1.0.5 - 24 January 2017 =
+* Added a date format filter.
+* Styled WooCommerce product thumbnail navigation.
+* Added setting to adjust mobile menu collapse point.
+* Added WooCommerce mini-cart to menu and corresponding theme setting.
+* Added setting to change the position of the site sidebar.
+* Added setting to change the position of the WooCommerce sidebar.
+* Added blog setting to change full content to excerpt.
+* Added masthead sidebar area which replaces the logo and site title.
+* Fixed edge case display bug with Jetpack Sharing on single posts.
+* Fixed display bug for out of stock WooCommerce products.
+* Fixed quanitity change button bug in WooCommerce cart.
+* Fixed WooCommerce display bug appearing when a limited amounts of products display.
+
+= 1.0.4 - 04 January 2017 =
+* Fixed posts slider overlay lag in Chrome.
+* Added posts slider as a loop file for use in the Post Loop widget and Page Builder.
+* Removed the background color from the WooCommerce product variations table.
+
+= 1.0.3 - 29 December 2016 =
+* Added retina logo setting.
+* Added menu search setting.
+* Added support for SiteOrigin Premium No Attribution module.
+* Added WooCommerce quick view setting.
+* Added styling for WooCommerce disabled button state.
+* Fixed styling for WooCommerce product pricing.
+* Added styling for WooCommerce added to cart message.
+* Added check to ensure Jetpack Responsive Videos and FitVids don't output together.
+
+= 1.0.2 - 19 December 2016 =
+* WooCommerce cart page style improvements.
+* WooCommerce checkout page style improvements.
+
+= 1.0.1 - 15 December 2016 =
+* Fixed theme image size bugs.
+* Fixed read more filter function bug.
+* Added an overlay setting to the Jetpack Featured Content slider.
+* Various WooCommerce style improvements.
+* Added theme about page.
+
+= 1.0.0 - 09 December 2016 =
+* Wide ranging enhancements to styling, settings, post formats and WooCommerce integration.
+
+= 0.9.5 - 05 December 2016 =
+* Prefix image sizes.
+
+= 0.9.4 - 05 December 2016 =
+* Added TinyColor credit to theme readme file.
+
+= 0.9.3 - 21 October 2016 =
+* Added missing translation domains.
+
+= 0.9.2 - 09 October 2016 =
+* Added missing translation function to widget area descriptions.
+
+= 0.9.1 - 04 October 2016 =
+* Removed page title conditional.
+* Removed sidebar conditional.
+
+= 0.9 - 02 October 2016 =
+* Various changes to prepare for release.
+
+= 0.1 - 13 May 2016 =
+* Preliminary release.

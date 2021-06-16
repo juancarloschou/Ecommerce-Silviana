@@ -1,0 +1,356 @@
+# Translation of Wilson in Swedish
+# This file is distributed under the same license as the Wilson package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2016-09-28 22:15:40+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.1.0-alpha\n"
+"Project-Id-Version: Wilson\n"
+
+#. Theme Name of the plugin/theme
+msgid "Wilson"
+msgstr "Wilson"
+
+#. Description of the plugin/theme
+msgid "Wilson is a clean, simple and responsive theme for personal sites and blogs. Features responsive design, retina-ready assets, custom accent color support, custom logo support, custom widgets for video and Flickr embeds, page templates, editor styles and translation-ready code. Included translations: Swedish/svenska, German/deutsch. Demo: http://www.andersnoren.se/themes/wilson/"
+msgstr "WIlson är ett simpelt, responsivt tema för personliga webbplatser och bloggar. Funktioner: responsiv design, retina-grafik, stöd för anpassade färger, anpassad logotyp, anpassade widgets (video och Flickr-inbäddningar), sidomallar och stilmall i redigeraren. Wilson är redo att översättas och finns redan på svenska och tyska. Demo: http://www.andersnoren.se/themes/wilson/"
+
+#: comments.php:9
+msgid "%s Comment"
+msgid_plural "%s Comments"
+msgstr[0] "%s kommentar"
+msgstr[1] "%s kommentarer"
+
+#: comments.php:32
+msgid "%s Pingback"
+msgid_plural "%s Pingbacks"
+msgstr[0] "%s pingback"
+msgstr[1] "%s pingbacks"
+
+#: footer.php:47
+msgid "Theme by %s"
+msgstr "Tema av %s"
+
+#: functions.php:251
+msgid "%s at %s"
+msgstr "%s kl %s"
+
+#: searchform.php:3
+msgid "Submit"
+msgstr "Skicka"
+
+#: widgets/video-widget.php:13
+msgid "Video Widget"
+msgstr "Widget för video"
+
+#: widgets/flickr-widget.php:13
+msgid "Flickr Widget"
+msgstr "Flickr-widget"
+
+#. Template Name of the plugin/theme
+msgid "Archive template"
+msgstr "Arkivmall"
+
+#: widgets/flickr-widget.php:71
+msgid "Number of images to display"
+msgstr "Antal bilder att visa"
+
+#: widgets/flickr-widget.php:10
+msgid "Displays your latest Flickr photos."
+msgstr "Visar dina senaste Flickr-fotografier."
+
+#: widgets/flickr-widget.php:41
+msgid "More on Flickr &raquo;"
+msgstr "Se mer på Flickr &raquo;"
+
+#: widgets/flickr-widget.php:66
+msgid "Flickr ID (use <a target=\"_blank\" href=\"http://www.idgettr.com\">idGettr</a>):"
+msgstr "Flickr-ID (använd <a target=\"_blank\" href=\"http://www.idgettr.com\">idGettr</a>):"
+
+#: widgets/video-widget.php:10
+msgid "Displays a video of your choosing."
+msgstr "Visar ett valfritt videoklipp."
+
+#: widgets/video-widget.php:69
+msgid "Video URL"
+msgstr "Video URL"
+
+#: template-archives.php:79
+msgid "Archives by Year"
+msgstr "Arkiv för årtal"
+
+#: template-archives.php:85
+msgid "Archives by Month"
+msgstr "Arkiv för månader"
+
+#: template-archives.php:91
+msgid "Archives by Day"
+msgstr "Arkiv för dagar"
+
+#: widgets/flickr-widget.php:61 widgets/video-widget.php:64
+msgid "Title"
+msgstr "Titel"
+
+#: template-archives.php:73
+msgid "Contributors"
+msgstr "Bidragslämnare"
+
+#: template-archives.php:65
+msgid "View all posts in %s"
+msgstr "Se alla inlägg i %s"
+
+#: template-archives.php:31
+msgid "Last 30 Posts"
+msgstr "Senaste 30 inläggen"
+
+#: template-archives.php:51
+msgid "Archives by Categories"
+msgstr "Kategoriarkiv"
+
+#: template-archives.php:57
+msgid "Archives by Tags"
+msgstr "Etikettarkiv"
+
+#: single.php:87
+msgid "Next post:"
+msgstr "Nästa inlägg:"
+
+#: single.php:77
+msgid "Previous post:"
+msgstr "Föregående inlägg:"
+
+#: single.php:67
+msgid "Tags:"
+msgstr "Etiketter:"
+
+#: single.php:65
+msgid "Categories:"
+msgstr "Kategorier:"
+
+#: search.php:37
+msgid "No results. Try again, would you kindly?"
+msgstr "Inga resultat. Försök igen, är du snäll?"
+
+#: searchform.php:2
+msgid "Search form"
+msgstr "Sökformulär"
+
+#: header.php:44
+msgid "Hide menu"
+msgstr "Dölj meny"
+
+#: image.php:98
+msgid "&laquo; Previous<span> attachment</span>"
+msgstr "&laquo; Föregående<span> bilaga</span>"
+
+#: image.php:99
+msgid "Next<span> attachment</span> &raquo;"
+msgstr "Nästa<span> bilaga</span> &raquo;"
+
+#: image.php:111 page.php:41 single.php:103 template-archives.php:121
+msgid "We couldn't find any posts that matched your query. Please try again."
+msgstr "Vi kunde inte hitta några inlägg som matchar din sökning. Vänligen försök igen."
+
+#: index.php:17
+msgid "Page %s of %s"
+msgstr "Sida %s av %s"
+
+#: index.php:43 search.php:57
+msgid "&laquo; Older<span> posts</span>"
+msgstr "&laquo; Äldre<span> inlägg</span>"
+
+#: index.php:45 search.php:59
+msgid "Newer<span> posts</span> &raquo;"
+msgstr "Nyare<span> inlägg</span> &raquo;"
+
+#: search.php:9
+msgid "Search"
+msgstr "Sök"
+
+#: functions.php:313
+msgid "Upload a logo to replace the default site name and description in the sidebar"
+msgstr "Ladda upp en logotyp för att ersätta sidtiteln och -beskrivningen i sidopanelen"
+
+#: functions.php:340
+msgid "Accent Color"
+msgstr "Accentfärg"
+
+#: header.php:43
+msgid "Show menu"
+msgstr "Visa meny"
+
+#: functions.php:308
+msgid "Wilson Options"
+msgstr "Wilson-inställningar"
+
+#: functions.php:306
+msgid "Allows you to customize theme options for Wilson."
+msgstr "Låter dig ställa in temainställningar för Wilson"
+
+#: functions.php:315 functions.php:348
+msgid "Logo"
+msgstr "Logotyp"
+
+#: functions.php:261
+msgid "Awaiting moderation"
+msgstr "Inväntar moderering"
+
+#: functions.php:275
+msgid "Reply"
+msgstr "Svara"
+
+#: functions.php:248
+msgid "(Post author)"
+msgstr "(inläggsförfattare)"
+
+#: functions.php:226
+msgid "Pingback:"
+msgstr "Pingback: "
+
+#: functions.php:155
+msgid "Continue reading"
+msgstr "Fortsätt läsa"
+
+#: functions.php:75
+msgid "Widgets in this area will be displayed in the sidebar."
+msgstr "Widgets i det här området kommer att visas i sidomenyn."
+
+#: functions.php:83
+msgid "Footer A"
+msgstr "Sidfot A"
+
+#: functions.php:85
+msgid "Widgets in this area will be displayed in the left column in the footer."
+msgstr "Widgets i det här området kommer att visas i den vänstra kolumnen i sidfoten."
+
+#: functions.php:93
+msgid "Footer B"
+msgstr "Sidfot B"
+
+#: functions.php:95
+msgid "Widgets in this area will be displayed in the right column in the footer."
+msgstr "Widgets i det här området kommer att visas i den högra kolumnen i sidfoten."
+
+#: footer.php:47
+msgid "Up"
+msgstr "Upp"
+
+#: functions.php:73
+msgid "Sidebar"
+msgstr "Sidopanel"
+
+#: footer.php:47
+msgid "To the top"
+msgstr "Till toppen"
+
+#: content.php:5
+msgid "Sticky post"
+msgstr "Klistrat inlägg"
+
+#: functions.php:191 functions.php:226 functions.php:269 page.php:25
+#: template-archives.php:101
+msgid "Edit"
+msgstr "Redigera"
+
+#: functions.php:175
+msgid "% Comments"
+msgstr "% kommentarer"
+
+#: functions.php:175
+msgid "0 Comments"
+msgstr "Inga kommentarer"
+
+#: functions.php:175
+msgid "1 Comment"
+msgstr "1 kommentar"
+
+#: content-aside.php:11 content-quote.php:11 functions.php:183
+msgid "Sticky"
+msgstr "Klistrad"
+
+#: comments.php:97
+msgid "Website"
+msgstr "Webbplats"
+
+#: comments.php:94
+msgid "Email"
+msgstr "E-postadress"
+
+#: comments.php:91
+msgid "Name"
+msgstr "Namn"
+
+#: comments.php:82
+msgid "Your email address will not be published."
+msgstr "E-postadressen publiceras inte."
+
+#: comments.php:57
+msgid "&laquo; Older<span> Comments</span>"
+msgstr "&laquo; Äldre<span> kommentarer</span>"
+
+#: comments.php:59
+msgid "Newer<span> Comments</span> &raquo;"
+msgstr "Nyare<span> kommentarer</span> &raquo;"
+
+#: comments.php:74
+msgid "Comments are closed."
+msgstr "Kommentarer inaktiverade."
+
+#: archive.php:63
+msgid "Older<span> posts</span>"
+msgstr "Äldre<span> inlägg</span>"
+
+#: archive.php:65
+msgid "Newer<span> posts</span>"
+msgstr "Nyare<span> inlägg</span>"
+
+#: archive.php:29
+msgid "Archive"
+msgstr "Arkiv"
+
+#: archive.php:26 comments.php:91
+msgid "Author"
+msgstr "Författare"
+
+#: archive.php:22
+msgid "Tag"
+msgstr "Tagg"
+
+#: archive.php:19
+msgid "Category"
+msgstr "Kategori"
+
+#: archive.php:16
+msgid "Year"
+msgstr "År"
+
+#: archive.php:13
+msgid "Month"
+msgstr "Månad"
+
+#: 404.php:13
+msgid "Error 404"
+msgstr "Error 404"
+
+#: 404.php:19
+msgid "It seems like you have tried to open a page that doesn't exist. It could have been deleted, moved, or it never existed at all. You are welcome to search for what you are looking for with the form below."
+msgstr "Det verkar som att du har försökt öppna en sida som inte existerar. Den kan ha raderats, flyttats eller har aldrig existerat överhuvudtaget. Du är välkommen att söka efter det du letar efter i sökformuläret nedan."
+
+#: archive.php:10
+msgid "Date"
+msgstr "Datum"
+
+#. Theme URI of the plugin/theme
+msgid "http://www.andersnoren.se/teman/wilson-wordpress-theme/"
+msgstr "http://www.andersnoren.se/teman/wilson-wordpress-theme/"
+
+#. Author of the plugin/theme
+msgid "Anders Norén"
+msgstr "Anders Norén"
+
+#. Author URI of the plugin/theme
+msgid "http://www.andersnoren.se"
+msgstr "http://www.andersnoren.se"

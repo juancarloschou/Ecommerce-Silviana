@@ -1,0 +1,327 @@
+# Translation of Themes - Twenty Twelve in Norwegian (Bokmål)
+# This file is distributed under the same license as the Themes - Twenty Twelve package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2015-09-08 10:18:53+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.3.0-alpha\n"
+"Language: nb_NO\n"
+"Project-Id-Version: Themes - Twenty Twelve\n"
+
+#. Description of the plugin/theme
+msgid "The 2012 theme for WordPress is a fully responsive theme that looks great on any device. Features include a front page template with its own widgets, an optional display font, styling for post formats on both index and single views, and an optional no-sidebar page template. Make it yours with a custom menu, header image, and background."
+msgstr "2012-temaet for WordPress er et helresponsivt tema som ser bra ut både på såvel mobil som datamaskin. Funksjoner inkluderer forsidemal med egne widgeter, en valgfri visningsfont, stiler for innleggsformater, både i arkivvisning og enkeltvisning, og en valgfri sidemal uten sidekolonne. Gjør temaet til ditt eget med en egendefinert meny, toppbilde og bakgrunn."
+
+#. Theme Name of the plugin/theme
+msgid "Twenty Twelve"
+msgstr "Twenty Twelve"
+
+#. Template Name of the plugin/theme
+msgid "Full-width Page Template, No Sidebar"
+msgstr "Sidemal med full bredde, uten sidekolonne"
+
+#. Template Name of the plugin/theme
+msgid "Front Page Template"
+msgstr "Forsidemal"
+
+#: tag.php:21
+msgid "Tag Archives: %s"
+msgstr "Stikkordarkiv: %s"
+
+#: single.php:22
+msgctxt "Next post link"
+msgid "&rarr;"
+msgstr "&rarr;"
+
+#: single.php:21
+msgctxt "Previous post link"
+msgid "&larr;"
+msgstr "&larr;"
+
+#: search.php:38
+msgid "Sorry, but nothing matched your search criteria. Please try again with some different keywords."
+msgstr "Det var ingen treff på dine søkekriterier. Søk på nytt med noen andre nøkkelord."
+
+#: search.php:18
+msgid "Search Results for: %s"
+msgstr "Søkeresultater for: %s"
+
+#: index.php:42
+msgid "Ready to publish your first post? <a href=\"%s\">Get started here</a>."
+msgstr "Klar for å publisere ditt første innlegg? <a href=\"%s\">Start her</a>."
+
+#: index.php:38
+msgid "No posts to display"
+msgstr "Ingen innlegg å vise"
+
+#: image.php:42
+msgid "Next &rarr;"
+msgstr "Neste &rarr;"
+
+#: image.php:41
+msgid "&larr; Previous"
+msgstr "&larr; Forrige"
+
+#: image.php:26
+msgid "<span class=\"meta-prep meta-prep-entry-date\">Published </span> <span class=\"entry-date\"><time class=\"entry-date\" datetime=\"%1$s\">%2$s</time></span> at <a href=\"%3$s\" title=\"Link to full-size image\">%4$s &times; %5$s</a> in <a href=\"%6$s\" title=\"Return to %7$s\" rel=\"gallery\">%8$s</a>."
+msgstr "<span class=\"meta-prep meta-prep-entry-date\">Publisert </span> <span class=\"entry-date\"><time class=\"entry-date\" datetime=\"%1$s\">%2$s</time></span>, <a href=\"%3$s\" title=\"Link to full-size image\">%4$s &times; %5$s</a> i <a href=\"%6$s\" title=\"Tilbake til %7$s\" rel=\"gallery\">%8$s</a>."
+
+#: header.php:44
+msgid "Skip to content"
+msgstr "Hopp til innhold"
+
+#: header.php:43
+msgid "Menu"
+msgstr "Meny"
+
+#: functions.php:419
+msgid "This entry was posted on %3$s<span class=\"by-author\"> by %4$s</span>."
+msgstr "Dette innlegget ble skrevet %3$s<span class=\"by-author\"> av %4$s</span>."
+
+#: functions.php:417
+msgid "This entry was posted in %1$s on %3$s<span class=\"by-author\"> by %4$s</span>."
+msgstr "Dette innlegget ble skrevet i %1$s, %3$s<span class=\"by-author\"> av %4$s</span>."
+
+#. Translators: 1 is category, 2 is tag, 3 is the date and 4 is the author's
+#. name.
+#: functions.php:415
+msgid "This entry was posted in %1$s and tagged %2$s on %3$s<span class=\"by-author\"> by %4$s</span>."
+msgstr "Dette innlegget ble skrevet i %1$s og merket %2$s, %3$s<span class=\"by-author\"> av %4$s</span>."
+
+#: functions.php:409
+msgid "View all posts by %s"
+msgstr "Vis alle innlegg av %s"
+
+#. Translators: used between list items, there is a space after the comma.
+#: functions.php:395 functions.php:398
+msgid ", "
+msgstr ", "
+
+#: functions.php:374
+msgid "Reply"
+msgstr "Svar"
+
+#: functions.php:365
+msgid "Your comment is awaiting moderation."
+msgstr "Din kommentar avventer moderasjon."
+
+#. translators: 1: date, 2: time
+#: functions.php:359
+msgid "%1$s at %2$s"
+msgstr "%1$s, kl. %2$s"
+
+#: functions.php:353
+msgid "Post author"
+msgstr "Innleggsforfatter"
+
+#: functions.php:338
+msgid "(Edit)"
+msgstr "(Rediger)"
+
+#: functions.php:338
+msgid "Pingback:"
+msgstr "Tilbaketråkk:"
+
+#: functions.php:313
+msgid "Newer posts <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Nyere innlegg <span class=\"meta-nav\">&rarr;</span>"
+
+#: functions.php:312
+msgid "<span class=\"meta-nav\">&larr;</span> Older posts"
+msgstr "<span class=\"meta-nav\">&larr;</span> Eldre innlegg"
+
+#: functions.php:311 single.php:20
+msgid "Post navigation"
+msgstr "Innleggsnavigasjon"
+
+#: functions.php:289
+msgid "Second Front Page Widget Area"
+msgstr "Andre widget-område på forside"
+
+#: functions.php:281 functions.php:291
+msgid "Appears when using the optional Front Page template with a page set as Static Front Page"
+msgstr "Vises når man bruker den valgfrie forsidemalen med en side satt som statisk forside"
+
+#: functions.php:279
+msgid "First Front Page Widget Area"
+msgstr "Første widget-område på forside"
+
+#: functions.php:271
+msgid "Appears on posts and pages except the optional Front Page template, which has its own widgets"
+msgstr "Vises på innlegg og sider bortsett fra den valgfrie forsidemalen, som har sine egne widgeter"
+
+#: functions.php:269
+msgid "Main Sidebar"
+msgstr "Primær sidekolonne"
+
+#: functions.php:240
+msgid "Page %s"
+msgstr "Side %s"
+
+#. translators: To add an additional Open Sans character subset specific to
+#. your language, translate this to 'greek', 'cyrillic' or 'vietnamese'. Do not
+#. translate into your own language.
+#: functions.php:110
+msgctxt "Open Sans font: add new subset (greek, cyrillic, vietnamese)"
+msgid "no-subset"
+msgstr "no-subset"
+
+#. translators: If there are characters in your language that are not supported
+#. by Open Sans, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:104
+msgctxt "Open Sans font: on or off"
+msgid "on"
+msgstr "on"
+
+#: functions.php:64
+msgid "Primary Menu"
+msgstr "Primærmeny"
+
+#: footer.php:16
+msgid "Proudly powered by %s"
+msgstr "Stolt drevet av %s"
+
+#: footer.php:16
+msgid "Semantic Personal Publishing Platform"
+msgstr "Semantisk personlig publiseringsplattform"
+
+#: content.php:66
+msgid "View all posts by %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Les alle innlegg av %s <span class=\"meta-nav\">&rarr;</span>"
+
+#: content.php:16
+msgid "Featured post"
+msgstr "Fremhevet innlegg"
+
+#: content-page.php:21 content.php:45 image.php:102
+msgid "Pages:"
+msgstr "Sider:"
+
+#: content-none.php:17 index.php:53
+msgid "Apologies, but no results were found. Perhaps searching will help find a related post."
+msgstr "Beklager, men ingen resultater ble funnet. Kanskje du kan finne et relatert innlegg ved å søke."
+
+#: content-none.php:13 index.php:49 search.php:34
+msgid "Nothing Found"
+msgstr "Ingenting funnet"
+
+#: content-link.php:12
+msgid "Link"
+msgstr "Lenke"
+
+#: content-aside.php:26 content-image.php:26 content-link.php:24
+#: content-page.php:24 content-quote.php:23 content-status.php:40
+#: content.php:51 functions.php:370 image.php:37
+msgid "Edit"
+msgstr "Rediger"
+
+#: content-aside.php:23 content-image.php:23 content-link.php:21
+#: content-quote.php:20 content-status.php:37 content.php:33
+msgid "% Replies"
+msgstr "% svar"
+
+#: content-aside.php:23 content-image.php:23 content-link.php:21
+#: content-quote.php:20 content-status.php:37 content.php:33
+msgid "1 Reply"
+msgstr "1 svar"
+
+#: content-aside.php:23 content-image.php:23 content-link.php:21
+#: content-quote.php:20 content-status.php:37 content.php:33
+msgid "Leave a reply"
+msgstr "Legg igjen en kommentar"
+
+#: content-aside.php:20 content-link.php:18 content-quote.php:17
+#: content-status.php:15
+msgid "Permalink to %s"
+msgstr "Permalenke til %s"
+
+#: content-aside.php:15 content-image.php:13 content-link.php:14
+#: content-quote.php:13 content-status.php:31 content.php:44
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Les videre <span class=\"meta-nav\">&rarr;</span>"
+
+#: comments.php:53
+msgid "Comments are closed."
+msgstr "Det er stengt for kommentarer."
+
+#: comments.php:44
+msgid "Newer Comments &rarr;"
+msgstr "Nyere kommentarer &rarr;"
+
+#: comments.php:43
+msgid "&larr; Older Comments"
+msgstr "&larr; Eldre kommentarer"
+
+#: comments.php:42
+msgid "Comment navigation"
+msgstr "Kommentarnavigasjon"
+
+#: comments.php:31
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "En tanke om &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s tanker om &ldquo;%2$s&rdquo;"
+
+#: category.php:21
+msgid "Category Archives: %s"
+msgstr "Kategoriarkiv: %s"
+
+#: author.php:63 content.php:62
+msgid "About %s"
+msgstr "Om %s"
+
+#: author.php:32
+msgid "Author Archives: %s"
+msgstr "Forfatterarkiv: %s"
+
+#: archive.php:35
+msgid "Archives"
+msgstr "Arkiv"
+
+#: archive.php:33
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "Y"
+
+#: archive.php:33
+msgid "Yearly Archives: %s"
+msgstr "Årlige arkiver: %s"
+
+#: archive.php:31
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr "F Y"
+
+#: archive.php:31
+msgid "Monthly Archives: %s"
+msgstr "Månedlige arkiver: %s"
+
+#: archive.php:29
+msgid "Daily Archives: %s"
+msgstr "Daglige arkiver: %s"
+
+#: 404.php:21
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Vi klarer ikke å finne det du leter etter. Prøv å søke."
+
+#: 404.php:17
+msgid "This is somewhat embarrassing, isn&rsquo;t it?"
+msgstr "Dette er litt flaut, ikke sant?"
+
+#. #-#-#-#-#  twentytwelve.pot (Twenty Twelve 2.2)  #-#-#-#-#
+#. Author URI of the plugin/theme
+#: footer.php:16
+msgid "https://wordpress.org/"
+msgstr "https://wordpress.org/"
+
+#. Author of the plugin/theme
+msgid "the WordPress team"
+msgstr "WordPress-gjengen"
+
+#. Theme URI of the plugin/theme
+msgid "https://wordpress.org/themes/twentytwelve/"
+msgstr "https://wordpress.org/themes/twentytwelve/"

@@ -1,0 +1,409 @@
+/*Source Sans Pro*/
+@font-face {
+    font-family: 'Source Sans Pro';
+    src: url('sourcesanspro-semibold-webfont.eot');
+    src: url('sourcesanspro-semibold-webfont.eot?#iefix') format('embedded-opentype'),
+         url('sourcesanspro-semibold-webfont.woff') format('woff'),
+         url('sourcesanspro-semibold-webfont.ttf') format('truetype'),
+         url('sourcesanspro-semibold-webfont.svg#source_sans_prosemibold') format('svg');
+    font-weight: 600;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Source Sans Pro';
+    src: url('sourcesanspro-bold-webfont.eot');
+    src: url('sourcesanspro-bold-webfont.eot?#iefix') format('embedded-opentype'),
+         url('sourcesanspro-bold-webfont.woff') format('woff'),
+         url('sourcesanspro-bold-webfont.ttf') format('truetype'),
+         url('sourcesanspro-bold-webfont.svg#source_sans_probold') format('svg');
+    font-weight: 700;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Source Sans Pro';
+    src: url('sourcesanspro-extralight-webfont.eot');
+    src: url('sourcesanspro-extralight-webfont.eot?#iefix') format('embedded-opentype'),
+         url('sourcesanspro-extralight-webfont.woff') format('woff'),
+         url('sourcesanspro-extralight-webfont.ttf') format('truetype'),
+         url('sourcesanspro-extralight-webfont.svg#source_sans_proextralight') format('svg');
+    font-weight: 200;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Source Sans Pro';
+    src: url('sourcesanspro-light-webfont.eot');
+    src: url('sourcesanspro-light-webfont.eot?#iefix') format('embedded-opentype'),
+         url('sourcesanspro-light-webfont.woff') format('woff'),
+         url('sourcesanspro-light-webfont.ttf') format('truetype'),
+         url('sourcesanspro-light-webfont.svg#source_sans_prolight') format('svg');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Source Sans Pro';
+    src: url('sourcesanspro-regular-webfont.eot');
+    src: url('sourcesanspro-regular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('sourcesanspro-regular-webfont.woff') format('woff'),
+         url('sourcesanspro-regular-webfont.ttf') format('truetype'),
+         url('sourcesanspro-regular-webfont.svg#source_sans_proregular') format('svg');
+    font-weight: 400;
+    font-style: normal;
+}
+
+
+
+/* Open Sans */
+@font-face {
+    font-family: 'Open Sans';
+    src: url('opensans-light-webfont.eot');
+    src: url('opensans-light-webfont.eot?#iefix') format('embedded-opentype'),
+         url('opensans-light-webfont.woff') format('woff'),
+         url('opensans-light-webfont.ttf') format('truetype'),
+         url('opensans-light-webfont.svg#open_sanslight') format('svg');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Open Sans';
+    src: url('opensans-regular-webfont.eot');
+    src: url('opensans-regular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('opensans-regular-webfont.woff') format('woff'),
+         url('opensans-regular-webfont.ttf') format('truetype'),
+         url('opensans-regular-webfont.svg#open_sansregular') format('svg');
+    font-weight: 400;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Open Sans';
+    src: url('opensans-extrabold-webfont.eot');
+    src: url('opensans-extrabold-webfont.eot?#iefix') format('embedded-opentype'),
+         url('opensans-extrabold-webfont.woff') format('woff'),
+         url('opensans-extrabold-webfont.ttf') format('truetype'),
+         url('opensans-extrabold-webfont.svg#open_sansextrabold') format('svg');
+    font-weight: 800;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Open Sans';
+    src: url('opensans-semibold-webfont.eot');
+    src: url('opensans-semibold-webfont.eot?#iefix') format('embedded-opentype'),
+         url('opensans-semibold-webfont.woff') format('woff'),
+         url('opensans-semibold-webfont.ttf') format('truetype'),
+         url('opensans-semibold-webfont.svg#open_sanssemibold') format('svg');
+    font-weight: 600;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Open Sans';
+    src: url('opensans-bold-webfont.eot');
+    src: url('opensans-bold-webfont.eot?#iefix') format('embedded-opentype'),
+         url('opensans-bold-webfont.woff') format('woff'),
+         url('opensans-bold-webfont.ttf') format('truetype'),
+         url('opensans-bold-webfont.svg#open_sansbold') format('svg');
+    font-weight: 700;
+    font-style: normal;
+}
+
+/*Ubuntu */
+
+@font-face {
+    font-family: 'Ubuntu';
+    src: url('ubuntu-b-webfont.eot');
+    src: url('ubuntu-b-webfont.eot?#iefix') format('embedded-opentype'),
+         url('ubuntu-b-webfont.woff') format('woff'),
+         url('ubuntu-b-webfont.ttf') format('truetype'),
+         url('ubuntu-b-webfont.svg#ubuntubold') format('svg');
+    font-weight: 700;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Ubuntu';
+    src: url('ubuntu-r-webfont.eot');
+    src: url('ubuntu-r-webfont.eot?#iefix') format('embedded-opentype'),
+         url('ubuntu-r-webfont.woff') format('woff'),
+         url('ubuntu-r-webfont.ttf') format('truetype'),
+         url('ubuntu-r-webfont.svg#ubunturegular') format('svg');
+    font-weight: 400;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Ubuntu';
+    src: url('ubuntu-l-webfont.eot');
+    src: url('ubuntu-l-webfont.eot?#iefix') format('embedded-opentype'),
+         url('ubuntu-l-webfont.woff') format('woff'),
+         url('ubuntu-l-webfont.ttf') format('truetype'),
+         url('ubuntu-l-webfont.svg#ubuntulight') format('svg');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Ubuntu';
+    src: url('ubuntu-m-webfont.eot');
+    src: url('ubuntu-m-webfont.eot?#iefix') format('embedded-opentype'),
+         url('ubuntu-m-webfont.woff') format('woff'),
+         url('ubuntu-m-webfont.ttf') format('truetype'),
+         url('ubuntu-m-webfont.svg#ubuntumedium') format('svg');
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Ubuntu Condensed';
+    src: url('ubuntu-c-webfont.eot');
+    src: url('ubuntu-c-webfont.eot?#iefix') format('embedded-opentype'),
+         url('ubuntu-c-webfont.woff') format('woff'),
+         url('ubuntu-c-webfont.ttf') format('truetype'),
+         url('ubuntu-c-webfont.svg#ubuntu_condensedregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+/* Other fonts */
+@font-face {
+    font-family: 'Droid Sans';
+    src: url('DroidSans-webfont.eot');
+    src: url('DroidSans-webfont.eot?#iefix') format('embedded-opentype'),
+         url('DroidSans-webfont.woff') format('woff'),
+         url('DroidSans-webfont.ttf') format('truetype'),
+         url('DroidSans-webfont.svg#droid_sansregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Yanone Kaffeesatz Regular';
+    src: url('yanonekaffeesatz-regular-webfont.eot');
+    src: url('yanonekaffeesatz-regular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('yanonekaffeesatz-regular-webfont.woff') format('woff'),
+         url('yanonekaffeesatz-regular-webfont.ttf') format('truetype'),
+         url('yanonekaffeesatz-regular-webfont.svg#yanone_kaffeesatzregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Yanone Kaffeesatz Light';
+    src: url('yanonekaffeesatz-light-webfont.eot');
+    src: url('yanonekaffeesatz-light-webfont.eot?#iefix') format('embedded-opentype'),
+         url('yanonekaffeesatz-light-webfont.woff') format('woff'),
+         url('yanonekaffeesatz-light-webfont.ttf') format('truetype'),
+         url('yanonekaffeesatz-light-webfont.svg#yanone_kaffeesatzlight') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Oswald Light';
+    src: url('Oswald-Light-webfont.eot');
+    src: url('Oswald-Light-webfont.eot?#iefix') format('embedded-opentype'),
+         url('Oswald-Light-webfont.woff') format('woff'),
+         url('Oswald-Light-webfont.ttf') format('truetype'),
+         url('Oswald-Light-webfont.svg#OswaldLight') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Oswald';
+    src: url('Oswald-Regular-webfont.eot');
+    src: url('Oswald-Regular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('Oswald-Regular-webfont.woff') format('woff'),
+         url('Oswald-Regular-webfont.ttf') format('truetype'),
+         url('Oswald-Regular-webfont.svg#OswaldBook') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+
+/* ICON FONT - ELUSIVE */
+@font-face {
+  font-family: 'elusive';
+  src: url('elusive.eot');
+  src: url('elusive.eot?#iefix') format('embedded-opentype'),
+       url('elusive.woff') format('woff'),
+       url('elusive.ttf') format('truetype'),
+       url('elusive.svg?#elusive') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+/* Chrome hack: SVG is rendered more smooth in Windozze. 100% magic, uncomment if you need it. */
+/* Note, that will break hinting! In other OS-es font will be not as sharp as it could be */
+/*
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+  @font-face {
+    font-family: 'elusive';
+    src: url('../font/elusive.svg?#elusive') format('svg');
+  }
+}
+*/
+ 
+ [class^="crycon-"]:before, [class*=" crycon-"]:before {
+  font-family: "elusive";
+  font-style: normal;
+  font-weight: normal;
+  speak: none;
+ 
+  display: inline-block;
+  text-decoration: inherit;
+  width: 1em;
+  margin-right: .2em;
+  text-align: center;
+  /* opacity: .8; */
+ 
+  /* For safety - reset parent styles, that can break glyph codes*/
+  font-variant: normal;
+  text-transform: none;
+     
+  /* fix buttons height, for twitter bootstrap */
+  line-height: inherit;
+ 
+  /* Animation center compensation - margins should be symmetric */
+  /* remove if not needed */
+  margin-left: .2em;
+ 
+  /* you can be more comfortable with increased icons size */
+  /* font-size: 120%; */
+ 
+  /* Uncomment for 3D effect */
+  /* text-shadow: 1px 1px 1px rgba(127, 127, 127, 0.3);  */
+   
+   cursor:inherit;
+   font-size:inherit;
+}
+
+/* Post info */
+.crycon-author:before { content: '\e801'; } /* '?' */
+.crycon-category:before { content: '\e805'; } /* '?' */
+.crycon-category2:before { content: '\e817'; } /* '?' */
+.crycon-folder-close:before { content: '\e81c'; } /* '?' */
+.crycon-folder-open:before { content: '\e81d'; } /* '?' */
+.crycon-tag:before { content: '\e802'; } /* '?' */
+.crycon-bookmark:before { content: '\e810'; } /* '?' */
+.crycon-edit:before { content: '\e804'; } /* '?' */
+.crycon-comment:before { content: '\e800'; } /* '?' */
+.crycon-comments:before { content: '\e815';} /* '?' */
+.crycon-date:before { content: '\e82b'; } /* '?' */
+.crycon-time:before { content: '\e80d'; } /* '?' */
+.crycon-forward:before { content: '\e81b';-webkit-transform:rotate(180deg)  scale(-1, 1);-ms-transform:rotate(180deg)  scale(-1, 1);transform:rotate(180deg) scale(-1, 1);margin-left:5px;font-size:10px;
+-moz-transition:.2s margin ease; -o-transition:.2s margin ease; -webkit-transition:.2s margin ease; transition:.2s margin ease; } /* '?' */
+.crycon-reply:before { content: '\e81b';transform:rotate(180deg);-webkit-transform:rotate(180deg);-ms-transform:rotate(180deg);margin-right:5px;font-size:10px;
+-moz-transition:.2s margin ease; -o-transition:.2s margin ease; -webkit-transition:.2s margin ease; transition:.2s margin ease; } /* '?' */
+
+/* Post metas */
+.crycon-metas:before {
+	font-size: 13px;
+	line-height: 1;
+	cursor: default;
+	margin-right: 8px;
+	color: #555;
+}
+
+.crycon-time:before,.crycon-folder-close:before, .crycon-folder-open:before {font-size:14px; } /* '?' */
+.crycon-time:before {margin-top:1px; } /* '?' */
+.crycon-edit:before {margin-right:1px; } /* '?' */
+
+/* Post formats */
+.crycon-status:before { content: '\e81a'; } /* '?' */
+.crycon-aside:before { content: '\e82a'; } /* '?' */
+.crycon-link:before { content: '\e818'; } /* '?' */
+.crycon-audio:before { content: '\e823'; } /* '?' */
+.crycon-video:before { content: '\e829'; } /* '?' */
+.crycon-image:before { content: '\e824'; } /* '?' */
+.crycon-gallery:before { content: '\e825'; } /* '?' */
+.crycon-quote:before { content: '\e80f'; } /* '?' */
+
+/* Misc */
+.crycon-search:before { content: '\e816'; } /* '?' */
+.crycon-down-dir:before { content: '\e803'; } /* '?' */
+.crycon-right-dir:before { content: '\e806'; } /* '?' */
+.crycon-angle-left:before { content: '\e807'; } /* '?' */
+.crycon-angle-right:before { content: '\e808'; } /* '?' */
+.crycon-angle-up:before { content: '\e809'; } /* '?' */
+.crycon-angle-down:before { content: '\e80a'; } /* '?' */
+.crycon-minus:before { content: '\e80b'; } /* '?' */
+.crycon-left-open:before { content: '\e80c'; } /* '?' */
+.crycon-up:before { content: '\e80e'; } /* '?' */
+.crycon-left-dir:before { content: '\e811'; } /* '?' */
+.crycon-up-open:before { content: '\e812'; } /* '?' */
+.crycon-ok:before { content: '\e813'; } /* '?' */
+.crycon-cancel:before { content: '\e814'; } /* '?' */
+.crycon-up-dir:before { content: '\e819'; } /* '?' */
+.crycon-right-open:before { content: '\e81e'; } /* '?' */
+.crycon-home:before { content: '\e81f'; } /* '?' */
+.crycon-menu:before { content: '\e820'; } /* '?' */
+.crycon-plus:before { content: '\e821'; } /* '?' */
+.crycon-down-open:before { content: '\e822'; } /* '?' */
+.crycon-down:before { content: '\e826'; } /* '?' */
+.crycon-left:before { content: '\e827'; } /* '?' */
+.crycon-right:before { content: '\e828'; } /* '?' */
+.crycon-star-empty:before { content: '\e82c'; } /* '?' */
+.crycon-star:before { content: '\e82d'; } /* '?' */
+.crycon-mail:before { content: '\e82e'; } /* '?' */
+.crycon-home-1:before { content: '\e82f'; } /* '?' */
+.crycon-attach:before { content: '\e830'; } /* '?' */
+.crycon-eye:before { content: '\e831'; } /* '?' */
+.crycon-eye-off:before { content: '\e832'; } /* '?' */
+.crycon-tags:before { content: '\e833'; } /* '?' */
+.crycon-flag:before { content: '\e834'; } /* '?' */
+.crycon-warning:before { content: '\e835'; } /* '?' */
+.crycon-location:before { content: '\e836'; } /* '?' */
+.crycon-trash:before { content: '\e837'; } /* '?' */
+.crycon-doc:before { content: '\e838'; } /* '?' */
+.crycon-phone:before { content: '\e839'; } /* '?' */
+.crycon-cog:before { content: '\e83a'; } /* '?' */
+.crycon-basket:before { content: '\e83b'; } /* '?' */
+.crycon-basket-circled:before { content: '\e83c'; } /* '?' */
+.crycon-wrench:before { content: '\e83d'; } /* '?' */
+.crycon-wrench-circled:before { content: '\e83e'; } /* '?' */
+.crycon-mic:before { content: '\e83f'; } /* '?' */
+.crycon-volume:before { content: '\e840'; } /* '?' */
+.crycon-volume-down:before { content: '\e841'; } /* '?' */
+.crycon-volume-off:before { content: '\e842'; } /* '?' */
+.crycon-headphones:before { content: '\e843'; } /* '?' */
+.crycon-lightbulb:before { content: '\e844'; } /* '?' */
+.crycon-resize-full:before { content: '\e845'; } /* '?' */
+.crycon-resize-full-alt:before { content: '\e846'; } /* '?' */
+.crycon-resize-small:before { content: '\e847'; } /* '?' */
+.crycon-resize-vertical:before { content: '\e848'; } /* '?' */
+.crycon-resize-horizontal:before { content: '\e849'; } /* '?' */
+.crycon-move:before { content: '\e84a'; } /* '?' */
+.crycon-zoom-in:before { content: '\e84b'; } /* '?' */
+.crycon-zoom-out:before { content: '\e84c'; } /* '?' */
+.crycon-arrows-cw:before { content: '\e84d'; } /* '?' */
+.crycon-desktop:before { content: '\e84e'; } /* '?' */
+.crycon-inbox:before { content: '\e84f'; } /* '?' */
+.crycon-cloud:before { content: '\e850'; } /* '?' */
+.crycon-book:before { content: '\e851'; } /* '?' */
+.crycon-certificate:before { content: '\e852'; } /* '?' */
+.crycon-tasks:before { content: '\e853'; } /* '?' */
+.crycon-thumbs-up:before { content: '\e854'; } /* '?' */
+.crycon-thumbs-down:before { content: '\e855'; } /* '?' */
+.crycon-help-circled:before { content: '\e856'; } /* '?' */
+.crycon-star-circled:before { content: '\e857'; } /* '?' */
+.crycon-bell:before { content: '\e858'; } /* '?' */
+.crycon-rss:before { content: '\e859'; } /* '?' */
+.crycon-trash-circled:before { content: '\e85a'; } /* '?' */
+.crycon-cogs:before { content: '\e85b'; } /* '?' */
+.crycon-cog-circled:before { content: '\e85c'; } /* '?' */
+.crycon-calendar-circled:before { content: '\e85d'; } /* '?' */
+.crycon-mic-circled:before { content: '\e85e'; } /* '?' */
+.crycon-volume-up:before { content: '\e85f'; } /* '?' */
+.crycon-print:before { content: '\e860'; } /* '?' */
+.crycon-edit-alt:before { content: '\e861'; } /* '?' */
+.crycon-edit-2:before { content: '\e862'; } /* '?' */
+.crycon-block:before { content: '\e863'; } /* '?' */
+
+
+ 

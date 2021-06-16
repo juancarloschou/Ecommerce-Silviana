@@ -1,0 +1,56 @@
+<wpml-config> 
+    <admin-texts>
+        <key name="nirvana_settings">
+			<key name="nirvana_logoupload" />
+			<key name="nirvana_favicon" />
+			<key name="nirvana_frontmoreposts" />
+		
+            <key name="nirvana_sliderimg1" />
+            <key name="nirvana_slidertitle1" />
+     	    <key name="nirvana_slidertext1" />
+           	<key name="nirvana_sliderlink1" />
+            <key name="nirvana_sliderimg2" />
+            <key name="nirvana_slidertitle2" />
+            <key name="nirvana_slidertext2" />
+            <key name="nirvana_sliderlink2" />
+            <key name="nirvana_sliderimg3" />
+            <key name="nirvana_slidertitle3" />
+            <key name="nirvana_slidertext3" />
+            <key name="nirvana_sliderlink3" />
+            <key name="nirvana_sliderimg4" />
+            <key name="nirvana_slidertitle4" />
+            <key name="nirvana_slidertext4" />
+            <key name="nirvana_sliderlink4" />
+            <key name="nirvana_sliderimg5" />
+            <key name="nirvana_slidertitle5" />
+            <key name="nirvana_slidertext5" />
+            <key name="nirvana_sliderlink5" />
+            <key name="nirvana_slidereadmore" />
+			
+            <key name="nirvana_columnstitle" />
+            <key name="nirvana_fronttext1" />
+            <key name="nirvana_fronttext3" />
+            <key name="nirvana_fronttext2" />
+            <key name="nirvana_fronttext4" />
+            <key name="nirvana_fronttext5" />
+            <key name="nirvana_fronttext6" />
+			
+            <key name="nirvana_excerptcont" />
+			<key name="nirvana_columnreadmore" />
+			
+            <key name="nirvana_social2" />
+            <key name="nirvana_social_title1" />
+            <key name="nirvana_social4" />
+            <key name="nirvana_social_title3" />
+            <key name="nirvana_social6" />
+            <key name="nirvana_social_title5" />
+            <key name="nirvana_social8" />
+            <key name="nirvana_social_title7" />
+            <key name="nirvana_social10" />
+            <key name="nirvana_social_title9" />
+
+            <key name="nirvana_copyright" />			
+			
+        </key>
+    </admin-texts>  
+</wpml-config>

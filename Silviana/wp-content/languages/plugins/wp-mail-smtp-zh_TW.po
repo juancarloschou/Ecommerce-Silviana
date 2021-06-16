@@ -1,0 +1,528 @@
+# Translation of Plugins - WP Mail SMTP by WPForms - Development (trunk) in Chinese (Taiwan)
+# This file is distributed under the same license as the Plugins - WP Mail SMTP by WPForms - Development (trunk) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2018-01-25 08:33:38+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: zh_TW\n"
+"Project-Id-Version: Plugins - WP Mail SMTP by WPForms - Development (trunk)\n"
+
+#: src/Admin/Pages/Test.php:134
+msgid "There was a problem while sending a test email. Related debugging output is shown below:"
+msgstr "傳送測試電子郵件時發生問題，相關的偵錯資訊顯示如下:"
+
+#: src/Providers/OptionsAbstract.php:208
+msgid "By default TLS encryption is automatically used if the server supports it, which is recommended. In some cases, due to server misconfigurations, this can cause issues and may need to be disabled."
+msgstr "依照預設，如果伺服器支援 TLS (建議採用)，便會自動使用 TLS 加密。在某些情況下，由於伺服器設定錯誤導致 TLS 加密可能會造成問題，這時便會需要停用 TLS 加密。"
+
+#: src/Providers/OptionsAbstract.php:194
+msgid "Auto TLS"
+msgstr "自動 TLS"
+
+#: src/Providers/OptionsAbstract.php:186
+msgid "For most servers TLS is the recommended option. If your SMTP provider offers both SSL and TLS options, we recommend using TLS."
+msgstr "對多數的伺服器來說，TLS 是建議設定。如果 SMTP 服務提供商同時提供了 SSL 及 TLS 設定，建議採用 TLS。"
+
+#: src/Admin/Pages/Test.php:136
+msgid "Please copy only the content of the error debug message above, identified with an orange left border, into the support forum topic if you experience any issues."
+msgstr "如果你遇到任何問題，僅須複製上方以橙色左框線標註的偵錯訊息內容，然後發表於技術支援論壇時附上即可。"
+
+#. translators: %s - SendGrid access level.
+#: src/Providers/Sendgrid/Options.php:79
+msgid "To send emails you will need only a %s access level for this API key."
+msgstr "僅需取得 %s 存取層級的 API 金鑰，便能傳送郵件。"
+
+#: src/Providers/Sendgrid/Options.php:71
+msgid "Create API Key"
+msgstr "建立 API 金鑰"
+
+#. translators: %s - API key link.
+#: src/Providers/Sendgrid/Options.php:69
+msgid "Follow this link to get an API Key from SendGrid: %s."
+msgstr "請依照《%s》(英文) 中的指示，從 SendGrid 取得 API 金鑰。"
+
+#: src/Providers/Sendgrid/Options.php:57
+msgid "API Key"
+msgstr "API 金鑰"
+
+#. translators: %1$s - opening link tag; %2$s - closing link tag; %3$s -
+#. opening link tag; %4$s - closing link tag.
+#: src/Providers/Sendgrid/Options.php:29
+msgid "%1$sSendGrid%2$s is one of the leading transactional email services, sending over 35 billion emails every month. They provide users 100 free emails per month.<br><br>Read our %3$sSendGrid documentation%4$s to learn how to set up SendGrid and improve your email deliverability."
+msgstr "%1$sMailgun%2$s 是觸發式電子郵件服務的領導品牌之一，它提供使用者每天 100 封電子郵件的免費寄送額度，且每月處理超過 350 億封電子郵件。<br><br>請參閱這份 %3$sSendGrid 線上說明文件%4$s，以瞭解如何設定 SendGrid 及改善電子郵件寄達率。"
+
+#: src/Providers/Sendgrid/Options.php:25
+msgid "SendGrid"
+msgstr "SendGrid"
+
+#. translators: %1$s - opening link tag; %2$s - closing link tag.
+#: src/Providers/SMTP/Options.php:29
+msgid "Use the SMTP details provided by your hosting provider or email service.<br><br>To see recommended settings for the popular services as well as troubleshooting tips, check out our %1$sSMTP documentation%2$s."
+msgstr "請輸入主機或電子郵件服務提供商所提供的詳細資訊。<br><br>如需查閱常用服務的建議設定及疑難排解提示，請參閱這份 %1$sSMTP 線上說明文件%2$s (英文)。"
+
+#: src/Providers/SMTP/Options.php:25
+msgid "Other SMTP"
+msgstr "其他 SMTP"
+
+#: src/Providers/Pepipost/Options.php:25
+msgid "Pepipost"
+msgstr "Pepipost"
+
+#: src/Providers/OptionsAbstract.php:307
+msgid "Meanwhile you can switch to the \"Other SMTP\" Mailer option."
+msgstr "同時你可以切換至 [其他 SMTP] 郵件程式設定。"
+
+#. translators: %1$s - Provider name; %2$s - PHP version required by Provider;
+#. %3$s - current PHP version.
+#: src/Providers/OptionsAbstract.php:300
+msgid "%1$s requires PHP %2$s to work and does not support your current PHP version %3$s. Please contact your host and request a PHP upgrade to the latest one."
+msgstr "%1$s 須要 PHP %2$s (或更新版本) 才能正確執行，它不支援這台主機目前所使用的 PHP %3$s。請聯絡你的主機服務商，並提出將 PHP 升級至最新版的要求。"
+
+#. translators: %s - wp-config.php.
+#: src/Providers/OptionsAbstract.php:263
+msgid "The password is stored in plain text. We highly recommend you setup your password in your WordPress configuration file for improved security; to do this add the lines below to your %s file."
+msgstr "在這個欄位中所輸入的密碼，會以純文字儲存。強烈建議你將密碼設定於 WordPress 設定檔中以提高安全性。如需進行這項設定，請將以下內容加入 %s 檔案中。"
+
+#: src/Providers/OptionsAbstract.php:249
+msgid "SMTP Password"
+msgstr "SMTP 密碼"
+
+#: src/Providers/OptionsAbstract.php:235
+msgid "SMTP Username"
+msgstr "SMTP 使用者名稱"
+
+#: src/Providers/OptionsAbstract.php:205 src/Providers/OptionsAbstract.php:227
+msgid "Off"
+msgstr "停用"
+
+#: src/Providers/OptionsAbstract.php:204 src/Providers/OptionsAbstract.php:226
+msgid "On"
+msgstr "啟用"
+
+#: src/Providers/OptionsAbstract.php:182
+msgid "TLS"
+msgstr "TLS"
+
+#: src/Providers/OptionsAbstract.php:173
+msgid "SSL"
+msgstr "SSL"
+
+#: src/Providers/OptionsAbstract.php:164
+msgid "None"
+msgstr "無"
+
+#: src/Providers/Mailgun/Options.php:96
+msgid "Get a Domain Name"
+msgstr "取得網域名稱"
+
+#. translators: %s - Domain Name link.
+#: src/Providers/Mailgun/Options.php:94
+msgid "Follow this link to get a Domain Name from Mailgun: %s."
+msgstr "請依照《%s》(英文) 中的指示，從 Mailgun 取得網域名稱。"
+
+#: src/Providers/Mailgun/Options.php:82
+msgid "Domain Name"
+msgstr "網域名稱"
+
+#: src/Providers/Mailgun/Options.php:71
+msgid "Get a Private API Key"
+msgstr "取得私密 API 金鑰"
+
+#. translators: %s - API key link.
+#: src/Providers/Mailgun/Options.php:69
+msgid "Follow this link to get an API Key from Mailgun: %s."
+msgstr "請依照《%s》(英文) 中的指示，從 Mailgun 取得 API 金鑰。"
+
+#: src/Providers/Mailgun/Options.php:57
+msgid "Private API Key"
+msgstr "私密 API 金鑰"
+
+#. translators: %1$s - opening link tag; %2$s - closing link tag; %3$s -
+#. opening link tag; %4$s - closing link tag.
+#: src/Providers/Mailgun/Options.php:29
+msgid "%1$sMailgun%2$s is one of the leading transactional email services trusted by over 10,000 website and application developers. They provide users 10,000 free emails per month.<br><br>Read our %3$sMailgun documentation%4$s to learn how to configure Mailgun and improve your email deliverability."
+msgstr "%1$sMailgun%2$s 是觸發式電子郵件服務的領導品牌之一，它提供使用者每月 10000 封電子郵件的免費寄送額度，深受網站管理員及應用程式開發人員的信賴。<br><br>請參閱這份 %3$sMailgun 線上說明文件%4$s，以瞭解如何設定 Mailgun 及改善電子郵件寄達率。"
+
+#: src/Providers/Mailgun/Options.php:25
+msgid "Mailgun"
+msgstr "Mailgun"
+
+#: src/Providers/Mail/Options.php:37
+msgid "You currently have the native WordPress option selected. Please select any other Mailer option above to continue the setup."
+msgstr "你選取了 WordPress 的原始設定。請選取上方的其他郵件程式，然後加以設定。"
+
+#: src/Providers/Mail/Options.php:25
+msgid "Default (none)"
+msgstr "預設 (無)"
+
+#: src/Providers/Gmail/Options.php:123
+msgid "Click the button above to confirm authorization."
+msgstr "按一下上方按鈕以確認授權。"
+
+#: src/Providers/Gmail/Options.php:120
+msgid "Allow plugin to send emails using your Google account"
+msgstr "授予這個外掛使用你的 Google 帳戶傳送電子郵件的權限"
+
+#: src/Providers/Gmail/Options.php:116
+msgid "Authorize"
+msgstr "授權"
+
+#: src/Providers/Gmail/Options.php:106
+msgid "You need to copy this URL into \"Authorized redirect URIs\" field for you web application on Google APIs site for your project there."
+msgstr "請將這個網址複製到 Google API 網站上的網路應用程式專案的 [已授權的重新導向 URI] 欄位。"
+
+#: src/Providers/Gmail/Options.php:104
+msgid "This is the path on your site that you will be redirected to after you have authenticated with Google."
+msgstr "這是你與 Google 進行驗證後，要重新導向至你的網站的路徑。"
+
+#: src/Providers/Gmail/Options.php:99
+msgid "Copy URL to clipboard"
+msgstr "複製網址至剪貼簿"
+
+#: src/Providers/Gmail/Options.php:91
+msgid "Authorized redirect URI"
+msgstr "已授權的重新導向 URI"
+
+#: src/Providers/Gmail/Options.php:77
+msgid "Client Secret"
+msgstr "用戶端密碼"
+
+#: src/Providers/Gmail/Options.php:63
+msgid "Client ID"
+msgstr "用戶端 ID"
+
+#. translators: %1$s - opening link tag; %2$s - closing link tag.
+#: src/Providers/Gmail/Options.php:29
+msgid "Send emails using your Gmail or G Suite (formerly Google Apps) account, all while keeping your login credentials safe. Other Google SMTP methods require enabling less secure apps in your account and entering your password. However, this integration uses the Google API to improve email delivery issues while keeping your site secure.<br><br>Read our %1$sGmail documentation%2$s to learn how to configure Gmail or G Suite."
+msgstr "使用 Gmail API 透過 Gmail 或 G Suite (之前的 Google Apps) 帳戶傳送電子郵件，傳送郵件同時還能保障帳戶登入憑證的安全。透過其他 Google SMTP 方法傳送郵件，必須在你的帳戶中啟用安全性較低的應用程式，並在其中輸入 Google 帳戶及密碼。但是使用 Gmail API 除了能改善傳送郵件的問題外，還能保障網站安全。<br><br>請參考這份 %1$sGmail API 設定教學%2$s (英文)，為你的 Gmail 或 G Suite 進行設定。"
+
+#: src/Admin/Pages/Test.php:127
+msgid "Your email was sent successfully!"
+msgstr "電子郵件已傳送成功！"
+
+#. translators: %s - mailer name.
+#: src/Admin/Pages/Test.php:114
+msgid "This email was sent by %s mailer, and generated by the WP Mail SMTP WordPress plugin."
+msgstr "這封電子郵件由 WordPress 外掛 WP Mail SMTP 自動產生、%s 郵件程式所傳送。"
+
+#. translators: %s - email address a test email will be sent to.
+#: src/Admin/Pages/Test.php:111
+msgid "Test email to %s"
+msgstr "傳送給 %s 的測試電子郵件"
+
+#: src/Admin/Pages/Test.php:87
+msgid "Test failed. Please use a valid email address and try to resend the test email."
+msgstr "測試失敗。請輸入有效的電子郵件地址並重新傳送測試電子郵件。"
+
+#: src/Admin/Pages/Test.php:67
+msgid "Send Email"
+msgstr "傳送電子郵件"
+
+#: src/Admin/Pages/Test.php:61
+msgid "Type an email address here and then click a button below to generate a test email."
+msgstr "在此輸入電子郵件地址，然後按一下 [傳送電子郵件] 以產生測試用電子郵件。"
+
+#: src/Admin/Pages/Test.php:56
+msgid "Send To"
+msgstr "收件者"
+
+#: src/Admin/Pages/Test.php:27
+msgid "Email Test"
+msgstr "電子郵件測試"
+
+#: src/Admin/Pages/Settings.php:155
+msgid "If unchecked bounce messages may be lost."
+msgstr "如果未啟用這項設定，退回的郵件將會遺失。"
+
+#. translators: %s - WordPress.
+#: src/Admin/Pages/Settings.php:98
+msgid "If you leave this blank, the emails will be sent from %s."
+msgstr "如果此欄位留空，會將寄件者顯示為 %s。"
+
+#: src/Admin/Pages/Settings.php:94
+msgid "You can specify the name that emails should be sent from."
+msgstr "請在此設定寄件者的電子郵件地址。"
+
+#: src/Admin/Pages/Settings.php:77
+msgid "Please note if you are sending using an email provider (Gmail, Yahoo, Hotmail, Outlook.com, etc) this setting should be your email address for that account."
+msgstr "請注意，如果你採用了 Gmail、Yahoo、Hotmail、Outlook.com 等電子郵件服務提供商寄送郵件，這項設定必須是該服務帳號的電子郵件地址。"
+
+#. translators: %s - default email address.
+#: src/Admin/Pages/Settings.php:71
+msgid "If you leave this blank, the default one will be used: %s."
+msgstr "如果此欄位留空，將以預設的 %s 傳送郵件。"
+
+#: src/Admin/Pages/Settings.php:67
+msgid "You can specify the email address that emails should be sent from."
+msgstr "請在此設定寄件者的電子郵件地址。"
+
+#: src/Admin/Pages/Settings.php:51
+msgid "Mail"
+msgstr "郵件"
+
+#: src/Admin/Pages/Misc.php:95 src/Admin/Pages/Settings.php:251
+msgid "Settings were successfully saved."
+msgstr "設定已成功儲存。"
+
+#: src/Admin/Pages/Misc.php:67 src/Admin/Pages/Settings.php:185
+msgid "Save Settings"
+msgstr "儲存設定"
+
+#: src/Admin/Pages/Misc.php:48
+msgid "General"
+msgstr "一般"
+
+#: src/Admin/Pages/Misc.php:24
+msgid "Misc"
+msgstr "雜項"
+
+#. translators: %1$s - WP.org link; %2$s - same WP.org link.
+#: src/Admin/Area.php:199
+msgid "Please rate <strong>WP Mail SMTP</strong> <a href=\"%1$s\" target=\"_blank\" rel=\"noopener noreferrer\">&#9733;&#9733;&#9733;&#9733;&#9733;</a> on <a href=\"%2$s\" target=\"_blank\">WordPress.org</a> to help us spread the word. Thank you from the WP Mail SMTP team!"
+msgstr "請於 <a href=\"%2$s\" target=\"_blank\">WordPress.org</a> 上將 <strong>WP Mail SMTP</strong> <a href=\"%1$s\" target=\"_blank\" rel=\"noopener noreferrer\">評為五星</a>，以協助我們的宣傳。WP Mail SMTP 開發團隊在此先行致謝！"
+
+#: src/Admin/Area.php:126
+msgid "WP Mail SMTP Options"
+msgstr "WP Mail SMTP 設定"
+
+#: src/Admin/Area.php:111
+msgid "You have successfully linked the current site with your Google API project. Now you can start sending emails through Google."
+msgstr "這個網站已成功與 Google API 專案進行連結，現在你可以開始透過 Google 傳送電子郵件。"
+
+#: src/Admin/Area.php:102
+msgid "There was an error while processing the authentication request. Please make sure that you have Client ID and Client Secret both valid and saved."
+msgstr "處理驗證要求時發生錯誤，請確認你填寫的用戶端 ID 及用戶端密碼均為有效且已正確儲存。"
+
+#: src/Admin/Area.php:95
+msgid "There was an error while processing the authentication request. Please try again."
+msgstr "處理驗證要求時發生錯誤，請稍後再試。"
+
+#. translators: %s - error code, returned by Google API.
+#: src/Admin/Area.php:88
+msgid "There was an error while processing the authentication request: %s. Please try again."
+msgstr "處理 %s 的驗證要求時發生錯誤，請稍後再試。"
+
+#: src/Admin/Pages/Misc.php:62 wp_mail_smtp.php:405
+msgid "Check this if you would like to hide plugin announcements and update details."
+msgstr "啟用這項設定後，便會隱藏外掛相關通知及更新詳細資訊。"
+
+#: src/Admin/Pages/Misc.php:55 wp_mail_smtp.php:395 wp_mail_smtp.php:400
+msgid "Hide Announcements"
+msgstr "隱藏通知"
+
+#. Author of the plugin/theme
+msgid "WPForms"
+msgstr "WPForms"
+
+#. #-#-#-#-#  wp-mail-smtp-code.pot (WP Mail SMTP 1.2.5)  #-#-#-#-#
+#. Plugin URI of the plugin/theme
+#. #-#-#-#-#  wp-mail-smtp-code.pot (WP Mail SMTP 1.2.5)  #-#-#-#-#
+#. Author URI of the plugin/theme
+msgid "https://wpforms.com/"
+msgstr "https://wpforms.com/"
+
+#. translators: %1$s - WP Mail SMTP plugin name; %2$s - opening a link tag;
+#. %3$s - closing a link tag.
+#: wp_mail_smtp.php:824
+msgid "Your site is running an outdated version of PHP that is no longer supported and may cause issues with %1$s. %2$sRead more%3$s for additional information."
+msgstr "這個網站執行於不再支援的舊版 PHP 環境，這會造成 %1$s 無法正確運作。請參閱%2$s這份文件%3$s (英文) 以取得更多資訊。"
+
+#: wp_mail_smtp.php:606
+msgid "To"
+msgstr "收件者"
+
+#. translators: %s - Pepipost registration URL.
+#: wp_mail_smtp.php:526
+msgid "You need to signup on %s to get the SMTP username/password."
+msgstr "你必須註冊 %s 帳號以取得 SMTP 使用者名稱及密碼。"
+
+#: wp_mail_smtp.php:520
+msgid "Pepipost SMTP Options"
+msgstr "Pepipost SMTP 設定"
+
+#: wp_mail_smtp.php:506
+msgid "This is in plain text because it must not be stored encrypted."
+msgstr "由於不須加密儲存，所以這是純文字欄位。"
+
+#: wp_mail_smtp.php:462
+msgid "TLS is not the same as STARTTLS. For most servers SSL is the recommended option."
+msgstr "TLS 與 STARTTLS 並不相同。對大多數的伺服器來說，建議使用 SSL 加密。"
+
+#: wp_mail_smtp.php:459 wp_mail_smtp.php:581
+msgid "Use TLS encryption."
+msgstr "使用 TLS 加密。"
+
+#: src/Admin/Pages/Settings.php:154 wp_mail_smtp.php:385
+msgid "Return Path indicates where non-delivery receipts - or bounce messages - are to be sent."
+msgstr "傳回路徑會指出未傳送的收件者或退回的郵件會傳送至何處。"
+
+#. translators: %1$s - link start; %2$s - link end.
+#: wp_mail_smtp.php:356
+msgid "Looking for high inbox delivery? Try Pepipost with easy setup and free emails. Learn more %1$shere%2$s."
+msgstr "需要大量郵件寄送方案？你可以試用設定簡單並提供免費電子郵件傳送額度的 Pepipost。按一下%1$s這裡%2$s以進一步瞭解。"
+
+#: wp_mail_smtp.php:350
+msgid "Use Pepipost SMTP to send emails."
+msgstr "使用 Pepipost SMTP 傳送電子郵件。"
+
+#: wp_mail_smtp.php:287 wp_mail_smtp.php:652
+msgid "WP Mail SMTP Settings"
+msgstr "WP Mail SMTP 設定"
+
+#. Description of the plugin/theme
+msgid "Reconfigures the wp_mail() function to use SMTP instead of mail() and creates an options page to manage the settings."
+msgstr "重新設定 wp_mail() 函式取代 mail() 以使用 SMTP，並提供設定頁以管理相關設定。繁體中文本地化由「<a href=\"https://www.alexclassroom.com/\" target=\"_blank\">阿力獅的教室</a>」站長<a href=\"https://www.facebook.com/captain.alexlion\" target=\"_blank\">阿力獅</a>提供。"
+
+#. #-#-#-#-#  wp-mail-smtp-code.pot (WP Mail SMTP 1.2.5)  #-#-#-#-#
+#. Plugin Name of the plugin/theme
+#: src/Admin/Area.php:127 wp_mail_smtp.php:652
+msgid "WP Mail SMTP"
+msgstr "WP Mail SMTP"
+
+#: src/Admin/Area.php:370 src/Admin/Pages/Settings.php:26 wp_mail_smtp.php:758
+msgid "Settings"
+msgstr "設定"
+
+#: src/Providers/Gmail/Options.php:25
+msgid "Gmail"
+msgstr "Gmail"
+
+#: wp_mail_smtp.php:610
+msgid "Type an email address here and then click Send Test to generate a test email."
+msgstr "在此輸入電子郵件地址，然後按一下 [傳送測試] 以產生測試用電子郵件。"
+
+#: src/Admin/Pages/Test.php:49 wp_mail_smtp.php:598
+msgid "Send a Test Email"
+msgstr "傳送測試郵件"
+
+#: wp_mail_smtp.php:413 wp_mail_smtp.php:513 wp_mail_smtp.php:589
+msgid "Save Changes"
+msgstr "儲存變更"
+
+#: wp_mail_smtp.php:500 wp_mail_smtp.php:543
+msgid "Password"
+msgstr "密碼"
+
+#: wp_mail_smtp.php:492 wp_mail_smtp.php:535
+msgid "Username"
+msgstr "使用者名稱"
+
+#: wp_mail_smtp.php:485
+msgid "If this is set to no, the values below are ignored."
+msgstr "如果設定為 [否]，下方設定會全部予以忽略。"
+
+#: wp_mail_smtp.php:481
+msgid "Yes: Use SMTP authentication."
+msgstr "是，使用 SMTP 驗證。"
+
+#: wp_mail_smtp.php:476
+msgid "No: Do not use SMTP authentication."
+msgstr "否，不使用 SMTP 驗證。"
+
+#: src/Providers/OptionsAbstract.php:216 wp_mail_smtp.php:467
+#: wp_mail_smtp.php:471
+msgid "Authentication"
+msgstr "驗證"
+
+#: wp_mail_smtp.php:454 wp_mail_smtp.php:576
+msgid "Use SSL encryption."
+msgstr "使用 SSL 加密。"
+
+#: wp_mail_smtp.php:449 wp_mail_smtp.php:571
+msgid "No encryption."
+msgstr "不加密。"
+
+#: src/Providers/OptionsAbstract.php:154 wp_mail_smtp.php:440
+#: wp_mail_smtp.php:444 wp_mail_smtp.php:559 wp_mail_smtp.php:565
+msgid "Encryption"
+msgstr "加密方式"
+
+#: src/Providers/OptionsAbstract.php:140 wp_mail_smtp.php:433
+#: wp_mail_smtp.php:551
+msgid "SMTP Port"
+msgstr "SMTP 通訊埠"
+
+#: src/Providers/OptionsAbstract.php:126 wp_mail_smtp.php:425
+msgid "SMTP Host"
+msgstr "SMTP 主機"
+
+#: wp_mail_smtp.php:420
+msgid "These options only apply if you have chosen to send mail by SMTP above."
+msgstr "以下設定僅在上方選取以 SMTP 傳送郵件才會生效。"
+
+#: wp_mail_smtp.php:418
+msgid "SMTP Options"
+msgstr "SMTP 設定"
+
+#: src/Admin/Pages/Settings.php:151 wp_mail_smtp.php:381
+msgid "Set the return-path to match the From Email"
+msgstr "設定傳回路徑以符合寄件者電子郵件"
+
+#: src/Admin/Pages/Settings.php:142 wp_mail_smtp.php:371 wp_mail_smtp.php:376
+msgid "Return Path"
+msgstr "傳回路徑"
+
+#: wp_mail_smtp.php:344
+msgid "Use the PHP mail() function to send emails."
+msgstr "使用 PHP mail() 函式傳送電子郵件。"
+
+#: wp_mail_smtp.php:340
+msgid "Send all WordPress emails via SMTP."
+msgstr "透過 SMTP 傳送所有 WordPress 電子郵件。"
+
+#: src/Admin/Pages/Settings.php:109 wp_mail_smtp.php:330 wp_mail_smtp.php:335
+msgid "Mailer"
+msgstr "郵件程式"
+
+#: wp_mail_smtp.php:321
+msgid "You can specify the name that emails should be sent from. If you leave this blank, the emails will be sent from WordPress."
+msgstr "請在此設定寄件者的電子郵件地址。如果此欄位留空，會將寄件者顯示為 WordPress。"
+
+#: src/Admin/Pages/Settings.php:85 wp_mail_smtp.php:315
+msgid "From Name"
+msgstr "寄件者名稱"
+
+#: wp_mail_smtp.php:306
+msgid "<strong>Please Note:</strong> You appear to be using a version of WordPress prior to 2.3. Please ignore the From Name field and instead enter Name&lt;email@domain.com&gt; in this field."
+msgstr "<strong>請注意:</strong> 你使用的 WordPress 為 2.3 版或更早之前的版本。請忽略 [寄件者名稱] 欄位並在此欄位改以輸入「寄件者名稱&lt;email@domain.com&gt;」取代。範例: 阿力獅&lt;fales@alexclassroom.com&gt;。"
+
+#: wp_mail_smtp.php:303
+msgid "You can specify the email address that emails should be sent from. If you leave this blank, the default email will be used."
+msgstr "請在此設定寄件者的電子郵件地址。如果此欄位留空，將以預設的電子郵件地址傳送郵件。"
+
+#: src/Admin/Pages/Settings.php:58 wp_mail_smtp.php:296
+msgid "From Email"
+msgstr "寄件者電子郵件"
+
+#: wp_mail_smtp.php:275
+msgid "The SMTP debugging output is shown below:"
+msgstr "SMTP 偵錯資訊顯示如下:"
+
+#: wp_mail_smtp.php:272
+msgid "The full debugging output is shown below:"
+msgstr "完整的偵錯資訊顯示如下:"
+
+#: wp_mail_smtp.php:269
+msgid "The result was:"
+msgstr "結果:"
+
+#: wp_mail_smtp.php:268
+msgid "Test Message Sent"
+msgstr "測試訊息已傳送"
+
+#: wp_mail_smtp.php:252
+msgid "This is a test email generated by the WP Mail SMTP WordPress plugin."
+msgstr "這封測試郵件由 WordPress 外掛 WP Mail SMTP 自動產生。"
+
+#. translators: %s - email address where test mail will be sent to.
+#: wp_mail_smtp.php:251
+msgid "Test mail to %s"
+msgstr "測試郵件的收件者為 %s"
+
+#: wp_mail_smtp.php:242 wp_mail_smtp.php:616
+msgid "Send Test"
+msgstr "傳送測試"

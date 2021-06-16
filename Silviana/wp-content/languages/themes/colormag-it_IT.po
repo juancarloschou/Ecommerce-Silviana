@@ -1,0 +1,1575 @@
+# Translation of Themes - ColorMag in Italian
+# This file is distributed under the same license as the Themes - ColorMag package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2017-06-30 18:57:42+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: it\n"
+"Project-Id-Version: Themes - ColorMag\n"
+
+#. #-#-#-#-#  colormag.pot (ColorMag 1.2.0)  #-#-#-#-#
+#. Theme Name of the plugin/theme
+#: inc/admin/class-colormag-admin.php:355 inc/demo-config.php:24
+msgid "ColorMag"
+msgstr "ColorMag"
+
+#. Description of the plugin/theme
+msgid "ColorMag is a perfect responsive magazine style WordPress theme. Suitable for news, newspaper, magazine, publishing, business and any kind of sites. Get free support at http://themegrill.com/support-forum/ and check the demo at http://demo.themegrill.com/colormag/"
+msgstr "ColorMag è un tema per WordPress perfetto per i magazine. Può anche essere utilizzato per siti web orientati all'informazione periodica, news, giornali online e qualsiasi altra tipologia di contenuto. Per il supporto online gratuito visita http://themegrill.com/support-forum/ per la demo live invece http://demo.themegrill.com/colormag/"
+
+#: inc/customizer.php:132
+msgid "From WordPress Date Setting"
+msgstr "Dalle impostazioni della data di WordPress "
+
+#: inc/customizer.php:131
+msgid "Theme Default Setting"
+msgstr "Impostazioni pedefinite del tema"
+
+#: inc/customizer.php:129
+msgid "Date in header display type:"
+msgstr "Tipo di data visualizzata nell'header:"
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:3520
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr "Installazione in corso del plugin %1$s (%2$d/%3$d)"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:3518
+msgid "All installations have been completed."
+msgstr "Tutte le installazioni sono state completate. "
+
+#. translators: 1: plugin name.
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:3517
+msgid "%1$s installed successfully."
+msgstr "%1$s è stato installato con successo."
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:3515
+msgid "The installation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr "Il processo di installazione è iniziato. A seconda dell'host, questo processo può durare alcuni minuti; attendi con pazienza. "
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:3512
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr "Installazione e attivazione in corso del plugin %1$s (%2$d/%3$d)"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:3510
+msgid "All installations and activations have been completed."
+msgstr "Tutte le installazioni e attivazioni sono state completate. "
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:3509
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:3517
+msgid "Hide Details"
+msgstr "Nascondi i dettagli "
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:3509
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:3517
+msgid "Show Details"
+msgstr "Mostra i dettagli "
+
+#. translators: 1: plugin name.
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:3509
+msgid "%1$s installed and activated successfully."
+msgstr "%1$s è stato installato e attivato con successo."
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:3507
+msgid "The installation and activation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr "Il processo di installazione e attivazione è iniziato. A seconda dell'host, questo processo può durare alcuni minuti; attendi con pazienza. "
+
+#. translators: 1: plugin name.
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:3503
+msgid "The installation of %1$s failed."
+msgstr "L'installazione di %1$s non è andata a buon fine. "
+
+#. translators: 1: plugin name, 2: error message.
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:3501
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr "Si è verificato un errore durante l'installazione di %1$s: <strong>%2$s</strong>."
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:3498
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr "Aggiornamento in corso del plugin %1$s (%2$d/%3$d)"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:3158
+msgid "Plugin activation failed."
+msgstr "L'attivazione del plugin non è andata a buon fine."
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2934
+msgid "No plugins are available to be activated at this time."
+msgstr "Al momento, non c'è nessun plugin da attivare."
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2908
+msgid "No plugins were selected to be activated. No action taken."
+msgstr "Non è stato selezionato nessun plugin da attivare. Non è stata compiuta alcuna azione."
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2802
+msgid "No plugins are available to be updated at this time."
+msgstr "Al momento, non c'è nessun plugin da aggiornare."
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2800
+msgid "No plugins are available to be installed at this time."
+msgstr "Al momento, non c'è nessun plugin da installare."
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2759
+msgid "No plugins were selected to be updated. No action taken."
+msgstr "Non è stato selezionato nessun plugin da aggiornare. Non è stata compiuta alcuna azione."
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2757
+msgid "No plugins were selected to be installed. No action taken."
+msgstr "Non è stato selezionato nessun plugin da installare. Non è stata compiuta alcuna azione."
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2726
+msgid "Activate"
+msgstr "Attiva"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2723
+msgid "Update"
+msgstr "Aggiorna"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2614
+msgid "Activate %2$s"
+msgstr "Attiva %2$s"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2608
+msgid "Update %2$s"
+msgstr "Aggiorna %2$s"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2603
+msgid "Install %2$s"
+msgstr "Installa %2$s"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2554
+msgid "Status"
+msgstr "Stato"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2553
+msgid "Version"
+msgstr "Versione"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2549
+msgid "Type"
+msgstr "Tipo"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2548
+msgid "Source"
+msgstr "Sorgente"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2547
+msgid "Plugin"
+msgstr "Plugin"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2533
+msgid "No plugins to install, update or activate."
+msgstr "Non c'è nessun plugin da installare, aggiornare o attivare."
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2510
+msgid "Available version:"
+msgstr "Versione disponibile:"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2498
+msgid "Minimum required version:"
+msgstr "Versione minima richiesta:"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2490
+msgid "Installed version:"
+msgstr "Versione installata:"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2482
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr "Sconosciuto"
+
+#. translators: 1: number of plugins.
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2400
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] "Da attivare <span class=\"count\">(%s)</span>"
+msgstr[1] "Da attivare <span class=\"count\">(%s)</span>"
+
+#. translators: 1: number of plugins.
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2396
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] "Update Available <span class=\"count\">(%s)</span>"
+msgstr[1] "Aggiornamenti disponibili <span class=\"count\">(%s)</span>"
+
+#. translators: 1: number of plugins.
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2392
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] "Da installare <span class=\"count\">(%s)</span>"
+msgstr[1] "Da installare <span class=\"count\">(%s)</span>"
+
+#. translators: 1: number of plugins.
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2388
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] "All <span class=\"count\">(%s)</span>"
+msgstr[1] "Tutti <span class=\"count\">(%s)</span>"
+
+#. translators: 1: install status, 2: update status
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2342
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr "%1$s, %2$s"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2333
+msgid "Update recommended"
+msgstr "Aggiornamento consigliato"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2330
+msgid "Requires Update"
+msgstr "È necessario l'aggiornamento"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2327
+msgid "Required Update not Available"
+msgstr "L'aggiornamento richiesto non p disponibile"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2321
+msgid "Active"
+msgstr "Attiva"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2319
+msgid "Installed But Not Activated"
+msgstr "È installato ma non è attivo"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2315
+msgid "Not Installed"
+msgstr "Non è installato"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2295
+msgid "External Source"
+msgstr "Fonte esterna"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2292
+msgid "WordPress Repository"
+msgstr "Repository di WordPress"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2276
+msgid "Recommended"
+msgstr "Consigliato"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2273
+msgid "Required"
+msgstr "Necessario"
+
+#. translators: %s: version number
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:1982
+msgid "TGMPA v%s"
+msgstr "TGMPA v%s"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:1121
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2948
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr "e"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:934
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:937
+msgid "Please contact the plugin provider and ask them to package their plugin according to the WordPress guidelines."
+msgstr "Contatta il fornitore del plugin e chiedigli di predisporre il plugin secondo le linee guida di WordPress."
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:934
+msgid "The remote plugin package does not contain a folder with the desired slug and renaming did not work."
+msgstr "Il pacchetto remoto del plugin non contiene una cartella con lo slug corretto e l'azione di rinomina non funziona."
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:523
+msgid "Update Required"
+msgstr "È necessario un aggiornamento"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:522
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr "Questo plugin deve essere aggiornato per essere compatibile con il tema."
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:397
+#: inc/tgm-plugin-activation/tgmpa-colormag.php:109
+msgid "Please contact the administrator of this site for help."
+msgstr "Contatta l'amministratore del sito per richiedere aiuto."
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:396
+#: inc/tgm-plugin-activation/tgmpa-colormag.php:108
+msgid "There are one or more required or recommended plugins to install, update or activate."
+msgstr "Ci sono uno o più plugin necessari da installare, aggiornare o attivare."
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:395
+#: inc/tgm-plugin-activation/tgmpa-colormag.php:107
+msgid "Dismiss this notice"
+msgstr "Nascondi questo avviso"
+
+#. translators: 1: dashboard link.
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:394
+#: inc/tgm-plugin-activation/tgmpa-colormag.php:106
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr "Tutti i plugin sono stati installati e attivati con successo. %1$s"
+
+#. translators: 1: plugin name.
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:392
+#: inc/tgm-plugin-activation/tgmpa-colormag.php:104
+msgid "Plugin not activated. A higher version of %s is needed for this theme. Please update the plugin."
+msgstr "Il plugin non è stato attivato. Per questo tema è necessaria una versione successiva di %s. Aggiorna il plugin."
+
+#. translators: 1: plugin name.
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:390
+#: inc/tgm-plugin-activation/tgmpa-colormag.php:102
+msgid "No action taken. Plugin %1$s was already active."
+msgstr "Non è stata compiuta nessuna azione. Il plugin %1$s è già attivo."
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:388
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2952
+#: inc/tgm-plugin-activation/tgmpa-colormag.php:100
+msgid "The following plugin was activated successfully:"
+msgstr "Il plugin seguente è stato attivato con successo:"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:387
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:3159
+#: inc/tgm-plugin-activation/tgmpa-colormag.php:99
+msgid "Plugin activated successfully."
+msgstr "Il plugin è stato attivato con successo."
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:386
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:827
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2533
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:3580
+msgid "Return to the Dashboard"
+msgstr "Ritorna alla Bacheca"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:385
+#: inc/tgm-plugin-activation/tgmpa-colormag.php:98
+msgid "Return to Required Plugins Installer"
+msgstr "Ritorna all'area di installazione dei plugin"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:380
+#: inc/tgm-plugin-activation/tgmpa-colormag.php:93
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] "Inizio dell'attivazione del plugin"
+msgstr[1] "Inizio dell'attivazione dei plugin"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:375
+#: inc/tgm-plugin-activation/tgmpa-colormag.php:88
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] "Inizio dell'aggiornamento del plugin"
+msgstr[1] "Inizio dell'aggiornamento dei plugin"
+
+#. translators: 1: plugin name(s).
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:370
+#: inc/tgm-plugin-activation/tgmpa-colormag.php:83
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] "Inizio dell'installazione del plugin"
+msgstr[1] "Inizio dell'installazione dei plugin"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:333
+#: inc/tgm-plugin-activation/tgmpa-colormag.php:46
+msgid "Something went wrong with the plugin API."
+msgstr "Qualcosa non ha funzionato con le API del plugin."
+
+#. translators: %s: plugin name.
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:332
+#: inc/tgm-plugin-activation/tgmpa-colormag.php:45
+msgid "Updating Plugin: %s"
+msgstr "Aggiornamento del plugin in corso: %s"
+
+#. translators: %s: plugin name.
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:330
+#: inc/tgm-plugin-activation/tgmpa-colormag.php:43
+msgid "Installing Plugin: %s"
+msgstr "Installazione del plugin in corso: %s"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:328
+#: inc/tgm-plugin-activation/tgmpa-colormag.php:41
+msgid "Install Plugins"
+msgstr "Installa i plugin"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:327
+#: inc/tgm-plugin-activation/tgmpa-colormag.php:40
+msgid "Install Required Plugins"
+msgstr "Installa i plugin necessari"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2298
+msgid "Pre-Packaged"
+msgstr "Pre-impacchettato"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2684
+msgid "Upgrade message from the plugin author:"
+msgstr "Messaggio di aggiornamento dall'autore del plugin:"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:937
+msgid "The remote plugin package consists of more than one file, but the files are not packaged in a folder."
+msgstr "Il pacchetto remoto del plugin è composto da più uno o più file, che però non sono archiviati in una cartella."
+
+#: inc/admin/class-colormag-admin.php:186
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2717
+msgid "Install"
+msgstr "Installa"
+
+#: inc/admin/class-colormag-admin.php:184
+msgid "Import Demo"
+msgstr "Importa la Demo"
+
+#: inc/customizer.php:220
+msgid "Responsive Menu Style"
+msgstr "Stile del Menu responsive"
+
+#: inc/admin/class-colormag-admin.php:185
+msgid "Needs ThemeGrill Demo Importer plugin."
+msgstr "Richiede l'installazione del plugin ThemeGrill Demo Importer."
+
+#: inc/customizer.php:233
+msgid "Check to switch to new responsive menu."
+msgstr "Verifica per passare al nuovo menu responsive (che si adatta a tutti i dispositivi mobili)."
+
+#: inc/widgets/widgets.php:821 inc/widgets/widgets.php:921
+#: inc/widgets/widgets.php:1027
+msgid "Choose an image"
+msgstr "Scegli un'immagine"
+
+#: inc/widgets/widgets.php:821 inc/widgets/widgets.php:921
+#: inc/widgets/widgets.php:1027
+msgid "Use image"
+msgstr "Usa immagine"
+
+#: inc/widgets/widgets.php:821 inc/widgets/widgets.php:921
+#: inc/widgets/widgets.php:1027
+msgid "Select an Image"
+msgstr "Seleziona un'immagine"
+
+#: inc/widgets/widgets.php:144
+msgid "Shows widgets just above the footer, suitable for TG: 728x90 Advertisement widget."
+msgstr "Mostra i widget proprio sopra il piè di pagina, adatto per il widget TG: annuncio 728x90"
+
+#: inc/widgets/widgets.php:111
+msgid "Content Bottom Section"
+msgstr "Contenuto sezione in basso"
+
+#: inc/admin/class-colormag-admin.php:36 inc/admin/class-colormag-admin.php:115
+msgid "About"
+msgstr "A proposito"
+
+#: inc/admin/class-colormag-admin.php:192
+msgid "Customize"
+msgstr "Personalizza"
+
+#: inc/admin/class-colormag-admin.php:197
+msgid "Please view our documentation page to setup the theme."
+msgstr "Leggi la documentazione prima di personalizzare il tema."
+
+#: inc/admin/class-colormag-admin.php:93
+msgid "Welcome! Thank you for choosing colormag! To fully take advantage of the best our theme can offer please make sure you visit our %swelcome page%s."
+msgstr "Benvenuto e grazie per aver scelto ColorMag! Per sfruttare appieno le funzionalità del tema visita la nostra %spagina di benvenuto%s."
+
+#: inc/admin/class-colormag-admin.php:356
+msgid "ColorMag Pro"
+msgstr "ColorMag Pro"
+
+#: inc/admin/class-colormag-admin.php:354
+msgid "Features"
+msgstr "Caratteristiche"
+
+#: inc/admin/class-colormag-admin.php:331
+msgid "WPML"
+msgstr "WPML"
+
+#: inc/admin/class-colormag-admin.php:328
+#: inc/admin/class-colormag-admin.php:332
+msgid "Fully Compatible in Pro Version"
+msgstr "Totalmente compatibile con la versione Pro"
+
+#: inc/admin/class-colormag-admin.php:367
+#: inc/admin/class-colormag-admin.php:402
+msgid "1"
+msgstr "1"
+
+#: inc/admin/class-colormag-admin.php:368
+msgid "22"
+msgstr "22"
+
+#: inc/admin/class-colormag-admin.php:362
+msgid "Forum"
+msgstr "Forum"
+
+#: inc/admin/class-colormag-admin.php:363
+msgid "Forum + Emails/Support Ticket"
+msgstr "Forum + Email/Ticket di supporto"
+
+#: inc/admin/class-colormag-admin.php:386
+msgid "Custom Widgets"
+msgstr "Widget personalizzati"
+
+#: inc/admin/class-colormag-admin.php:383
+msgid "600+"
+msgstr "600+"
+
+#: inc/admin/class-colormag-admin.php:387
+#: inc/admin/class-colormag-admin.php:408
+msgid "7"
+msgstr "7"
+
+#: inc/admin/class-colormag-admin.php:388
+msgid "16"
+msgstr "16"
+
+#: inc/admin/class-colormag-admin.php:501
+msgid "TG: Featured Posts (Style 3)"
+msgstr "TG: articoli in evidenza (Stile 3)"
+
+#: inc/admin/class-colormag-admin.php:506
+msgid "TG: Featured Posts (Style 4)"
+msgstr "TG: articoli in evidenza (Stile 4)"
+
+#: inc/admin/class-colormag-admin.php:511
+msgid "TG: Featured Posts (Style 5)"
+msgstr "TG: articoli in evidenza (Stile 5)"
+
+#: inc/admin/class-colormag-admin.php:516
+msgid "TG: Featured Posts (Style 6)"
+msgstr "TG: articoli in evidenza (Stile 6)"
+
+#: inc/admin/class-colormag-admin.php:521
+msgid "TG: Featured Posts (Style 7)"
+msgstr "TG: articoli in evidenza (Stile 7)"
+
+#: inc/admin/class-colormag-admin.php:531
+msgid "WPML Compatible"
+msgstr "Compatibile con WPML"
+
+#: inc/admin/class-colormag-admin.php:536
+msgid "Polylang Compatible"
+msgstr "Compatibile con Polylang"
+
+#: inc/admin/class-colormag-admin.php:541
+msgid "WooCommerce Compatible"
+msgstr "Compatibile con WooCommerce"
+
+#: inc/admin/class-colormag-admin.php:486
+msgid "TG: Videos"
+msgstr "TG: video"
+
+#: inc/admin/class-colormag-admin.php:476
+msgid "TG: Random Posts Widget"
+msgstr "TG: widget articolo casuale"
+
+#: inc/admin/class-colormag-admin.php:549 inc/customizer.php:22
+msgid "View Pro"
+msgstr "Vedi la versione Pro"
+
+#: inc/admin/class-colormag-admin.php:481
+msgid "TG: Tabbed Widget"
+msgstr "TG: widget con schede"
+
+#: inc/admin/class-colormag-admin.php:209
+#: inc/admin/class-colormag-admin.php:349
+msgid "Upgrade to PRO version for more exciting features."
+msgstr "Aggiorna alla versione Pro per avere altre spettacolari funzionalità."
+
+#: inc/admin/class-colormag-admin.php:208
+msgid "Need more features?"
+msgstr "Hai bisogno di altre funzionalità?"
+
+#: inc/admin/class-colormag-admin.php:202
+msgid "Got theme support question?"
+msgstr "Hai bisogno di supporto per il tema?"
+
+#: inc/admin/class-colormag-admin.php:78
+msgid "Cheatin&#8217; huh?"
+msgstr "Bariamo&#8217; eh?"
+
+#: inc/admin/class-colormag-admin.php:403
+msgid "2"
+msgstr "2"
+
+#: inc/admin/class-colormag-admin.php:407
+msgid "4"
+msgstr "4"
+
+#: inc/admin/class-colormag-admin.php:242
+msgid "Return to Updates"
+msgstr "Ritorna agli aggiornamenti"
+
+#: inc/admin/class-colormag-admin.php:226
+msgid "Click below to translate this theme into your own language."
+msgstr "Clicca qui sotto per tradurre il tema nella tua lingua."
+
+#: inc/admin/class-colormag-admin.php:392
+msgid "6"
+msgstr "6"
+
+#: inc/admin/class-colormag-admin.php:325
+msgid "WooCommerce"
+msgstr "WooCommerce"
+
+#: inc/admin/class-colormag-admin.php:327
+msgid "Polylang"
+msgstr "Polylang"
+
+#: inc/admin/class-colormag-admin.php:315
+msgid "This theme recommends following plugins:"
+msgstr "Questo tema raccomanda l'utilizzo dei seguenti plugin:"
+
+#: inc/admin/class-colormag-admin.php:436
+msgid "Author Biography"
+msgstr "Biografia dell'autore"
+
+#: inc/admin/class-colormag-admin.php:441
+msgid "Author Biography with Social Icons"
+msgstr "Biografia dell'autore con icone social network"
+
+#: inc/admin/class-colormag-admin.php:426
+msgid "Change Read More Text"
+msgstr "Modifica la dicitura \"Leggi il seguito\""
+
+#: inc/admin/class-colormag-admin.php:446
+msgid "Footer Copyright Editor"
+msgstr "Editor copyright piè di pagina"
+
+#: inc/admin/class-colormag-admin.php:317
+#: inc/admin/class-colormag-admin.php:391
+msgid "Social Icons"
+msgstr "Icone social network"
+
+#: inc/admin/class-colormag-admin.php:95
+msgid "Get started with ColorMag"
+msgstr "Inizia da qui con ColorMag"
+
+#: inc/admin/class-colormag-admin.php:147
+msgid "Free Vs Pro"
+msgstr "Gratuito Vs Pro"
+
+#: inc/admin/class-colormag-admin.php:406
+msgid "Footer Sidebar"
+msgstr "Pié di pagina"
+
+#: inc/admin/class-colormag-admin.php:411
+msgid "Site Layout Option"
+msgstr "Opzioni layout del sito"
+
+#: inc/admin/class-colormag-admin.php:401
+msgid "Custom Menu"
+msgstr "Menù personalizzato"
+
+#: inc/admin/class-colormag-admin.php:416
+msgid "Options in Breaking News"
+msgstr "Opzioni \"Ultime Notizie\""
+
+#: inc/admin/class-colormag-admin.php:324
+msgid "WP-PageNavi"
+msgstr "WP-PageNavi"
+
+#: inc/admin/class-colormag-admin.php:323
+msgid "Contact Form 7"
+msgstr "Contact Form 7"
+
+#: inc/admin/class-colormag-admin.php:376
+msgid "Font Size Options"
+msgstr "Opzioni grandezza del testo"
+
+#: inc/admin/class-colormag-admin.php:366
+msgid "Color Options"
+msgstr "Opzioni colore"
+
+#: inc/admin/class-colormag-admin.php:381
+msgid "Google Fonts Options"
+msgstr "Opzioni Google Fonts"
+
+#: inc/admin/class-colormag-admin.php:396
+msgid "Social Sharing"
+msgstr "Condivisione sui social"
+
+#: inc/admin/class-colormag-admin.php:393
+msgid "18 + 6 Custom"
+msgstr "18 + 6 personalizzati"
+
+#: inc/admin/class-colormag-admin.php:144
+msgid "Supported Plugins"
+msgstr "Plugin supportati"
+
+#: inc/admin/class-colormag-admin.php:92
+msgid "Dismiss"
+msgstr "Chiudi"
+
+#: inc/admin/class-colormag-admin.php:214
+msgid "Got sales related question?"
+msgstr "Domande sull'acquisto?"
+
+#: inc/admin/class-colormag-admin.php:245
+msgid "Go to Dashboard"
+msgstr "Vai alla Dashboard"
+
+#: inc/admin/class-colormag-admin.php:242
+msgid "Return to Dashboard &rarr; Updates"
+msgstr "Ritorna a Dashboard &rarr; Aggiornamenti"
+
+#: inc/admin/class-colormag-admin.php:245
+msgid "Go to Dashboard &rarr; Home"
+msgstr "Vai a Dashboard &rarr; Home"
+
+#: inc/admin/class-colormag-admin.php:150
+msgid "Changelog"
+msgstr "Cambiamenti e Novità"
+
+#: inc/admin/class-colormag-admin.php:262
+msgid "View changelog below:"
+msgstr "Vedi i cambiamenti e le novità qui sotto:"
+
+#: inc/admin/class-colormag-admin.php:191
+msgid "All Theme Options are available via Customize screen."
+msgstr "Tutte le opzioni del tema sono disponibili nella sezione \"Personalizza\""
+
+#: inc/admin/class-colormag-admin.php:421
+msgid "Unique Post System"
+msgstr "Articoli unici"
+
+#: inc/admin/class-colormag-admin.php:318
+#: inc/admin/class-colormag-admin.php:321
+msgid " by ThemeGrill"
+msgstr " by ThemeGrill"
+
+#: inc/admin/class-colormag-admin.php:222
+#: inc/admin/class-colormag-admin.php:230
+msgid "Translate"
+msgstr "Traduci"
+
+#: inc/admin/class-colormag-admin.php:190
+msgid "Theme Customizer"
+msgstr "Personalizza il tema"
+
+#: inc/admin/class-colormag-admin.php:203
+msgid "Please put it in our dedicated support forum."
+msgstr "Scrivi nel nostro forum dedicato."
+
+#: inc/admin/class-colormag-admin.php:215
+msgid "Please send it via our sales contact page."
+msgstr "Invia una richiesta nella nostra pagina di contatto per gli acquisti."
+
+#: inc/admin/class-colormag-admin.php:74
+msgid "Action failed. Please refresh the page and retry."
+msgstr "C'è stato un errore durante l'elaborazione della richiesta, prova a ricaricare la pagina e riprovare."
+
+#: inc/admin/class-colormag-admin.php:320
+msgid "Easy Social Sharing"
+msgstr "Condivisione sui social network semplificata"
+
+#: inc/customizer.php:54
+msgid "ColorMag Important Links"
+msgstr "Link utili per colormag"
+
+#: search.php:18
+msgid "Search Results for: %s"
+msgstr "Risultati ricerca per: %s"
+
+#. Template Name of the plugin/theme
+msgid "Contact Page Template"
+msgstr "Modello per una pagina di contatto"
+
+#: sidebar.php:26
+msgid "Right"
+msgstr "Destra"
+
+#: sidebar-left.php:30 sidebar.php:30
+msgid "Example Widget"
+msgstr "Esempio di widget"
+
+#: sidebar-left.php:31 sidebar.php:31
+msgid "This is an example widget to show how the %s Sidebar looks by default. You can add custom widgets from the %swidgets screen%s in the admin. If custom widgets are added then this will be replaced by those widgets."
+msgstr "Questo è un widget di esempio che mostra l'aspetto predefinito della barra laterale %s. Puoi aggiungere dei widget personalizzati dalla %spagina di configurazione dei widget%s nel pannello di amministrazione. Se aggiungi widget personalizzati, essi sostituiranno il widget predefinito."
+
+#: sidebar-left.php:26
+msgid "Left"
+msgstr "Sinistra"
+
+#: inc/admin/class-colormag-admin.php:216 sidebar-left.php:24 sidebar.php:24
+msgid "Contact Page"
+msgstr "Pagina di contatto"
+
+#: searchform.php:12
+msgid "Search"
+msgstr "Cerca"
+
+#: no-results.php:27
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Sembra che non siamo riusciti a trovare ciò che cercavi. Forse una ricerca potrebbe essere di aiuto."
+
+#: no-results.php:22
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Non vi è nulla che corrisponda ai tuoi criteri di ricerca. Prova di nuovo utilizzando altre parole chiave."
+
+#: no-results.php:18
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Pronto a pubblicare il tuo primo articolo? <a href=\"%1$s\">Inizia da qui</a>."
+
+#: navigation.php:25 navigation.php:37
+msgid "Next &rarr;"
+msgstr "Successivo &rarr;"
+
+#: navigation.php:24 navigation.php:36
+msgid "&larr; Previous"
+msgstr "&larr; Precedente"
+
+#: inc/widgets/widgets.php:987
+msgid "Add your 125x125 Advertisement here"
+msgstr "Aggiungi qui il tuo annuncio da 125x125px"
+
+#: inc/admin/class-colormag-admin.php:451 inc/widgets/widgets.php:989
+msgid "TG: 125x125 Advertisement"
+msgstr "TG: annuncio 125x125px"
+
+#: inc/widgets/widgets.php:907
+msgid "Add your Advertisement 728x90 Images Here"
+msgstr "Aggiungi qui le immagini per gli annunci da 728x90px "
+
+#: inc/widgets/widgets.php:1008
+msgid "Add your Advertisement 125x125 Images Here"
+msgstr "Aggiungi qui le immagini per gli annunci da 728x90px "
+
+#: inc/admin/class-colormag-admin.php:461 inc/widgets/widgets.php:888
+msgid "TG: 728x90 Advertisement"
+msgstr "TG: annuncio 728x90px"
+
+#: inc/widgets/widgets.php:886
+msgid "Add your 728x90 Advertisement here"
+msgstr "Aggiungi qui il tuo annuncio da 728x90px"
+
+#: inc/widgets/widgets.php:809 inc/widgets/widgets.php:909
+#: inc/widgets/widgets.php:1015
+msgid "Advertisement Image Link "
+msgstr "Link dell'immagine dell'annuncio"
+
+#: inc/admin/class-colormag-admin.php:496 inc/widgets/widgets.php:628
+msgid "TG: Featured Posts (Style 2)"
+msgstr "TG: articoli in evidenza (Stile 2)"
+
+#: inc/widgets/widgets.php:786
+msgid "Add your 300x250 Advertisement here"
+msgstr "Aggiungi qui il tuo annuncio da 300x250px"
+
+#: inc/admin/class-colormag-admin.php:456 inc/widgets/widgets.php:788
+msgid "TG: 300x250 Advertisement"
+msgstr "TG: annuncio 300x250px"
+
+#: inc/widgets/widgets.php:813 inc/widgets/widgets.php:913
+#: inc/widgets/widgets.php:1019
+msgid "Advertisement Image "
+msgstr "Immagine dell'annuncio"
+
+#: inc/widgets/widgets.php:807
+msgid "Add your Advertisement 300x250 Images Here"
+msgstr "Aggiungi qui le immagini per gli annunci da 300x250px "
+
+#: inc/widgets/widgets.php:492 inc/widgets/widgets.php:650
+msgid "Description"
+msgstr "Descrizione"
+
+#: inc/widgets/widgets.php:489 inc/widgets/widgets.php:647
+#: inc/widgets/widgets.php:804 inc/widgets/widgets.php:904
+#: inc/widgets/widgets.php:1005
+msgid "Title:"
+msgstr "Titolo:"
+
+#: inc/widgets/widgets.php:468 inc/widgets/widgets.php:626
+msgid "Display latest posts or posts of specific category."
+msgstr "Visualizza gli ultimi articoli o gli articoli di una categoria specifica."
+
+#: inc/widgets/widgets.php:486 inc/widgets/widgets.php:644
+msgid "Layout will be as below:"
+msgstr "Il layout sarà come quello qui sotto:"
+
+#: inc/admin/class-colormag-admin.php:471 inc/widgets/widgets.php:344
+msgid "TG: Highlighted Posts"
+msgstr "TG: articoli in evidenza"
+
+#: inc/admin/class-colormag-admin.php:491 inc/widgets/widgets.php:470
+msgid "TG: Featured Posts (Style 1)"
+msgstr "TG: articoli in evidenza (Stile 1)"
+
+#: inc/widgets/widgets.php:342
+msgid "Display latest posts or posts of specific category. Suitable for the Area Beside Slider Sidebar."
+msgstr "Mostra gli ultimi articoli o gli articoli di una categoria specifica. Adatto per l'area accanto alla barra scorrevole (slider)."
+
+#: inc/widgets/widgets.php:186
+msgid "Footer Sidebar Four"
+msgstr "Piè di pagina Quattro"
+
+#: inc/widgets/widgets.php:188
+msgid "Shows widgets at footer sidebar four."
+msgstr "Mostra widgets nella quarta colonna del piè di pagina."
+
+#: inc/widgets/widgets.php:231 inc/widgets/widgets.php:361
+#: inc/widgets/widgets.php:499 inc/widgets/widgets.php:657
+msgid "Show latest Posts"
+msgstr "Ultimi articoli"
+
+#: inc/widgets/widgets.php:235 inc/widgets/widgets.php:365
+#: inc/widgets/widgets.php:503 inc/widgets/widgets.php:661
+msgid "Select category"
+msgstr "Seleziona una categoria"
+
+#: inc/widgets/widgets.php:232 inc/widgets/widgets.php:362
+#: inc/widgets/widgets.php:500 inc/widgets/widgets.php:658
+msgid "Show posts from a category"
+msgstr "Visualizza articoli da una categoria"
+
+#: inc/widgets/widgets.php:227 inc/widgets/widgets.php:357
+#: inc/widgets/widgets.php:495 inc/widgets/widgets.php:653
+msgid "Number of posts to display:"
+msgstr "Numero di articoli da mostrare:"
+
+#: inc/admin/class-colormag-admin.php:466 inc/widgets/widgets.php:214
+msgid "TG: Featured Category Slider"
+msgstr "TG: barra scorrevole (slider) categorie in evidenza"
+
+#: inc/widgets/widgets.php:212
+msgid "Display latest posts or posts of specific category, which will be used as the slider."
+msgstr "Scegli se mostrare nella barra scorrevole (slider) gli ultimi articoli o gli articoli di una categoria specifica."
+
+#: inc/widgets/widgets.php:133
+msgid "Shows widgets on Error 404 page."
+msgstr "Mostra widgets nella pagina Errore 404."
+
+#: inc/widgets/widgets.php:153
+msgid "Footer Sidebar One"
+msgstr "Piè di pagina Uno"
+
+#: inc/widgets/widgets.php:155
+msgid "Shows widgets at footer sidebar one."
+msgstr "Mostra widgets nella prima colonna del piè de pagina."
+
+#: inc/widgets/widgets.php:164
+msgid "Footer Sidebar Two"
+msgstr "Piè di pagina Due"
+
+#: inc/widgets/widgets.php:166
+msgid "Shows widgets at footer sidebar two."
+msgstr "Mostra widgets nella seconda colonna del piè di pagina."
+
+#: inc/widgets/widgets.php:175
+msgid "Footer Sidebar Three"
+msgstr "Piè di pagina Tre"
+
+#: inc/widgets/widgets.php:177
+msgid "Shows widgets at footer sidebar three."
+msgstr "Mostra widgets nella terza colonna del piè di pagina."
+
+#: inc/widgets/widgets.php:142
+msgid "Advertisement Above The Footer"
+msgstr "Annunci sopra il pié di pagina"
+
+#: inc/widgets/widgets.php:34
+msgid "Shows widgets at Left side."
+msgstr "Mostra widgets a sinistra"
+
+#: inc/widgets/widgets.php:43
+msgid "Header Sidebar"
+msgstr "Intestazione barra laterale"
+
+#: inc/widgets/widgets.php:45
+msgid "Shows widgets in header section just above the main navigation menu."
+msgstr "Mostra widgets nella testata, sopra il menu di navigazione."
+
+#: inc/widgets/widgets.php:120
+msgid "Contact Page Sidebar"
+msgstr "Contact Page Area"
+
+#: inc/widgets/widgets.php:122
+msgid "Shows widgets on Contact Page Template."
+msgstr "Mostra widgets nel Contact Page Template."
+
+#: inc/widgets/widgets.php:131
+msgid "Error 404 Page Sidebar"
+msgstr "Area Errore 404"
+
+#: inc/widgets/widgets.php:76
+msgid "Front Page: Content Top Section"
+msgstr "Pagina iniziale: sezione in alto"
+
+#: inc/widgets/widgets.php:87
+msgid "Front Page: Content Middle Left Section"
+msgstr "Pagina iniziale: sezione centrale a sinistra"
+
+#: inc/widgets/widgets.php:89
+msgid "Content Middle Left Section"
+msgstr "Contenuto della sezione centrale di sinistra"
+
+#: inc/widgets/widgets.php:78
+msgid "Content Top Section"
+msgstr "Contenuto della sezione in alto"
+
+#: inc/widgets/widgets.php:98
+msgid "Front Page: Content Middle Right Section"
+msgstr "Pagina iniziale: sezione centrale di destra"
+
+#: inc/widgets/widgets.php:100
+msgid "Content Middle Right Section"
+msgstr "Contenuto della sezione centrale di destra"
+
+#: inc/widgets/widgets.php:109
+msgid "Front Page: Content Bottom Section"
+msgstr "Pagina iniziale: sezione in basso"
+
+#: inc/widgets/widgets.php:54
+msgid "Front Page: Slider Area"
+msgstr "Pagina iniziale: area barra scorrevole (slider)"
+
+#: inc/widgets/widgets.php:67
+msgid "Show widget beside the slider. Suitable for TG: Highlighted Posts."
+msgstr "Mostra i widget accanto alla barra scorrevole (slider). Adatto per TG: articoli in evidenza."
+
+#: inc/widgets/widgets.php:65
+msgid "Front Page: Area beside slider"
+msgstr "Pagina iniziale: area accanto alla barra scorrevole (slider)"
+
+#: inc/widgets/widgets.php:56
+msgid "Show widget just below menu. Suitable for TG: Featured Category Slider."
+msgstr "Mostra widget proprio sotto il menù. Adatto per TG: barra scorrevole (slider) categorie in evidenza."
+
+#. #-#-#-#-#  colormag.pot (ColorMag 1.2.0)  #-#-#-#-#
+#. Author of the plugin/theme
+#: inc/functions.php:486
+msgid "ThemeGrill"
+msgstr "ThemeGrill"
+
+#: inc/functions.php:488
+msgid "Theme: %1$s by %2$s."
+msgstr "Theme: %1$s by %2$s."
+
+#: inc/functions.php:488
+msgid "Powered by %s."
+msgstr "Powered by %s."
+
+#: inc/widgets/widgets.php:23
+msgid "Shows widgets at Right side."
+msgstr "Mostra widgets a destra"
+
+#: inc/functions.php:488
+msgid "Copyright &copy; %1$s %2$s. All rights reserved."
+msgstr "Copyright &copy; %1$s %2$s. Tutti i diritti riservati."
+
+#: inc/related-posts.php:5
+msgid "You May Also Like"
+msgstr "Potrebbe anche interessarti"
+
+#: inc/functions.php:528
+msgid "Latest:"
+msgstr "Ultimo:"
+
+#: inc/functions.php:579
+msgid "View a random post"
+msgstr "Leggi un articolo casuale"
+
+#: inc/functions.php:484
+msgid "WordPress"
+msgstr "WordPress"
+
+#: inc/functions.php:464
+msgid "Reply"
+msgstr "Risposta"
+
+#: inc/functions.php:459
+msgid "Your comment is awaiting moderation."
+msgstr "Il tuo commento deve ancora venire moderato."
+
+#: inc/functions.php:451
+msgid "%1$s at %2$s"
+msgstr "%1$s in %2$s"
+
+#: inc/functions.php:448
+msgid "Post author"
+msgstr "Autore articolo"
+
+#: inc/functions.php:433
+msgid "(Edit)"
+msgstr "(Modifica)"
+
+#: inc/functions.php:433
+msgid "Pingback:"
+msgstr "Pingback:"
+
+#: inc/functions.php:407
+msgid "Newer posts <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Articoli più recenti <span class=\"meta-nav\">&rarr;</span>"
+
+#: inc/functions.php:403
+msgid "<span class=\"meta-nav\">&larr;</span> Older posts"
+msgstr "<span class=\"meta-nav\">&larr;</span> Articoli più vecchi"
+
+#: inc/functions.php:398 navigation.php:45
+msgctxt "Next post link"
+msgid "&rarr;"
+msgstr "&rarr;"
+
+#: inc/functions.php:397 navigation.php:44
+msgctxt "Previous post link"
+msgid "&larr;"
+msgstr "&larr;"
+
+#: inc/functions.php:393
+msgid "Post navigation"
+msgstr "Navigazione articoli"
+
+#: inc/functions.php:269
+msgid "Edit"
+msgstr "Modifica"
+
+#: inc/admin/class-colormag-admin.php:130 inc/customizer.php:26
+msgid "Theme Info"
+msgstr "Informazioni del tema"
+
+#: inc/functions.php:266
+msgid ", "
+msgstr ", "
+
+#: inc/admin/class-colormag-admin.php:134
+#: inc/admin/class-colormag-admin.php:210
+msgid "View PRO version"
+msgstr "Guarda la versione PRO"
+
+#: inc/functions.php:254 inc/related-posts.php:33 inc/widgets/widgets.php:313
+#: inc/widgets/widgets.php:439 inc/widgets/widgets.php:590
+#: inc/widgets/widgets.php:748
+msgid "<span class=\"posted-on\"><a href=\"%1$s\" title=\"%2$s\" rel=\"bookmark\"><i class=\"fa fa-calendar-o\"></i> %3$s</a></span>"
+msgstr "<span class=\"posted-on\"><a href=\"%1$s\" title=\"%2$s\" rel=\"bookmark\"><i class=\"fa fa-calendar-o\"></i> %3$s</a></span>"
+
+#: inc/functions.php:264
+msgid "<i class=\"fa fa-comment\"></i> 0 Comments"
+msgstr "<i class=\"fa fa-comment\"></i> 0 Commenti"
+
+#: inc/functions.php:264
+msgid "<i class=\"fa fa-comment\"></i> 1 Comment"
+msgstr "<i class=\"fa fa-comment\"></i> 1 Commento"
+
+#: inc/functions.php:264
+msgid "<i class=\"fa fa-comments\"></i> % Comments"
+msgstr "<i class=\"fa fa-comments\"></i> % Commenti"
+
+#: inc/admin/class-colormag-admin.php:431 inc/customizer.php:701
+msgid "Related Posts"
+msgstr "Post correlati"
+
+#: inc/customizer.php:788
+msgid "%s"
+msgstr "%s"
+
+#: inc/customizer.php:645
+msgid "Check to open in new tab"
+msgstr "Seleziona per mostrarlo in una nuova tab"
+
+#: inc/customizer.php:692
+msgid "Upload favicon for your site"
+msgstr "Carica una favicon per il tuo sito"
+
+#: inc/customizer.php:761
+msgid "Change the color of each category items as you want."
+msgstr "Cambia il colore di ogni categoria come desideri."
+
+#: inc/customizer.php:713
+msgid "Check to activate the related posts"
+msgstr "Attiva i post correlati"
+
+#: inc/customizer.php:726
+msgid "Related Posts Must Be Shown As:"
+msgstr "Gli articoli correlati saranno:"
+
+#: inc/customizer.php:730 inc/customizer.php:810
+msgid "Related Posts By Categories"
+msgstr "Articoli correlati in base alle categorie"
+
+#: inc/customizer.php:661
+msgid "Additional Options"
+msgstr "Impostazioni aggiuntive"
+
+#: inc/customizer.php:731 inc/customizer.php:811
+msgid "Related Posts By Tags"
+msgstr "Articoli correlati in base ai tag"
+
+#: inc/customizer.php:659
+msgid "Change the Additional Settings from here as you want"
+msgstr "Da qui puoi gestire delle impostazioni aggiuntive"
+
+#: inc/admin/class-colormag-admin.php:526 inc/customizer.php:759
+msgid "Category Color Options"
+msgstr "Opzioni colori categorie"
+
+#: inc/customizer.php:766
+msgid "Category Color Settings"
+msgstr "Impostazioni colori categorie"
+
+#: inc/customizer.php:750
+msgid "Check to enable the lightbox for the featured images in single post"
+msgstr "Mostra l'immagine in evidenza dell'articolo sopra il titolo dell'articolo stesso (lightbox)."
+
+#: inc/customizer.php:668
+msgid "Activate favicon"
+msgstr "Attiva favicon"
+
+#: inc/customizer.php:680
+msgid "Check to activate favicon. Upload favicon from below option"
+msgstr "Attiva la favicon. Carica la tua favicon dall'opzione sottostante"
+
+#: inc/customizer.php:738
+msgid "Image Lightbox"
+msgstr "Immagine lightbox"
+
+#: inc/customizer.php:610 inc/header-functions.php:25
+msgid "Pinterest"
+msgstr "Pinterest"
+
+#: inc/customizer.php:615 inc/header-functions.php:26
+msgid "YouTube"
+msgstr "Youtube"
+
+#: inc/customizer.php:605 inc/header-functions.php:24
+msgid "Instagram"
+msgstr "Instagram"
+
+#: inc/customizer.php:600 inc/header-functions.php:23
+msgid "Google-Plus"
+msgstr "Google-Plus"
+
+#: inc/customizer.php:590 inc/header-functions.php:21
+msgid "Facebook"
+msgstr "Facebook"
+
+#: inc/customizer.php:595 inc/header-functions.php:22
+msgid "Twitter"
+msgstr "Twitter"
+
+#: inc/customizer.php:553
+msgid "Write your Custom CSS"
+msgstr "Scrivi il tuo CSS personalizzato"
+
+#: inc/customizer.php:563
+msgid "Social Options"
+msgstr "Opzioni per i social networks"
+
+#: inc/customizer.php:564
+msgid "Change the Social Links settings from here as you want"
+msgstr "Cambia le impostazioni dei collegamenti ai social network come desideri"
+
+#: inc/customizer.php:570
+msgid "Activate social links area"
+msgstr "Attiva l'area con i collegamenti ai social network"
+
+#: inc/customizer.php:582
+msgid "Check to activate social links area"
+msgstr "Seleziona per attivare l'area con i collegamenti a social network"
+
+#: inc/customizer.php:453
+msgid "Default layout for pages only"
+msgstr "Layout predefinito solo per le pagine"
+
+#: inc/customizer.php:479
+msgid "Default layout for single posts only"
+msgstr "Layout predefinito solo per gli articoli"
+
+#: inc/admin/class-colormag-admin.php:371 inc/customizer.php:506
+msgid "Primary color option"
+msgstr "Opzione colore primario"
+
+#: inc/customizer.php:541
+msgid "Custom CSS"
+msgstr "CSS Personalizzato"
+
+#: inc/customizer.php:465
+msgid "Select default layout for pages. This layout will be reflected in all pages unless unique layout is set for specific page"
+msgstr "Seleziona un layout predefinito per le pagine. Questo layout verrà applicato a tutte le pagine a meno che queste abbiano già impostato un layout personalizzato"
+
+#: inc/customizer.php:491
+msgid "Select default layout for single posts. This layout will be reflected in all single posts unless unique layout is set for specific post"
+msgstr "Seleziona un layout di default per gli articoli. Questo layout verrà applicato a tutti i singoli articoli a meno che questi abbiano già impostato un layout personalizzato"
+
+#: inc/customizer.php:517
+msgid "This will reflect in links, buttons and many others. Choose a color to match your site"
+msgstr "La modifica avrà effetto sui link, i pulsanti e su molti altri elementi della pagina. Scegli un colore adatto per il tuo sito"
+
+#: inc/customizer.php:439
+msgid "Select default layout. This layout will be reflected in whole site archives, categories, search page etc. The layout for a single post and page can be controlled from below options"
+msgstr "Seleziona un layout predefinito. Questo layout verrà applicato all'archivio, alle categorie, alla pagina di ricerca e così via. I layout per i singoli articoli e per le pagine possono essere gestiti nelle opzioni sottostanti"
+
+#: inc/customizer.php:280
+msgid "Header Image Position"
+msgstr "Scegli la posizione dell'immagine di testata."
+
+#: inc/customizer.php:342
+msgid "Site Layout"
+msgstr "Layout sito"
+
+#: inc/customizer.php:427
+msgid "Default layout"
+msgstr "Layout predefinito"
+
+#: inc/customizer.php:318
+msgid "Design Options"
+msgstr "Opzioni design"
+
+#: inc/customizer.php:292
+msgid "Header image display position"
+msgstr "Posizione immagine nella testata"
+
+#: inc/customizer.php:356 inc/customizer.php:849
+msgid "Boxed Layout"
+msgstr "Layout con spazi ai lati"
+
+#: inc/customizer.php:357 inc/customizer.php:850
+msgid "Wide Layout"
+msgstr "Layout a tutto schermo"
+
+#: inc/customizer.php:297 inc/customizer.php:838
+msgid "Display the Header image below main/primary menu."
+msgstr "Mostra l'immagine della testata sotto il menu principale"
+
+#: inc/customizer.php:354
+msgid "Choose your site layout. The change is reflected in whole site"
+msgstr "Scegli il layout del tuo sito. La modifica avrà effetto sull'intera esperienza di navigazione."
+
+#: inc/customizer.php:296 inc/customizer.php:837
+msgid "Default: Display the Header image between site title/text and the main/primary menu."
+msgstr "Predefinito: mostra l'immagine della testata tra il titolo/descrizione del sito e il menu principale"
+
+#: inc/customizer.php:324
+msgid "Front Page Settings"
+msgstr "Impostazioni della pagina iniziale"
+
+#: inc/customizer.php:316
+msgid "Change the Design Settings from here as you want"
+msgstr "Da qui puoi gestire le impostazioni dell'aspetto del sito"
+
+#: inc/customizer.php:309
+msgid "Check to make header image link back to home page"
+msgstr "L'immagine della testata deve avere un collegamento alla pagina iniziale"
+
+#: inc/customizer.php:295 inc/customizer.php:836
+msgid "Display the Header image just above the site title/text."
+msgstr "Mostra l'immagine della testata proprio sopra il titolo/descrizione del sito"
+
+#: inc/customizer.php:335
+msgid "Check to hide blog posts/static page on front page"
+msgstr "Nascondi gli articoli del blog/una pagina statica nella pagina iniziale"
+
+#: inc/customizer.php:241
+msgid "Header Logo"
+msgstr "Logo intestazione"
+
+#: inc/customizer.php:270 inc/customizer.php:822
+msgid "Header Logo Only"
+msgstr "Solo logo nell'intestazione"
+
+#: inc/customizer.php:271 inc/customizer.php:823
+msgid "Header Text Only"
+msgstr "Solo  testo nell'intestazione "
+
+#: inc/customizer.php:272 inc/customizer.php:824
+msgid "Show Both"
+msgstr "Mostra entrambi"
+
+#: inc/customizer.php:273 inc/customizer.php:825
+msgid "Disable"
+msgstr "Disabilita"
+
+#: inc/customizer.php:253
+msgid "Upload logo for your header"
+msgstr "Carica un logo per la testata"
+
+#: inc/customizer.php:267
+msgid "Choose the option that you want"
+msgstr "Scegli l'opzione che desideri"
+
+#: inc/customizer.php:193
+msgid "Check to display the Search Icon in the primary menu"
+msgstr "Seleziona per mostrare l'icona Cerca nel menu principale"
+
+#: inc/customizer.php:180
+msgid "Search Icon"
+msgstr "Icona cerca"
+
+#: inc/customizer.php:200
+msgid "Random Post"
+msgstr "Articolo casuale"
+
+#: inc/customizer.php:213
+msgid "Check to display the Random Post Icon in the primary menu"
+msgstr "Mostra l'icona per leggere un articolo casuale nel menu principale"
+
+#: inc/admin/class-colormag-admin.php:132 inc/customizer.php:38
+msgid "View Demo"
+msgstr "Demo"
+
+#: inc/customizer.php:77
+msgid "Header Options"
+msgstr "Opzioni della testata"
+
+#: inc/customizer.php:115
+msgid "Check to show the date in header"
+msgstr "Seleziona per mostrare la data nella testata"
+
+#: inc/customizer.php:153
+msgid "Check to show the home icon in the primary menu"
+msgstr "Seleziona per mostrare l'icona Home Page nel menu primario"
+
+#: inc/customizer.php:173
+msgid "Check to enable the sticky behavior of the primary menu"
+msgstr "Seleziona per fissare in alto il menu primario quando si scorre la pagina"
+
+#: inc/admin/class-colormag-admin.php:136 inc/customizer.php:42
+msgid "Rate this theme"
+msgstr "Vota questo tema"
+
+#: inc/customizer.php:95
+msgid "Check to enable the breaking news section"
+msgstr "Seleziona per abilitare la sezione Ultime notizie"
+
+#: inc/customizer.php:102
+msgid "Show Date"
+msgstr "Mostra la data"
+
+#: inc/customizer.php:82
+msgid "Breaking News"
+msgstr "Ultime notizie"
+
+#: inc/customizer.php:160
+msgid "Sticky Menu"
+msgstr "Menu fisso"
+
+#: inc/customizer.php:66
+msgid "Important Links"
+msgstr "Link utili"
+
+#: inc/customizer.php:140
+msgid "Show Home Icon"
+msgstr "Mostra l'icona per la pagina iniziale"
+
+#: inc/customizer.php:75
+msgid "Change the Header Settings from here as you want"
+msgstr "Da qui puoi gestire le impostazioni della testata"
+
+#: inc/admin/class-colormag-admin.php:204
+#: inc/admin/class-colormag-admin.php:361 inc/customizer.php:30
+msgid "Support"
+msgstr "Supporto"
+
+#: inc/admin/meta-boxes.php:43
+msgid "No Sidebar Full Width"
+msgstr "Senza barra laterale, tutta pagina"
+
+#: inc/admin/meta-boxes.php:48
+msgid "No Sidebar Content Centered"
+msgstr "Senza barra laterale, contenuto centrato"
+
+#: inc/admin/class-colormag-admin.php:196
+#: inc/admin/class-colormag-admin.php:198 inc/customizer.php:34
+msgid "Documentation"
+msgstr "Documentazione"
+
+#: inc/admin/meta-boxes.php:38 inc/widgets/widgets.php:32
+msgid "Left Sidebar"
+msgstr "Barra laterale sinistra"
+
+#: inc/admin/meta-boxes.php:33 inc/widgets/widgets.php:21
+msgid "Right Sidebar"
+msgstr "Barra laterale destra"
+
+#: inc/admin/meta-boxes.php:16 inc/admin/meta-boxes.php:18
+msgid "Select Layout"
+msgstr "Seleziona aspetto"
+
+#: inc/admin/meta-boxes.php:28
+msgid "Default Layout"
+msgstr "Layout predefinito"
+
+#: content.php:38
+msgid "Read more"
+msgstr "Leggi il seguito"
+
+#: functions.php:63
+msgid "Primary Menu"
+msgstr "Menu principale"
+
+#: content-page.php:30 content-single.php:48
+msgid "Pages:"
+msgstr "Pagine:"
+
+#: comments.php:67
+msgid "Comments are closed."
+msgstr "I commenti sono chiusi"
+
+#: comments.php:40 comments.php:57
+msgid "Newer Comments &rarr;"
+msgstr "Nuovi commenti &rarr;"
+
+#: comments.php:39 comments.php:56
+msgid "&larr; Older Comments"
+msgstr "&larr; Vecchi commenti"
+
+#: comments.php:38 comments.php:55
+msgid "Comment navigation"
+msgstr "Navigazione commenti"
+
+#: comments.php:31
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "Un pensiero riguardo &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s pensieri riguardo &ldquo;%2$s&rdquo;"
+
+#: archive.php:70
+msgid "Archives"
+msgstr "Archivi"
+
+#: archive.php:64
+msgid "Links"
+msgstr "Links"
+
+#: archive.php:61
+msgid "Quotes"
+msgstr "Citazioni"
+
+#: archive.php:58
+msgid "Videos"
+msgstr "Video"
+
+#: archive.php:55
+msgid "Images"
+msgstr "Immagini"
+
+#: archive.php:52
+msgid "Asides"
+msgstr "Digressioni"
+
+#: archive.php:49
+msgid "Year: %s"
+msgstr "Anno: %s"
+
+#: archive.php:46
+msgid "Month: %s"
+msgstr "Mese: %s"
+
+#: archive.php:43
+msgid "Day: %s"
+msgstr "Giorno: %s"
+
+#: 404.php:23
+msgid "It looks like nothing was found at this location. Try the search below."
+msgstr "Non abbiamo trovato niente in questa pagina. Perché non provi con il motore di ricerca?"
+
+#: archive.php:35
+msgid "Author: %s"
+msgstr "Autore: %s"
+
+#: 404.php:21
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Oops! La pagina non è stata trovata."
+
+#. Author URI of the plugin/theme
+msgid "https://themegrill.com"
+msgstr "https://themegrill.com"
+
+#. Theme URI of the plugin/theme
+msgid "https://themegrill.com/themes/colormag/"
+msgstr "https://themegrill.com/themes/colormag/"

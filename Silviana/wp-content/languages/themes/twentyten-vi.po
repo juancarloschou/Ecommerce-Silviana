@@ -1,0 +1,381 @@
+# Translation of Themes - Twenty Ten in Vietnamese
+# This file is distributed under the same license as the Themes - Twenty Ten package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2017-10-27 01:41:58+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: vi_VN\n"
+"Project-Id-Version: Themes - Twenty Ten\n"
+
+#. Description of the plugin/theme
+msgid "The 2010 theme for WordPress is stylish, customizable, simple, and readable -- make it yours with a custom menu, header image, and background. Twenty Ten supports six widgetized areas (two in the sidebar, four in the footer) and featured images (thumbnails for gallery posts and custom header images for posts and pages). It includes stylesheets for print and the admin Visual Editor, special styles for posts in the \"Asides\" and \"Gallery\" categories, and has an optional one-column page template that removes the sidebar."
+msgstr "Giao diện 2010 cho WordPress rất độc đáo, dễ tùy biến, đơn giản và rõ ràng - hãy biến nó thành của bạn với một trình đơn tùy biến, ảnh tiêu đề và nền. Giao diện 2010 hỗ trợ  sáu vùng widget (2 vùng trên sidebar, 4 vùng phía cuối trang) và các hình ảnh nổi bật (hình ảnh thu nhỏ của các thư viện và hình ảnh tiêu đề tùy biến đối với bài viết và trang). Nó vao gồm các trang in mẫu và Visual Editor quản trị, đặc biệt đối với loại bài viết Aside và thư viện. Nó cũng có một mẫu trang một cột tùy chọn không có sidebar."
+
+#. Theme Name of the plugin/theme
+msgid "Twenty Ten"
+msgstr "Twenty Ten"
+
+#. Template Name of the plugin/theme
+msgid "One column, no sidebar"
+msgstr "Một cột, không có sidebar."
+
+#: tag.php:16
+msgid "Tag Archives: %s"
+msgstr "Lưu trữ cho từ khóa: %s"
+
+#: sidebar.php:35
+msgid "Meta"
+msgstr "Meta"
+
+#: sidebar.php:28
+msgid "Archives"
+msgstr "Lưu trữ"
+
+#: search.php:29
+msgid "Sorry, but nothing matched your search criteria. Please try again with some different keywords."
+msgstr "Rất tiếc, không có kết quả nào khớp với các tiêu chí của bạn. Xin vui lòng thử lại với những từ khóa khác."
+
+#: search.php:27
+msgid "Nothing Found"
+msgstr "Không tìm thấy"
+
+#: search.php:16
+msgid "Search Results for: %s"
+msgstr "Kết quả tìm kiếm cho: %s"
+
+#: loop.php:161
+msgid "<span class=\"%1$s\">Tagged</span> %2$s"
+msgstr "<span class=\"%1$s\">Thẻ</span> %2$s"
+
+#: loop.php:152
+msgid "<span class=\"%1$s\">Posted in</span> %2$s"
+msgstr "<span class=\"%1$s\">Đăng tải tại</span> %2$s"
+
+#: loop.php:107
+msgctxt "asides category slug"
+msgid "asides"
+msgstr "asides"
+
+#: loop.php:100 loop.php:123 loop.php:165
+msgid "% Comments"
+msgstr "% phản hồi"
+
+#: loop.php:100 loop.php:123 loop.php:165
+msgid "1 Comment"
+msgstr "1 phản hồi"
+
+#: loop.php:100 loop.php:123 loop.php:165
+msgid "Leave a comment"
+msgstr "Để lại phản hồi"
+
+#: loop.php:97
+msgid "View posts in the Gallery category"
+msgstr "Xem các bài viết trong thư viện ảnh"
+
+#: loop.php:94 loop.php:97
+msgid "More Galleries"
+msgstr "Thư viện"
+
+#: loop.php:94
+msgid "View Galleries"
+msgstr "Xem toàn bộ thư viện"
+
+#: loop.php:84
+msgid "Permalink to %s"
+msgstr "Liên kết cứng tới %s"
+
+#: loop.php:83
+msgid "This gallery contains <a %1$s>%2$s photo</a>."
+msgid_plural "This gallery contains <a %1$s>%2$s photos</a>."
+msgstr[0] "Thư viện này bao gồm <a %1$s>%2$s photo</a>."
+
+#: loop.php:62 loop.php:96
+msgctxt "gallery category slug"
+msgid "gallery"
+msgstr "gallery"
+
+#: loop.php:35
+msgid "Apologies, but no results were found for the requested archive. Perhaps searching will help find a related post."
+msgstr "Xin lỗi, nhưng không có kết quả nào trong kho lưu trữ đáp ứng yêu cầu của bạn. Có lẽ tìm kiếm sẽ giúp bạn tìm thấy bài viết có liên quan."
+
+#: loop.php:26 loop.php:180
+msgid "Newer posts <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Bài viết mới hơn <span class=\"meta-nav\">&rarr;</span>"
+
+#: loop.php:25 loop.php:179
+msgid "<span class=\"meta-nav\">&larr;</span> Older posts"
+msgstr "<span class=\"meta-nav\">&larr;</span> Bài viết cũ hơn"
+
+#: loop-single.php:50
+msgid "View all posts by %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Xem tất cả các bài viết của %s <span class=\"meta-nav\">&rarr</span>"
+
+#: loop-single.php:22 loop-single.php:65
+msgctxt "Next post link"
+msgid "&rarr;"
+msgstr "&rarr;"
+
+#: loop-single.php:21 loop-single.php:64
+msgctxt "Previous post link"
+msgid "&larr;"
+msgstr "&larr;"
+
+#: loop-attachment.php:120 loop-page.php:29 loop-single.php:34 loop.php:145
+msgid "Pages:"
+msgstr "Trang:"
+
+#: loop-attachment.php:63 loop-attachment.php:126 loop-page.php:30
+#: loop-single.php:59 loop.php:101 loop.php:124 loop.php:166
+msgid "Edit"
+msgstr "Chỉnh sửa"
+
+#: loop-attachment.php:56
+msgid "Link to full-size image"
+msgstr "Liên kết tới ảnh gốc"
+
+#: loop-attachment.php:53
+msgid "Full size is %s pixels"
+msgstr "Kích thước đầy đủ %s pixel"
+
+#: loop-attachment.php:43
+msgid "<span class=\"%1$s\">Published</span> %2$s"
+msgstr "<span class=\"%1$s\">Đã đăng</span> %2$s"
+
+#: loop-attachment.php:32
+msgid "<span class=\"%1$s\">By</span> %2$s"
+msgstr "<span class=\"%1$s\">Bởi</span> %2$s"
+
+#. translators: %s - title of parent post
+#: loop-attachment.php:23
+msgid "<span class=\"meta-nav\">&larr;</span> %s"
+msgstr "<span class=\"meta-nav\">&larr;</span>  %s"
+
+#: loop-attachment.php:21
+msgid "Return to %s"
+msgstr "Quay trở lại %s"
+
+#: header.php:105
+msgid "Skip to content"
+msgstr "Chuyển đến nội dung"
+
+#: header.php:33
+msgid "Page %s"
+msgstr "Trang %s"
+
+#: functions.php:544
+msgid "Bookmark the <a href=\"%3$s\" title=\"Permalink to %4$s\" rel=\"bookmark\">permalink</a>."
+msgstr "Đánh dấu <a href=\"%3$s\" title=\"Đường dẫn tĩnh tới %4$s\" rel=\"bookmark\">đường dẫn tĩnh</a>."
+
+#: functions.php:542
+msgid "This entry was posted in %1$s. Bookmark the <a href=\"%3$s\" title=\"Permalink to %4$s\" rel=\"bookmark\">permalink</a>."
+msgstr "Bài này đã được đăng trong %1$s. Đánh dấu <a href=\"%3$s\" title=\"Đường dẫn tĩnh tới %4$s\" rel=\"bookmark\">đường dẫn tĩnh</a>. "
+
+#: functions.php:540
+msgid "This entry was posted in %1$s and tagged %2$s. Bookmark the <a href=\"%3$s\" title=\"Permalink to %4$s\" rel=\"bookmark\">permalink</a>."
+msgstr "Bài này đã được đăng trong %1$s và được gắn thẻ %2$s. Đánh dấu <a href=\"%3$s\" title=\"Đường dẫn tĩnh tới %4$s\" rel=\"bookmark\">đường dẫn tĩnh</a>."
+
+#: functions.php:523 loop-attachment.php:36
+msgid "View all posts by %s"
+msgstr "Xem tất cả bài viết bằng %s"
+
+#: functions.php:514
+msgid "<span class=\"%1$s\">Posted on</span> %2$s <span class=\"meta-sep\">by</span> %3$s"
+msgstr "<span class=\"%1$s\">Đăng trong</span> %2$s <span class=\"meta-sep\">bởi</span> %3$s"
+
+#: functions.php:478
+msgid "Fourth Footer Widget Area"
+msgstr "Widget cho phần footer thứ tư"
+
+#: functions.php:467
+msgid "Third Footer Widget Area"
+msgstr "Widget cho phần footer thứ ba"
+
+#: functions.php:456
+msgid "Second Footer Widget Area"
+msgstr "Widget cho phần footer thứ hai"
+
+#: functions.php:447 functions.php:458 functions.php:469 functions.php:480
+msgid "An optional widget area for your site footer."
+msgstr "Một khu vực widget tuỳ chọn ở phía dưới trang."
+
+#: functions.php:445
+msgid "First Footer Widget Area"
+msgstr "Widget cho phần footer thứ nhất"
+
+#: functions.php:436
+msgid "An optional secondary widget area, displays below the primary widget area in your sidebar."
+msgstr "Một khu vực widget tuỳ chọn thứ hai, hiển thị phía dưới khung widget chính ở sidebar.."
+
+#: functions.php:434
+msgid "Secondary Widget Area"
+msgstr "Widget phụ"
+
+#: functions.php:425
+msgid "Add widgets here to appear in your sidebar."
+msgstr "Thêm các widget vào đây để hiển thị ở sidebar."
+
+#: functions.php:423
+msgid "Primary Widget Area"
+msgstr "Widget chính"
+
+#: functions.php:403
+msgid "Pingback:"
+msgstr "Pingback:"
+
+#: functions.php:386 functions.php:403
+msgid "(Edit)"
+msgstr "( Chỉnh sửa)"
+
+#. translators: 1: date, 2: time
+#: functions.php:386
+msgid "%1$s at %2$s"
+msgstr "%1$s lúc %2$s"
+
+#: functions.php:379
+msgid "Your comment is awaiting moderation."
+msgstr "Bình luận của bạn đang đợi phản hồi."
+
+#: functions.php:376
+msgid "%s <span class=\"says\">says:</span>"
+msgstr "%s <span class=\"says\">nói:</span>"
+
+#: functions.php:280 loop-attachment.php:119 loop.php:116 loop.php:144
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Tiếp tục đọc <span class=\"meta-nav\">&rarr;</span>"
+
+#. translators: header image description
+#: functions.php:207
+msgid "Sunset"
+msgstr "Hoàng hôn"
+
+#. translators: header image description
+#: functions.php:201
+msgid "Path"
+msgstr "Đường dẫn"
+
+#. translators: header image description
+#: functions.php:195
+msgid "Inkwell"
+msgstr "Giếng mực"
+
+#. translators: header image description
+#: functions.php:189
+msgid "Forest Floor"
+msgstr "Rừng"
+
+#. translators: header image description
+#: functions.php:183
+msgid "Fern"
+msgstr "Cây dương xỉ"
+
+#. translators: header image description
+#: functions.php:177
+msgid "Concave"
+msgstr "Mặt lõm"
+
+#. translators: header image description
+#: functions.php:171
+msgid "Cherry Blossoms"
+msgstr "Hoa anh đào"
+
+#. translators: header image description
+#: functions.php:165
+msgid "Berries"
+msgstr "Dâu"
+
+#: functions.php:95
+msgid "Primary Navigation"
+msgstr "Thanh điều hướng chính"
+
+#: footer.php:40
+msgid "Proudly powered by %s."
+msgstr "Xây dựng trên %s."
+
+#: footer.php:40
+msgid "Semantic Personal Publishing Platform"
+msgstr "Nền tảng chia sẻ bài viết cá nhân"
+
+#: comments.php:73
+msgid "Comments are closed."
+msgstr "Không cho phép ghi chú."
+
+#: comments.php:43 comments.php:63
+msgid "Newer Comments <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Các ý kiến mới hơn <span class=\"meta-nav\">&rarr;</span>"
+
+#: comments.php:42 comments.php:62
+msgid "<span class=\"meta-nav\">&larr;</span> Older Comments"
+msgstr "<span class=\"meta-nav\">&larr;</span> Các ý kiến cũ hơn"
+
+#: comments.php:36
+msgid "One Response to %2$s"
+msgid_plural "%1$s Responses to %2$s"
+msgstr[0] "Có %1$s phản hồi tại %2$s"
+
+#: comments.php:18
+msgid "This post is password protected. Enter the password to view any comments."
+msgstr "Bài viết này được bảo vệ bằng mật khẩu. Nhập mật khẩu để xem bình luận."
+
+#: category.php:16
+msgid "Category Archives: %s"
+msgstr "Chuyên mục lưu trữ: %s"
+
+#: author.php:47 loop-single.php:46
+msgid "About %s"
+msgstr "Về %s"
+
+#: author.php:28
+msgid "Author Archives: %s"
+msgstr "Lưu trữ của tác giả: %s"
+
+#: archive.php:40
+msgid "Blog Archives"
+msgstr "Lưu trữ"
+
+#: archive.php:38
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "Y"
+
+#: archive.php:38
+msgid "Yearly Archives: <span>%s</span>"
+msgstr "Lưu trữ hàng năm: <span>%s</span>"
+
+#: archive.php:36
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr "F Y"
+
+#: archive.php:36
+msgid "Monthly Archives: <span>%s</span>"
+msgstr "Lưu trữ hàng tháng: <span>%s</span>"
+
+#: archive.php:34
+msgid "Daily Archives: <span>%s</span>"
+msgstr "Lưu trữ hàng ngày: <span>%s</span>"
+
+#: 404.php:18
+msgid "Apologies, but the page you requested could not be found. Perhaps searching will help."
+msgstr "Xin lỗi, nhưng không tìm thấy trang bạn yêu cầu. Có lẽ tìm kiếm sẽ giúp ích cho bạn."
+
+#: 404.php:16 loop.php:33
+msgid "Not Found"
+msgstr "Không tìm thấy"
+
+#. #-#-#-#-#  twentyten.pot (Twenty Ten 2.3)  #-#-#-#-#
+#. Author URI of the plugin/theme
+#: footer.php:40
+msgid "https://wordpress.org/"
+msgstr "https://wordpress.org/"
+
+#. Author of the plugin/theme
+msgid "the WordPress team"
+msgstr "Nhóm quản trị WordPress"
+
+#. Theme URI of the plugin/theme
+msgid "https://wordpress.org/themes/twentyten/"
+msgstr "https://vi.wordpress.org/themes/twentyten/"

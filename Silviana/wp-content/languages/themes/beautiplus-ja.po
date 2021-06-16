@@ -1,0 +1,316 @@
+# Translation of Themes - Beautiplus in Japanese
+# This file is distributed under the same license as the Themes - Beautiplus package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2017-07-23 23:37:21+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: ja_JP\n"
+"Project-Id-Version: Themes - Beautiplus\n"
+
+#. Theme Name of the plugin/theme
+msgid "Beautiplus"
+msgstr "Beautiplus"
+
+#: footer.php:34
+msgid "Proudly powered by %s"
+msgstr "Proudly powered by %s"
+
+#: footer.php:33
+msgid "https://wordpress.org/"
+msgstr "https://ja.wordpress.org/"
+
+#: footer.php:30
+msgid "All Rights Reserved"
+msgstr "All Rights Reserved"
+
+#. translators: %s: post title
+#: comments.php:29
+msgctxt "comments title"
+msgid "One thought on &ldquo;%s&rdquo;"
+msgstr "&ldquo;%s&rdquo; への 1 件のフィードバック"
+
+#: searchform.php:12
+msgctxt "submit button"
+msgid "Search"
+msgstr "検索"
+
+#: no-results.php:19
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "最初の投稿を公開する準備はできましたか ? <a href=\"%1$s\">ここから始めましょう</a>。"
+
+#: no-results.php:14
+msgid "Nothing Found"
+msgstr "何も見つかりませんでした"
+
+#: search.php:16
+msgid "Search Results for: %s"
+msgstr "「%s」の検索結果"
+
+#: header.php:34
+msgid "Menu"
+msgstr "メニュー"
+
+#: functions.php:39
+msgid "Primary Menu"
+msgstr "メインメニュー"
+
+#. translators: 1: number of comments, 2: post title
+#: comments.php:33
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "&ldquo;%2$s&rdquo; への %1$s 件のフィードバック"
+
+#: inc/about-themes.php:52
+msgid "Documentation"
+msgstr "ドキュメンテーション"
+
+#: header.php:117 header.php:145
+msgid "Read More"
+msgstr "もっと見る"
+
+#: sidebar.php:11
+msgid "Category"
+msgstr "カテゴリー"
+
+#: searchform.php:10
+msgctxt "placeholder"
+msgid "Search..."
+msgstr "検索..."
+
+#: inc/customizer.php:46
+msgid "Slider Settings"
+msgstr "スライダー設定"
+
+#: inc/about-themes.php:50
+msgid "Live Demo"
+msgstr "ライブデモ"
+
+#: inc/about-themes.php:28 inc/about-themes.php:55
+msgid "Theme Customizer"
+msgstr "テーマカスタマイザー"
+
+#: image.php:36
+msgid "Next <span class=\"meta-nav\">&rarr;</span>"
+msgstr "次へ <span class=\"meta-nav\">&rarr;</span>"
+
+#: image.php:35
+msgid "<span class=\"meta-nav\">&larr;</span> Previous"
+msgstr "<span class=\"meta-nav\">&larr;</span> 前へ"
+
+#: functions.php:93
+msgid "Footer Widget 4"
+msgstr "フッターウィジェット4"
+
+#: functions.php:83
+msgid "Footer Widget 3"
+msgstr "フッターウィジェット3"
+
+#: functions.php:73
+msgid "Footer Widget 2"
+msgstr "フッターウィジェット2"
+
+#: functions.php:63
+msgid "Footer Widget 1"
+msgstr "フッターウィジェット1"
+
+#: functions.php:40
+msgid "Footer Menu"
+msgstr "フッターメニュー"
+
+#: sidebar.php:25
+msgid "Meta"
+msgstr "メタ"
+
+#: inc/about-themes.php:61
+msgid "Translation Ready"
+msgstr "翻訳対応"
+
+#: inc/about-themes.php:59
+msgid "Contact Form 7 Plugin Compatible"
+msgstr "Contact Form 7 プラグイン対応"
+
+#: content.php:29
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr "続きを読む <span class=\"meta-nav\">&rarr;</span>"
+
+#: comments.php:67
+msgid "Comments are closed."
+msgstr "ただいまコメントは受け付けていません。"
+
+#: sidebar.php:18
+msgid "Archives"
+msgstr "アーカイブ"
+
+#: no-results.php:28
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "お探しのコンテンツは見つかりませんでした。検索をお試しください。"
+
+#: no-results.php:23
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "ご指定の検索条件に一致する投稿がありません。他のキーワードでもう一度検索してみてください。"
+
+#: inc/template-tags.php:126
+msgid "<span class=\"posted-on\">Published %1$s</span><span class=\"byline\"> by %2$s</span>"
+msgstr "<span class=\"posted-on\">投稿日: %1$s</span> <span class=\"byline\">著者: %2$s</span>"
+
+#: inc/template-tags.php:35
+msgid "Your comment is awaiting moderation."
+msgstr "あなたのコメントは管理者の承認待ちです。"
+
+#: inc/template-tags.php:23
+msgid "Pingback:"
+msgstr "ピンバック:"
+
+#: inc/customizer.php:110 inc/customizer.php:162 inc/customizer.php:193
+msgid "Uncheck To Enable This Section"
+msgstr "チェックを外してセクションを有効化"
+
+#: inc/customizer.php:97
+msgid "Add text for slide read more button"
+msgstr "スライドの「もっと読む」ボタン用テキストを追加"
+
+#: inc/customizer.php:85
+msgid "Select page for slide three:"
+msgstr "3枚目のスライド用ページを選択:"
+
+#: inc/customizer.php:73
+msgid "Select page for slide two:"
+msgstr "2枚目のスライド用ページを選択:"
+
+#: inc/customizer.php:61
+msgid "Select page for slide one:"
+msgstr "1枚目のスライド用ページを選択:"
+
+#: inc/customizer.php:48
+msgid "Featured Image Size Should be same ( 1400x600 ) More slider settings available in PRO Version."
+msgstr "おすすめ画像サイズは (1400x600) にしてください。ほかのスライダー設定はプロバージョンで利用可能です。"
+
+#: inc/customizer.php:38
+msgid "More color options in PRO Version"
+msgstr "プロバージョンの更なるカラーオプション"
+
+#: inc/customizer.php:37
+msgid "Color Scheme"
+msgstr "配色"
+
+#: inc/about-themes.php:62
+msgid "Many Other Plugins  Compatible"
+msgstr "より多くのプラグインに対応"
+
+#: inc/about-themes.php:60
+msgid "User Friendly"
+msgstr "ユーザーフレンドリー"
+
+#: inc/about-themes.php:51
+msgid "Purchase Pro"
+msgstr "プロを購入"
+
+#: inc/about-themes.php:44
+msgid "Fully compatible with WooCommerce plugin. Just install the plugin and turn your site into a full featured online shop and start selling products."
+msgstr "WooCommerce プラグインに完全対応。プラグインをインストールしてサイトを完璧なオンラインショップにし、商品を販売し始めましょう。"
+
+#: inc/about-themes.php:43 inc/about-themes.php:58
+msgid "E-commerce"
+msgstr "E コマース"
+
+#: inc/about-themes.php:39
+msgid "Our themes are tested in all mordern web browsers and compatible with the latest version including Chrome,Firefox, Safari, Opera, IE11 and above."
+msgstr "テーマはすべての最新の Web ブラウザでテストし、Chrome、Firefox、Safari、Opera、IE 11以上の最新バージョンと互換性があります。"
+
+#: inc/about-themes.php:38 inc/about-themes.php:57
+msgid "Cross Browser Compatible"
+msgstr "クロスブラウザ互換"
+
+#: inc/about-themes.php:34
+msgid "The themes layout will automatically adjust and fit on any screen resolution and looks great on any device. Fully optimized for iPhone and iPad."
+msgstr "テーマのレイアウトはどんな画面解像度でも自動的に調整されてフィットし、どんなデバイスでも見栄えよくなります。 iPhone と iPad に完全に対応しています。"
+
+#: inc/about-themes.php:33 inc/about-themes.php:56
+msgid "Responsive Ready"
+msgstr "レスポンシブ対応"
+
+#: inc/about-themes.php:29
+msgid "The built-in customizer panel quickly change aspects of the design and display changes live before saving them."
+msgstr "ビルトインのカスタマイザーパネルでデザインの見た目をすばやく変更し、保存する前に変更を動的に表示します。"
+
+#: inc/about-themes.php:24
+msgid "Theme Features"
+msgstr "テーマの機能"
+
+#: inc/about-themes.php:11 inc/about-themes.php:21
+msgid "About Theme Info"
+msgstr "テーマについての情報"
+
+#: image.php:20
+msgid "Published <span class=\"entry-date\"><time class=\"entry-date\" datetime=\"%1$s\">%2$s</time></span> at <a href=\"%3$s\">%4$s &times; %5$s</a> in <a href=\"%6$s\" rel=\"gallery\">%7$s</a>"
+msgstr "Published <span class=\"entry-date\"><time class=\"entry-date\" datetime=\"%1$s\">%2$s</time></span> at <a href=\"%3$s\">%4$s &times; %5$s</a> in <a href=\"%6$s\" rel=\"gallery\">%7$s</a>"
+
+#. Translators: If there are any character that are not supported by
+#. Montserrat, trsnalate this to off, do not translate into your own language.
+#: functions.php:111
+msgctxt "montserrat:on or off"
+msgid "on"
+msgstr "on"
+
+#: functions.php:64 functions.php:74 functions.php:84 functions.php:94
+msgid "Appears on footer"
+msgstr "フッターに表示"
+
+#: functions.php:54
+msgid "Appears on blog page sidebar"
+msgstr "ブログページのサイドバーに表示"
+
+#: functions.php:53
+msgid "Blog Sidebar"
+msgstr "ブログサイドバー"
+
+#: content.php:25
+msgid "Read More &raquo;"
+msgstr "もっと読む &raquo;"
+
+#: content-page.php:23 content-single.php:40 image.php:30 image.php:62
+#: inc/template-tags.php:23
+msgid "Edit"
+msgstr "編集"
+
+#: content-page.php:18 content-single.php:29 content.php:32 image.php:56
+#: template-full-width.php:25
+msgid "Pages:"
+msgstr "ページ:"
+
+#: 404.php:14
+msgid "404 Not Found"
+msgstr "ページが見つかりませんでした。"
+
+#: inc/customizer.php:169
+msgid "Welcome Section"
+msgstr "ようこそセクション"
+
+#: inc/customizer.php:170
+msgid "Add your details here"
+msgstr "ここに詳細を追加"
+
+#: inc/customizer.php:116
+msgid "Homepage Three Boxes Section"
+msgstr "ホームページ3ボックスセクション"
+
+#: inc/customizer.php:117
+msgid "Select Pages from the dropdown for homepage three boxes section"
+msgstr "ホームページの3つのボックスセクションのドロップダウンからページを選択"
+
+#. Theme URI of the plugin/theme
+msgid "https://gracethemes.com/themes/free-modern-wordpress-theme/"
+msgstr "https://gracethemes.com/themes/free-modern-wordpress-theme/"
+
+#. Author URI of the plugin/theme
+msgid "https://gracethemes.com/"
+msgstr "https://gracethemes.com/"
+
+#. Author of the plugin/theme
+msgid "Grace Themes"
+msgstr "Grace Themes"

@@ -1,0 +1,348 @@
+# Translation of Themes - Comley in Japanese
+# This file is distributed under the same license as the Themes - Comley package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2017-09-17 05:35:10+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: ja_JP\n"
+"Project-Id-Version: Themes - Comley\n"
+
+#. Theme Name of the plugin/theme
+msgid "Comley"
+msgstr "Comley"
+
+#: admin/customizer.php:91
+msgid "List Layout"
+msgstr "リストレイアウト"
+
+#: admin/customizer.php:240
+msgid "Slider Category"
+msgstr "スライダーカテゴリー"
+
+#: admin/customizer.php:223
+msgid "Banner Section "
+msgstr "バナーセクション"
+
+#: admin/customizer.php:215
+msgid "Slider Section "
+msgstr "スライダーセクション"
+
+#: admin/customizer.php:38
+msgid "Slider"
+msgstr "スライダー"
+
+#: admin/customizer.php:37
+msgid "Banner"
+msgstr "バナー"
+
+#: admin/customizer.php:224
+msgid "This is a Banner Settings section."
+msgstr "これはバナー設定セクションです。"
+
+#: admin/customizer.php:216
+msgid "This is a Slider Settings section."
+msgstr "これはスライダー設定セクションです。"
+
+#: functions.php:49
+msgctxt "Great Vibes font: on or off"
+msgid "on"
+msgstr "on"
+
+#: functions.php:47
+msgctxt "Oswald font: on or off"
+msgid "on"
+msgstr "on"
+
+#. translators: If there are characters in your language that are not supported
+#. by Noto Serif, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:45
+msgctxt "Open Sans font: on or off"
+msgid "on"
+msgstr "on"
+
+#. translators: To add an additional character subset specific to your
+#. language, translate this to 'greek', 'cyrillic', 'devanagari' or
+#. 'vietnamese'. Do not translate into your own language.
+#: functions.php:16
+msgctxt "Add new subset (greek, cyrillic, devanagari, vietnamese)"
+msgid "no-subset"
+msgstr "no-subset"
+
+#: functions.php:124
+msgid "%s icon"
+msgstr "%s アイコン"
+
+#: functions.php:120
+msgid "email icon"
+msgstr "メールアイコン"
+
+#: admin/customizer.php:270
+msgid "url:"
+msgstr "URL:"
+
+#: admin/customizer.php:258
+msgid "Social Media Icons"
+msgstr "ソーシャルメディアアイコン"
+
+#. Template Name of the plugin/theme
+msgid "Home Page"
+msgstr "ホームページ"
+
+#: search.php:21
+msgid "Page"
+msgstr "ページ"
+
+#: search.php:20
+msgid "Next page"
+msgstr "次のページ"
+
+#: search.php:19
+msgid "Previous page"
+msgstr "前のページ"
+
+#: functions.php:88
+msgid "Widget Area"
+msgstr "ウィジェットエリア"
+
+#: page-templates/template-full-width.php:21
+#: page-templates/template-page-with-left-sidebar.php:26 page.php:19
+#: template-parts/content.php:61
+msgid "Pages:"
+msgstr "ページ:"
+
+#: template-parts/content-list.php:69 template-parts/content.php:63
+msgid "Continue Reading"
+msgstr "もっと読む"
+
+#: template-parts/content.php:89
+msgid "% Comments"
+msgstr "%件のコメント"
+
+#: template-parts/content-none.php:23
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "お探しのコンテンツを見つけられませんでした。検索をお試しください。"
+
+#: template-parts/content-none.php:20
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "ご指定の検索条件に一致する投稿がありませんでした。他のキーワードでもう一度検索してみてください。"
+
+#: template-parts/content-none.php:18
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "最初の投稿をする準備ができましたか ?  <a href=\"%1$s\">ここからスタート</a>してください。"
+
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr "見つかりません"
+
+#: comments.php:42
+msgid "Comments are closed."
+msgstr "コメントは停止中です。"
+
+#: author.php:6
+msgid "Author Archives: %s"
+msgstr "作者アーカイブ: %s"
+
+#: archive.php:19 author.php:20 category.php:17 single.php:24 tag.php:23
+msgid "Next &raquo;"
+msgstr "次へ &raquo;"
+
+#: archive.php:19 author.php:20 category.php:17 single.php:27 tag.php:23
+msgid "&laquo; Previous"
+msgstr "&laquo; 前へ"
+
+#: admin/template-tags.php:37
+msgid "Newer Comments"
+msgstr "新しいコメント"
+
+#: admin/template-tags.php:33
+msgid "Older Comments"
+msgstr "過去のコメント"
+
+#: admin/template-tags.php:30
+msgid "Comment navigation"
+msgstr "コメントナビゲーション"
+
+#: admin/customizer.php:145
+msgid "Center"
+msgstr "中央"
+
+#: admin/customizer.php:144
+msgid "Right"
+msgstr "右"
+
+#: admin/customizer.php:143
+msgid "Left"
+msgstr "左"
+
+#: admin/customizer.php:123
+msgid "Hide copyright text"
+msgstr "著作権テキストを非表示"
+
+#: admin/customizer.php:107
+msgid "Copyright text"
+msgstr "著作権テキスト"
+
+#: admin/customizer.php:17
+msgid "This is a Themes Settings section."
+msgstr "これはテーマ設定セクションです。"
+
+#: admin/customizer.php:16
+msgid "Themes Settings"
+msgstr "テーマ設定"
+
+#: admin/custom_header.php:18
+msgid "Primary Menu"
+msgstr "メインメニュー"
+
+#: template-parts/content.php:89
+msgid "1 Comment"
+msgstr "1件のコメント"
+
+#. Template Name of the plugin/theme
+msgid "Full Width Page"
+msgstr "全幅ページ"
+
+#. Template Name of the plugin/theme
+msgid "Page with Left Sidebar"
+msgstr "左サイドバー付きページ"
+
+#: template-parts/content.php:89
+msgid "0 Comments"
+msgstr "0件のコメント"
+
+#: single.php:23
+msgid "Next:"
+msgstr "次:"
+
+#: single.php:26
+msgid "Previous:"
+msgstr "前:"
+
+#: 404.php:10
+msgid "back to home page"
+msgstr "ホームページへ戻る"
+
+#: admin/customizer.php:89
+msgid "Grid Layout"
+msgstr "グリッドレイアウト"
+
+#: admin/customizer.php:86
+msgid "Post Layout"
+msgstr "投稿レイアウト"
+
+#: admin/customizer.php:90
+msgid "Standard Layout"
+msgstr "標準レイアウト"
+
+#: admin/customizer.php:69
+msgid "Blog with Left Sidebar"
+msgstr "左サイドバー付きブログ"
+
+#: admin/customizer.php:68
+msgid "Blog with Right Sidebar"
+msgstr "右サイドバー付きブログ"
+
+#: admin/customizer.php:64 admin/customizer.php:67
+msgid "Blog Full Width"
+msgstr "全幅ブログ"
+
+#: admin/customizer.php:46
+msgid "Blog Settings"
+msgstr "ブログ設定"
+
+#: admin/customizer.php:47
+msgid "This is a Blog Settings section."
+msgstr "これはブログ設定セクションです。"
+
+#: admin/customizer.php:140
+msgid "Logo placement"
+msgstr "ロゴの配置"
+
+#: admin/customizer.php:208
+msgid "Banner Text"
+msgstr "バナーテキスト"
+
+#: admin/customizer.php:195
+msgid "Banner Title"
+msgstr "バナータイトル"
+
+#: home.php:33 home.php:75 index.php:30
+msgid "next"
+msgstr "次"
+
+#: home.php:30 home.php:72 index.php:27
+msgid "previous"
+msgstr "前"
+
+#: header.php:67
+msgid "404 error"
+msgstr "404 エラー"
+
+#: header.php:48
+msgid "menu"
+msgstr "メニュー"
+
+#: functions.php:90
+msgid "Add widgets here to appear in your sidebar."
+msgstr "ここにウィジェットを追加してサイドバーに表示します。"
+
+#: comments.php:24
+msgid "COMMENTS to %s"
+msgstr "%s へのコメント"
+
+#: admin/customizer.php:161
+msgid "Background Color Setting"
+msgstr "背景色設定"
+
+#: admin/customizer.php:178
+msgid "Banner Image Change"
+msgstr "バナー画像の変更"
+
+#: comments.php:24
+msgid "Page with Comments"
+msgstr "コメント付きページ"
+
+#: template-parts/content.php:68
+msgid "Posted in:"
+msgstr "カテゴリー: "
+
+#: footer.php:24
+msgid "BACK TO TOP"
+msgstr "トップに戻る"
+
+#: template-parts/content.php:87
+msgid "Share on Pinterest"
+msgstr "Pinterest でシェア"
+
+#: template-parts/content.php:84
+msgid "Share this post on Google Plus!"
+msgstr "この投稿を Google+ でシェア"
+
+#: template-parts/content.php:81
+msgid "Share this post on Twitter!"
+msgstr "この投稿を Twitter でシェア"
+
+#: template-parts/content.php:78
+msgid "Share this post on Facebook!"
+msgstr "この投稿を Facebook でシェア"
+
+#: 404.php:6
+msgid "PAGE YOU ARE LOOKING IS NOT FOUND"
+msgstr "ページが見つかりませんでした"
+
+#. Author URI of the plugin/theme
+msgid "http://www.ydesignservices.com/"
+msgstr "http://www.ydesignservices.com/"
+
+#. Author of the plugin/theme
+msgid "Ydesignservices"
+msgstr "Ydesignservices"
+
+#. Theme URI of the plugin/theme
+msgid "http://www.ydesignservices.com/product/premium-wordpress-themes/comley/"
+msgstr "http://www.ydesignservices.com/product/premium-wordpress-themes/comley/"

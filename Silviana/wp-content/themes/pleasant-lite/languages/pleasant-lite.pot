@@ -1,0 +1,306 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Pleasant Lite\n"
+"POT-Creation-Date: 2016-10-25 23:26+0530\n"
+"PO-Revision-Date: 2016-10-25 23:26+0530\n"
+"Last-Translator: \n"
+"Language-Team: Grace Themes <support@gracethemes.com>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.2\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: _;__;_e;gettext;gettext_noop;esc_attr;esc_attr__;"
+"esc_attr_e;esc_html;esc_html__;esc_html_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: 404.php:14
+msgid "404 Not Found"
+msgstr ""
+
+#: 404.php:17
+msgid ""
+"Looks like you have taken a wrong turn.....Dont worry... it happens to the "
+"best of us."
+msgstr ""
+
+#: comments.php:67
+msgid "Comments are closed."
+msgstr ""
+
+#: content-page.php:18 content-single.php:27 content.php:32 image.php:58
+msgid "Pages:"
+msgstr ""
+
+#: content-page.php:23 content-single.php:38 image.php:32 image.php:64
+#: inc/template-tags.php:21
+msgid "Edit"
+msgstr ""
+
+#: content.php:25
+msgid "Read More &raquo;"
+msgstr ""
+
+#: content.php:29
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: footer.php:28
+msgid "All Rights Reserved"
+msgstr ""
+
+#: footer.php:31
+msgid "https://wordpress.org/"
+msgstr ""
+
+#: footer.php:31
+#, php-format
+msgid "Proudly powered by %s"
+msgstr ""
+
+#: functions.php:40
+msgid "Primary Menu"
+msgstr ""
+
+#: functions.php:41
+msgid "Footer Menu"
+msgstr ""
+
+#: functions.php:55
+msgid "Blog Sidebar"
+msgstr ""
+
+#: functions.php:56
+msgid "Appears on blog page sidebar"
+msgstr ""
+
+#: functions.php:65
+msgid "Footer Widget 1"
+msgstr ""
+
+#: functions.php:66 functions.php:76 functions.php:86
+msgid "Appears on footer"
+msgstr ""
+
+#: functions.php:75
+msgid "Footer Widget 2"
+msgstr ""
+
+#: functions.php:85
+msgid "Footer Widget 3"
+msgstr ""
+
+#: header.php:31
+msgid "Menu"
+msgstr ""
+
+#: image.php:22
+#, php-format
+msgid ""
+"Published <span class=\"entry-date\"><time class=\"entry-date\" datetime="
+"\"%1$s\">%2$s</time></span> at <a href=\"%3$s\">%4$s &times; %5$s</a> in <a "
+"href=\"%6$s\" rel=\"gallery\">%7$s</a>"
+msgstr ""
+
+#: image.php:37
+msgid "<span class=\"meta-nav\">&larr;</span> Previous"
+msgstr ""
+
+#: image.php:38
+msgid "Next <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: inc/about-themes.php:11 inc/about-themes.php:22
+msgid "About Theme Info"
+msgstr ""
+
+#: inc/about-themes.php:24
+msgid ""
+"Pleasant Lite is a clean and modern Free multipurpose WordPress theme. it is "
+"perfect for business,corporate, restaurant, photography, wedding, "
+"industrial, hotels or any type of industry. Theme customizer is very easy to "
+"use and user friendly. also theme is translation ready."
+msgstr ""
+
+#: inc/about-themes.php:25
+msgid "Theme Features"
+msgstr ""
+
+#: inc/about-themes.php:29 inc/about-themes.php:57
+msgid "Theme Customizer"
+msgstr ""
+
+#: inc/about-themes.php:30
+msgid ""
+"The built-in customizer panel quickly change aspects of the design and "
+"display changes live before saving them."
+msgstr ""
+
+#: inc/about-themes.php:34 inc/about-themes.php:58
+msgid "Responsive Ready"
+msgstr ""
+
+#: inc/about-themes.php:35
+msgid ""
+"The themes layout will automatically adjust and fit on any screen resolution "
+"and looks great on any device. Fully optimized for iPhone and iPad."
+msgstr ""
+
+#: inc/about-themes.php:39 inc/about-themes.php:59
+msgid "Cross Browser Compatible"
+msgstr ""
+
+#: inc/about-themes.php:40
+msgid ""
+"Our themes are tested in all mordern web browsers and compatible with the "
+"latest version including Chrome,Firefox, Safari, Opera, IE8 and above."
+msgstr ""
+
+#: inc/about-themes.php:44 inc/about-themes.php:60
+msgid "E-commerce"
+msgstr ""
+
+#: inc/about-themes.php:45
+msgid ""
+"Fully compatible with WooCommerce plugin. Just install the plugin and turn "
+"your site into a full featured online shop and start selling products."
+msgstr ""
+
+#: inc/about-themes.php:52
+msgid "Live Demo"
+msgstr ""
+
+#: inc/about-themes.php:53
+msgid "Documentation"
+msgstr ""
+
+#: inc/about-themes.php:61
+msgid "Contact Form 7 Plugin Compatible"
+msgstr ""
+
+#: inc/about-themes.php:62
+msgid "User Friendly"
+msgstr ""
+
+#: inc/about-themes.php:63
+msgid "Translation Ready"
+msgstr ""
+
+#: inc/about-themes.php:64
+msgid "Many Other Plugins  Compatible"
+msgstr ""
+
+#: inc/customizer.php:37
+msgid "Color Scheme"
+msgstr ""
+
+#: inc/customizer.php:38
+msgid "More color options in PRO Version"
+msgstr ""
+
+#: inc/customizer.php:46
+msgid "Slider Settings"
+msgstr ""
+
+#: inc/customizer.php:48
+msgid ""
+"Featured Image Size Should be ( 1400x590 ) More slider settings available in "
+"PRO Version"
+msgstr ""
+
+#: inc/customizer.php:59
+msgid "Select page for slide one:"
+msgstr ""
+
+#: inc/customizer.php:71
+msgid "Select page for slide two:"
+msgstr ""
+
+#: inc/customizer.php:83
+msgid "Select page for slide three:"
+msgstr ""
+
+#: inc/customizer.php:95
+msgid "Add text for slide read more button"
+msgstr ""
+
+#: inc/customizer.php:108 inc/customizer.php:139 inc/customizer.php:199
+msgid "Uncheck To Enable This Section"
+msgstr ""
+
+#: inc/customizer.php:115
+msgid "Homepage Welcome Section"
+msgstr ""
+
+#: inc/customizer.php:116
+msgid "Select Page from the dropdown for welcome section"
+msgstr ""
+
+#: inc/customizer.php:145
+msgid "Homepage Four Boxes Section"
+msgstr ""
+
+#: inc/customizer.php:146
+msgid "Select Pages from the dropdown for homepage four boxes section"
+msgstr ""
+
+#: inc/template-tags.php:21
+msgid "Pingback:"
+msgstr ""
+
+#: inc/template-tags.php:34
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: inc/template-tags.php:125
+#, php-format
+msgid ""
+"<span class=\"posted-on\">Published %1$s</span><span class=\"byline\"> by "
+"%2$s</span>"
+msgstr ""
+
+#: no-results.php:14
+msgid "Nothing Found"
+msgstr ""
+
+#: no-results.php:17
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: no-results.php:19
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: no-results.php:22
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: page.php:59
+msgid "Read More"
+msgstr ""
+
+#: search.php:16
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: sidebar.php:11
+msgid "Category"
+msgstr ""
+
+#: sidebar.php:19
+msgid "Archives"
+msgstr ""
+
+#: sidebar.php:26
+msgid "Meta"
+msgstr ""

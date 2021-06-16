@@ -1,0 +1,1573 @@
+# Translation of Themes - eStore in Turkish
+# This file is distributed under the same license as the Themes - eStore package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2017-05-16 12:11:59+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: tr\n"
+"Project-Id-Version: Themes - eStore\n"
+
+#. Description of the plugin/theme
+msgid "eStore is a clean, beautiful and fully customizable responsive WooCommerce WordPress theme. This theme packs many premium features and several custom widgets which helps making your online store professional and well organized. Theme is fully compatible with WooCommerce and YITH WooCommerce Wishlist plugins. As an online store owner, attracting customers and selling products will be lot easier with this theme. Check the demo here: https://demo.themegrill.com/estore and get free support here: https://themegrill.com/support-forum/forum/estore-free/"
+msgstr "eStore temiz, güzel, ve tamamıyla özelleştirilebilir, duyarlı, Woocommerce WordPress temasıdır. Bu tema bir çok premium özellik ve bir kaç özel bileşenler beraber geliyor ve çevrimiçi mağazanızı profesyonel ve iyi organize olmuş bir görüntüye ulaştırıyor. Tema WooCommerce ve YITH WooCommerce istek listesi eklentileriyle tam uyumludur. Çevrimiçi bir mağaza sahibi olarak müşterileri çekmek ve ürün satmak bu temayla hiç olmadığı kadar kolay. Demo için https://demo.themegrill.com/estore adresini ve ücretsiz destek için https://themegrill.com/support-forum/forum/estore-free/ adresini ziyaret edebilirsiniz."
+
+#. #-#-#-#-#  estore.pot (eStore 1.1.9)  #-#-#-#-#
+#. Theme Name of the plugin/theme
+#: inc/admin/class-estore-admin.php:342 inc/demo-config.php:24
+msgid "eStore"
+msgstr "eStore"
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:3520
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr "Eklenti %1$s (%2$d/%3$d) Kuruluyor"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:3518
+msgid "All installations have been completed."
+msgstr "Tüm kurulumlar tamamlandı."
+
+#. translators: 1: plugin name.
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:3517
+msgid "%1$s installed successfully."
+msgstr "%1$s başarıyla kuruldu."
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:3515
+msgid "The installation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr "Kurulum işlemi başlıyor. Bu işlem, bazı ana bilgisayarlarda zaman alabilir, bu yüzden sabırlı olunuz."
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:3512
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr "Eklenti %1$s (%2$d/%3$d) Kuruluyor ve Etkinleştiriliyor"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:3510
+msgid "All installations and activations have been completed."
+msgstr "Tüm kurulum ve etkinleştirmeler tamamlandı."
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:3509
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:3517
+msgid "Hide Details"
+msgstr "Detayları gizle"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:3509
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:3517
+msgid "Show Details"
+msgstr "Detayları göster"
+
+#. translators: 1: plugin name.
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:3509
+msgid "%1$s installed and activated successfully."
+msgstr "%1$s başarıyla kuruldu ve etkinleştirildi."
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:3507
+msgid "The installation and activation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr "Kurulum ve etkinleştirme işlemi başlıyor. Bu işlem, bazı ana bilgisayarlarda zaman alabilir, bu yüzden sabırlı olunuz."
+
+#. translators: 1: plugin name.
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:3503
+msgid "The installation of %1$s failed."
+msgstr "%1$s kurulumu başarısız oldu."
+
+#. translators: 1: plugin name, 2: error message.
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:3501
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr "%1$s kurulurken bir hata oluştu: <strong>%2$s</strong>."
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:3498
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr "Eklenti güncelleştiriliyor %1$s (%2$d/%3$d)"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:3158
+msgid "Plugin activation failed."
+msgstr "Eklenti etkinleştirmesi başarısız oldu."
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2934
+msgid "No plugins are available to be activated at this time."
+msgstr "Şu an için etkinleştirmek üzere uygun eklenti yok."
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2908
+msgid "No plugins were selected to be activated. No action taken."
+msgstr "Etkinleştirilmek üzere eklenti seçilmedi. Herhangi bir eylemde bulunulmadı."
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2802
+msgid "No plugins are available to be updated at this time."
+msgstr "Şu an için güncelleme gerektiren eklenti yok."
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2800
+msgid "No plugins are available to be installed at this time."
+msgstr "Şu an için yüklenmek üzere uygun eklenti yok."
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2759
+msgid "No plugins were selected to be updated. No action taken."
+msgstr "Güncelleme için eklenti seçilmedi. Herhangi bir eylemde bulunulmadı. "
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2757
+msgid "No plugins were selected to be installed. No action taken."
+msgstr "Yükleme için eklenti seçilmedi. Herhangi bir eylemde bulunulmadı. "
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2726
+msgid "Activate"
+msgstr "Etkinleştir"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2723
+msgid "Update"
+msgstr "Güncelleme"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2717
+msgid "Install"
+msgstr "Yükle"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2684
+msgid "Upgrade message from the plugin author:"
+msgstr "Eklenti geliştiricisinden yükseltme mesajı:"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2614
+msgid "Activate %2$s"
+msgstr "%2$s etkinleştir"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2608
+msgid "Update %2$s"
+msgstr "%2$s güncelle"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2603
+msgid "Install %2$s"
+msgstr "%2$s yükle"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2554
+msgid "Status"
+msgstr "Durum"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2553
+msgid "Version"
+msgstr "Sürüm"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2549
+msgid "Type"
+msgstr "Tür"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2548
+msgid "Source"
+msgstr "Kaynak"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2547
+msgid "Plugin"
+msgstr "Eklenti"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2533
+msgid "No plugins to install, update or activate."
+msgstr "Kurulacak, güncellenecek ya da etkinleştirilecek hiç bir eklenti yok."
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2510
+msgid "Available version:"
+msgstr "Uygun sürüm:"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2498
+msgid "Minimum required version:"
+msgstr "Gerekli en küçük sürüm:"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2490
+msgid "Installed version:"
+msgstr "Yüklü sürüm:"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2482
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr "bilinmiyor"
+
+#. translators: 1: number of plugins.
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2400
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] "Etkinleştirilecek <span class=\"count\">(%s)</span>"
+msgstr[1] "Etkinleştirilecek <span class=\"count\">(%s)</span>"
+
+#. translators: 1: number of plugins.
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2396
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] "Güncellemesi olan <span class=\"count\">(%s)</span>"
+msgstr[1] "Güncellemesi olan <span class=\"count\">(%s)</span>"
+
+#. translators: 1: number of plugins.
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2392
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] "Yüklenecek <span class=\"count\">(%s)</span>"
+msgstr[1] "Yüklenecek <span class=\"count\">(%s)</span>"
+
+#. translators: 1: number of plugins.
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2388
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] "Tümü <span class=\"count\">(%s)</span>"
+msgstr[1] "Tümü <span class=\"count\">(%s)</span>"
+
+#. translators: 1: install status, 2: update status
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2342
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr "%1$s, %2$s"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2333
+msgid "Update recommended"
+msgstr "Yükseltme öneriliyor"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2330
+msgid "Requires Update"
+msgstr "Yükseltme gerektiriyor"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2327
+msgid "Required Update not Available"
+msgstr "Gerekli güncelleme uygun değil"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2321
+msgid "Active"
+msgstr "Aktif"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2319
+msgid "Installed But Not Activated"
+msgstr "Kurulmuş Ancak Etkinleştirilmemiş"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2315
+msgid "Not Installed"
+msgstr "Kurulmamış"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2298
+msgid "Pre-Packaged"
+msgstr "Önceden Paketlenmiş"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2295
+msgid "External Source"
+msgstr "Dış kaynak"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2292
+msgid "WordPress Repository"
+msgstr "WordPress Veri Havuzu"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2276
+msgid "Recommended"
+msgstr "Tavsiye Edilen"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2273
+msgid "Required"
+msgstr "Gerekli"
+
+#. translators: %s: version number
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:1982
+msgid "TGMPA v%s"
+msgstr "TGMPA v%s"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:1121
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2948
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr "ve"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:937
+msgid "The remote plugin package consists of more than one file, but the files are not packaged in a folder."
+msgstr "Uzak eklenti paketi birdne çok dosya içeriyor fakat bunlar bir klasör içinde değil."
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:934
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:937
+msgid "Please contact the plugin provider and ask them to package their plugin according to the WordPress guidelines."
+msgstr "Lütfen eklenti sağlayıcısı ile irtibata geçip eklenti paketini WordPress kurallarına göre güncellemelerini iletin."
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:934
+msgid "The remote plugin package does not contain a folder with the desired slug and renaming did not work."
+msgstr "Uzak eklenti beklenen klasörü içermiyor ve isim değiştirme de işe yaramadı."
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:523
+msgid "Update Required"
+msgstr "Güncelleme gerekiyor"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:522
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr "Temanızla uyum sağlayabilmesi için bu eklentinin güncellenmesi gerekiyor."
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:397
+#: inc/tgm-plugin-activation/tgmpa-estore.php:109
+msgid "Please contact the administrator of this site for help."
+msgstr "Lütfen yardım için sitenin yöneticilerine ulaşın."
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:396
+#: inc/tgm-plugin-activation/tgmpa-estore.php:108
+msgid "There are one or more required or recommended plugins to install, update or activate."
+msgstr "Yüklenecek, güncellenecek veya etkinleştirilmesi gerekli veya önerilen bir ya da daha fazla eklenti var."
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:395
+#: inc/tgm-plugin-activation/tgmpa-estore.php:107
+msgid "Dismiss this notice"
+msgstr "Bu bildirimi kapatın"
+
+#. translators: 1: dashboard link.
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:394
+#: inc/tgm-plugin-activation/tgmpa-estore.php:106
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr "Tüm eklentiler başarıyla kuruldu ve etkinleştirildi. %1$s"
+
+#. translators: 1: plugin name.
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:392
+#: inc/tgm-plugin-activation/tgmpa-estore.php:104
+msgid "Plugin not activated. A higher version of %s is needed for this theme. Please update the plugin."
+msgstr "Eklenti etkinleştirilmedi. Bu tema için %s eklentisinin daha yüksek bir sürümü gerekiyor. Lütfen eklentiyi güncelleyin."
+
+#. translators: 1: plugin name.
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:390
+#: inc/tgm-plugin-activation/tgmpa-estore.php:102
+msgid "No action taken. Plugin %1$s was already active."
+msgstr "Herhangi bir eylemde bulunulmadı. %1$s eklentisi zaten etkin."
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:388
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2952
+#: inc/tgm-plugin-activation/tgmpa-estore.php:100
+msgid "The following plugin was activated successfully:"
+msgstr "Takibeden eklenti başarıyla aktif ettirildi."
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:387
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:3159
+#: inc/tgm-plugin-activation/tgmpa-estore.php:99
+msgid "Plugin activated successfully."
+msgstr "Eklenti başarıyla etkinleştirildi."
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:386
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:827
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2533
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:3580
+msgid "Return to the Dashboard"
+msgstr "Başlangıca dön"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:385
+#: inc/tgm-plugin-activation/tgmpa-estore.php:98
+msgid "Return to Required Plugins Installer"
+msgstr "Gerekli Eklenti Kurulumuna Dön"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:380
+#: inc/tgm-plugin-activation/tgmpa-estore.php:93
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] "Eklentiyi etkinleştirmeye başla"
+msgstr[1] "Eklentileri etkinleştirmeye başla"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:375
+#: inc/tgm-plugin-activation/tgmpa-estore.php:88
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] "Eklentiyi güncellemeye başla"
+msgstr[1] "Eklentileri güncellemeye başla"
+
+#. translators: 1: plugin name(s).
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:370
+#: inc/tgm-plugin-activation/tgmpa-estore.php:83
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] "Eklentiyi yüklemeye başla"
+msgstr[1] "Eklentileri yüklemeye başla"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:333
+#: inc/tgm-plugin-activation/tgmpa-estore.php:46
+msgid "Something went wrong with the plugin API."
+msgstr "Eklenti API'siyle ilgili bir şeyler yanlış gitti."
+
+#. translators: %s: plugin name.
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:332
+#: inc/tgm-plugin-activation/tgmpa-estore.php:45
+msgid "Updating Plugin: %s"
+msgstr "Eklentiler güncelleniyor: %s"
+
+#. translators: %s: plugin name.
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:330
+#: inc/tgm-plugin-activation/tgmpa-estore.php:43
+msgid "Installing Plugin: %s"
+msgstr "Eklenti Kuruluyor: %s"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:328
+#: inc/tgm-plugin-activation/tgmpa-estore.php:41
+msgid "Install Plugins"
+msgstr "Eklenti Kur"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:327
+#: inc/tgm-plugin-activation/tgmpa-estore.php:40
+msgid "Install Required Plugins"
+msgstr "Gerekli Eklentileri Kur"
+
+#: inc/customizer.php:116
+msgid "Postion Two: Display Header Media just below the Main/Primary Menu"
+msgstr "Konum iki: Üst kısım ortam dosyasını hemen ana menünün altında gösterin"
+
+#: inc/customizer.php:115
+msgid "Position One: Display Header Media just above the site Title/Text"
+msgstr "Konum bir: Üst kısım ortam dosyasını hemen başlık metninin üstünde gösterin"
+
+#: inc/customizer.php:111
+msgid "Choose the required option for Header Media placement"
+msgstr "Üst kısım ortam dosyası yerleşimi için gerekli seçeneği seçin"
+
+#: inc/woocommerce.php:244
+msgid "Check to hide hover effect on Product Images in WooCommerce Archive Pages."
+msgstr "WooCommerce arşiv sayfalarındaki ürün görsellerinin hover efektini gizlemek için işaretleyin."
+
+#: inc/widgets.php:840
+msgid "Check to hide image hover effect."
+msgstr "Görsel hover efektini gizlemek için işaretleyin."
+
+#: inc/widgets.php:187 inc/widgets.php:1067 inc/widgets.php:1519
+#: inc/widgets.php:2082
+msgid "Select an Image"
+msgstr "Resim seçiniz"
+
+#: inc/widgets.php:187 inc/widgets.php:1067 inc/widgets.php:1519
+#: inc/widgets.php:2082
+msgid "Use image"
+msgstr "Resmi kullan"
+
+#: inc/widgets.php:187 inc/widgets.php:1067 inc/widgets.php:1519
+#: inc/widgets.php:2082
+msgid "Choose an image"
+msgstr "Bir resim seç"
+
+#: inc/customizer.php:448
+msgid "Grid View"
+msgstr "Izgara görünümü"
+
+#: inc/customizer.php:447
+msgid "List View"
+msgstr "Liste görünümü"
+
+#: inc/customizer.php:443
+msgid "Choose the layout style for archive pages."
+msgstr "Arşiv sayfaları için yerleşim stilini seçin."
+
+#: inc/customizer.php:426
+msgid "Blog Layout"
+msgstr "Blog yerleşimi"
+
+#: navigation.php:42
+msgctxt "Next post link"
+msgid "&rarr;"
+msgstr "&rarr;"
+
+#: navigation.php:41
+msgctxt "Previous post link"
+msgid "&larr;"
+msgstr "&larr;"
+
+#: navigation.php:22 navigation.php:34
+msgid "Next &rarr;"
+msgstr "Sonraki &arr;"
+
+#: navigation.php:21 navigation.php:33
+msgid "&larr; Previous"
+msgstr "&larr; Önceki"
+
+#: inc/admin/class-estore-admin.php:503
+msgid "TG: Products Tab"
+msgstr "TG: Ürünler sekmesi"
+
+#: inc/admin/class-estore-admin.php:498
+msgid "TG: Icon Text"
+msgstr "TG: Simge metni"
+
+#: inc/admin/class-estore-admin.php:493
+msgid "TG: Testimonials"
+msgstr "TG: Deneyimler"
+
+#: inc/admin/class-estore-admin.php:478
+msgid "TG: Product slider"
+msgstr "TG: Ürün kaydırağı"
+
+#: inc/admin/class-estore-admin.php:468
+msgid "TG: Logos"
+msgstr "TG: Logolar"
+
+#: inc/admin/class-estore-admin.php:463
+msgid "TG: Product grid"
+msgstr "TG: Ürün ızgarası"
+
+#: inc/admin/class-estore-admin.php:413
+msgid "Extra Options on Widgets"
+msgstr "Bileşenler üzerinde ek seçenekler"
+
+#: inc/admin/class-estore-admin.php:410
+msgid "Forum + Emails/Support Ticket"
+msgstr "Forum + e-posta/destek bileti"
+
+#: inc/admin/class-estore-admin.php:409
+msgid "Forum"
+msgstr "Forum"
+
+#: inc/admin/class-estore-admin.php:403
+msgid "Demo Content"
+msgstr "Demo içerik"
+
+#: inc/admin/class-estore-admin.php:399 inc/admin/class-estore-admin.php:400
+msgid "1,2,3,4 Columns"
+msgstr "1, 2, 3, 4 sütun"
+
+#: inc/admin/class-estore-admin.php:398
+msgid "Footer Widgets Column"
+msgstr "Alt alan bileşen sütunu"
+
+#: inc/admin/class-estore-admin.php:393
+msgid "Footer Copyright Editor"
+msgstr "Alt alan hak bildirimi düzenleyici"
+
+#: inc/admin/class-estore-admin.php:388
+msgid "RTL Support"
+msgstr "Sağdan sola yazım desteği"
+
+#: inc/admin/class-estore-admin.php:383
+msgid "WPML Compatible"
+msgstr "WPML uyumlı"
+
+#: inc/admin/class-estore-admin.php:378
+msgid "YITH Wishlist Compatible"
+msgstr "YITH istek listesi uyumlu"
+
+#: inc/admin/class-estore-admin.php:373
+msgid "Woocommerce Compatible"
+msgstr "Woocommerce uyumlu"
+
+#: inc/admin/class-estore-admin.php:368
+msgid "Translation Ready"
+msgstr "Çeviri hazır"
+
+#: inc/admin/class-estore-admin.php:365
+msgid "Multiple Color Options"
+msgstr "Çoklu renk seçeneği"
+
+#: inc/admin/class-estore-admin.php:363
+msgid "Color Palette"
+msgstr "Renk paleti"
+
+#: inc/admin/class-estore-admin.php:358
+msgid "Font Size options"
+msgstr "Yazı tipi ayarları"
+
+#: inc/admin/class-estore-admin.php:355
+msgid "600+"
+msgstr "600+"
+
+#: inc/admin/class-estore-admin.php:353
+msgid "Google Fonts Option"
+msgstr "Google Yazı Tipleri ayarı"
+
+#: inc/admin/class-estore-admin.php:350
+msgid "3 different header layouts"
+msgstr "3 farklı üst kısım yerleşimi"
+
+#: inc/admin/class-estore-admin.php:349
+msgid "Default header layout (free)"
+msgstr "Varsayılan üst kısım yerleşimi (ücretsiz)"
+
+#: inc/admin/class-estore-admin.php:348
+msgid "Different Header Layouts"
+msgstr "Farklı üst kısım yerleşimleri"
+
+#: inc/admin/class-estore-admin.php:343
+msgid "eStore Pro"
+msgstr "eStore Pro"
+
+#: inc/admin/class-estore-admin.php:341
+msgid "Features"
+msgstr "Özellikler"
+
+#: inc/admin/class-estore-admin.php:319
+msgid "WPML"
+msgstr "WPML"
+
+#: inc/admin/class-estore-admin.php:317
+msgid "YITH WooCommerce Wishlist"
+msgstr "YITH WooCommerce İstek Listesi"
+
+#: inc/admin/class-estore-admin.php:316
+msgid "WooCommerce"
+msgstr "WooCommerce"
+
+#: inc/admin/class-estore-admin.php:315
+msgid "WP-PageNavi"
+msgstr "WP-PageNavi"
+
+#: inc/admin/class-estore-admin.php:314
+msgid "Contact Form 7"
+msgstr "Contact Form 7"
+
+#: inc/admin/class-estore-admin.php:311
+msgid "Easy Social Sharing"
+msgstr "Easy Social Sharing"
+
+#: inc/admin/class-estore-admin.php:309 inc/admin/class-estore-admin.php:312
+msgid " by ThemeGrill"
+msgstr " ThemeGrill"
+
+#: inc/admin/class-estore-admin.php:308
+msgid "Social Icons"
+msgstr "Sosyal simgeler"
+
+#: inc/admin/class-estore-admin.php:306
+msgid "This theme recommends following plugins."
+msgstr "Bu tema şu eklentileri önermektedir."
+
+#: inc/admin/class-estore-admin.php:254
+msgid "View changelog below."
+msgstr "Değişiklik kayıtlarını aşağıdan inceleyebilirsiniz."
+
+#: inc/admin/class-estore-admin.php:237
+msgid "Go to Dashboard"
+msgstr "Başlangıca git"
+
+#: inc/admin/class-estore-admin.php:237
+msgid "Go to Dashboard &rarr; Home"
+msgstr "Başlangıç ekranına git &rarr; Ana sayfa"
+
+#: inc/admin/class-estore-admin.php:234
+msgid "Return to Dashboard &rarr; Updates"
+msgstr "Başlangıç ekranına geri dön &rarr; Güncellemeler"
+
+#: inc/admin/class-estore-admin.php:234
+msgid "Return to Updates"
+msgstr "Güncelleştirmelere geri dön"
+
+#: inc/admin/class-estore-admin.php:218
+msgid "Click below to translate this theme into your own language."
+msgstr "Aşağıdaki bağlantıyı kullanarak bu temayı kendi dilinize çevirin."
+
+#: inc/admin/class-estore-admin.php:214 inc/admin/class-estore-admin.php:222
+msgid "Translate"
+msgstr "Çeviri"
+
+#: inc/admin/class-estore-admin.php:208
+msgid "Contact Page"
+msgstr "İletişim sayfası"
+
+#: inc/admin/class-estore-admin.php:207
+msgid "Please send it via our sales contact page."
+msgstr "Lütfen satış iletişim sayfasından gönderin."
+
+#: inc/admin/class-estore-admin.php:206
+msgid "Got sales related question?"
+msgstr "Satış ile ilgili sorularınız mı var?"
+
+#: inc/admin/class-estore-admin.php:201 inc/admin/class-estore-admin.php:336
+msgid "Upgrade to PRO version for more exciting features."
+msgstr "Heyecan verici özellikler için PRO sürümüne yükseltin."
+
+#: inc/admin/class-estore-admin.php:200
+msgid "Need more features?"
+msgstr "Daha fazla özellik mi gerekiyor?"
+
+#: inc/admin/class-estore-admin.php:196
+msgid "Support Forum"
+msgstr "Destek Forumları"
+
+#: inc/admin/class-estore-admin.php:195
+msgid "Please put it in our dedicated support forum."
+msgstr "Lütfen destek forumlarımıza yazın."
+
+#: inc/admin/class-estore-admin.php:194
+msgid "Got theme support question?"
+msgstr "Tema desteği sorunuz mu var?"
+
+#: inc/admin/class-estore-admin.php:189
+msgid "Please view our documentation page to setup the theme."
+msgstr "Temayı kurmak için belgeler sayfalarımıza göz atın."
+
+#: inc/admin/class-estore-admin.php:184
+msgid "Customize"
+msgstr "Özelleştir"
+
+#: inc/admin/class-estore-admin.php:183
+msgid "All Theme Options are available via Customize screen."
+msgstr "Tüm tema seçenekleri özelleştirici ekranında kullanılabilir."
+
+#: inc/admin/class-estore-admin.php:182
+msgid "Theme Customizer"
+msgstr "Tema özelleştirici"
+
+#: inc/admin/class-estore-admin.php:148
+msgid "Changelog"
+msgstr "Değişiklik listesi"
+
+#: inc/admin/class-estore-admin.php:145
+msgid "Free Vs Pro"
+msgstr "Ücretsiz ve Pro"
+
+#: inc/admin/class-estore-admin.php:142
+msgid "Supported Plugins"
+msgstr "Desteklenen eklentiler"
+
+#: inc/admin/class-estore-admin.php:132 inc/admin/class-estore-admin.php:202
+#: inc/admin/class-estore-admin.php:511 inc/customizer.php:36
+#: inc/customizer.php:52
+msgid "View Pro"
+msgstr "Pro sürümü görüntüle"
+
+#: inc/admin/class-estore-admin.php:115
+msgid "%s"
+msgstr "%s"
+
+#: inc/admin/class-estore-admin.php:93
+msgid "Get started with eStore"
+msgstr "eStore ile başlangıç"
+
+#: inc/admin/class-estore-admin.php:91
+msgid "Welcome! Thank you for choosing eStore! To fully take advantage of the best our theme can offer please make sure you visit our %swelcome page%s."
+msgstr "Merhaba! eStore temasını seçtiğiniz için teşekkürler. Temamızın sağladığı tüm imkanlardan faydalanabilmek için lütfen %smerhaba sayfamızı%s ziyaret edin."
+
+#: inc/admin/class-estore-admin.php:90
+msgid "Dismiss"
+msgstr "Gizle"
+
+#: inc/admin/class-estore-admin.php:77
+msgid "Cheatin&#8217; huh?"
+msgstr "Hile mi yapıyorsun?"
+
+#: inc/admin/class-estore-admin.php:74
+msgid "Action failed. Please refresh the page and retry."
+msgstr "İşlem başarısız. Lütfen sayfayı yenileyin ve tekrar deneyin."
+
+#: inc/admin/class-estore-admin.php:36 inc/admin/class-estore-admin.php:113
+msgid "About"
+msgstr "Hakkında"
+
+#: inc/customizer.php:90
+msgid "Important Links"
+msgstr "Önemli bağlantılar"
+
+#: inc/customizer.php:73
+msgid "eStore Important Links"
+msgstr "eStore önemli bağlantılar"
+
+#: inc/admin/class-estore-admin.php:134 inc/customizer.php:60
+msgid "Rate this theme"
+msgstr "Bu Tema değerlendir"
+
+#: inc/admin/class-estore-admin.php:130 inc/customizer.php:56
+msgid "View Demo"
+msgstr "Demoyu Göster"
+
+#: inc/admin/class-estore-admin.php:188 inc/admin/class-estore-admin.php:190
+#: inc/customizer.php:48
+msgid "Documentation"
+msgstr "Dökümantasyon"
+
+#: inc/admin/class-estore-admin.php:408 inc/customizer.php:44
+msgid "Support"
+msgstr "Destek"
+
+#: inc/admin/class-estore-admin.php:128 inc/customizer.php:40
+msgid "Theme Info"
+msgstr "Tema bilgisi"
+
+#: inc/admin/class-estore-admin.php:483 inc/widgets.php:687
+msgid "TG: Vertical Promo"
+msgstr "TG: Dikey promo"
+
+#: inc/widgets.php:682
+msgid "Display some pages in vertical layout with featured image."
+msgstr "Bazı sayfaları öne çıkan görsel ile beraber dikey yerleşimle göster"
+
+#: inc/widgets.php:493 inc/widgets.php:704
+msgid "Pages"
+msgstr "Sayfalar"
+
+#: inc/admin/class-estore-admin.php:448 inc/widgets.php:476
+msgid "TG: Horizontal Promo"
+msgstr "TG: Yatay Promo"
+
+#: inc/widgets.php:471
+msgid "Display some pages with featured image in horizontal layout."
+msgstr "Bazı sayfaları öne çıkan görsel ile beraber yatay yerleşimle göster"
+
+#: inc/widgets.php:173
+msgid "Add your Advertisement Images Here. Any size supported."
+msgstr "Reklam görsellerinizi buradan ekleyin. Tüm boylar destekleniyor."
+
+#: inc/admin/class-estore-admin.php:423 inc/widgets.php:154
+msgid "TG: Advertisement"
+msgstr "TG: Reklam"
+
+#: inc/widgets.php:148
+msgid "Add your Advertisement here"
+msgstr "Reklamınızı buradan ekleyin"
+
+#. Template Name of the plugin/theme
+msgid "WooCommerce Category Collection"
+msgstr "WooCommerce kategori koleksiyonu"
+
+#. Template Name of the plugin/theme
+msgid "eStore Home"
+msgstr "eStore ana sayfa"
+
+#: woocommerce/single-product/related.php:26
+msgid "Related Products"
+msgstr "Benzer Ürünler"
+
+#: woocommerce/checkout/form-login.php:36
+msgid "If you have shopped with us before, please enter your details in the boxes below. If you are a new customer, please proceed to the Billing &amp; Shipping section."
+msgstr "Eğer bizimle daha önce bir alışverişiniz olduysa, lütfen aşağıdaki kutulara bilgilerinizi girin. Eğer yeni bir müşteriyseniz, lütfen Ödeme ve Teslimat bölümüne ilerleyin."
+
+#: woocommerce/checkout/form-login.php:29
+msgid "Click here to login"
+msgstr "Giriş için tıklayın"
+
+#: woocommerce/checkout/form-login.php:28
+msgid "Returning customer?"
+msgstr "Zaten üye misiniz?"
+
+#: woocommerce/checkout/form-checkout.php:56
+msgid "Your order"
+msgstr "Siparişiniz"
+
+#: woocommerce/checkout/form-checkout.php:28
+msgid "You must be logged in to checkout."
+msgstr "Ödeme kısmına geçmek için Oturum açmanız gerekir."
+
+#: woocommerce/checkout/form-billing.php:51
+msgid "Create an account?"
+msgstr "Hesap oluştur?"
+
+#: woocommerce/checkout/form-billing.php:30
+msgid "Billing details"
+msgstr "Fatura ayrıntıları"
+
+#: woocommerce/checkout/form-billing.php:26
+msgid "Billing &amp; Shipping"
+msgstr "Faturalandırma ve Nakliye"
+
+#: woocommerce/cart/cross-sells.php:27
+msgid "You may be interested in&hellip;"
+msgstr "İlginizi çekebilir&hellip;"
+
+#: woocommerce/cart/cart-totals.php:78
+msgid "estimated for %s"
+msgstr "%s için tahmini süre"
+
+#: woocommerce/cart/cart-totals.php:63 woocommerce/cart/cart-totals.php:64
+msgid "Shipping"
+msgstr "Nakliye"
+
+#: woocommerce/cart/cart-totals.php:41 woocommerce/cart/cart-totals.php:42
+msgid "Subtotal"
+msgstr "Alt Toplam"
+
+#: woocommerce/cart/cart-totals.php:36
+msgid "Cart Totals"
+msgstr "Toplam"
+
+#: template-parts/content-single.php:36
+msgid "Tagged on: "
+msgstr "Etiketlendi: "
+
+#: template-parts/content-page.php:28 template-parts/content-single.php:43
+msgid "Pages:"
+msgstr "Sayfalar"
+
+#: template-parts/content-none.php:16
+msgid "Nothing Found"
+msgstr "Hiçbir şey bulunamadı"
+
+#: searchform.php:12
+msgctxt "submit button"
+msgid "Search"
+msgstr "Ara"
+
+#: searchform.php:11
+msgctxt "placeholder"
+msgid "Search &hellip;"
+msgstr "Ara &hellip;"
+
+#: no-results.php:28 template-parts/content-none.php:31
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Görünen o ki bakındığınız her ne ise bulamıyoruz. Belki arama özelliği yardımcı olabilir."
+
+#: no-results.php:23 template-parts/content-none.php:26
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Üzgünüz, arama terimlerinizle hiçbir şey eşleşmedi. Lütfen farklı anahtar kelimelerle tekrar deneyin."
+
+#: no-results.php:18 template-parts/content-none.php:22
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "İlk yazınızı yayımlamak için hazır mısınız? <a href=\"%1$s\">Buradan başlayın</a>."
+
+#: inc/woocommerce.php:219
+msgid "This layout will be reflected in product page of WooCommerce."
+msgstr "Bu yerleşim WooCommerce ürün sayfasına uygulanacaktır."
+
+#: inc/woocommerce.php:200
+msgid "Product Page Layout"
+msgstr "Ürün sayfası yerleşimi"
+
+#: inc/woocommerce.php:182
+msgid "This layout will be reflected in archives, categories, search page etc. of WooCommerce."
+msgstr "Bu yerleşim WooCommerce arşivleri, kategorileri, arama sayfaları vb sayfalara uygulanacaktır."
+
+#: inc/woocommerce.php:163
+msgid "Archive Page Layout"
+msgstr "Arşiv sayfası yerleşimi"
+
+#: inc/woocommerce.php:116
+msgid "Enable Currency Symbol"
+msgstr "Para birimi simgesini etkinleştir"
+
+#: inc/woocommerce.php:100
+msgid "Enable My Account Button"
+msgstr "Hesabım tuşunu etkinleştir"
+
+#: inc/woocommerce.php:88
+msgid "Change WooCommerce settings related to theme."
+msgstr "Tema ile ilgili WooCommerce ayarlarını değiştir."
+
+#: inc/woocommerce.php:86
+msgid "WooCommerce Settings"
+msgstr "WooCommerce Ayarları"
+
+#: inc/woocommerce.php:62
+msgid "Widget area for WooCommerce Pages."
+msgstr "WooCommerce sayfaları için bileşen alanı."
+
+#: inc/woocommerce.php:60
+msgid "Shop Sidebar"
+msgstr "Mağaza yan sütunu"
+
+#: inc/widgets.php:2107
+msgid "Number of Posts:"
+msgstr "Yazı sayısı:"
+
+#: inc/admin/class-estore-admin.php:433 inc/widgets.php:2036
+msgid "TG: Category Grid"
+msgstr "TG: Kategori ızgarası"
+
+#: inc/widgets.php:2030
+msgid "Show Featured Category Posts in Grid Layout."
+msgstr "Izgara yerleşiminde öne çıkan kategori yazılarını gösterir."
+
+#: inc/admin/class-estore-admin.php:428 inc/widgets.php:1866
+msgid "TG: Category Carousel"
+msgstr "TG: Kategori döndürgeci"
+
+#: inc/widgets.php:1859
+msgid "Display latest posts or posts of specific category, which will be used as the carousel."
+msgstr "Döndürgeç içinde belili bir kategorideki yazıları ya da en güncel yazıları gösterir."
+
+#: inc/widgets.php:1839
+msgid "Add to Cart"
+msgstr "Sepete Ekle"
+
+#: inc/widgets.php:1762
+msgid "Show Products from a category"
+msgstr "Bir kategoriden ürünleri göster"
+
+#: inc/widgets.php:1761
+msgid "Show Latest Products"
+msgstr "Son güncel ürünleri göster"
+
+#: inc/widgets.php:1756
+msgid "Number of products to display:"
+msgstr "Gösterilecek ürün sayısı:"
+
+#: inc/widgets.php:1740
+msgid "TG: Product Slider"
+msgstr "TG: Ürün kaydırağı"
+
+#: inc/widgets.php:1733
+msgid "Display WooCommerce Product from category."
+msgstr "Kategoriden WooCommerce ürünü göster."
+
+#: inc/widgets.php:1713 inc/widgets.php:2010
+msgid "Read More"
+msgstr "Fazlasını Oku"
+
+#: inc/admin/class-estore-admin.php:438 inc/widgets.php:1624
+msgid "TG: Category Slider"
+msgstr "TG: Kategori kaydırağı"
+
+#: inc/widgets.php:1617
+msgid "Display latest posts or posts of specific category, which will be used as the slider."
+msgstr "Kaydırakta kullanılmak üzere en güncel yazıları ya da belirli bir kategorinin yazılarını gösterir."
+
+#: inc/widgets.php:1511
+msgid "Logo Image "
+msgstr "Logo görseli"
+
+#: inc/widgets.php:1507
+msgid "Logo Link "
+msgstr "Logo bağlantısı"
+
+#: inc/widgets.php:1500
+msgid "Add your clients/brands logo Here"
+msgstr "Müşteri/marka logo görsellerini buradan ekleyin"
+
+#: inc/admin/class-estore-admin.php:458 inc/widgets.php:1465
+msgid "TG: Logo"
+msgstr "TG: Logo"
+
+#: inc/widgets.php:1459
+msgid "Add your clients/brand logo images here"
+msgstr "Müşteri/marka logo görsellerini buradan ekleyin"
+
+#: inc/widgets.php:1436 template-parts/content.php:38
+msgid "Read more"
+msgstr "Devamını Oku"
+
+#: inc/widgets.php:1411
+msgid "Blog Image"
+msgstr "Blog görseli"
+
+#: inc/widgets.php:1338 inc/widgets.php:1650 inc/widgets.php:1766
+#: inc/widgets.php:1904
+msgid "Select category"
+msgstr "Kategori Seç"
+
+#: inc/widgets.php:1334 inc/widgets.php:1646 inc/widgets.php:1900
+msgid "Show posts from a category"
+msgstr "Bir kategoriden yazıları göster"
+
+#: inc/widgets.php:1333 inc/widgets.php:1645 inc/widgets.php:1899
+msgid "Show latest Posts"
+msgstr "En son yazıları göster"
+
+#: inc/widgets.php:1328 inc/widgets.php:1640 inc/widgets.php:1894
+msgid "Number of posts to display:"
+msgstr "Görüntülenecek yazı sayısı:"
+
+#: inc/admin/class-estore-admin.php:443 inc/widgets.php:1305
+msgid "TG: Featured Posts"
+msgstr "TG: Öne çıkan yazılar"
+
+#: inc/widgets.php:1299
+msgid "Display latest posts or posts of specific category"
+msgstr "Display latest posts or posts of specific category"
+
+#: inc/widgets.php:1262 woocommerce/loop/price.php:26
+msgid "Price: "
+msgstr "Fiyat:"
+
+#: inc/widgets.php:1195
+msgid "Hot products"
+msgstr "Öne Çıkan Ürünler"
+
+#: inc/widgets.php:1168 inc/widgets.php:2176
+#: page-templates/template-wc-collection.php:61
+msgid "View all"
+msgstr "Tamamını görüntüle"
+
+#: inc/widgets.php:1075 inc/widgets.php:2090
+msgid "Left Align"
+msgstr "Sola yasla"
+
+#: inc/widgets.php:1074 inc/widgets.php:2089
+msgid "Right Align"
+msgstr "Sağa Hizala"
+
+#: inc/widgets.php:1071 inc/widgets.php:2086
+msgid "Choose where to align your image."
+msgstr "Görseli nereye hizalayacağınızı seçin."
+
+#: inc/widgets.php:1059 inc/widgets.php:2074
+msgid "Category Image"
+msgstr "Kategori Resim"
+
+#: inc/widgets.php:1055 inc/widgets.php:2070
+msgid "Image Link"
+msgstr "Görsel bağlantısı"
+
+#: inc/widgets.php:1052 inc/widgets.php:2067
+msgid "Add your Category Image here."
+msgstr "Kategori görselini buradan ekleyin."
+
+#: inc/widgets.php:1021
+msgid "TG: Product Grid"
+msgstr "TG: Ürün ızgarası"
+
+#: inc/widgets.php:1015
+msgid "Show WooCommerce Featured Products Grid."
+msgstr "WooCommerce öne çıkan ürünler ızgarasını göster."
+
+#: inc/widgets.php:993 inc/widgets.php:1233 inc/widgets.php:1269
+msgid "Add to Wishlist"
+msgstr "İstek Listeme Ekle"
+
+#: inc/widgets.php:986
+msgid "Price:"
+msgstr "Fiyatı:"
+
+#: inc/widgets.php:960 inc/widgets.php:1215 inc/woocommerce.php:320
+#: inc/woocommerce.php:338
+msgid "Sale!"
+msgstr "İndirim!"
+
+#: inc/widgets.php:835 inc/widgets.php:1093
+msgid "Number of Products:"
+msgstr "Ürün sayısı:"
+
+#: inc/widgets.php:820 inc/widgets.php:1079 inc/widgets.php:2094
+msgid "Category:"
+msgstr "Kategori:"
+
+#: inc/widgets.php:815
+msgid "Certain Category"
+msgstr "Belirli kategori"
+
+#: inc/widgets.php:814
+msgid "On Sale Products"
+msgstr "Ucuzluk Ürünleri"
+
+#: inc/widgets.php:813
+msgid "Featured Products"
+msgstr "Öne Çıkan Ürünler"
+
+#: inc/widgets.php:812
+msgid "Latest Products"
+msgstr "Son Ürünler"
+
+#: inc/widgets.php:810
+msgid "Product Source:"
+msgstr "Ürün kaynağı:"
+
+#: inc/widgets.php:806 inc/widgets.php:1049 inc/widgets.php:1890
+#: inc/widgets.php:2064
+msgid "Description:"
+msgstr "Açıklama:"
+
+#: inc/admin/class-estore-admin.php:473 inc/widgets.php:780
+msgid "TG: Products Carousel"
+msgstr "TG: Ürünler döndürgeci"
+
+#: inc/widgets.php:774
+msgid "Show WooCommerce Featured Products Carousel."
+msgstr "WooCommerce öne çıkan ürünler döndürgecini göster."
+
+#: inc/admin/class-estore-admin.php:488 inc/widgets.php:580
+msgid "TG: Vertical Promo WC Category"
+msgstr "TG: Dikey Promo WC kategorisi"
+
+#: inc/widgets.php:575
+msgid "Display WooCommerce Product Categories in vertical layout with featured image."
+msgstr "Dikey yerleşimde öne çıkan görsel ile beraber WooCommerce ürün kategorisini gösterir."
+
+#: inc/widgets.php:374 inc/widgets.php:597
+msgid "Category"
+msgstr "Kategorisi"
+
+#: inc/admin/class-estore-admin.php:453 inc/widgets.php:357
+msgid "TG: Horizontal Promo WC Category"
+msgstr "TG: Yatay Promo WC kategorisi"
+
+#: inc/widgets.php:352
+msgid "Display WooCommerce Product Categories with featured image in horizontal layout."
+msgstr "Yatay yerleşimde öne çıkan görsel ile beraber WooCommerce ürün kategorisini gösterir."
+
+#: inc/widgets.php:284
+msgid "Select a page to display Title, Excerpt and Featured image."
+msgstr "Başlık, özer ve öne çıkan görseli göstermek için bir sayfa seçin."
+
+#: inc/admin/class-estore-admin.php:418 inc/widgets.php:266
+msgid "TG: About Widget"
+msgstr "TG: Hakkında bileşeni"
+
+#: inc/widgets.php:260
+msgid "Show your about page. Suitable for Click to Action."
+msgstr "Hakkınızda sayfasını gösterir. Eylem için tıklamaya uygundur."
+
+#: inc/widgets.php:179
+msgid "Advertisement Image "
+msgstr "Reklam görseli"
+
+#: inc/widgets.php:175
+msgid "Advertisement Image Link "
+msgstr "Reklam görsel bağlantısı"
+
+#: inc/widgets.php:170 inc/widgets.php:280 inc/widgets.php:802
+#: inc/widgets.php:1045 inc/widgets.php:1324 inc/widgets.php:1497
+#: inc/widgets.php:1886 inc/widgets.php:2060
+msgid "Title:"
+msgstr "Başlık"
+
+#: inc/widgets.php:121
+msgid "Footer Sidebar 4"
+msgstr "Alt kısım yan sütunu 4"
+
+#: inc/widgets.php:109
+msgid "Footer Sidebar 3"
+msgstr "Alt kısım yan sütunu 3"
+
+#: inc/widgets.php:97
+msgid "Footer Sidebar 2"
+msgstr "Alt kısım yan sütunu 2"
+
+#: inc/widgets.php:88 inc/widgets.php:99 inc/widgets.php:111
+#: inc/widgets.php:123
+msgid "Show widgets at Footer section"
+msgstr "Alt kısımda bileşenleri gösterir"
+
+#: inc/widgets.php:86
+msgid "Footer Sidebar 1"
+msgstr "Alt kısım yan sütunu 1"
+
+#: inc/widgets.php:73
+msgid "Front Page Sidebar"
+msgstr "Ön sayfa yan sütun"
+
+#: inc/widgets.php:62
+msgid "Front Page: Area beside Slider"
+msgstr "Ön sayfa: kaydırağın yanındaki alan"
+
+#: inc/widgets.php:51
+msgid "Front Page: Slider Area"
+msgstr "Ön sayfa: Kaydırak alanı"
+
+#: inc/widgets.php:40
+msgid "Header Right Sidebar"
+msgstr "Başlık "
+
+#: inc/estore.php:201 inc/widgets.php:285
+msgid "Page"
+msgstr "Sayfa"
+
+#: inc/estore.php:99
+msgid "Error 404"
+msgstr "Sayfa Bulunamadı"
+
+#: inc/estore.php:98
+msgid "Articles Posted by %s"
+msgstr "%s tarafından gönderilen makaleler"
+
+#: inc/estore.php:97
+msgid "Posts Tagged \"%s\""
+msgstr "\"%s\" ile etiketlenmiş yazılar"
+
+#: inc/estore.php:96
+msgid "Search Results for \"%s\" query"
+msgstr "\"%s\" sorgusu için arama sonuçları"
+
+#: inc/estore.php:95
+msgid "Archive for \"%s\""
+msgstr "\"%s\" için arşiv"
+
+#: inc/estore.php:94
+msgid "Archive by Category \"%s\""
+msgstr "\"%s\" kategori arşivi"
+
+#: inc/estore.php:93
+msgid "Home"
+msgstr "Ana"
+
+#: inc/estore.php:24 inc/widgets.php:1424 inc/widgets.php:2250
+msgid " % Comments"
+msgstr "% yorum"
+
+#: inc/estore.php:24 inc/widgets.php:1424 inc/widgets.php:2250
+msgid "1 Comment"
+msgstr "1 Yorum"
+
+#: inc/estore.php:24 inc/widgets.php:1424 inc/widgets.php:2250
+msgid "0 Comment"
+msgstr "0 yorum"
+
+#: inc/customizer.php:702
+msgid "Payment Partners Logo"
+msgstr "Ödeme ortakları logosu"
+
+#: inc/customizer.php:690
+msgid "Hide tags under post title."
+msgstr "Yazı başlığı altında etiketleri gizle."
+
+#: inc/customizer.php:670
+msgid "Hide category under post title."
+msgstr "Yazı başlığı altında kategoriyi gizle."
+
+#: inc/customizer.php:650
+msgid "Hide comment count under post title."
+msgstr "Yazı başlığı altında yorum sayısını gizle."
+
+#: inc/customizer.php:630
+msgid "Hide author under post title."
+msgstr "Yazı başlığı altında yazarı gizle."
+
+#: inc/customizer.php:610
+msgid "Hide date under post title."
+msgstr "Yazı başlığı altında tarihi gizle."
+
+#: inc/customizer.php:590
+msgid "Hide all post meta data under post title."
+msgstr "Yazı başlığı altında tüm yazı meta bilgisini gizle."
+
+#: inc/customizer.php:573
+msgid "Note: This will only work in single posts."
+msgstr "Not: Bu sadece tekil yazılarda çalışır."
+
+#: inc/customizer.php:571
+msgid "Post Meta Settings"
+msgstr "Yazı meta ayarları"
+
+#: inc/customizer.php:556 inc/woocommerce.php:148
+msgid " %s"
+msgstr " %s"
+
+#: inc/customizer.php:533 inc/woocommerce.php:125
+msgid "Category Color Settings"
+msgstr "Kategori renk ayarları"
+
+#: inc/customizer.php:526
+msgid "Additional Options"
+msgstr "Ek seçenekler"
+
+#: inc/customizer.php:524
+msgid "Some additional settings."
+msgstr "Birkaç ek ayar."
+
+#: inc/customizer.php:514
+msgid "4 Footer Widget Area"
+msgstr "4 alt kısım bileşen alanı"
+
+#: inc/customizer.php:513
+msgid "3 Footer Widget Area"
+msgstr "3 alt kısım bileşen alanı"
+
+#: inc/customizer.php:512
+msgid "2 Footer Widget Area"
+msgstr "2 alt kısım bileşen alanı"
+
+#: inc/customizer.php:511
+msgid "1 Footer Widget Area"
+msgstr "1 alt kısım bileşen alanı"
+
+#: inc/customizer.php:507
+msgid "Choose the number of widget area you want in footer"
+msgstr "Alt kısımda olmasını istediğiniz bileşen sayısını seçin"
+
+#: inc/customizer.php:490
+msgid "Footer Widgets"
+msgstr "Footer Bileşenleri"
+
+#: inc/customizer.php:479
+msgid "Write your Custom CSS here"
+msgstr "Özel CSS'inizi buraya yazın"
+
+#: inc/customizer.php:459
+msgid "Custom CSS"
+msgstr "Özelleştirilmiş CSS"
+
+#: inc/customizer.php:408
+msgid "Select default layout for single posts. This layout will be reflected in all single posts unless unique layout is set for specific post"
+msgstr "Tekil yazılar için varsayılan düzeni seçin. Bu düzen belirli bir yazıya eşsiz bir düzen seçilmediği sürece tüm sayfalara uygulanacaktır"
+
+#: inc/customizer.php:389
+msgid "Default Single Post Layout"
+msgstr "Varsayılan tekil yazı yerleşimi"
+
+#: inc/customizer.php:371
+msgid "Select default layout for pages. This layout will be reflected in all pages unless unique layout is set for specific page"
+msgstr "Sayfalar için varsayılan düzeni seçin. Bu düzen belirli bir sayfaya eşsiz bir düzen seçilmediği sürece tüm sayfalara uygulanacaktır"
+
+#: inc/customizer.php:352
+msgid "Default Page Layout"
+msgstr "Varsayılan sayfa yerleşimi"
+
+#: inc/customizer.php:334
+msgid "Select default layout. This layout will be reflected in whole site archives, categories, search page etc. The layout for a single post and page can be controlled from below options"
+msgstr "Varsayılan düzeni seçin. Bu düzen tüm site arşivleri, kategoriler, arama sayfaları vb. alanlara uygulanacaktır. Tekil yazı ve sayfaların düzeni aşağıdaki seçenekler ile kontrol edilebilir."
+
+#: inc/customizer.php:304
+msgid "This will reflect in links, buttons and many others. Choose a color to match your site"
+msgstr "Bu bağlantılar, tuşlar ve diğer bir çok şeye etkiyecektir. Siteniz ile uyumlu bir renk seçin"
+
+#: inc/admin/class-estore-admin.php:364 inc/customizer.php:284
+msgid "Primary Color Option"
+msgstr "Birincil renk seçeneği"
+
+#: inc/customizer.php:275
+msgid "Design Options"
+msgstr "Tasarım Ayarları"
+
+#: inc/customizer.php:273
+msgid "Design Related Settings"
+msgstr "Tasarım ile ilgili ayarlar"
+
+#: inc/customizer.php:261
+msgid "Paste the Font Awesome icon font"
+msgstr "Font Awesome simge yazı tipini yapıştırın"
+
+#: inc/customizer.php:260
+msgid "Header Text"
+msgstr "Başlık metni"
+
+#: inc/customizer.php:239
+msgid "Activate the header top bar"
+msgstr "Üst kısım üst çubuğu etkinleştir"
+
+#: inc/customizer.php:221
+msgid "Header Top Bar"
+msgstr "Üst kısım çubuğu"
+
+#: inc/customizer.php:211
+msgid "Disable"
+msgstr "Devre Dışı Bırak"
+
+#: inc/customizer.php:210
+msgid "Show both header logo and text"
+msgstr "Üst kısımda hem logo hem metin gösterilsin"
+
+#: inc/customizer.php:209
+msgid "Header Text Only"
+msgstr "Başlık Sadece Yazı "
+
+#: inc/customizer.php:208
+msgid "Header Logo Only"
+msgstr "Başlık Sadece Logo "
+
+#: inc/customizer.php:204
+msgid "Choose the required option"
+msgstr "Gerekli seçeneği seç"
+
+#: inc/customizer.php:182 inc/customizer.php:723
+msgid "Upload logo"
+msgstr "Upload Logo"
+
+#: inc/customizer.php:161
+msgid "Header Logo"
+msgstr "Başlık Logo"
+
+#: inc/customizer.php:148
+msgid "Enable Language Selection (WPML)"
+msgstr "Dil seçimini etkinleştir (WPML)"
+
+#: inc/customizer.php:135
+msgid "Header Integrations"
+msgstr "Üst kısım birleşimleri"
+
+#: inc/customizer.php:128
+msgid "Header Options"
+msgstr "Sayfa Tepesi Seçenekleri"
+
+#: inc/customizer.php:126
+msgid "Change Header Settings here"
+msgstr "Üst kısım ayarlarını buradan değiştirin"
+
+#: inc/admin/meta-boxes.php:48
+msgid "No Sidebar Content Centered"
+msgstr "Ortalanmış içerikli yan sütun yok"
+
+#: inc/admin/meta-boxes.php:43
+msgid "No Sidebar Full Width"
+msgstr "Tam genişlikli yan sütun yok"
+
+#: inc/admin/meta-boxes.php:38 inc/widgets.php:30
+msgid "Left Sidebar"
+msgstr "Sol Menü"
+
+#: inc/admin/meta-boxes.php:33 inc/widgets.php:20
+msgid "Right Sidebar"
+msgstr "Sağ Menü"
+
+#: inc/admin/meta-boxes.php:28 inc/customizer.php:315
+msgid "Default Layout"
+msgstr "Varsayılan düzen"
+
+#: inc/admin/meta-boxes.php:16 inc/admin/meta-boxes.php:18
+msgid "Select Layout"
+msgstr "Düzen seçin"
+
+#: header.php:211
+msgid "Login / Register"
+msgstr "Giriş yap / Yeni kayıt"
+
+#: header.php:156 inc/woocommerce.php:494 woocommerce/cart/cart-totals.php:99
+#: woocommerce/cart/cart-totals.php:100
+msgid "Total"
+msgstr "Toplam"
+
+#: header.php:70
+msgid "Login/ Register"
+msgstr "Giriş yap/ Yeni kayıt"
+
+#: header.php:70
+msgid "Login/Register"
+msgstr "Giriş yap/Yeni kayıt"
+
+#: header.php:67 header.php:208
+msgid "My Account"
+msgstr "Hesabım"
+
+#: header.php:29
+msgid "Skip to content"
+msgstr "İçeriğe geç"
+
+#: functions.php:85
+msgid "Secondary Menu"
+msgstr "İkincil Mönü"
+
+#: functions.php:84
+msgid "Header Top Bar Menu"
+msgstr "Üst kısım çubuk menü"
+
+#: functions.php:83
+msgid "Primary Menu"
+msgstr "Ana Menü"
+
+#: footer.php:20
+msgid "Proudly powered by %s."
+msgstr "%s ile güçlendirilmiştir."
+
+#: footer.php:18
+msgid "Theme: %1$s by %2$s."
+msgstr "Tema: %2$s tarafından %1$s."
+
+#: comments.php:79
+msgid "Comments are closed."
+msgstr "Yorumlar kapatıldı."
+
+#: comments.php:46 comments.php:67
+msgid "Newer Comments"
+msgstr "Yeni yorumlar"
+
+#: comments.php:45 comments.php:66
+msgid "Older Comments"
+msgstr "Eski yorumlar"
+
+#: comments.php:42 comments.php:63
+msgid "Comment navigation"
+msgstr "Yorum navigasyonu"
+
+#: comments.php:33
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "&ldquo;%2$s&rdquo; için bir yorum"
+msgstr[1] "&ldquo;%2$s&rdquo; için %1$s yorum"
+
+#: 404.php:41
+msgid "It looks like nothing was found at this location. Try the search below."
+msgstr "Görünen o ki burada hiç bir şey bulunamadı. Bir de aşağıdan arama yapmayı deneyin."
+
+#: 404.php:38
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Amanın! O sayfa bulunamadı."
+
+#: 404.php:35
+msgid "error"
+msgstr "Hata"
+
+#: 404.php:20 404.php:33
+msgid "404"
+msgstr "404"
+
+#. Author URI of the plugin/theme
+msgid "https://www.themegrill.com"
+msgstr "https://www.themegrill.com"
+
+#. Author of the plugin/theme
+msgid "ThemeGrill"
+msgstr "ThemeGrill"
+
+#. Theme URI of the plugin/theme
+msgid "https://www.themegrill.com/themes/estore/"
+msgstr "https://www.themegrill.com/themes/estore/"

@@ -1,0 +1,198 @@
+# Translation of Plugins - Easy WP SMTP - Development (trunk) in Swedish
+# This file is distributed under the same license as the Plugins - Easy WP SMTP - Development (trunk) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2017-09-30 11:35:48+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: sv_SE\n"
+"Project-Id-Version: Plugins - Easy WP SMTP - Development (trunk)\n"
+
+#: easy-wp-smtp-admin-menu.php:212
+msgid "Write your email message"
+msgstr "Skriv ditt e-postmeddelande"
+
+#: easy-wp-smtp-admin-menu.php:198
+msgid "Enter the recipient's email address"
+msgstr "Ange mottagarens e-postadress"
+
+#: easy-wp-smtp-admin-menu.php:106
+msgid "SMTP Configuration Settings"
+msgstr "Konfiguration av SMTP-inställningar"
+
+#: easy-wp-smtp-admin-menu.php:74
+msgid "Please enter a valid email address in the recipient email field."
+msgstr "Vänligen ange en giltig e-postadress i fältet för mottagarens e-postadress."
+
+#: easy-wp-smtp.php:230
+msgid "Please configure your SMTP credentials in the <a href=\"%s\">settings menu</a> in order to send email using Easy WP SMTP plugin."
+msgstr "Vänligen konfigurera dina SMTP-uppgifter i <a href=\"%s\">inställningsmenyn</a> för att kunna skicka e-post med tillägget Easy WP SMTP."
+
+#. Author URI of the plugin/theme
+msgid "https://wp-ecommerce.net/"
+msgstr "https://wp-ecommerce.net/"
+
+#. Author of the plugin/theme
+msgid "wpecommerce"
+msgstr "wpecommerce"
+
+#. Description of the plugin/theme
+msgid "Send email via SMTP from your WordPress Blog"
+msgstr "Skicka e-post via SMTP från din WordPress-blogg"
+
+#. Plugin URI of the plugin/theme
+msgid "https://wp-ecommerce.net/easy-wordpress-smtp-send-emails-from-your-wordpress-site-using-a-smtp-server-2197"
+msgstr "https://wp-ecommerce.net/easy-wordpress-smtp-send-emails-from-your-wordpress-site-using-a-smtp-server-2197"
+
+#: easy-wp-smtp-admin-menu.php:217
+msgid "Send Test Email"
+msgstr "Skicka ett testmeddelande"
+
+#: easy-wp-smtp-admin-menu.php:209
+msgid "Message"
+msgstr "Meddelande"
+
+#: easy-wp-smtp-admin-menu.php:205
+msgid "Enter a subject for your message"
+msgstr "Ange ett ämne för ditt meddelande"
+
+#: easy-wp-smtp-admin-menu.php:202
+msgid "Subject"
+msgstr "Ämne"
+
+#: easy-wp-smtp-admin-menu.php:195
+msgid "To"
+msgstr "Till"
+
+#: easy-wp-smtp-admin-menu.php:187
+msgid "Testing And Debugging Settings"
+msgstr "Inställningar för test och felsökning"
+
+#: easy-wp-smtp-admin-menu.php:174
+msgid "Save Changes"
+msgstr "Spara ändringar"
+
+#: easy-wp-smtp-admin-menu.php:169
+msgid "The password to login to your mail server"
+msgstr "Lösenordet för att logga in på din e-postserver"
+
+#: easy-wp-smtp-admin-menu.php:166
+msgid "SMTP Password"
+msgstr "SMTP-lösenord"
+
+#: easy-wp-smtp-admin-menu.php:162
+msgid "The username to login to your mail server"
+msgstr "Användarnamnet för att logga in på din e-postserver"
+
+#: easy-wp-smtp-admin-menu.php:159
+msgid "SMTP username"
+msgstr "SMTP-användarnamn"
+
+#: easy-wp-smtp-admin-menu.php:155
+msgid "This options should always be checked 'Yes'"
+msgstr "Detta alternativ borde alltid vara markerat ”Ja”"
+
+#: easy-wp-smtp-admin-menu.php:154
+msgid "Yes"
+msgstr "Ja"
+
+#: easy-wp-smtp-admin-menu.php:153
+msgid "No"
+msgstr "Nej"
+
+#: easy-wp-smtp-admin-menu.php:151
+msgid "SMTP Authentication"
+msgstr "SMTP-autentisering"
+
+#: easy-wp-smtp-admin-menu.php:147
+msgid "The port to your mail server"
+msgstr "Porten till din e-postserver"
+
+#: easy-wp-smtp-admin-menu.php:144
+msgid "SMTP Port"
+msgstr "SMTP-port"
+
+#: easy-wp-smtp-admin-menu.php:140
+msgid "For most servers SSL is the recommended option"
+msgstr "För de flesta servrar är SSL det rekommenderade valet"
+
+#: easy-wp-smtp-admin-menu.php:139
+msgid "TLS"
+msgstr "TLS"
+
+#: easy-wp-smtp-admin-menu.php:138
+msgid "SSL"
+msgstr "SSL"
+
+#: easy-wp-smtp-admin-menu.php:137
+msgid "None"
+msgstr "Inget"
+
+#: easy-wp-smtp-admin-menu.php:135
+msgid "Type of Encryption"
+msgstr "Typ av kryptering"
+
+#: easy-wp-smtp-admin-menu.php:131
+msgid "Your mail server"
+msgstr "Din e-postserver"
+
+#: easy-wp-smtp-admin-menu.php:128
+msgid "SMTP Host"
+msgstr "SMTP-server"
+
+#: easy-wp-smtp-admin-menu.php:124
+msgid "This text will be used in the 'FROM' field"
+msgstr "Denna text kommer att användas i avsändarfältet"
+
+#: easy-wp-smtp-admin-menu.php:121
+msgid "From Name"
+msgstr "Avsändarnamn"
+
+#: easy-wp-smtp-admin-menu.php:117
+msgid "This email address will be used in the 'From' field."
+msgstr "Denna e-postadress kommer att användas i avsändarfältet."
+
+#: easy-wp-smtp-admin-menu.php:114
+msgid "From Email Address"
+msgstr "Avsändaradress"
+
+#: easy-wp-smtp-admin-menu.php:102
+msgid "The plugin's settings have been changed. In order to save them please don't forget to click the 'Save Changes' button."
+msgstr "Tilläggets inställningar har ändrats. För att spara dem, glöm inte att klicka på knappen ”Spara ändringar”."
+
+#: easy-wp-smtp-admin-menu.php:102
+msgid "Notice:"
+msgstr "Notering:"
+
+#: easy-wp-smtp-admin-menu.php:18
+msgid "Easy WP SMTP Settings"
+msgstr "Inställningar för Easy WP SMTP"
+
+#: easy-wp-smtp-admin-menu.php:62
+msgid "Settings are not saved."
+msgstr "Inställningarna har inte sparats."
+
+#: easy-wp-smtp-admin-menu.php:60
+msgid "Settings saved."
+msgstr "Inställningar sparade."
+
+#: easy-wp-smtp-admin-menu.php:51
+msgid "Please enter a valid port in the 'SMTP Port' field."
+msgstr "Vänligen ange en giltig port i fältet för SMTP-port."
+
+#: easy-wp-smtp-admin-menu.php:36
+msgid "Please enter a valid email address in the 'FROM' field."
+msgstr "Vänligen ange en giltig e-postadress i fältet för avsändaradressen."
+
+#: easy-wp-smtp.php:32 easy-wp-smtp.php:51
+msgid "Settings"
+msgstr "Inställningar"
+
+#. #-#-#-#-#  easy-wp-smtp-code.pot (Easy WP SMTP 1.2.7)  #-#-#-#-#
+#. Plugin Name of the plugin/theme
+#: easy-wp-smtp-admin-menu.php:9
+msgid "Easy WP SMTP"
+msgstr "Easy WP SMTP"

@@ -1,0 +1,71 @@
+/*
+Theme Name:    WorkPress
+ Description:  WorkPress is an ideal WordPress theme for those who wish to create an impressive web presence. WorkPress is easy to use, providing everything you need to create a great looking website. It is professional, smooth and sleek with a clean modern layout, suitable for almost any business type: agency, freelance, blog, startup, portfolio, corporate, food, fashion, law, digital media agency, architecture, real estate, etc. The theme is developed using the latest Bootstrap CSS framework that makes it friendly for all modern devices like mobiles, tablets, and laptops.
+ Author:       webriti
+ Author URI:   https://www.webriti.com
+ Theme URI:   https://webriti.com/workpress-details-page/
+ Template:     rambo
+ Version:      1.3
+ Tags: 		   full-width-template, threaded-comments, custom-menu, two-columns, translation-ready, sticky-post, blog, footer-widgets, right-sidebar, left-sidebar, portfolio
+ Text Domain: workpress
+*/
+
+/* Responsive Media Queries */
+
+@media(min-width: 1200px) {
+	
+
+body.boxed {
+    width: 1210px;
+    -webkit-box-shadow: 0 0 10px 0 rgba(48, 48, 48, 0.5);
+    box-shadow: 0 0 10px 0 rgba(48, 48, 48, 0.5);
+    margin: 0 auto;
+	/* padding: 0px 20px; */
+}
+
+body.boxed #header .main-header {
+	width:1210px;
+	margin:0 auto;
+}
+
+}
+
+@media (max-width: 979px) {
+	
+}
+
+@media (min-width: 768px) and (max-width: 979px)  {
+
+body.boxed {
+	
+	width: 100%;
+}
+
+
+
+}
+
+@media (max-width: 767px) {
+
+body.boxed {
+	width: 100%;/* 
+	padding: 0px 20px !important; */
+}
+body{
+	padding-left: 0px !important;
+	padding-right: 0px !important;
+}	
+
+@media (min-width: 980px) {
+
+
+}
+
+
+@media (min-width: 980px) and (max-width: 1199px) {
+
+
+body.boxed {
+	
+	width: 100%;
+}

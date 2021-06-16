@@ -1,0 +1,1062 @@
+# Translation of Themes - SiteOrigin Unwind in Spanish (Spain)
+# This file is distributed under the same license as the Themes - SiteOrigin Unwind package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2017-07-11 06:35:00+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: es\n"
+"Project-Id-Version: Themes - SiteOrigin Unwind\n"
+
+#. Theme Name of the plugin/theme
+msgid "SiteOrigin Unwind"
+msgstr "SiteOrigin Unwind"
+
+#. Description of the plugin/theme
+msgid "SiteOrigin Unwind is our latest, flexible multipurpose theme. It's fully responsive and retina ready. Some key features are its responsive menu, gorgeous animations and tight integration with various plugins. You can use it to create a business website using SiteOrigin Page Builder and our Widgets Bundle. You can also build a full ecommerce store though Unwind's WooCommerce integration. We offer free and premium support on our support <a href=\"http://siteorigin.com/thread/\">forums</a> (http://siteorigin.com/thread/)."
+msgstr "SiteOrigin Unwind es nuestro último tema multipropósito flexible. Es completamente adaptable y está preparado para retina. Algunas funciones clave son su menú adaptable, vistosas animaciones y fuerte integración con varios plugins. Puedes usarlo para crear un sitio corporativo usando SiteOrigin Page Builder y nuestro Widgets Bundle. También puedes crear una tienda online completa gracias a la integración de Unwind con WooCommerce. Ofrecemos soporte gratuito y premium en nuestros  <a href=\"http://siteorigin.com/thread/\">foros de soporte</a> (http://siteorigin.com/thread/)."
+
+#: inc/settings.php:254
+msgid "Excerpt Length"
+msgstr "Longitud del extracto"
+
+#: inc/settings.php:238
+msgid "Grid"
+msgstr "Cuadrícula"
+
+#: inc/settings.php:235
+msgid "Blog Archive Layout"
+msgstr "Estructura del archivo del blog"
+
+#: inc/settings.php:239
+msgid "Alternate"
+msgstr "Alternando"
+
+#: inc/settings.php:241
+msgid "Choose how to display your posts on the blog and archive pages."
+msgstr "Elige cómo quieres mostrar las entradas en las páginas de blog y los archivos."
+
+#: inc/settings.php:255
+msgid "If no manual post excerpt is added one will be generated. Choose how many words it should be."
+msgstr "Si no se añade un extracto manual, se generará uno. Elige cuántas palabras debe medir."
+
+#: inc/settings.php:250
+msgid "Choose how to display your post content on the blog and archive pages. Select Full Post if using the \"more\" quicktag. Applies for the default post layout only."
+msgstr "Elige cómo mostrar el contenido de tus entradas en las páginas de blog y los archivos. Selecciona entrada completa si estás usando la etiqueta \"more\". Sólo tiene efecto en la estructura de entrada predeterminada."
+
+#: inc/settings.php:172
+msgid "Scroll to Top"
+msgstr "Volver arriba"
+
+#: footer.php:57
+msgid "Scroll to top"
+msgstr "Volver arriba"
+
+#: inc/settings.php:173
+msgid "Display scroll to top button."
+msgstr "Muestra el botón de volver arriba."
+
+#: inc/settings.php:260
+msgid "Display the Read More link below the post excerpt."
+msgstr "Mostrar el enlace de leer más bajo es extracto de la entrada."
+
+#: inc/settings.php:259
+msgid "Post Excerpt Read More Link"
+msgstr "Enlace leer más del estracto de las entradas"
+
+#: inc/settings.php:350
+msgid "Gallery Slider + Zoom"
+msgstr "Carrusel de galería + Zoom"
+
+#: inc/settings.php:348
+msgid "Gallery Slider"
+msgstr "Carrusel de galería"
+
+#: inc/settings.php:346
+msgid "Product Gallery"
+msgstr "Galería del producto"
+
+#: inc/settings.php:351
+msgid "Gallery Slider + Lightbox + Zoom"
+msgstr "Carrusel de galería + Mesa de luz + Zoom"
+
+#: inc/settings.php:349
+msgid "Gallery Slider + Lightbox"
+msgstr "Carrusel de galería + Mesa de luz"
+
+#: inc/settings.php:357
+msgid "Set the number of products per row on shop archive pages."
+msgstr "Número de productos por fila en las páginas de archivo de la tienda."
+
+#: inc/settings.php:356
+msgid "Number of Products per Row"
+msgstr "Número de productos por fila"
+
+#: inc/settings.php:122
+msgid "Menu in line with logo"
+msgstr "Menú en línea con el logo"
+
+#: inc/settings.php:121
+msgid "Menu centered below header"
+msgstr "Menú centrado bajo la cabecera"
+
+#: inc/settings.php:120
+msgid "Menu below header"
+msgstr "Menú bajo la cabecera"
+
+#: inc/settings.php:119
+msgid "Menu above header"
+msgstr "Menú sobre la cabecera"
+
+#: inc/settings.php:117
+msgid "Header Design"
+msgstr "Diseño de la cabecera"
+
+#: inc/settings.php:373
+msgid "Shop Sidebar Position"
+msgstr "Posición de la barra lateral de la tienda"
+
+#: inc/settings.php:369
+msgid "Display WooCommerce cart in the main menu"
+msgstr "Mostrar el carrito de WooCommerce en el menú principal"
+
+#: inc/settings.php:368
+msgid "Display Cart"
+msgstr "Mostrar carrito"
+
+#: inc/settings.php:248
+msgid "Post Excerpt"
+msgstr "Extracto de la entrada"
+
+#: inc/settings.php:247
+msgid "Full Post"
+msgstr "Entrada completa"
+
+#: inc/settings.php:245
+msgid "Post Content"
+msgstr "Contenido de la entrada"
+
+#: inc/settings.php:208 inc/settings.php:375
+msgid "Left"
+msgstr "Izquierda"
+
+#: inc/settings.php:207 inc/settings.php:376
+msgid "Right"
+msgstr "Derecha"
+
+#: inc/settings.php:205
+msgid "Main Sidebar Position"
+msgstr "Posición de la barra lateral principal"
+
+#: inc/settings.php:201
+msgid "Layout"
+msgstr "Estructura"
+
+#: inc/settings.php:163
+msgid "The screen width in pixels when the primary menu changes to a mobile menu."
+msgstr "La anchura de pantalla en píxeles en la que el menú principal se cambia por el menú móvil."
+
+#: inc/settings.php:161
+msgid "Mobile Menu Collapse"
+msgstr "Colapso del menú móvil"
+
+#: template-parts/header-1.php:41 template-parts/header-2.php:13
+#: template-parts/header-3.php:39
+msgid "Masthead Sidebar"
+msgstr "Barra lateral superior"
+
+#: functions.php:199
+msgid "Replaces the logo and description."
+msgstr "Reemplaza el logo y la descripción."
+
+#: functions.php:197
+msgid "Masthead"
+msgstr "Barra superior"
+
+#: inc/template-tags.php:212
+msgid " View Cart "
+msgstr "Ver carrito "
+
+#: inc/template-tags.php:210
+msgid "View shopping cart"
+msgstr "Ver tu carrito de compra"
+
+#: inc/siteorigin-panels.php:23
+msgid "SiteOrigin North supports Page Builder to create beautifully proportioned column based content."
+msgstr "SiteOrigin North admite Page Builder para crear contenido basado en columnas hermosamente proporcionadas."
+
+#: inc/siteorigin-panels.php:22
+msgid "Off"
+msgstr "Desactivado"
+
+#: inc/siteorigin-panels.php:21
+msgid "On"
+msgstr "Activado"
+
+#: inc/settings.php:364
+msgid "Display quick view button on hover."
+msgstr "Mostrar botón de vista rápida al pasar por encima."
+
+#: inc/settings.php:341
+msgid "WooCommerce"
+msgstr "WooCommerce"
+
+#: inc/settings.php:223
+msgid "Jetpack Featured Content slider image overlay. Also applies to slider in Post Loop widget."
+msgstr "Superposición del carrusel de contenido destacado de Jetpack. También aplica al widget de bucle de entradas."
+
+#: inc/settings.php:153
+msgid "Display search in main menu."
+msgstr "Mostrar búsqueda en el menú principal."
+
+#: inc/settings.php:152
+msgid "Menu search"
+msgstr "Búsqueda del menú"
+
+#: inc/settings.php:51
+msgid "Choose if the link to SiteOrigin is displayed in your footer."
+msgstr "Elige si el enlace a SiteOrigin se muestra en el pie de página."
+
+#: inc/settings.php:41
+msgid "A double sized logo to use on retina devices."
+msgstr "Un logotipo al doble de tamaño para usar en dispositivos retina."
+
+#: inc/settings.php:50
+msgid "Display SiteOrigin Attribution"
+msgstr "Mostrar la atribución a SiteOrigin"
+
+#: inc/settings.php:40
+msgid "Retina Logo"
+msgstr "Logotipo retina"
+
+#: inc/settings.php:1423
+msgid "Unwind changes the rules when it comes to WooCommerce. We're giving you loads of features that are typically only found premium WooCommerce themes."
+msgstr "Unwind cambia las reglas en lo que se refiere a WooCommerce. Te damos muchas opciones que normalmente sólo están disponibles en temas de WooCommerce de pago."
+
+#: admin/about/page-woocommerce.php:5
+msgid "Use it to build your full online store with a stunning design and features like quick-view."
+msgstr "Úsalo para crear una tienda online completa con un diseño espectacular y funciones como vista rápida."
+
+#: admin/about/page-woocommerce.php:4
+msgid "Unwind is a full-featured WooCommerce theme."
+msgstr "Unwind es un tema de WooCommerce con todas las funciones."
+
+#: admin/about/page-woocommerce.php:1
+msgid "WooCommerce Integration"
+msgstr "Integración con WooCommerce"
+
+#: admin/about/page-support.php:4
+msgid "You can also read through the %sUnwind documentation%s to get to know it even faster."
+msgstr "También puedes leer la %sdocumentación de Unwind%s para conocerlo aún más rápidamente."
+
+#: admin/about/page-support.php:3
+msgid "As an Unwind user, you'll get fast, friendly support on our own %ssupport forums%s."
+msgstr "Como usuario de Unwind, obtendrás soporte rápido y amistoso en nuestros %sforos de soporte%s."
+
+#: admin/about/page-support.php:1
+msgid "Lightning Fast Support"
+msgstr "Soporte instantáneo"
+
+#: admin/about/page-page-builder.php:4
+msgid "This powerful plugin gives you full drag and drop capabilities right inside Unwind."
+msgstr "Este poderoso plugin le proporciona a Unwind capacidades de arrastrar y soltar."
+
+#: admin/about/page-page-builder.php:3
+msgid "Unwind integrates, beautifully, with our %sfree Page Builder%s plugin."
+msgstr "Unwind se integra estupendamente con nuestro plugin gratuito %sPage Builder%s."
+
+#: admin/about/page-page-builder.php:1
+msgid "Enhanced by Page Builder"
+msgstr "Mejorado con Page Builder"
+
+#: admin/about/page-github.php:5
+msgid "You can watch what's happening with its development and even make contributions yourself."
+msgstr "Puedes ver lo que pasa con su desarrollo e incluso hacer contribuciones tú mismo."
+
+#: admin/about/page-github.php:4
+msgid "Unwind is actively %sdeveloped on Github%s."
+msgstr "Unwind se %sdesarrolla activamente en Github%s."
+
+#: admin/about/page-github.php:1
+msgid "Developed on Github"
+msgstr "Desarrollado en Github"
+
+#: admin/about/page-free.php:4
+msgid "We'll continue developing and enhancing it for years to come."
+msgstr "Seguiremos desarrollándolo y mejorándolo los próximos años."
+
+#: admin/about/page-free.php:3
+msgid "Unwind is a completely free WordPress theme."
+msgstr "Unwind es un tema de WordPress completamente gratuito."
+
+#: admin/about/page-free.php:1
+msgid "Forever Free"
+msgstr "Gratis para siempre"
+
+#: woocommerce/template-tags.php:94
+msgid "Quick View"
+msgstr "Vista rápida"
+
+#: woocommerce/single-product/review-meta.php:37
+msgid "verified owner"
+msgstr "propietario verificado"
+
+#: woocommerce/single-product/review-meta.php:28
+msgid "Your comment is awaiting approval"
+msgstr "Tu comentario espera aprobación"
+
+#: loops/loop-slider.php:39 template-parts/featured-slider.php:42
+msgid "Continue Reading"
+msgstr "Seguir leyendo"
+
+#: inc/template-tags.php:289 inc/template-tags.php:312
+msgid "Continue reading"
+msgstr "Seguir leyendo"
+
+#: inc/settings.php:1368
+msgid "Display the footer widgets."
+msgstr "Mostrar los widgets del pie."
+
+#: inc/settings.php:1366
+msgid "Footer Widgets"
+msgstr "Widgets de pie de página"
+
+#: inc/settings.php:1361
+msgid "Display the header."
+msgstr "Mostrar la cabecera."
+
+#: inc/settings.php:1354
+msgid "Display the margin above the footer."
+msgstr "Mostrar el margen superior del pie."
+
+#: inc/settings.php:1352
+msgid "Footer Top Margin"
+msgstr "Margen superior del pie"
+
+#: inc/settings.php:1347
+msgid "Display the margin below the header."
+msgstr "Mostrar el margen inferior de la cabecera."
+
+#: inc/settings.php:1345
+msgid "Header Bottom Margin"
+msgstr "Margen inferior de la cabecera"
+
+#: inc/settings.php:1340
+msgid "Display the page title."
+msgstr "Mostrar el título de página."
+
+#: inc/settings.php:1339 inc/settings.php:1346 inc/settings.php:1353
+#: inc/settings.php:1360 inc/settings.php:1367
+msgid "Enable"
+msgstr "Habilitar"
+
+#: inc/settings.php:1338
+msgid "Page Title"
+msgstr "Título de página"
+
+#: inc/settings.php:1332
+msgid "Full Width, With Sidebar"
+msgstr "Ancho completo, con barra lateral"
+
+#: inc/settings.php:1331
+msgid "Full Width"
+msgstr "Ancho completo"
+
+#: inc/settings.php:1330
+msgid "No Sidebar"
+msgstr "Sin barra lateral"
+
+#: inc/settings.php:237 inc/settings.php:1329
+msgid "Default"
+msgstr "Predeterminado"
+
+#: inc/settings.php:320
+msgid "Applies if the footer width is not constrained."
+msgstr "Sólo aplica si el ancho del pie no está limitado."
+
+#: inc/settings.php:289
+msgid "Used for blog posts with no featured image."
+msgstr "Se usa para entradas del blog sin imagen destacada."
+
+#: inc/settings.php:288
+msgid "Search fallback image"
+msgstr "Buscar imagen de respaldo"
+
+#: inc/settings.php:284
+msgid "Author box on single post."
+msgstr "Caja de autor en entrada individual."
+
+#: inc/settings.php:280
+msgid "Related posts on single post."
+msgstr "Entradas relacionadas en entrada individual."
+
+#: inc/settings.php:276
+msgid "Tags on single posts."
+msgstr "Entiquetas en las entradas individuales."
+
+#: inc/settings.php:272
+msgid "Comments link on single and archive posts."
+msgstr "Enlace a comentarios en entradas individuales y páginas de archivo."
+
+#: inc/settings.php:268
+msgid "Categories on single and archive posts."
+msgstr "Categorías en entradas individuales y archivos."
+
+#: inc/settings.php:264
+msgid "Date on single and archive posts."
+msgstr "Fecha en entradas individuales y páginas de archivo."
+
+#: inc/settings.php:231
+msgid "Featured image on single post."
+msgstr "Imagen destacada en entrada individual."
+
+#: inc/settings.php:227
+msgid "Featured image on archive pages."
+msgstr "Imagen destacada en páginas de archivo."
+
+#: inc/settings.php:219
+msgid "Jetpack Featured Content slider on blog home page."
+msgstr "Carrusel de contenido destacado de Jetpack en la portada del blog."
+
+#: inc/settings.php:195
+msgid "Menu close search icon"
+msgstr "Icono del menú para cerrar la búsqueda"
+
+#: inc/settings.php:191
+msgid "Menu search icon"
+msgstr "Icono de búsqueda del menú"
+
+#: inc/settings.php:187
+msgid "Fullscreen search icon"
+msgstr "Icono de búsqueda a pantalla completa"
+
+#: inc/settings.php:179
+msgid "Icons"
+msgstr "Iconos"
+
+#: inc/settings.php:136
+msgid "Top and bottom header padding."
+msgstr "Margen interior superior e inferior de la cabecera."
+
+#: inc/settings.php:135
+msgid "Header Padding"
+msgstr "Margen interior de la cabecera"
+
+#: inc/settings.php:105
+msgid "Dark Text Color"
+msgstr "Color del texto oscuro"
+
+#: inc/settings.php:98
+msgid "Medium Text Color"
+msgstr "Color del texto medio"
+
+#: inc/settings.php:92
+msgid "Light Text Color"
+msgstr "Color del texto claro"
+
+#: inc/settings.php:87 inc/settings.php:106
+msgid "Used for headings."
+msgstr "Se usa en los encabezados."
+
+#: inc/settings.php:86
+msgid "Headings font"
+msgstr "Tipografía de los encabezados"
+
+#: inc/settings.php:81 inc/settings.php:99
+msgid "Used for body text."
+msgstr "Se usa para el texto del cuerpo."
+
+#: inc/settings.php:80
+msgid "Main font"
+msgstr "Tipografía principal"
+
+#: inc/settings.php:75 inc/settings.php:93
+msgid "Used for smaller details."
+msgstr "Se usa para los detalles menores."
+
+#: inc/settings.php:74
+msgid "Details font"
+msgstr "Tipografía de los detalles"
+
+#: inc/settings.php:70
+msgid "Fonts"
+msgstr "Tipografías"
+
+#: inc/settings.php:63
+msgid "The color used for link hovers and various other accents."
+msgstr "El color usado al pasar por los enlaces y en otros acentos."
+
+#: inc/settings.php:62
+msgid "Dark Accent Color"
+msgstr "Color de acento oscuro"
+
+#: functions.php:188
+msgid "Displays on WooCommerce pages."
+msgstr "Se muestra en las páginas de WooCommerce."
+
+#: functions.php:186
+msgid "Shop"
+msgstr "Tienda"
+
+#: inc/settings.php:1327
+msgid "Page Layout"
+msgstr "Estructura de página"
+
+#: inc/settings.php:183
+msgid "Mobile menu icon"
+msgstr "Icono del menú móvil"
+
+#: woocommerce/checkout/form-checkout.php:53
+msgid "Your order"
+msgstr "Tu pedido"
+
+#: woocommerce/checkout/form-checkout.php:28
+msgid "You must be logged in to checkout."
+msgstr "Debes iniciar sesión para pagar."
+
+#: template-parts/searchform-fullscreen.php:17
+msgid "Type and hit enter to search"
+msgstr "Escribe y pulsa enter para buscar"
+
+#: template-parts/searchform-fullscreen.php:15
+msgid "Search Site"
+msgstr "Buscar en el sitio"
+
+#: template-parts/content-alternate.php:38
+#: template-parts/content-gallery.php:63 template-parts/content-grid.php:37
+#: template-parts/content-image.php:49 template-parts/content-page.php:26
+#: template-parts/content-single.php:32 template-parts/content-video.php:49
+#: template-parts/content.php:39
+msgid "Pages:"
+msgstr "Páginas:"
+
+#: template-parts/content-none.php:33
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Parece que lo que buscas no está disponible. Puede que la búsqueda te ayude."
+
+#: template-parts/content-none.php:27
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Lo sentimos, pero no hay nada que corresponda con tus criterios de búsqueda. Inténtalo de nuevo con otras palabras diferentes."
+
+#: template-parts/content-none.php:16
+msgid "Nothing Found"
+msgstr "Sin resultados"
+
+#: single.php:29
+msgid "Share This"
+msgstr "Compártelo"
+
+#: searchform.php:2 woocommerce/product-searchform.php:27
+msgid "Search for:"
+msgstr "Buscar:"
+
+#: search.php:16
+msgid "Search Results: %s"
+msgstr "Resultados de buscar: %s"
+
+#: inc/template-tags.php:446
+msgid "Next Post"
+msgstr "Siguiente entrada"
+
+#: inc/template-tags.php:443
+msgid "Previous Post"
+msgstr "Entrada anterior"
+
+#: inc/template-tags.php:493 yarpp-template-unwind.php:21
+msgid "No related posts."
+msgstr "No hay publicaciones relacionadas."
+
+#: inc/template-tags.php:475 yarpp-template-unwind.php:5
+msgid "You may also like"
+msgstr "También te puede gustar"
+
+#: inc/template-tags.php:239
+msgid "% Comments"
+msgstr "% Comentarios"
+
+#: inc/template-tags.php:239
+msgid "Leave a comment"
+msgstr "Deja un comentario"
+
+#: inc/template-tags.php:356
+msgid "%1$s"
+msgstr "%1$s"
+
+#: inc/template-tags.php:239 inc/template-tags.php:336
+msgid "1 Comment"
+msgstr "1 comentario"
+
+#: inc/template-tags.php:334
+msgid " Comments"
+msgstr " Comentarios"
+
+#: inc/template-tags.php:332
+msgid "Post a Comment"
+msgstr "Publicar un comentario"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:326
+msgid ", "
+msgstr ", "
+
+#: inc/template-tags.php:417
+msgid "Newer posts"
+msgstr "Entradas más recientes"
+
+#: inc/template-tags.php:413
+msgid "Older posts"
+msgstr "Entradas anteriores"
+
+#: inc/template-tags.php:409
+msgid "Posts navigation"
+msgstr "Navegación de Entradas"
+
+#: inc/template-tags.php:148
+msgid "Home"
+msgstr "Portada"
+
+#: inc/settings.php:1303
+msgid "{year} &copy; {sitename}."
+msgstr "{year} &copy; {sitename}."
+
+#: inc/settings.php:326
+msgid "Top Margin"
+msgstr "Margen superior"
+
+#: inc/settings.php:319
+msgid "Side Padding"
+msgstr "Margen interno lateral"
+
+#: inc/settings.php:313
+msgid "Top Padding"
+msgstr "Margen interno superior"
+
+#: inc/settings.php:308
+msgid "Constrain the footer width."
+msgstr "Limitar el ancho del pie."
+
+#: inc/settings.php:307
+msgid "Constrain"
+msgstr "Restringir"
+
+#: inc/settings.php:301
+msgid "{sitename} and {year} are your site's name and current year."
+msgstr "{sitename} y {year} son el nombre de tu sitio y el año en curso."
+
+#: inc/settings.php:300
+msgid "Footer Text"
+msgstr "Texto del pie de página"
+
+#: inc/settings.php:215
+msgid "Blog"
+msgstr "Blog"
+
+#: inc/settings.php:168
+msgid "Display next and previous post navigation."
+msgstr "Mostrar la navegación de entradas anterior y siguiente."
+
+#: inc/settings.php:167 inc/template-tags.php:440
+msgid "Post navigation"
+msgstr "Navegación de entradas"
+
+#: inc/settings.php:148
+msgid "Navigation"
+msgstr "Navegación"
+
+#: inc/settings.php:141
+msgid "Bottom Margin"
+msgstr "Margen inferior"
+
+#: inc/settings.php:131
+msgid "Add social icons to the menu."
+msgstr "Añadir iconos sociales al menú."
+
+#: inc/settings.php:130
+msgid "SiteOrigin Widgets Bundle"
+msgstr "SiteOrigin Widgets Bundle"
+
+#: inc/settings.php:113 inc/settings.php:1359
+msgid "Header"
+msgstr "Cabecera"
+
+#: inc/settings.php:57
+msgid "The color used for links and various other accents."
+msgstr "El color usado para enlaces y otros acentos varios."
+
+#: inc/settings.php:46
+msgid "Show your site description below your site title or logo."
+msgstr "Mostrar la descripción del sitio bajo el título o el logo."
+
+#: inc/settings.php:31
+msgid "Branding"
+msgstr "Identidad"
+
+#: inc/settings/settings.php:445 inc/settings/settings.php:463
+msgid "SiteOrigin Premium"
+msgstr "SiteOrigin Premium"
+
+#: inc/settings/settings.php:434 inc/settings.php:9
+msgid "Change settings for your theme."
+msgstr "Cambiar los ajustes del tema."
+
+#: inc/settings/inc/upgrade.php:50
+msgid "You're currently running the free version of %s, but you have a premium order number entered. %sDownload%s the premium version and %sread instructions%s on how to upgrade. %sDismiss%s this notice."
+msgstr "Estás usando la versión gratuita de %s pero has introducido un número de pedido de Premium. %sDescarga%s la versión premium y %slee las instrucciones%s de cómo cambiar a premium. %sDescartar%s este aviso."
+
+#: inc/settings/inc/page_settings_customizer.php:80
+msgid "Taxonomy"
+msgstr "Taxonomía"
+
+#: inc/settings/inc/page_settings_customizer.php:69
+msgid "Type"
+msgstr "Tipo"
+
+#: inc/settings/inc/page_settings_customizer.php:51
+msgid "Not Found"
+msgstr "No encontrado"
+
+#: inc/settings/inc/page_settings_customizer.php:50
+msgid "Author Archives"
+msgstr "Archivo del autor"
+
+#: inc/settings/inc/page_settings_customizer.php:49
+msgid "Date Archives"
+msgstr "Archivos por fecha"
+
+#: inc/settings/inc/page_settings_customizer.php:48
+msgid "Search Results"
+msgstr "Resultados de búsqueda"
+
+#: inc/settings/inc/page_settings_customizer.php:39
+msgid "Change layouts for various pages on your site."
+msgstr "Cambia la estructura de distintas páginas de tu sitio."
+
+#: inc/settings/inc/page_settings_customizer.php:38
+msgid "Page Template Settings"
+msgstr "Ajustes de plantilla de página"
+
+#: inc/settings/inc/page_settings.php:176 inc/settings.php:18
+msgid "Page settings"
+msgstr "Ajustes de página"
+
+#: inc/settings/inc/control/widget.php:63
+msgid "Edit Widget"
+msgstr "Editar widget"
+
+#: inc/settings/inc/control/widget.php:29
+msgid "<a href=\"%s\">Install</a> the Widgets Bundle now."
+msgstr "<a href=\"%s\">Instalar</a> ahora Widgets Bundle."
+
+#: inc/settings/inc/control/widget.php:27
+msgid "This field requires the Widgets Bundle plugin."
+msgstr "Este campo necesita el plugin Widgets Bundle."
+
+#: inc/settings/inc/control/teaser.php:24 inc/settings.php:10
+msgid "Available in Premium"
+msgstr "Disponible en Premium"
+
+#: inc/settings/inc/control/premium.php:24
+msgid "Find Out More"
+msgstr "Más información"
+
+#: inc/settings/inc/control/premium.php:15
+msgid "SiteOrigin Premium adds powerful features to %s. They'll save you time and make your site more professional."
+msgstr "SiteOrigin Premium añade poderosas funciones a %s. Te ahorrará tiempo y hará que tu sitio sea más profesional."
+
+#: inc/settings/inc/control/font.php:68 inc/settings.php:15
+msgid "Subset"
+msgstr "Subconjunto"
+
+#: inc/settings/inc/control/font.php:63 inc/settings.php:14
+msgid "Variant"
+msgstr "Variante"
+
+#: inc/settings/inc/about_page.php:280
+msgid "Proudly Created By"
+msgstr "Creado por"
+
+#: inc/settings/inc/about_page.php:250
+msgid "If you like %s, please share it!"
+msgstr "¡Si te gusta %s, compártelo!"
+
+#: inc/settings/inc/about_page.php:237
+msgid "Watch The Video"
+msgstr "Ver el vídeo"
+
+#: inc/settings/inc/about_page.php:179
+msgid "Upgrade to Premium"
+msgstr "Mejorar a Premium"
+
+#: inc/settings/inc/about_page.php:170
+msgid "Write a Review"
+msgstr "Escribe una reseña"
+
+#: inc/settings/inc/about_page.php:161
+msgid "Documentation"
+msgstr "Documentación"
+
+#: inc/settings/inc/about_page.php:152
+msgid "Get Updates"
+msgstr "Recibir actualizaciones"
+
+#: inc/settings/inc/about_page.php:143
+msgid "Take a Tour"
+msgstr "Visita guiada"
+
+#: inc/settings/inc/about_page.php:99
+msgid "Free #WordPress Theme from @SiteOrigin"
+msgstr "Tema gratuito para #WordPress de @SiteOrigin"
+
+#: inc/settings/inc/about_page.php:57 inc/settings/inc/about_page.php:58
+#: inc/settings/inc/about_page.php:118
+msgid "About %s"
+msgstr "Acerca de %s"
+
+#: inc/settings/inc/about_page.php:45
+msgid "Learn About %s"
+msgstr "Acerca de %s"
+
+#: inc/settings/inc/about_page.php:36
+msgid "You can learn more about it %shere%s, or head straight to the %scustomizer%s to start setting it up."
+msgstr "Puedes aprender más %saquí%s, o ir directamente al %spersonalizador%s y empezar a configurarlo."
+
+#: inc/settings/inc/about_page.php:33
+msgid "Thanks for choosing %s!"
+msgstr "¡Gracias por elegir %s!"
+
+#: inc/panels-lite/tpl/install.php:23
+msgid "<a href='#install'>Install Page Builder</a> now to get started."
+msgstr "<a href='#install'>Instala Page Builder</a> para empezar."
+
+#: inc/panels-lite/tpl/install.php:22
+msgid "It's a free plugin that will instantly enhance your WordPress experience."
+msgstr "Es un plugin gratuito que mejorará inmediatamente tu experiencia con WordPress."
+
+#: inc/panels-lite/tpl/install.php:19
+msgid "We've created an intuitive interface that looks just like WordPress itself. It's easy to learn, so you'll be building beautiful, responsive content in no time."
+msgstr "Hemos creado una interfaz intuitiva que tiene el mismo aspecto que el propio WordPress. Es fácil de aprender, así que enseguida estarás creando contenido adaptable."
+
+#: inc/panels-lite/tpl/install.php:17
+msgid "Page Builder by SiteOrigin is the most popular page creation plugin for WordPress. It makes it easy to create responsive column based content, using the widgets you know and love. Your content will accurately adapt to all mobile devices, ensuring your site is mobile-ready."
+msgstr "Page Builder de SiteOrigin es el plugin de creación de página más popular para WordPress. Hace fácil crear contenido basado en columnas adaptables, usando los widgets que conoces y adoras. Tu contenido se adaptará con precisión a todos los dispositivos móviles, garantizando que tu sitio esté listo para móvil."
+
+#: inc/panels-lite/tpl/install.php:8
+msgid "The Free Responsive WordPress Page Builder"
+msgstr "El constructor visual gratuito para WordPress"
+
+#: inc/panels-lite/tpl/install.php:7
+msgid "SiteOrigin Page Builder"
+msgstr "SiteOrigin Page Builder"
+
+#: inc/panels-lite/tpl/admin-home-page.php:27
+msgid "Install Page Builder"
+msgstr "Instalar Page Builder"
+
+#: inc/panels-lite/tpl/admin-home-page.php:23
+msgid "If you don't want to use it, click the toggle switch above to disable the default home page."
+msgstr "Si no quieres usarla, pulsa el interruptor de arriba para deshabilitar la portada por defecto."
+
+#: inc/panels-lite/tpl/admin-home-page.php:22
+msgid "It's a <strong>free plugin</strong> that works well with most WordPress themes."
+msgstr "Es un <strong>plugin gratuito</strong> que funciona con casi todos los temas de WordPress."
+
+#: inc/panels-lite/tpl/admin-home-page.php:21
+msgid "It allows you to build responsive columnized pages, populated with the widgets you know and love."
+msgstr "Te permite crear páginas en columnas, llenas de los widgets que conoces y adoras."
+
+#: inc/panels-lite/tpl/admin-home-page.php:20
+msgid "This theme is compatible with SiteOrigin's powerful drag and drop page builder."
+msgstr "Este tema es compatible con el poderoso constructor visual de arrastrar y soltar de SiteOrigin."
+
+#: inc/panels-lite/tpl/admin-home-page.php:10
+msgid "Custom Home Page"
+msgstr "Página de inicio personalizada"
+
+#: inc/panels-lite/panels-lite.php:467
+msgid "<a href='%s'>Disable this page</a> if you'd prefer to have a standard blog home."
+msgstr "<a href='%s'>Desactiva esta página</a> si prefieres una portada de blog estándar."
+
+#: inc/panels-lite/panels-lite.php:461
+msgid "<a href=\"%s\">Install Page Builder</a> to <a href=\"%s\">edit</a> this default home page."
+msgstr "<a href=\"%s\">Instala Page Builder</a> para <a href=\"%s\">editar</a> esta portada predeterminada."
+
+#: inc/panels-lite/panels-lite.php:79
+msgid "Refresh this page after you've installed Page Builder."
+msgstr "Recarga está página después de que hayas instalado Page Builder."
+
+#: inc/panels-lite/panels-lite.php:77
+msgid "Cancel"
+msgstr "Cancelar"
+
+#: inc/panels-lite/panels-lite.php:76
+msgid "Install"
+msgstr "Instalar"
+
+#: inc/panels-lite/panels-lite.php:16 inc/siteorigin-panels.php:19
+msgid "Home Page"
+msgstr "Página de inicio"
+
+#: inc/panels-lite/panels-lite.php:15 inc/siteorigin-panels.php:18
+msgid "Custom Home Page Builder"
+msgstr "Constructor de página de inicio personalizada"
+
+#: inc/panels-lite/inc/plugin-activation.php:110
+#: inc/panels-lite/panels-lite.php:28 inc/panels-lite/panels-lite.php:74
+#: inc/siteorigin-panels.php:17
+msgid "Page Builder"
+msgstr "Page Builder"
+
+#: inc/panels-lite/inc/plugin-activation.php:77
+msgid "Installing %s"
+msgstr "Instalando %s"
+
+#: inc/panels-lite/inc/plugin-activation.php:10
+#: inc/panels-lite/inc/plugin-activation.php:11 inc/siteorigin-panels.php:20
+msgid "Install Page Builder Plugin"
+msgstr "Instalar el plugin Page Builder"
+
+#: inc/settings/inc/control/widget.php:51
+#: inc/settings/inc/control/widget.php:56
+msgid "Close"
+msgstr "Cerrar"
+
+#: searchform.php:3 searchform.php:5
+#: template-parts/searchform-fullscreen.php:19
+#: woocommerce/product-searchform.php:28 woocommerce/product-searchform.php:30
+msgid "Search"
+msgstr "Buscar"
+
+#: header.php:27
+msgid "Skip to content"
+msgstr "Saltar al contenido"
+
+#: functions.php:177
+msgid "A column will be automatically assigned to each widget inserted"
+msgstr "Se asignará automáticamente una columna a cada widget que añadas"
+
+#: functions.php:175 inc/settings.php:295
+msgid "Footer"
+msgstr "Pie de página"
+
+#: functions.php:167
+msgid "Visible on posts and pages that use the Default or Full Width, With Sidebar layout."
+msgstr "Visible en páginas y entradas que usen las estructuras predeterminada o de ancho completo, con barras laterales."
+
+#: functions.php:165
+msgid "Sidebar"
+msgstr "Barra lateral"
+
+#: functions.php:66
+msgid "Primary Menu"
+msgstr "Menú principal"
+
+#: footer.php:42
+msgid "Crafted with love by %s."
+msgstr "Creado con cariño por %s."
+
+#: footer.php:26
+msgid "Footer Sidebar"
+msgstr "Barra Lateral de pie de página"
+
+#: comments.php:80
+msgid "Comments are closed."
+msgstr "No se permiten comentarios."
+
+#: comments.php:45 comments.php:67
+msgid "Newer comments"
+msgstr "Comentarios más recientes"
+
+#: comments.php:44 comments.php:66
+msgid "Older comments"
+msgstr "Comentarios anteriores"
+
+#: comments.php:41 comments.php:63
+msgid "Comment navigation"
+msgstr "Navegación de comentarios"
+
+#: comments.php:32
+msgctxt "comments title"
+msgid "1 Comment"
+msgid_plural "%1$s Comments"
+msgstr[0] "1 comentario"
+msgstr[1] "%1$s comentarios"
+
+#. translators: %1$s: smiley
+#: 404.php:55
+msgid "Try looking in the monthly archives. %1$s"
+msgstr "Prueba a buscar en los archivos mensuales. %1$s"
+
+#: 404.php:37
+msgid "Most Used Categories"
+msgstr "Categorías más usadas"
+
+#: 404.php:25
+msgid "It looks like nothing was found at this location. Maybe try one of the links below or a search?"
+msgstr "Parece que aquí no hay nada. ¿por qué no pruebas uno de estos enlaces o la búsqueda?"
+
+#: 404.php:20
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "¡Vaya! No hemos encontrado esa página."
+
+#: template-parts/content-none.php:23
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "¿Listo para publicar tu primera entrada? <a href=\"%1$s\">Empieza aquí</a>."
+
+#: inc/template-tags.php:343 inc/template-tags.php:373
+msgid "Sticky"
+msgstr "Fijo"
+
+#: inc/settings.php:158
+msgid "Stick menu to top of screen."
+msgstr "Fijar el menú al borde superior de la pantalla."
+
+#: inc/settings.php:157
+msgid "Sticky menu"
+msgstr "Menú fijo"
+
+#: inc/settings.php:56
+msgid "Accent Color"
+msgstr "Color resaltado"
+
+#: inc/settings.php:45
+msgid "Site Description"
+msgstr "Descripción del sitio"
+
+#: inc/settings.php:36
+msgid "Logo displayed in your header."
+msgstr "El logotipo se muestra en la cabecera."
+
+#: inc/settings.php:35
+msgid "Logo"
+msgstr "Logotipo"
+
+#: inc/settings/settings.php:433 inc/settings.php:8
+msgid "Theme Settings"
+msgstr "Ajustes del tema"
+
+#: inc/settings/inc/page_settings_customizer.php:47
+msgid "Blog Page"
+msgstr "Página del blog"
+
+#: inc/panels-lite/tpl/admin-home-page.php:14
+msgid "OFF"
+msgstr "ACTIVO"
+
+#: inc/panels-lite/tpl/admin-home-page.php:13
+msgid "ON"
+msgstr "INACTIVO"
+
+#. Theme URI of the plugin/theme
+msgid "https://siteorigin.com/theme/unwind/"
+msgstr "https://siteorigin.com/theme/unwind/"
+
+#. Author URI of the plugin/theme
+msgid "https://siteorigin.com/"
+msgstr "https://siteorigin.com/"
+
+#. Author of the plugin/theme
+msgid "SiteOrigin"
+msgstr "SiteOrigin"

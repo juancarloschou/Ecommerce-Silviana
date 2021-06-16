@@ -1,0 +1,1570 @@
+# Translation of Themes - FreeStore in Danish
+# This file is distributed under the same license as the Themes - FreeStore package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2017-11-23 16:18:24+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: da_DK\n"
+"Project-Id-Version: Themes - FreeStore\n"
+
+#. Description of the plugin/theme
+msgid "With FreeStore we give you everything for free... a fully responsive multipurpose WordPress/WooCommerce premium theme to download and use as you want. We packed FreeStore with a bunch of settings, all built neatly into the WordPress Customizer so you can view your changes live before going live, we've also integrated with some of the best plugins to help you build a beautiful website or online e-commerce store. Create detailed page layouts with SiteOrigin's easy to use drag and drop Page Builder... Setup your shop and sell products beautifully with the WooCommerce e-commerce plugin... FreeStore comes with lots of different layout settings and multiple page templates to build the website you need! Have it all for FREE, donate if you like ;) Give it a go :)"
+msgstr "Vi giver dig FreeStore kvit og frit!. Et fuldt responsivt multianvendelig WordPress/WooCommerce Premium tema du kan downloade og anvende som du vil. Vi har pakket FreeStore med en mængde indstillinger som alle er nydelig indbygget ind i WordPress Editor, så du kan se dine ændringer før du udgiver dem. Vi har også integeret nogle af de bedste plugins for, at hjælpe dig med, at bygge smukke hjemmesider og e-handels sider. Opret detaljeret side layout med SiteOrigin's lette 'træk-og-slip' Page Builder. Opsæt din webshop og sælg dine produkter på smukkeste vis med WooCommerce e-handels plugin' et. FreeStone kommer med en masse forskellige layout indstillinger og adskillinge side skabeloner til at fremstille din hjemmeside. Du får det hele GRATIS, giv en donation hvis du vil ;) Prøv det :)"
+
+#. #-#-#-#-#  freestore.pot (FreeStore 1.2.1)  #-#-#-#-#
+#. Theme Name of the plugin/theme
+#: includes/freestore-pro/class-customize.php:76
+msgid "FreeStore"
+msgstr "FreeStore"
+
+#: support/tpl/support-page.php:13
+msgid "We'd like to keep FreeStore as a free theme, so please support us by donating an amount of your choice and <a href=\"%s\" target=\"_blank\">Let us know</a> what features you'd like added on."
+msgstr "Vi vil gerne holde FreeStore som en gratis tema, så støtte os venligst ved at donere et valgfrit beløb og <a href=\"%s\" target=\"_blank\">Lad os vide,</a> hvilke funktioner du ønsker tilføjet."
+
+#: support/tpl/support-page.php:11
+msgid "<a href=\"%s\" target=\"_blank\">FreeStore</a> is a completely free theme packed with a bunch of settings."
+msgstr "<a href=\"%s\" target=\"_blank\">FreeStore</a> er en helt gratis tema fyldt med en masse indstillinger."
+
+#: functions.php:456
+msgid "Please consider <a href=\"http://kaira.fetchapp.com/sell/a9380c28?amount=\" target=\"_blank\">donating any amount of your choice to FreeStore</a> to help us keep developing on it and keep it as a FREE premium theme. <a href=\"?freestore_donation_nag_ignore=0\" class=\"freestore-admin-notice-close\">Dismiss Notice</a>"
+msgstr "Overvej venligst at <a href=\"http://kaira.fetchapp.com/sell/a9380c28?amount=\" target=\"_blank\">donere et valgfrit beløb til FreeStore</a> til at hjælpe os med at fortsætte udvikling på det og holde det som en gratis tema. <a href=\"?freestore_donation_nag_ignore=0\" class=\"freestore-admin-notice-close\">Skjul besked</a>"
+
+#: customizer/customizer-options.php:521
+msgid "Shop Single Pages Left Sidebar"
+msgstr "Venstre Sidebar på Shoppens Enkelt sider"
+
+#: customizer/customizer-options.php:514
+msgid "Shop Archives/Categories Left Sidebar"
+msgstr "Venstre Sidebar på Shoppens Arkiver/Kategorier"
+
+#: customizer/customizer-options.php:507
+msgid "Shop Page Left Sidebar"
+msgstr "Venstre Sidebar på Shoppen"
+
+#: customizer/customizer-options.php:499
+msgid "Products Per Page"
+msgstr "Produkter pr. side"
+
+#: customizer/customizer-options.php:491
+msgid "Product Columns"
+msgstr "Produkt kolonner"
+
+#: customizer/customizer-options.php:487
+msgid "5"
+msgstr "5"
+
+#: customizer/customizer-options.php:486
+msgid "4"
+msgstr "4"
+
+#: customizer/customizer-options.php:485
+msgid "3"
+msgstr "3"
+
+#: customizer/customizer-options.php:484
+msgid "2"
+msgstr "2"
+
+#: customizer/customizer-options.php:478
+msgid "Remove Product Border"
+msgstr "Fjern Produkt Kant"
+
+#: customizer/customizer-options.php:411
+msgid "This will not update in the Customizer. Exit the Customizer to view the change"
+msgstr "Dette vil ikke opdatér i Editoren. Afslut Editoren for, at vise ændringer"
+
+#: customizer/customizer-options.php:408
+msgid "Remove pre-text before Archive Pages Title"
+msgstr "Fjern pre-tekst før Arkiv Side Titel"
+
+#: customizer/customizer-options.php:372
+msgid "Search Results Left Sidebar"
+msgstr "Søgeresultater i Venstre Sidebar"
+
+#: customizer/customizer-options.php:365
+msgid "Blog Single Pages Left Sidebar"
+msgstr "Venstre Sidebar på Bloggens Enkelt sider"
+
+#: customizer/customizer-options.php:358
+msgid "Blog Archive/Categories Left Sidebar"
+msgstr "Venstre Sidebar på Bloggens Arkiver/Kategorier"
+
+#: customizer/customizer-options.php:351
+msgid "Blog Left Sidebar"
+msgstr "Bloggens Venstre Sidebar"
+
+#: functions.php:376
+msgid "Breadcrumb NavXT"
+msgstr "Breadcrumb NavXT"
+
+#: functions.php:371
+msgid "Contact Form 7"
+msgstr "Contact Form 7"
+
+#: functions.php:366
+msgid "Widgets Bundle"
+msgstr "Widgets bundt"
+
+#: functions.php:361
+msgid "woocommerce"
+msgstr "woocommerce"
+
+#: functions.php:356
+msgid "Page Builder"
+msgstr "Page Builder"
+
+#: customizer/customizer-options.php:768
+msgid "Boxed Background Color"
+msgstr "Boks Layout - baggrundsfarve"
+
+#: customizer/customizer-options.php:753
+msgid "Donating to FreeStore will help with development of this theme and help turn it into a Power Theme"
+msgstr "Donere til FreeStore og hjælp med udviklingen af dette tema og hjælp med at gøre det til et storslående tema"
+
+#: customizer/customizer-options.php:743
+msgid "Attribution Text"
+msgstr "Egenskabs tekst"
+
+#: customizer/customizer-options.php:694
+msgid "Error 404 / Search Results"
+msgstr "Fejl 404 / Søgeresultater"
+
+#: customizer/customizer-options.php:676
+msgid "Phone Number"
+msgstr "Telefonnummer"
+
+#: customizer/customizer-options.php:672
+msgid "This address is used in the Header top bar and in the Social footer layout"
+msgstr "Denne adresse anvendes i Sidehovedbar og i Social Sidefods layout"
+
+#: customizer/customizer-options.php:668
+msgid "Address"
+msgstr "Adresse"
+
+#: customizer/customizer-options.php:650
+msgid "Site Logo Bottom Padding"
+msgstr "Bund Padding i Webside Logo"
+
+#: customizer/customizer-options.php:643
+msgid "Site Logo Top Padding"
+msgstr "Top Padding i Webside Logo"
+
+#: customizer/customizer-options.php:636
+msgid "Site Tagline Size"
+msgstr "Websidens Taglinje Størrelse"
+
+#: customizer/customizer-options.php:628
+msgid "Site Tagline Font"
+msgstr "Website Tagline skrifttype"
+
+#: customizer/customizer-options.php:621
+msgid "Site Title Size"
+msgstr "Website Sidetitel størrelse"
+
+#: customizer/customizer-options.php:613
+msgid "Site Title Font"
+msgstr "Website Sidetitel skrifttype"
+
+#: customizer/customizer-options.php:606
+msgid "Site Title/Tagline"
+msgstr "Website Sidetitel/Slogan"
+
+#: customizer/customizer-options.php:564
+msgid "Site Fonts"
+msgstr "Website skrifttype"
+
+#: customizer/customizer-options.php:555
+msgid "Theme Fonts/Text"
+msgstr "Tema Skrifttype/Tekst"
+
+#: customizer/customizer-options.php:542
+msgid "Shop Single Pages Full Width"
+msgstr "Shoppens enkelt sider - fuld bredde"
+
+#: customizer/customizer-options.php:535
+msgid "Shop Archives/Categories Full Width"
+msgstr "Shoppens Arkiver/Kategorier - fuld bredde"
+
+#: customizer/customizer-options.php:528
+msgid "Shop Page Full Width"
+msgstr "Shoppens Side - fuld bredde"
+
+#: customizer/customizer-options.php:463
+msgid "WooCommerce"
+msgstr "WooCommerce"
+
+#: customizer/customizer-options.php:428
+msgid "Social Layout"
+msgstr "Sociale Layout"
+
+#: customizer/customizer-options.php:427
+msgid "Centered Layout"
+msgstr "Centreret Layout"
+
+#: customizer/customizer-options.php:420 customizer/customizer-options.php:736
+msgid "Footer"
+msgstr "Sidefod"
+
+#: customizer/customizer-options.php:401
+msgid "Search Results Full Width"
+msgstr "Søgeresultat - fuld bredde"
+
+#: customizer/customizer-options.php:394
+msgid "Blog Single Pages Full Width"
+msgstr "Bloggens enkelt sider - fuld bredde"
+
+#: customizer/customizer-options.php:387
+msgid "Blog Archive/Categories Full Width"
+msgstr "Bloggens Arkiver/Kategorier - fuld bredde"
+
+#: customizer/customizer-options.php:380
+msgid "Blog Full Width"
+msgstr "Blog - fuld bredde"
+
+#: customizer/customizer-options.php:331
+msgid "Top Layout"
+msgstr "Top Layout"
+
+#: customizer/customizer-options.php:330
+msgid "Alternate Layout"
+msgstr "Alternativt Layout"
+
+#: customizer/customizer-options.php:329
+msgid "Right Aligned Layout"
+msgstr "Højre justeret Layout"
+
+#: customizer/customizer-options.php:328 customizer/customizer-options.php:426
+msgid "Standard Layout"
+msgstr "Standard Layout"
+
+#: customizer/customizer-options.php:271
+msgid "Sidebar Width"
+msgstr "Sidebarens bredde"
+
+#: customizer/customizer-options.php:264
+msgid "Remove Page Titles"
+msgstr "Fjern Sidetitel"
+
+#: customizer/customizer-options.php:257
+msgid "Pages"
+msgstr "Sider"
+
+#: customizer/customizer-options.php:239
+msgid "Remove Slider Text"
+msgstr "Fjern Slider tekst"
+
+#: customizer/customizer-options.php:220
+msgid "Large Slider"
+msgstr "Large Slider"
+
+#: customizer/customizer-options.php:219
+msgid "Medium Slider"
+msgstr "Medium Slider"
+
+#: customizer/customizer-options.php:218
+msgid "Small Slider"
+msgstr "Small Slider"
+
+#: customizer/customizer-options.php:192 functions.php:381
+msgid "Meta Slider"
+msgstr "Meta Slider"
+
+#: customizer/customizer-options.php:191
+msgid "Default Slider"
+msgstr "Standard Slider"
+
+#: customizer/customizer-options.php:185
+msgid "Home Page Slider"
+msgstr "Forside Slider"
+
+#: customizer/customizer-options.php:160 customizer/customizer-options.php:449
+msgid "Remove Social Links"
+msgstr "Fjern Sociale-netværks links"
+
+#: customizer/customizer-options.php:153
+msgid "Remove Search"
+msgstr "Fjern Søg"
+
+#: customizer/customizer-options.php:145
+msgid "Navigation Styling"
+msgstr "Navigation Styling"
+
+#: customizer/customizer-options.php:141
+msgid "Plain"
+msgstr "Almindelig"
+
+#: customizer/customizer-options.php:140
+msgid "Underline"
+msgstr "Understreg"
+
+#: customizer/customizer-options.php:118 customizer/customizer-options.php:661
+msgid "Header"
+msgstr "Sidehoved"
+
+#: customizer/customizer-options.php:95
+msgid "Blocks / Raised Style"
+msgstr "Blok/Hævet stil"
+
+#: customizer/customizer-options.php:94
+msgid "Flat / One Color Style"
+msgstr "Flad/Enkelt farvet stil"
+
+#: customizer/customizer-options.php:90
+msgid "Set the width of your site between 900 pixels and 1400 pixels"
+msgstr "Angive bredden på dit websted mellem 900 pixels og 1400 pixels"
+
+#: customizer/customizer-options.php:82
+msgid "Site Container Width"
+msgstr "Container bredde"
+
+#: customizer/customizer-options.php:70
+msgid "Full Width Layout"
+msgstr "Fuld bredde layout"
+
+#: customizer/customizer-options.php:69
+msgid "Boxed Layout"
+msgstr "Indrammet Layout"
+
+#: customizer/customizer-options.php:55
+msgid "Theme Settings"
+msgstr "Tema indstillinger"
+
+#: customizer/customizer-options.php:48
+msgid "This only applies if a logo is uploaded"
+msgstr "Dette gælder kun hvis et logo er uploadet"
+
+#: customizer/customizer-options.php:45
+msgid "Set a max-width for the logo"
+msgstr "Sætte en max-bredde for logoet"
+
+#: templates/footers/footer-social.php:98 templates/social-links.php:87
+msgid "Find Us on GitHub"
+msgstr "Find os på GitHub"
+
+#: templates/footers/footer-social.php:94 templates/social-links.php:83
+msgid "Find Us on TripAdvisor"
+msgstr "Find os på TripAdvisor"
+
+#: templates/footers/footer-social.php:90 templates/social-links.php:79
+msgid "Find Us on VK"
+msgstr "Find os på VK"
+
+#: templates/footers/footer-social.php:86 templates/social-links.php:75
+msgid "Find our profile on Houzz"
+msgstr "Find vores profil på Houzz"
+
+#: templates/footers/footer-social.php:70 templates/social-links.php:59
+msgid "Find us on Slack"
+msgstr "Find os på Slack"
+
+#: templates/footers/footer-social.php:66 templates/social-links.php:55
+msgid "Find us on Product Hunt"
+msgstr "Find os på Product Hunt"
+
+#: templates/footers/footer-social.php:62 templates/social-links.php:51
+msgid "Find us on Behance"
+msgstr "Find os på Behance"
+
+#: templates/footers/footer-social.php:58 templates/social-links.php:47
+msgid "Find us on Medium"
+msgstr "Find os på Medium"
+
+#: templates/footers/footer-social.php:38 templates/social-links.php:31
+msgid "Find Us on Yelp"
+msgstr "Find os på Yelp"
+
+#: templates/footers/footer-social.php:34 templates/social-links.php:27
+msgid "Find Us on Etsy"
+msgstr "Find os på Etsy"
+
+#: templates/footers/footer-social.php:30 templates/social-links.php:23
+msgid "Follow Us on SnapChat"
+msgstr "Følg os på SnapChat"
+
+#: customizer/customizer-options.php:985
+msgid "Add the URL"
+msgstr "Tilføj URL' en"
+
+#: customizer/customizer-options.php:981
+msgid "Add your own social icon by pasting the corrent <a href=\"http://fontawesome.io/icons/#brand\" target=\"_blank\">Font Awesome</a> class here<br />Eg: \"fa-facebook\""
+msgstr "Tilføj dine Sociale-netværks ikoner ved at indsætte <a href=\"http://fontawesome.io/icons/#brand\" target=\"_blank\">Font Awesome</a> class her<br />F.eks.: \"fa-facebook\""
+
+#: customizer/customizer-options.php:978
+msgid "Add a Custom Social Link"
+msgstr "Tilføj brugerdefineret Sociale-netværks link"
+
+#: customizer/customizer-options.php:972
+msgid "GitHub"
+msgstr "GitHub"
+
+#: customizer/customizer-options.php:966
+msgid "TripAdvisor"
+msgstr "TripAdvisor"
+
+#: customizer/customizer-options.php:960
+msgid "VK"
+msgstr "VK"
+
+#: customizer/customizer-options.php:954
+msgid "Houzz"
+msgstr "Houzz"
+
+#: customizer/customizer-options.php:930
+msgid "Slack"
+msgstr "Slack"
+
+#: customizer/customizer-options.php:924
+msgid "Product Hunt"
+msgstr "Product Hunt"
+
+#: customizer/customizer-options.php:918
+msgid "Behance"
+msgstr "Behance"
+
+#: customizer/customizer-options.php:912
+msgid "Medium"
+msgstr "Medium"
+
+#: customizer/customizer-options.php:888
+msgid "Yelp"
+msgstr "Yelp"
+
+#: customizer/customizer-options.php:882
+msgid "Etsy"
+msgstr "Etsy"
+
+#: customizer/customizer-options.php:876
+msgid "SnapChat"
+msgstr "SnapChat"
+
+#: customizer/customizer-options.php:208
+msgid "Enter the ID's of the post categories you want to display in the slider. Eg: \"13,17,19\" (no spaces and only comma's)<br /><br />Get the ID at <b>Posts -> Categories</b>.<br /><br />Or <a href=\"https://kairaweb.com/documentation/setting-up-the-default-slider/\" target=\"_blank\"><b>See more instructions here</b></a>"
+msgstr "Angiv den id'er af de indlægs kategorier der skal vises som Slider. Fx: \"13,17,19\" (ingen mellemrum og kun komma)<br/><br/>Find ID på <b>indlæg -> kategorier</b>.<br/><br/>Eller <a href=\"https://kairaweb.com/documentation/setting-up-the-default-slider/\" target=\"_blank\"> <b>Se flere instruktioner her</b></a>"
+
+#: customizer/customizer-options.php:311
+msgid "Full Width Banner"
+msgstr "Banner- fuld bredde"
+
+#: customizer/customizer-options.php:303
+msgid "Page Banner Size"
+msgstr "Side banner størrelse"
+
+#: customizer/customizer-options.php:299
+msgid "Use Proper Image"
+msgstr "Brug korrekt billede"
+
+#: customizer/customizer-options.php:298
+msgid "Large Banner"
+msgstr "Large bannner"
+
+#: customizer/customizer-options.php:297
+msgid "Medium Banner"
+msgstr "Medium banner"
+
+#: customizer/customizer-options.php:296
+msgid "Small Banner"
+msgstr "Small banner"
+
+#: customizer/customizer-options.php:295
+msgid "Extra Small Banner"
+msgstr "Ekstra small banner"
+
+#: customizer/customizer-options.php:288
+msgid "Featured Image Layout"
+msgstr "Layout på fremhævet billede"
+
+#: customizer/customizer-options.php:284
+msgid "Page Banner"
+msgstr "Side banner"
+
+#: customizer/customizer-options.php:283
+msgid "Standard"
+msgstr "Standard"
+
+#: customizer/customizer-options.php:193 customizer/customizer-options.php:282
+#: customizer/customizer-options.php:429
+msgid "None"
+msgstr "Intet"
+
+#: customizer/customizer-options.php:725
+msgid "No Results Text"
+msgstr "Ingen resultat tekst"
+
+#: customizer/customizer-options.php:721
+msgid "Enter the header for when no search results are found"
+msgstr "Angiv overskriften på teksten for 'Ingen søgeresultat' fundet"
+
+#: customizer/customizer-options.php:717
+msgid "No Results Heading"
+msgstr "Overskrift på ingen søg"
+
+#: customizer/customizer-options.php:687 searchform.php:9
+msgid "Search &amp; hit enter&hellip;"
+msgstr "Søg &amp; tryk Enter&hellip;"
+
+#: customizer/customizer-options.php:684
+msgid "Search Placeholder Text"
+msgstr "Søgefelt tekst"
+
+#: support/tpl/support-page.php:51
+msgid "Enter my own amount <b>(Very Happy to support further development)</b>"
+msgstr "Angiv dit eget beløb <b>(Meget glad for at støtte fremtidige udvikling)</b>"
+
+#: support/tpl/support-page.php:45
+msgid "Donate $25 <b>(Thank you for a great theme)</b>"
+msgstr "Donere $25 <b>(Tak for et fantastisk teme)</b>"
+
+#: support/tpl/support-page.php:39
+msgid "Donate $20 <b>(Appreciate the work done)</b>"
+msgstr "Donere $20 <b>(Værdsætter godt arbejde)</b>"
+
+#: support/tpl/support-page.php:33
+msgid "Donate $15 <b>(Budget Donation)</b>"
+msgstr "Donere $15<b>(Budget donation)</b>"
+
+#: support/tpl/support-page.php:21
+msgid "PayPal still takes a cut so that is why we make the least amount $15"
+msgstr "PayPal tager lidt gebyrer så hvorfor ikke give mindst $15"
+
+#: customizer/customizer-options.php:783
+msgid "Top Bar Font Color"
+msgstr "Tekst farve i Sidehoved bar"
+
+#: customizer/customizer-options.php:776
+msgid "Top Bar Background Color"
+msgstr "Baggrunds farve i Sidehoved bar"
+
+#: customizer/customizer-options.php:470
+msgid "Remove WooCommerce Cart"
+msgstr "Fjern WooCommerce Varekurv"
+
+#: customizer/customizer-options.php:174
+msgid "Remove Header Phone Number"
+msgstr "Fjern Telefonnummer i Sidehoved"
+
+#: customizer/customizer-options.php:167
+msgid "Remove Header Address"
+msgstr "Fjern Adressen i Sidehoved"
+
+#: includes/freestore-pro/class-customize.php:77 support/support.php:13
+msgid "Support FreeStore"
+msgstr "Support FreeStore"
+
+#. Template Name of the plugin/theme
+msgid "Left Sidebar"
+msgstr "Venstre Sidebar"
+
+#. Template Name of the plugin/theme
+msgid "Full Width"
+msgstr "Fuld bredde"
+
+#: customizer/customizer-options.php:322
+msgid "Blog"
+msgstr "Blog"
+
+#: templates/slider/homepage-slider.php:127
+msgid "Integrated with top WordPress plugins"
+msgstr "Integreret med Top WordPress plugins"
+
+#: templates/slider/homepage-slider.php:125
+msgid "Very Customizable"
+msgstr "Meget brugertilpasset"
+
+#: templates/slider/homepage-slider.php:104
+msgid "With FreeStore we give you the full premium theme"
+msgstr "Med FreeStore giver vi dig det fulde premium tema"
+
+#: templates/slider/homepage-slider.php:102
+msgid "Free Online Store"
+msgstr "Gratis Online butik"
+
+#: templates/footers/footer-standard.php:11
+msgid "Add your own widgets here"
+msgstr "Tilføj dine egne Widgets her"
+
+#: templates/footers/footer-social.php:82 templates/social-links.php:71
+msgid "Find Us on Flickr"
+msgstr "Find os på Flickr"
+
+#: templates/footers/footer-social.php:78 templates/social-links.php:67
+msgid "Find Us on Tumblr"
+msgstr "Find os på Tumblr"
+
+#: templates/footers/footer-social.php:74 templates/social-links.php:63
+msgid "Find Us on LinkedIn"
+msgstr "Find os på LinkedIn"
+
+#: templates/footers/footer-social.php:54 templates/social-links.php:43
+msgid "Pin Us on Pinterest"
+msgstr "Pin os på Pinterest"
+
+#: templates/footers/footer-social.php:50 templates/social-links.php:39
+msgid "Follow Us on Instagram"
+msgstr "Følg os på Instagram"
+
+#: templates/footers/footer-social.php:46
+msgid "View our Vimeo Channel"
+msgstr "Se vores Vimeo kanal"
+
+#: templates/footers/footer-social.php:42 templates/social-links.php:35
+msgid "View our YouTube Channel"
+msgstr "Se vores YouTube-kanal"
+
+#: templates/footers/footer-social.php:26 templates/social-links.php:19
+msgid "Find Us on Google Plus"
+msgstr "Find os på Google+"
+
+#: templates/footers/footer-social.php:22 templates/social-links.php:15
+msgid "Follow Us on Twitter"
+msgstr "Følg os på Twitter"
+
+#: templates/footers/footer-social.php:18 templates/social-links.php:11
+msgid "Find Us on Facebook"
+msgstr "Find os på Facebook"
+
+#: templates/footers/footer-social.php:14 templates/social-links.php:7
+msgid "Contact Us on Skype"
+msgstr "Kontakt os på Skype"
+
+#: templates/footers/footer-social.php:10 templates/social-links.php:3
+msgid "Send Us an Email"
+msgstr "Send os en E-mail"
+
+#. translators: %s: Name of current post
+#: templates/contents/content.php:47
+msgid "Continue reading %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Fortsæt læsningen %s <span class=\"meta-nav\">&rarr;</span>"
+
+#: templates/contents/content-page.php:25
+#: templates/contents/content-single.php:30 templates/contents/content.php:56
+msgid "Pages:"
+msgstr "Sider:"
+
+#: templates/contents/content-none.php:20
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Klar til at udgive dit første indlæg? <a href=\"%1$s\">Start her</a>."
+
+#: customizer/customizer-options.php:720 templates/contents/content-none.php:14
+msgid "Nothing Found"
+msgstr "Intet fundet"
+
+#: support/tpl/support-page.php:70
+msgid "<span>Donate Now </span><em>$20</em>"
+msgstr "<span>Donere nu</span> <em>$20</em>"
+
+#: support/tpl/support-page.php:63
+msgid "Support is prioritized by the amount paid."
+msgstr "Support er prioriteret af det betalte beløb."
+
+#: support/tpl/support-page.php:62
+msgid "Although we appreciate your donation, we can only offer prioritized support for orders of $11 or more."
+msgstr "Selv om vi sætter pris på din donation, kan vi kun tilbyde prioriteret Support til ordrer på $11 eller mere."
+
+#: support/tpl/support-page.php:27
+msgid "Select the amount you'd like to donate."
+msgstr "Vælg det beløb du ønsker at donere."
+
+#: support/tpl/support-page.php:19
+msgid "You can select an amount we've provided or enter your own amount below."
+msgstr "Du kan vælge et beløb vi har angivet eller indtaste dit eget beløb nedenfor."
+
+#: support/tpl/support-page.php:17
+msgid "Please send a donation to get <a href=\"%s\" target=\"_blank\">theme support</a> for FreeStore and help us build lots more onto this theme."
+msgstr "Donere venligst og få <a href=\"%s\" target=\"_blank\">Tema Support</a> til FreeStore og hjælp os med at bygge masser mere på dette tema."
+
+#: support/tpl/support-page.php:15
+msgid "If you would like to support our future theme development then please feel free to donate an amount of your choice. We'd like to keep building onto FreeStore to make it a great theme for all users and create many different settings and styles and turn it into a power theme."
+msgstr "Hvis du gerne vil støtte vores fremtidige tema udvikling så er du velkommen til at donere et beløb af dit valg. Vi vil gerne arbejde på at gøre FreeStore til et fremragende tema for alle brugere og oprette mange forskellige indstillinger og typografier, og gøre det til en kraftfuldt tema."
+
+#: support/tpl/support-page.php:4
+msgid "Support Our Development"
+msgstr "Support vores udvikling"
+
+#: searchform.php:11
+msgctxt "submit button"
+msgid "&nbsp;"
+msgstr "&nbsp;"
+
+#: templates/titlebar.php:17
+msgid "Search Results for: %s"
+msgstr "Søgeresultater for: %s"
+
+#: includes/inc/woocommerce-header-inc.php:11
+#: templates/header/header-layout-standard.php:65
+msgid "(%d)"
+msgid_plural "(%d)"
+msgstr[0] "(%d)"
+msgstr[1] "(%d)"
+
+#: includes/inc/woocommerce-header-inc.php:9
+#: templates/header/header-layout-standard.php:63
+msgid "View your shopping cart"
+msgstr "Vis din varekurv"
+
+#: includes/inc/template-tags.php:180
+msgid "Archives"
+msgstr "Arkiver"
+
+#. translators: 1: Taxonomy singular name, 2: Current taxonomy term
+#: includes/inc/template-tags.php:178
+msgid "%1$s: %2$s"
+msgstr "%1$s: %2$s"
+
+#: includes/inc/template-tags.php:174
+msgid "Archives: %s"
+msgstr "Arkiver: %s"
+
+#: includes/inc/template-tags.php:171
+msgctxt "post format archive title"
+msgid "Chats"
+msgstr "Chat"
+
+#: includes/inc/template-tags.php:169
+msgctxt "post format archive title"
+msgid "Audio"
+msgstr "Lyd"
+
+#: includes/inc/template-tags.php:167
+msgctxt "post format archive title"
+msgid "Statuses"
+msgstr "Status"
+
+#: includes/inc/template-tags.php:165
+msgctxt "post format archive title"
+msgid "Links"
+msgstr "Links"
+
+#: includes/inc/template-tags.php:163
+msgctxt "post format archive title"
+msgid "Quotes"
+msgstr "Tilbud"
+
+#: includes/inc/template-tags.php:161
+msgctxt "post format archive title"
+msgid "Videos"
+msgstr "Videoer"
+
+#: includes/inc/template-tags.php:159
+msgctxt "post format archive title"
+msgid "Images"
+msgstr "Billeder"
+
+#: includes/inc/template-tags.php:157
+msgctxt "post format archive title"
+msgid "Galleries"
+msgstr "Gallerier"
+
+#: includes/inc/template-tags.php:155
+msgctxt "post format archive title"
+msgid "Asides"
+msgstr "Tilsidesættelser"
+
+#: includes/inc/template-tags.php:152
+msgctxt "daily archives date format"
+msgid "F j, Y"
+msgstr "F j, Y"
+
+#: includes/inc/template-tags.php:152
+msgid "Day: %s"
+msgstr "Dag: %s"
+
+#: includes/inc/template-tags.php:150
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr "F Y"
+
+#: includes/inc/template-tags.php:150
+msgid "Month: %s"
+msgstr "Måned: %s"
+
+#: includes/inc/template-tags.php:148
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "Y"
+
+#: includes/inc/template-tags.php:148
+msgid "Year: %s"
+msgstr "År: %s"
+
+#: includes/inc/template-tags.php:146
+msgid "Author: %s"
+msgstr "Forfatter: %s"
+
+#: includes/inc/template-tags.php:144
+msgid "Tag: %s"
+msgstr "Tag: %s"
+
+#: includes/inc/template-tags.php:142
+msgid "Category: %s"
+msgstr "Kategori: %s"
+
+#: includes/inc/template-tags.php:125 templates/contents/content-page.php:32
+msgid "Edit"
+msgstr "Rediger"
+
+#: includes/inc/template-tags.php:121
+msgid "% Comments"
+msgstr "% kommentarer"
+
+#: includes/inc/template-tags.php:121
+msgid "1 Comment"
+msgstr "1 kommentar"
+
+#: includes/inc/template-tags.php:121
+msgid "Leave a comment"
+msgstr "Efterlad en kommentar"
+
+#: includes/inc/template-tags.php:115
+msgid "Tagged %1$s"
+msgstr "Tagget %1$s"
+
+#: includes/inc/template-tags.php:109
+msgid "Posted in %1$s"
+msgstr "Udgivet i %1$s"
+
+#. translators: used between list items, there is a space after the comma
+#: includes/inc/template-tags.php:107 includes/inc/template-tags.php:113
+msgid ", "
+msgstr ", "
+
+#: includes/inc/template-tags.php:90
+msgctxt "post author"
+msgid "by %s"
+msgstr "af %s"
+
+#: includes/inc/template-tags.php:85
+msgctxt "post date"
+msgid "Posted on %s"
+msgstr "Slået op d. %s"
+
+#: includes/inc/template-tags.php:55
+msgid "Post navigation"
+msgstr "Indlægs navigation"
+
+#: includes/inc/template-tags.php:30
+msgid "Newer posts"
+msgstr "Nyere indlæg"
+
+#: includes/inc/template-tags.php:26
+msgid "Older posts"
+msgstr "Ældre indlæg"
+
+#: includes/inc/template-tags.php:22
+msgid "Posts navigation"
+msgstr "Indlægs navigation"
+
+#: includes/inc/extras.php:52
+msgid "Page %s"
+msgstr "Side %s"
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: includes/inc/class-tgm-plugin-activation.php:3520
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr "Installerer plugin %1$s (%2$d/%3$d)"
+
+#: includes/inc/class-tgm-plugin-activation.php:3518
+msgid "All installations have been completed."
+msgstr "Alle installationer er afsluttet."
+
+#. translators: 1: plugin name.
+#: includes/inc/class-tgm-plugin-activation.php:3517
+msgid "%1$s installed successfully."
+msgstr "%1$s installeret korrekt."
+
+#: includes/inc/class-tgm-plugin-activation.php:3515
+msgid "The installation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr "Installationen er påbegyndt. Denne proces kan tage et stykke tid på nogle sider, så vær tålmodig."
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: includes/inc/class-tgm-plugin-activation.php:3512
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr "Installerer og aktiverer plugin %1$s (%2$d/%3$d)"
+
+#: includes/inc/class-tgm-plugin-activation.php:3510
+msgid "All installations and activations have been completed."
+msgstr "Alle installationer og aktiveringer er afsluttet."
+
+#: includes/inc/class-tgm-plugin-activation.php:3509
+#: includes/inc/class-tgm-plugin-activation.php:3517
+msgid "Hide Details"
+msgstr "Skjul detaljer"
+
+#: includes/inc/class-tgm-plugin-activation.php:3509
+#: includes/inc/class-tgm-plugin-activation.php:3517
+msgid "Show Details"
+msgstr "Vis detaljer"
+
+#. translators: 1: plugin name.
+#: includes/inc/class-tgm-plugin-activation.php:3509
+msgid "%1$s installed and activated successfully."
+msgstr "%1$s installeret og aktiveret korrekt."
+
+#: includes/inc/class-tgm-plugin-activation.php:3507
+msgid "The installation and activation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr "Installationen og aktiveringsprocessen er begyndt. Denne proces kan tage et stykke tid på nogle sider, så vær tålmodig."
+
+#. translators: 1: plugin name.
+#: includes/inc/class-tgm-plugin-activation.php:3503
+msgid "The installation of %1$s failed."
+msgstr "Installationen af %1$s fejlede."
+
+#. translators: 1: plugin name, 2: error message.
+#: includes/inc/class-tgm-plugin-activation.php:3501
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr "Der opstod en fejl under installation %1$s: <strong>%2$s</strong>."
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: includes/inc/class-tgm-plugin-activation.php:3498
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr "Opdaterer plugin %1$s (%2$d/%3$d)"
+
+#: includes/inc/class-tgm-plugin-activation.php:3158
+msgid "Plugin activation failed."
+msgstr "Aktivering af plugin mislykkedes."
+
+#: includes/inc/class-tgm-plugin-activation.php:2934
+msgid "No plugins are available to be activated at this time."
+msgstr "Ingen plugins er tilgængelige til aktivering i øjeblikket."
+
+#: includes/inc/class-tgm-plugin-activation.php:2908
+msgid "No plugins were selected to be activated. No action taken."
+msgstr "Ingen plugins blev valgt til aktivering. Ingen handling taget."
+
+#: includes/inc/class-tgm-plugin-activation.php:2802
+msgid "No plugins are available to be updated at this time."
+msgstr "Ingen plugins er tilgængelige til opdatering i øjeblikket."
+
+#: includes/inc/class-tgm-plugin-activation.php:2800
+msgid "No plugins are available to be installed at this time."
+msgstr "Ingen plugins er tilgængelige til installation i øjeblikket."
+
+#: includes/inc/class-tgm-plugin-activation.php:2759
+msgid "No plugins were selected to be updated. No action taken."
+msgstr "Ingen plugins blev valgt til opdatering. Ingen handling taget."
+
+#: includes/inc/class-tgm-plugin-activation.php:2757
+msgid "No plugins were selected to be installed. No action taken."
+msgstr "Ingen plugins blev valgt til installation. Ingen handling taget."
+
+#: includes/inc/class-tgm-plugin-activation.php:2726
+msgid "Activate"
+msgstr "Aktivér"
+
+#: includes/inc/class-tgm-plugin-activation.php:2723
+msgid "Update"
+msgstr "Opdater"
+
+#: includes/inc/class-tgm-plugin-activation.php:2717
+msgid "Install"
+msgstr "Installer"
+
+#: includes/inc/class-tgm-plugin-activation.php:2684
+msgid "Upgrade message from the plugin author:"
+msgstr "Opgraderingsmeddelelse fra forfatteren af plugin:"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: includes/inc/class-tgm-plugin-activation.php:2614
+msgid "Activate %2$s"
+msgstr "Aktiver %2$s"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: includes/inc/class-tgm-plugin-activation.php:2608
+msgid "Update %2$s"
+msgstr "Opdater %2$s"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: includes/inc/class-tgm-plugin-activation.php:2603
+msgid "Install %2$s"
+msgstr "Installér %2$s"
+
+#: includes/inc/class-tgm-plugin-activation.php:2554
+msgid "Status"
+msgstr "Status"
+
+#: includes/inc/class-tgm-plugin-activation.php:2553
+msgid "Version"
+msgstr "Version"
+
+#: includes/inc/class-tgm-plugin-activation.php:2549
+msgid "Type"
+msgstr "Type"
+
+#: includes/inc/class-tgm-plugin-activation.php:2548
+msgid "Source"
+msgstr "Kilde"
+
+#: includes/inc/class-tgm-plugin-activation.php:2547
+msgid "Plugin"
+msgstr "Plugin"
+
+#: includes/inc/class-tgm-plugin-activation.php:2533
+msgid "No plugins to install, update or activate."
+msgstr "Ingen plugins at installere, opdatere eller aktivere."
+
+#: includes/inc/class-tgm-plugin-activation.php:2510
+msgid "Available version:"
+msgstr "Tilgængelig version:"
+
+#: includes/inc/class-tgm-plugin-activation.php:2498
+msgid "Minimum required version:"
+msgstr "Minimum påkrævet version:"
+
+#: includes/inc/class-tgm-plugin-activation.php:2490
+msgid "Installed version:"
+msgstr "Installeret version:"
+
+#: includes/inc/class-tgm-plugin-activation.php:2482
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr "ukendt"
+
+#. translators: 1: number of plugins.
+#: includes/inc/class-tgm-plugin-activation.php:2400
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] "Aktivere <span class=\"count\">(%s)</span>"
+msgstr[1] "Aktivere <span class=\"count\">(%s)</span>"
+
+#. translators: 1: number of plugins.
+#: includes/inc/class-tgm-plugin-activation.php:2396
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] "Opdatering tilgængelig <span class=\"count\">(%s)</span>"
+msgstr[1] "Opdateringer tilgængelig <span class=\"count\">(%s)</span>"
+
+#. translators: 1: number of plugins.
+#: includes/inc/class-tgm-plugin-activation.php:2392
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] "At installere <span class=\"count\">(%s)</span>"
+msgstr[1] "At installerer <span class=\"count\">(%s)</span>"
+
+#. translators: 1: number of plugins.
+#: includes/inc/class-tgm-plugin-activation.php:2388
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] "Alle <span class=\"count\">%s</span>"
+msgstr[1] "Alle <span class=\"count\">%s</span>"
+
+#. translators: 1: install status, 2: update status
+#: includes/inc/class-tgm-plugin-activation.php:2342
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr "%1$s, %2$s"
+
+#: includes/inc/class-tgm-plugin-activation.php:2333
+msgid "Update recommended"
+msgstr "Opdatering anbefales"
+
+#: includes/inc/class-tgm-plugin-activation.php:2330
+msgid "Requires Update"
+msgstr "Kræver opdatering"
+
+#: includes/inc/class-tgm-plugin-activation.php:2327
+msgid "Required Update not Available"
+msgstr "Nødvendig opdatering er ikke tilgængelig"
+
+#: includes/inc/class-tgm-plugin-activation.php:2321
+msgid "Active"
+msgstr "Aktivér"
+
+#: includes/inc/class-tgm-plugin-activation.php:2319
+msgid "Installed But Not Activated"
+msgstr "Installeret men ikke aktiveret"
+
+#: includes/inc/class-tgm-plugin-activation.php:2315
+msgid "Not Installed"
+msgstr "Ikke installeret"
+
+#: includes/inc/class-tgm-plugin-activation.php:2298
+msgid "Pre-Packaged"
+msgstr "Færdigpakkede"
+
+#: includes/inc/class-tgm-plugin-activation.php:2295
+msgid "External Source"
+msgstr "Ekstern Kilde"
+
+#: includes/inc/class-tgm-plugin-activation.php:2292
+msgid "WordPress Repository"
+msgstr "WordPress Repository"
+
+#: includes/inc/class-tgm-plugin-activation.php:2276
+msgid "Recommended"
+msgstr "Anbefalet"
+
+#: includes/inc/class-tgm-plugin-activation.php:2273
+msgid "Required"
+msgstr "Påkrævet"
+
+#. translators: %s: version number
+#: includes/inc/class-tgm-plugin-activation.php:1982
+msgid "TGMPA v%s"
+msgstr "TGMPA v%s"
+
+#: includes/inc/class-tgm-plugin-activation.php:1121
+#: includes/inc/class-tgm-plugin-activation.php:2948
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr "og"
+
+#: includes/inc/class-tgm-plugin-activation.php:937
+msgid "The remote plugin package consists of more than one file, but the files are not packaged in a folder."
+msgstr "Den eksterne plugin-pakke indeholder mere end én fil, men filerne er ikke pakket i en mappe."
+
+#: includes/inc/class-tgm-plugin-activation.php:934
+#: includes/inc/class-tgm-plugin-activation.php:937
+msgid "Please contact the plugin provider and ask them to package their plugin according to the WordPress guidelines."
+msgstr "Kontakt venligst udbyderen af dette plugin og bed dem om at pakke deres plugin i henhold til WordPress' retningslinjer."
+
+#: includes/inc/class-tgm-plugin-activation.php:934
+msgid "The remote plugin package does not contain a folder with the desired slug and renaming did not work."
+msgstr "Den eksterne plugin-pakke indeholder ikke en mappe med den ønskede slug, og omdøbning virkede ikke."
+
+#: includes/inc/class-tgm-plugin-activation.php:523
+msgid "Update Required"
+msgstr "Opdatering påkrævet"
+
+#: includes/inc/class-tgm-plugin-activation.php:522
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr "Dette plugin skal opdateres for at være kompatibelt med dit tema."
+
+#: includes/inc/class-tgm-plugin-activation.php:397
+msgid "Please contact the administrator of this site for help."
+msgstr "Kontakt venligst administratoren af websiden for hjælp."
+
+#: includes/inc/class-tgm-plugin-activation.php:396
+msgid "There are one or more required or recommended plugins to install, update or activate."
+msgstr "Der er en eller flere påkrævede eller anbefalede plugins til installation, opdatering eller aktivering."
+
+#: includes/inc/class-tgm-plugin-activation.php:395
+msgid "Dismiss this notice"
+msgstr "Afvis denne meddelelse"
+
+#. translators: 1: dashboard link.
+#: includes/inc/class-tgm-plugin-activation.php:394
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr "Alle plugins blev installeret og aktiveret succesfuldt. %1$s"
+
+#. translators: 1: plugin name.
+#: includes/inc/class-tgm-plugin-activation.php:392
+msgid "Plugin not activated. A higher version of %s is needed for this theme. Please update the plugin."
+msgstr "Plugin ikke aktiveret. En nyere version af %s er krævet for dette tema. Opdater venligst plugin."
+
+#. translators: 1: plugin name.
+#: includes/inc/class-tgm-plugin-activation.php:390
+msgid "No action taken. Plugin %1$s was already active."
+msgstr "Ingen handling foretaget. Plugin %1$s var allerede aktiveret."
+
+#: includes/inc/class-tgm-plugin-activation.php:388
+#: includes/inc/class-tgm-plugin-activation.php:2952
+msgid "The following plugin was activated successfully:"
+msgstr "Følgende plugin blev succesfuldt aktiveret:"
+
+#: includes/inc/class-tgm-plugin-activation.php:387
+#: includes/inc/class-tgm-plugin-activation.php:3159
+msgid "Plugin activated successfully."
+msgstr "Plugin succesfuldt aktiveret."
+
+#: includes/inc/class-tgm-plugin-activation.php:386
+#: includes/inc/class-tgm-plugin-activation.php:827
+#: includes/inc/class-tgm-plugin-activation.php:2533
+#: includes/inc/class-tgm-plugin-activation.php:3580
+msgid "Return to the Dashboard"
+msgstr "Tilbage til Kontrolpanelet"
+
+#: includes/inc/class-tgm-plugin-activation.php:385
+msgid "Return to Required Plugins Installer"
+msgstr "Tilbage til påkrævet plugin installering"
+
+#: includes/inc/class-tgm-plugin-activation.php:380
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] "Begynd aktivering af plugin"
+msgstr[1] "Begynd aktivering af plugins"
+
+#: includes/inc/class-tgm-plugin-activation.php:375
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] "Begynd opdatering af plugin"
+msgstr[1] "Begynd opdatering af plugins"
+
+#. translators: 1: plugin name(s).
+#: includes/inc/class-tgm-plugin-activation.php:370
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] "Begynd installering af plugin"
+msgstr[1] "Begynd installering af plugins"
+
+#: includes/inc/class-tgm-plugin-activation.php:333
+msgid "Something went wrong with the plugin API."
+msgstr "Noget gik galt med plugin API."
+
+#. translators: %s: plugin name.
+#: includes/inc/class-tgm-plugin-activation.php:332
+msgid "Updating Plugin: %s"
+msgstr "Opdaterer plugin: %s"
+
+#. translators: %s: plugin name.
+#: includes/inc/class-tgm-plugin-activation.php:330
+msgid "Installing Plugin: %s"
+msgstr "Installerer plugin: %s"
+
+#: includes/inc/class-tgm-plugin-activation.php:328
+msgid "Install Plugins"
+msgstr "Installer plugins"
+
+#: includes/inc/class-tgm-plugin-activation.php:327
+msgid "Install Required Plugins"
+msgstr "Installer de påkrævede plugins"
+
+#: functions.php:141
+msgid "The footer will divide into however many widgets are placed here."
+msgstr "Sidefoden vil opdeles i det antal Widgets som placeres her."
+
+#: functions.php:139
+msgid "FreeStore Footer Standard"
+msgstr "FreeStore Standard Sidefod"
+
+#: functions.php:135
+msgid "The footer will add widgets centered below each other."
+msgstr "Sidefoden vil tilføje Widgets centreret under hinanden."
+
+#: functions.php:133
+msgid "FreeStore Footer Centered"
+msgstr "FreeStore sidefod centreret"
+
+#: functions.php:129
+msgid "These widgets are placed in the slide out menu under the navigation."
+msgstr "Disse widgets er placeret i en Slider Menu under navigationen."
+
+#: functions.php:127
+msgid "Sidebar Menu"
+msgstr "Sidebar menu"
+
+#: functions.php:118
+msgid "Sidebar"
+msgstr "Sidebar"
+
+#: functions.php:79
+msgid "Footer Bar Menu"
+msgstr "Sidefodbar menu"
+
+#: functions.php:78
+msgid "Top Bar Menu"
+msgstr "Topbar-menu"
+
+#: functions.php:77
+msgid "Primary Menu"
+msgstr "Primær menu"
+
+#: customizer/customizer-options.php:948
+msgid "Flickr"
+msgstr "Flickr"
+
+#: customizer/customizer-options.php:942
+msgid "Tumblr"
+msgstr "Tumblr"
+
+#: customizer/customizer-options.php:936
+msgid "LinkedIn"
+msgstr "LinkedIn"
+
+#: customizer/customizer-options.php:906
+msgid "Pinterest"
+msgstr "Pinterest"
+
+#: customizer/customizer-options.php:900
+msgid "Instagram"
+msgstr "Instagram"
+
+#: customizer/customizer-options.php:894
+msgid "YouTube"
+msgstr "YouTube"
+
+#: customizer/customizer-options.php:870
+msgid "Google Plus"
+msgstr "Google +"
+
+#: customizer/customizer-options.php:864
+msgid "Twitter"
+msgstr "Twitter"
+
+#: customizer/customizer-options.php:858
+msgid "Facebook"
+msgstr "Facebook"
+
+#: customizer/customizer-options.php:852
+msgid "Skype Name"
+msgstr "Skype-navn"
+
+#: customizer/customizer-options.php:846
+msgid "Email Address"
+msgstr "E-mail adresse"
+
+#: customizer/customizer-options.php:840
+msgid "Social Links"
+msgstr "Sociale-netværks links"
+
+#: customizer/customizer-options.php:729
+msgid "Enter the default text for when no search results are found"
+msgstr "Angiv standardteksten for når der bliver fundet nogen søgeresultater"
+
+#: customizer/customizer-options.php:728 templates/contents/content-none.php:24
+#: templates/contents/content-none.php:28
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Beklager, men din søgning gav ingen resultater. Prøv igen med nogle andre søgeord."
+
+#: customizer/customizer-options.php:713
+msgid "Enter the default text on the 404 error page (Page not found)"
+msgstr "Angiv standardteksten på siden 404-fejl (siden blev ikke fundet)"
+
+#: customizer/customizer-options.php:709
+msgid "Error 404 Message"
+msgstr "Fejl 404 besked"
+
+#: customizer/customizer-options.php:705
+msgid "Enter the heading for the 404 Error page"
+msgstr "Angiv overskrift for den 404 fejlside"
+
+#: customizer/customizer-options.php:701
+msgid "404 Error Page Heading"
+msgstr "404 fejl side overskrift"
+
+#: customizer/customizer-options.php:746
+msgid "freestore theme, by Kaira"
+msgstr "freestore tema af Kaira"
+
+#: customizer/customizer-options.php:679
+msgid "Call Us: +2782 444 YEAH"
+msgstr "Ring til os: +2782 444 YEAH"
+
+#: customizer/customizer-options.php:671
+msgid "Cape Town, South Africa"
+msgstr "Cape Town, Sydafrika"
+
+#: customizer/customizer-options.php:442
+msgid "Remove the Bottom Bar"
+msgstr "Fjern den nederste bar"
+
+#: customizer/customizer-options.php:433
+msgid "Footer Layout"
+msgstr "Sidefods layout"
+
+#: customizer/customizer-options.php:346
+msgid "Enter the ID's of the post categories you'd like to EXCLUDE from the Blog, enter only the ID's with a minus sign (-) before them, separated by a comma (,)<br />Eg: \"-13, -17, -19\"<br /><br />If you enter the ID's without the minus then it'll show ONLY posts in those categories.<br /><br />Get the ID at <b>Posts -> Categories</b>."
+msgstr "Angiv de ID'er af indlægs kategorier du ønsker at EKSKLUDERE fra bloggen. Indtast kun de ID'er med et minustegn (-) foran dem, adskilt af et komma (,)<br />F.eks: \"-13 -17, -19\"<br /><br />Hvis du indtaster ID uden minus så det vil vise kun indlæg i disse kategorier.<br /><br />Find ID på <b>indlæg -> kategorier</b>."
+
+#: customizer/customizer-options.php:343
+msgid "Exclude Blog Categories"
+msgstr "Udelukke Blog kategorier"
+
+#: customizer/customizer-options.php:335
+msgid "Blog Posts Layout"
+msgstr "Blog indlæg Layout"
+
+#: customizer/customizer-options.php:595
+msgid "Heading Font Color"
+msgstr "Overskrift skrifttype farve"
+
+#: customizer/customizer-options.php:587
+msgid "Heading Font"
+msgstr "Overskrift skrifttype"
+
+#: customizer/customizer-options.php:579
+msgid "Body Font Color"
+msgstr "Brødtekstens skrifttype farve"
+
+#: customizer/customizer-options.php:571
+msgid "Body Font"
+msgstr "Brødtekstens skrifttype"
+
+#: customizer/customizer-options.php:828
+msgid "Footer Font Color"
+msgstr "Sidefod skrifttype farve"
+
+#: customizer/customizer-options.php:821
+msgid "Footer Background Color"
+msgstr "Sidefod baggrundsfarve"
+
+#: customizer/customizer-options.php:813
+msgid "Secondary Color"
+msgstr "Sekundær farve"
+
+#: customizer/customizer-options.php:805
+msgid "Primary Color"
+msgstr "Primære farve"
+
+#: customizer/customizer-options.php:797
+msgid "Header Font Color"
+msgstr "Sidehoved skrifttype farve"
+
+#: customizer/customizer-options.php:790
+msgid "Header Background Color"
+msgstr "Sidehoved baggrunds farve"
+
+#: customizer/customizer-options.php:762
+msgid "Colors"
+msgstr "Farver"
+
+#: customizer/customizer-options.php:246
+msgid "Stop Auto Scroll"
+msgstr "Stop Auto rulning"
+
+#: customizer/customizer-options.php:232
+msgid "Link Slide to post"
+msgstr "Link Slider til indlæg"
+
+#: customizer/customizer-options.php:224
+msgid "Slider Size"
+msgstr "Silder størrelse"
+
+#: customizer/customizer-options.php:215
+msgid "Enter the shortcode give by meta slider."
+msgstr "Angiv Shortcode fra Meta Slider."
+
+#: customizer/customizer-options.php:212
+msgid "Slider Shortcode"
+msgstr "Slider Shortcode"
+
+#: customizer/customizer-options.php:205
+msgid "Slider Categories"
+msgstr "Slider Kategorier"
+
+#: customizer/customizer-options.php:197
+msgid "Choose a Slider"
+msgstr "Vælg en Slider"
+
+#: customizer/customizer-options.php:137
+msgid "This is the text for the mobile menu button"
+msgstr "Dette er teksten som vises på mobil menu knappen"
+
+#: customizer/customizer-options.php:133
+msgid "Menu Button Text"
+msgstr "Menu knap tekst"
+
+#: customizer/customizer-options.php:125
+msgid "Remove the Top Bar"
+msgstr "Fjern Sidehoved-barren"
+
+#: customizer/customizer-options.php:107
+msgid "Blocks Background Color"
+msgstr "Blokkes baggrunds farve"
+
+#: customizer/customizer-options.php:99
+msgid "Page Styling"
+msgstr "Side Styling"
+
+#: customizer/customizer-options.php:63 customizer/customizer-options.php:74
+msgid "Site Layout"
+msgstr "Website Layout"
+
+#: customizer/customizer-library/extensions/fonts.php:202
+msgctxt "font style"
+msgid "Monospaced"
+msgstr "Monospaced"
+
+#: customizer/customizer-library/extensions/fonts.php:198
+msgctxt "font style"
+msgid "Sans Serif"
+msgstr "Sans Serif"
+
+#: customizer/customizer-library/extensions/fonts.php:194
+msgctxt "font style"
+msgid "Serif"
+msgstr "Serif"
+
+#: customizer/customizer-library/extensions/fonts.php:134
+msgid "Vietnamese"
+msgstr "Vietnamesisk"
+
+#: customizer/customizer-library/extensions/fonts.php:133
+msgid "Latin Extended"
+msgstr "Latin udvidet"
+
+#: customizer/customizer-library/extensions/fonts.php:132
+msgid "Latin"
+msgstr "Latin"
+
+#: customizer/customizer-library/extensions/fonts.php:131
+msgid "Khmer"
+msgstr "Khmer"
+
+#: customizer/customizer-library/extensions/fonts.php:130
+msgid "Greek Extended"
+msgstr "Græsk udvidet"
+
+#: customizer/customizer-library/extensions/fonts.php:129
+msgid "Greek"
+msgstr "Græsk"
+
+#: customizer/customizer-library/extensions/fonts.php:128
+msgid "Devanagari"
+msgstr "Devanagari"
+
+#: customizer/customizer-library/extensions/fonts.php:127
+msgid "Cyrillic Extended"
+msgstr "Kyrillisk Udvidet"
+
+#: customizer/customizer-library/extensions/fonts.php:126
+msgid "Cyrillic"
+msgstr "Kyrilliske"
+
+#: customizer/customizer-library/extensions/fonts.php:125
+msgid "All"
+msgstr "Alle"
+
+#: customizer/customizer-library/extensions/fonts.php:20
+msgid "Google Fonts"
+msgstr "Google Skrifttyper"
+
+#: customizer/customizer-library/extensions/fonts.php:18
+msgid "Standard Fonts"
+msgstr "Standardskrifttyper"
+
+#: comments.php:75
+msgid "Comments are closed."
+msgstr "Der er lukket for kommentarer."
+
+#: comments.php:42 comments.php:63
+msgid "Newer Comments"
+msgstr "Nyere kommentarer"
+
+#: comments.php:41 comments.php:62
+msgid "Older Comments"
+msgstr "Ældre kommentarer"
+
+#: comments.php:38 comments.php:59
+msgid "Comment navigation"
+msgstr "Kommentar navigation"
+
+#: comments.php:29
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "En tanke om &ldquo;%2$s&rdquo;"
+msgstr[1] "Tanker om &ldquo;%2$s&rdquo;"
+
+#: 404.php:25 customizer/customizer-options.php:712
+msgid "It looks like that page does not exist. <br />Return home or try a search"
+msgstr "Det ser ud til at siden ikke eksisterer.<br />Tilbage til startsiden eller prøv en søgning"
+
+#: 404.php:20 customizer/customizer-options.php:704
+msgid "Oops! <span>404</span>"
+msgstr "Hov! <span>404</span>"
+
+#. Author URI of the plugin/theme
+msgid "https://kairaweb.com/"
+msgstr "https://kairaweb.com/"
+
+#. Author of the plugin/theme
+msgid "Kaira"
+msgstr "Kaira"
+
+#. Theme URI of the plugin/theme
+msgid "https://kairaweb.com/theme/freestore/"
+msgstr "https://kairaweb.com/theme/freestore/"

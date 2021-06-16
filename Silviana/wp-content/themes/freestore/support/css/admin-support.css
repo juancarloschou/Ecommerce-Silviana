@@ -1,0 +1,143 @@
+.support-page-wrap {
+    
+}
+.support-page-inner-wrap {
+	max-width: 500px;
+	padding: 0;
+}
+.support-page-inner-wrap a {
+	outline: none;
+	box-shadow: none;
+	text-decoration: none;
+	color: #005EAA;
+	font-weight: 700;
+}
+.support-page-inner-wrap a:hover {
+	text-decoration: underline;
+	color: #0952A9;
+}
+h2.support-page-title {
+	background-image: url(../images/kaira_logo.png);
+	background-repeat: no-repeat;
+	background-position: 0 8px;
+	padding: 9px 15px 4px 39px !important;
+}
+.clearboth {
+	clear: both;
+}
+
+.support-text {
+	padding: 15px 0 0;
+}
+
+.support-donate-low {
+	display: none;
+}
+.support-donate-low-inner {
+	background-color: rgba(57, 214, 26, 0.4);
+	max-width: 256px;
+	padding: 2px 14px 5px;
+	margin: 15px 0 0;
+	border-radius: 4px;
+	font-size: 13px;
+	color: #292929;
+}
+
+.support-select {
+	padding: 5px 0 0;
+}
+.support-select p {
+	
+}
+.support-select-radios {
+	max-width: 320px;
+}
+.support-select-radios label.support-select-radio {
+	border-radius: 5px;
+	display: inline-block;
+	padding: 5px 12px 4px;
+	margin: 0 0 4px;
+	width: 500px;
+}
+.support-select-radios label.support-select-radio span {
+	font-size: 14px;
+	display: inline-block;
+	padding: 8px 5px;
+	margin: -1px 0 0;
+}
+.support-select-radios label.support-select-radio span b {
+	font-size: 11px;
+	font-weight: 400;
+	color: #737373;
+}
+.support-select-radios label.support-select-radio input.support-radio-input {
+	margin: -3px 3px 0 0;
+}
+.support-select-radios label.support-select-radio-custom {
+	position: relative;
+}
+
+.support-select-radios label.support-select-radio-custom input.support-amount-input {
+	width: 65px;
+	font-size: 16px;
+	padding: 5px 0px 5px 10px;
+	margin: 0 0 0 10px;
+}
+.support-select-radios label.support-select-radio-custom .support-value-custom-disable {
+	position: absolute;
+	top: 5px;
+	right: 15px;
+	background-color: #F1F1F1;
+	height: 34px;
+	width: 70px;
+	opacity: 0.5;
+}
+.support-select-radios .support-select-radio.support-select-radio-selected .support-value-custom-disable {
+	display: none !important;
+}
+.support-select-radios label.support-select-radio:hover {
+	background-color: #F7F7F7;
+	box-shadow: 0 0 0 1px rgba(0, 0, 0, 0.08) inset;
+}
+
+
+.support-page-donate {
+	padding: 30px 0 10px;
+}
+
+a#support-purchase-link {
+	display: inline-block;
+	vertical-align: middle;
+	border-radius: 4px;
+	border: 1px solid rgba(0, 0, 0, 0.4);
+	box-shadow: 0 1px 0 rgba(255, 255, 255, 0.4) inset;
+	margin: 0;
+	padding: 0;
+	text-align: center;
+	font-size: 13px;
+	font-weight: 500;
+	background-color: #006CC9;
+	color: #FFF;
+	text-decoration: none;
+}
+a#support-purchase-link span {
+	display: inline-block;
+	padding: 13px 0 13px 2px;
+	width: 150px;
+	font-size: 16px;
+	text-align: center;
+	box-shadow: 1px 0 0 rgba(255, 255, 255, 0.2);
+	white-space: nowrap;
+}
+a#support-purchase-link em {
+	display: inline-block;
+	padding: 12px 2px 13px 0;
+	text-align: center;
+	width: 68px;
+	box-shadow: -1px 0 0 rgba(0, 0, 0, 0.2);
+	background-color: rgba(255, 255, 255, 0.1);
+	font-size: 20px;
+}
+a#support-purchase-link:hover {
+	background-color: #0952A9;
+}

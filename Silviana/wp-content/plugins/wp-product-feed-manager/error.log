@@ -1,0 +1,3 @@
+2018-07-26 22:46:26 - Error Message: PHP Fatal error: Call to undefined method WPSEO_OnPage::register_hooks() in file C:\Inetpub\vhosts\Silviana\htdocs\WP\wp-content\plugins\wordpress-seo\wp-seo-main.php on line 316
+2018-07-26 22:48:26 - Error Message: PHP Fatal error: Call to undefined method WPSEO_OnPage::register_hooks() in file C:\Inetpub\vhosts\Silviana\htdocs\WP\wp-content\plugins\wordpress-seo\wp-seo-main.php on line 316
+2018-07-26 22:49:40 - Error Message: PHP Fatal error: Call to undefined method WPSEO_OnPage::register_hooks() in file C:\Inetpub\vhosts\Silviana\htdocs\WP\wp-content\plugins\wordpress-seo\wp-seo-main.php on line 316

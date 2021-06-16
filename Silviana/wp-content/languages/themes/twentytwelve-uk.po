@@ -1,0 +1,328 @@
+# Translation of Themes - Twenty Twelve in Ukrainian
+# This file is distributed under the same license as the Themes - Twenty Twelve package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2016-12-06 00:15:53+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: GlotPress/2.3.0-alpha\n"
+"Language: uk_UA\n"
+"Project-Id-Version: Themes - Twenty Twelve\n"
+
+#. Description of the plugin/theme
+msgid "The 2012 theme for WordPress is a fully responsive theme that looks great on any device. Features include a front page template with its own widgets, an optional display font, styling for post formats on both index and single views, and an optional no-sidebar page template. Make it yours with a custom menu, header image, and background."
+msgstr "Ця тема для WordPress повністю адаптивна і чудово виглядає на будь-якому пристрої. Її можливості включають шаблон головної сторіки з власними віджетами, необов’язковий шрифт відображення, стилізацію форматів записів як для головної сторінки, так і для одиночного виду, також є шаблон сторінки без бічної колонки. Зробіть її своєю, створивши користувацьке меню, зображення заголовку, та фон."
+
+#. Theme Name of the plugin/theme
+msgid "Twenty Twelve"
+msgstr "Twenty Twelve"
+
+#. Template Name of the plugin/theme
+msgid "Full-width Page Template, No Sidebar"
+msgstr "Шаблон сторінки на всю ширину, без бічної колонки"
+
+#. Template Name of the plugin/theme
+msgid "Front Page Template"
+msgstr "Шаблон головної сторінки"
+
+#: tag.php:21
+msgid "Tag Archives: %s"
+msgstr "Архіви позначок: %s"
+
+#: single.php:22
+msgctxt "Next post link"
+msgid "&rarr;"
+msgstr "&rarr;"
+
+#: single.php:21
+msgctxt "Previous post link"
+msgid "&larr;"
+msgstr "&larr;"
+
+#: search.php:38
+msgid "Sorry, but nothing matched your search criteria. Please try again with some different keywords."
+msgstr "На жаль, нічого не відповідає вашому пошуковому запиту. Будь ласка, спробуйте ще раз, змінивши ключові слова"
+
+#: search.php:18
+msgid "Search Results for: %s"
+msgstr "Пошукові результати для: %s"
+
+#: index.php:42
+msgid "Ready to publish your first post? <a href=\"%s\">Get started here</a>."
+msgstr "Готові оприлюднити свій перший запис? <a href=\"%s\">Починайте тут</a>."
+
+#: index.php:38
+msgid "No posts to display"
+msgstr "Немає записів для показу"
+
+#: image.php:42
+msgid "Next &rarr;"
+msgstr "Наступне &rarr;"
+
+#: image.php:41
+msgid "&larr; Previous"
+msgstr "&larr; Попереднє"
+
+#: image.php:26
+msgid "<span class=\"meta-prep meta-prep-entry-date\">Published </span> <span class=\"entry-date\"><time class=\"entry-date\" datetime=\"%1$s\">%2$s</time></span> at <a href=\"%3$s\" title=\"Link to full-size image\">%4$s &times; %5$s</a> in <a href=\"%6$s\" title=\"Return to %7$s\" rel=\"gallery\">%8$s</a>."
+msgstr "<span class=\"meta-prep meta-prep-entry-date\">Оприлюднено </span> <span class=\"entry-date\"><time class=\"entry-date\" datetime=\"%1$s\">%2$s</time></span> <a href=\"%3$s\" title=\"Посилання на повнорозмірне зображення\">%4$s &times; %5$s</a> у <a href=\"%6$s\" title=\"Повернутися до %7$s\" rel=\"gallery\">%8$s</a>."
+
+#: header.php:44
+msgid "Skip to content"
+msgstr "Перейти до вмісту"
+
+#: header.php:43
+msgid "Menu"
+msgstr "Меню"
+
+#: functions.php:419
+msgid "This entry was posted on %3$s<span class=\"by-author\"> by %4$s</span>."
+msgstr "Цей запис оприлюднено %3$s<span class=\"by-author\"> автором %4$s</span>."
+
+#: functions.php:417
+msgid "This entry was posted in %1$s on %3$s<span class=\"by-author\"> by %4$s</span>."
+msgstr "Цей запис оприлюднено у %1$s о %3$s<span class=\"by-author\"> автором %4$s</span>."
+
+#. Translators: 1 is category, 2 is tag, 3 is the date and 4 is the author's
+#. name.
+#: functions.php:415
+msgid "This entry was posted in %1$s and tagged %2$s on %3$s<span class=\"by-author\"> by %4$s</span>."
+msgstr "Цей запис оприлюднено у %1$s і позначено %2$s о %3$s <span class=\"by-author\"> автором %4$s</span>."
+
+#: functions.php:409
+msgid "View all posts by %s"
+msgstr "Переглянути всі записи автора %s"
+
+#. Translators: used between list items, there is a space after the comma.
+#: functions.php:395 functions.php:398
+msgid ", "
+msgstr ", "
+
+#: functions.php:374
+msgid "Reply"
+msgstr "Відповіcти"
+
+#: functions.php:365
+msgid "Your comment is awaiting moderation."
+msgstr "Ваш коментар очікує одобрення."
+
+#. translators: 1: date, 2: time
+#: functions.php:359
+msgid "%1$s at %2$s"
+msgstr "%1$s о %2$s"
+
+#: functions.php:353
+msgid "Post author"
+msgstr "Автор запису"
+
+#: functions.php:338
+msgid "(Edit)"
+msgstr "(Редагувати)"
+
+#: functions.php:338
+msgid "Pingback:"
+msgstr "Сповіщення:"
+
+#: functions.php:313
+msgid "Newer posts <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Новіші записи <span class=\"meta-nav\">&rarr;</span>"
+
+#: functions.php:312
+msgid "<span class=\"meta-nav\">&larr;</span> Older posts"
+msgstr "<span class=\"meta-nav\">&larr;</span> Старіші записи"
+
+#: functions.php:311 single.php:20
+msgid "Post navigation"
+msgstr "Навігація по запису"
+
+#: functions.php:289
+msgid "Second Front Page Widget Area"
+msgstr "Друга область віджетів головної сторінки"
+
+#: functions.php:281 functions.php:291
+msgid "Appears when using the optional Front Page template with a page set as Static Front Page"
+msgstr "З’являється коли використовується необов’язковий шаблон головної сторінки та встановлена статична головна сторінка"
+
+#: functions.php:279
+msgid "First Front Page Widget Area"
+msgstr "Перша область віджетів головної сторінки"
+
+#: functions.php:271
+msgid "Appears on posts and pages except the optional Front Page template, which has its own widgets"
+msgstr "З’являється на записах і сторінках, крім необов’язкового шаблону головної сторінки, який має свої власні віджети"
+
+#: functions.php:269
+msgid "Main Sidebar"
+msgstr "Основна бічна колонка"
+
+#: functions.php:240
+msgid "Page %s"
+msgstr "Сторінка %s"
+
+#. translators: To add an additional Open Sans character subset specific to
+#. your language, translate this to 'greek', 'cyrillic' or 'vietnamese'. Do not
+#. translate into your own language.
+#: functions.php:110
+msgctxt "Open Sans font: add new subset (greek, cyrillic, vietnamese)"
+msgid "no-subset"
+msgstr "cyrillic"
+
+#. translators: If there are characters in your language that are not supported
+#. by Open Sans, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:104
+msgctxt "Open Sans font: on or off"
+msgid "on"
+msgstr "on"
+
+#: functions.php:64
+msgid "Primary Menu"
+msgstr "Головне меню"
+
+#: footer.php:16
+msgid "Proudly powered by %s"
+msgstr "Сайт працює на %s"
+
+#: footer.php:16
+msgid "Semantic Personal Publishing Platform"
+msgstr "Семантична персональна платформа оприлюднення"
+
+#: content.php:66
+msgid "View all posts by %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Переглянути всі записи %s <span class=\"meta-nav\">&rarr;</span>"
+
+#: content.php:16
+msgid "Featured post"
+msgstr "Вибраний запис"
+
+#: content-page.php:21 content.php:45 image.php:102
+msgid "Pages:"
+msgstr "Сторінки:"
+
+#: content-none.php:17 index.php:53
+msgid "Apologies, but no results were found. Perhaps searching will help find a related post."
+msgstr "На жаль, результатів не знайдено. Можливо пошук допоможе знайти пов’язаний запис."
+
+#: content-none.php:13 index.php:49 search.php:34
+msgid "Nothing Found"
+msgstr "Нічого не знайдено"
+
+#: content-link.php:12
+msgid "Link"
+msgstr "Посилання"
+
+#: content-aside.php:26 content-image.php:26 content-link.php:24
+#: content-page.php:24 content-quote.php:23 content-status.php:40
+#: content.php:51 functions.php:370 image.php:37
+msgid "Edit"
+msgstr "Редагувати"
+
+#: content-aside.php:23 content-image.php:23 content-link.php:21
+#: content-quote.php:20 content-status.php:37 content.php:33
+msgid "% Replies"
+msgstr "Відповідей: %"
+
+#: content-aside.php:23 content-image.php:23 content-link.php:21
+#: content-quote.php:20 content-status.php:37 content.php:33
+msgid "1 Reply"
+msgstr "1 відповідь"
+
+#: content-aside.php:23 content-image.php:23 content-link.php:21
+#: content-quote.php:20 content-status.php:37 content.php:33
+msgid "Leave a reply"
+msgstr "Залишити відповідь"
+
+#: content-aside.php:20 content-link.php:18 content-quote.php:17
+#: content-status.php:15
+msgid "Permalink to %s"
+msgstr "Постійне посилання на %s"
+
+#: content-aside.php:15 content-image.php:13 content-link.php:14
+#: content-quote.php:13 content-status.php:31 content.php:44
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Читати далі <span class=\"meta-nav\">&rarr;</span>"
+
+#: comments.php:53
+msgid "Comments are closed."
+msgstr "Коментарі закриті."
+
+#: comments.php:44
+msgid "Newer Comments &rarr;"
+msgstr "Новіші коментарі &rarr;"
+
+#: comments.php:43
+msgid "&larr; Older Comments"
+msgstr "&larr; Старіші коментарі"
+
+#: comments.php:42
+msgid "Comment navigation"
+msgstr "Навігація по коментарях"
+
+#: comments.php:31
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "%1$s коментар до &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s коментарі до &ldquo;%2$s&rdquo;"
+msgstr[2] "%1$s коментарів до &ldquo;%2$s&rdquo;"
+
+#: category.php:21
+msgid "Category Archives: %s"
+msgstr "Архіви категорій: %s"
+
+#: author.php:63 content.php:62
+msgid "About %s"
+msgstr "Про %s"
+
+#: author.php:32
+msgid "Author Archives: %s"
+msgstr "Архіви авторів: %s"
+
+#: archive.php:35
+msgid "Archives"
+msgstr "Архіви"
+
+#: archive.php:33
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "Y"
+
+#: archive.php:33
+msgid "Yearly Archives: %s"
+msgstr "Річні архіви: %s"
+
+#: archive.php:31
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr "F Y"
+
+#: archive.php:31
+msgid "Monthly Archives: %s"
+msgstr "Місячні архіви: %s"
+
+#: archive.php:29
+msgid "Daily Archives: %s"
+msgstr "Денні архіви: %s"
+
+#: 404.php:21
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Схоже, що не вдалося знайти те, що ви шукаєте. Можливо допоможе пошук."
+
+#: 404.php:17
+msgid "This is somewhat embarrassing, isn&rsquo;t it?"
+msgstr "Це щось неприємне, чи не так?"
+
+#. #-#-#-#-#  twentytwelve.pot (Twenty Twelve 2.2)  #-#-#-#-#
+#. Author URI of the plugin/theme
+#: footer.php:16
+msgid "https://wordpress.org/"
+msgstr "https://uk.wordpress.org/"
+
+#. Author of the plugin/theme
+msgid "the WordPress team"
+msgstr "Команда WordPress"
+
+#. Theme URI of the plugin/theme
+msgid "https://wordpress.org/themes/twentytwelve/"
+msgstr "https://uk.wordpress.org/themes/twentytwelve/"

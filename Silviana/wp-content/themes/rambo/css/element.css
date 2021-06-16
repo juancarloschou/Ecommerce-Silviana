@@ -1,0 +1,175 @@
+/*
+* Author: Rambo Theme
+* Created by: Shahid (Scientech IT)
+* Copyright (c) 2016 Rambo
+* Date: 01 Dec, 2016
+* http://www.webriti.com/demo/wp/rambo
+*/
+
+/*===================================================================================*/
+/*  RSS WIDGET 
+/*===================================================================================*/
+
+.rss-date, .widget_rss cite { display: block; font-size: 15px; line-height: 1.8462; padding: 5px 0; }
+.rss-date { font-weight: 600; }
+.rssSummary { padding: 5px 0 5px; line-height: 25px; }
+
+/*===================================================================================*/
+/*  RECENT COMMENT CSS 
+/*===================================================================================*/
+
+ul#recentcomments li.recentcomments a::before { display: none; }
+ul#recentcomments li.recentcomments span.comment-author-link { font-weight: 700; }
+ul#recentcomments li.recentcomments a { background: transparent; }
+.footer_widget ul#recentcomments li.recentcomments span.comment-author-link { font-weight: 400; }
+.footer_widget .rssSummary, .footer_widget .widget a.rsswidget { color: #cccccc; }
+
+/*===================================================================================*/
+/*  WORDPRESS CORE CLASSES - THEME UNIT DATA CONTENT CSS 
+/*===================================================================================*/
+
+h1, .h1, h2, .h2,
+h3, .h3, h4, .h4,
+h5, .h5, h6, .h6 { font-family: 'Roboto'; font-weight: 400; color: #555555; margin: 0 0 20px; line-height: normal; }
+p { color: #767676; font-family: 'Roboto'; font-size: 15px; font-weight: 400; line-height: 25px; word-wrap: break-word; margin: 0 0 25px; }
+.sticky { }
+cite { font-style: italic !important; }
+.bypostauthor{}
+
+/*===================================================================================*/
+/*  IMAGE ALIGNMENTS AND CAPTIONS CSS 
+/*===================================================================================*/
+
+img.alignnone{ display: block; margin: 0 auto; height: auto; max-width: 100%; }
+#attachment_907 { width: 100% !important; }
+.alignnone img{ display: block; height: auto; }
+img.alignleft, .wp-caption.alignleft{ margin-right: 30px; }
+img.alignright, .wp-caption.alignright{ margin-left: 30px; float: right;}
+img.wp-caption .alignnone { display: block; margin: 0 auto; height: auto; width: 100%; }
+a img.alignright { float: right; }
+a img.alignnone { margin: 5px 20px 20px 0; }
+a img.alignleft { float: left; }
+a img.aligncenter { display: block; margin-left: auto; margin-right: auto;}
+.aligncenter { margin-top: .5em; margin-bottom: .5em; }  
+.alignleft { float: left; margin: .5em 20px .5em 0; }
+.alignright { float: right; margin: .5em 0 .5em 20px; }
+.wp-caption .wp-caption-text, .gallery-caption, .entry-caption { clear: left; font-style: italic; line-height: 1.5em; margin: 0.75em 0; text-align: center; }
+.wp-caption.alignright { margin: 5px 0 20px 20px;}
+.wp-caption p.wp-caption-text { font-family: 'Roboto'; font-size: 14px; margin: 12px 0; text-align: center; font-weight: 400; font-style: italic; line-height: 1.5em; }
+.wp-caption.alignleft { margin: 5px 20px 20px 0;}
+.gallery .gallery-icon img { 
+	height: auto;
+	max-width: 90%;
+	padding: 0;
+	border: 5px solid #fff !important;
+	-moz-box-shadow: 0 0 5px 2px #ccc;
+	-webkit-box-shadow: 0 0 5px 2px #ccc;
+	box-shadow: 0 0 5px 2px #ccc;
+ }
+.gallery-item .gallery-caption { font-size: 14px; margin: 12px 0; text-align: center; font-style: italic; line-height: 1.5em; }
+.wp-caption {
+    -moz-border-bottom-colors: none;
+    -moz-border-left-colors: none;
+    -moz-border-right-colors: none;
+    -moz-border-top-colors: none;
+    background-color: #f8f8f8;
+    border-color: #eee;
+    border-image: initial;
+    border-radius: 3px;
+    border-style: solid;
+    border-width: 1px;
+    margin-bottom: 20px;
+    max-width: 100%;
+    padding-left: 4px;
+    padding-right: 4px;
+    padding-top: 4px;
+    text-align: center;
+}
+.wp-caption > img { max-width: 100%; height: auto; }
+
+/*===================================================================================*/
+/*  UL & OL LISTS CSS 
+/*===================================================================================*/
+
+ul, ol { margin: 0 0 20px; padding: 0 0px 0px 20px; }
+ul li, ol li { font-weight: 400; margin: 0; padding: 6px 0; vertical-align: top; line-height:25px; }
+ul li, ul li a, ol li, ol li a  { border: 0 none; color: #767676; }
+li > ul, li > ol, blockquote > ul, blockquote > ol { margin-left: 1.3333em; }
+
+/*===================================================================================*/
+/*  BLOCKQUOTE CSS 
+/*===================================================================================*/
+
+blockquote { background-color: #f9f9f9; font-family: 'Roboto', Sans-sarif; margin: 0 0 20px; padding: 15px 25px; }
+blockquote, blockquote p { font-size: 16px; font-style: italic; font-weight: 400; line-height: 27px; }
+blockquote cite, blockquote small { color: #979696; font-size: 14px; font-weight: 400; display: block; line-height: 20px; padding-top: 15px; letter-spacing: normal; }
+blockquote em, blockquote i, blockquote cite { font-style: normal; }
+blockquote strong, blockquote b { font-weight: 600; }
+
+/*===================================================================================*/
+/*  ADDRESS CSS 
+/*===================================================================================*/
+
+address { font-style: italic; margin: 0 0 20px; font-weight: 400; letter-spacing: 0.5px; line-height: 27px; }
+
+/*===================================================================================*/
+/*  DEFINITION LISTS CSS 
+/*===================================================================================*/
+
+dl { margin-bottom: 20px; margin-top: 0; }
+dl dt { font-size: 16px; font-weight: 700; margin: 10px 0px 10px; line-height: 25px; }
+dl dd { font-size: 15px; margin-bottom: 20px; margin-left: 0px; line-height: 25px; }
+tla, acronym { text-decoration: underline; cursor: help; }
+acronym { border-bottom: 0 none; }
+big { font-size: large; font-weight: 600; }
+s, strike, del { text-decoration: line-through; }
+em, cite, q { font-style: italic; font-weight: 600; }
+ins { color: #ffffff; text-decoration: none; padding: 0 3px; }
+code, kbd, tt, var, samp, pre {
+    font-family: Inconsolata, monospace;
+    -webkit-hyphens: none;
+    -moz-hyphens: none;
+    -ms-hyphens: none;
+    hyphens: none;
+}
+label { font-size: 15px; }
+/*===================================================================================*/
+/*  PAGE LINKS CSS 
+/*===================================================================================*/
+
+.page-links a {
+	border-radius: 2px;
+    display: inline-block;
+	border: 0 none;
+    font-size: 14px;
+	font-weight: 600;
+    line-height: 20px;
+    margin: 0px 3px 3px;
+    padding: 7px 18px;
+    text-align: center;
+    transition: all 0.4s ease 0s;
+}
+.page-links a:hover { text-decoration: none; }
+
+/*===================================================================================*/
+/*  FORM PASSWORD, INPUT AND LABEL CSS 
+/*===================================================================================*/
+
+.post-password-form label { display: inline-block; font-size: 15px; font-weight: 500; letter-spacing: 0.04em; line-height: 20px; width: 100%; }
+.post-password-form input[type="password"] { height: 20px; padding: 10px; color: #767676; border: 1px solid #e9e9e9; margin: 10px 0; width: 97%; }
+.textwidget form select, select { height: 40px; padding: 10px; color: #767676; border: 1px solid #e9e9e9; border-radius: 0; margin: 0; width: 100%; }
+.post-password-form input[type="submit"], input[type="submit"] { 
+	display: inline-block; 
+	font-size: 15px;	
+	line-height: 20px;
+	border-radius: 0px;
+	margin: 0px;
+	padding: 12px 34px;
+	font-weight: 500;
+	width: auto;
+	text-align: center;
+	color: #ffffff;
+	transition: all 0.4s ease 0s;
+	border: none;	
+}
+input[type="checkbox"], input[type="radio"] { height: auto; width: auto; }

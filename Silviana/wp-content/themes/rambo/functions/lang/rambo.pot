@@ -1,0 +1,1104 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: Rambo\n"
+"POT-Creation-Date: 2017-07-21 16:46+0530\n"
+"PO-Revision-Date: 2017-07-21 16:46+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.1\n"
+"X-Poedit-Basepath: ../..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: style.css\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: 404.php:16 banner-strip.php:33
+msgid "Oops! Page not found"
+msgstr ""
+
+#: 404.php:18
+msgid "We are sorry, but the page you are looking for does not exist."
+msgstr ""
+
+#: archive.php:16
+msgid "Daily Archive"
+msgstr ""
+
+#: archive.php:18
+msgid "Monthly Archive"
+msgstr ""
+
+#: archive.php:20
+msgid "Yearly Archive"
+msgstr ""
+
+#: archive.php:22
+msgid "Blog Archive"
+msgstr ""
+
+#: archive.php:30 author.php:20 banner-strip.php:44 category.php:19
+#: searchform.php:3 searchform.php:4 tag.php:20 woocommerce.php:15
+msgid "Search"
+msgstr ""
+
+#: archive.php:31 author.php:21 banner-strip.php:45 category.php:20 tag.php:21
+#: woocommerce.php:16
+msgid "Go"
+msgstr ""
+
+#: archive.php:66 author.php:55 blog-left-sidebar.php:31 category.php:56
+#: index.php:32 page.php:39 search.php:19 single.php:19 tag.php:55
+msgid "Leave a comment"
+msgstr ""
+
+#: archive.php:67 author.php:56 blog-left-sidebar.php:32 category.php:57
+#: functions/template-tags.php:10 index.php:33 page.php:40 search.php:20
+#: single.php:20 tag.php:56
+msgid "By"
+msgstr ""
+
+#: archive.php:73 author.php:62 blog-left-sidebar.php:38 category.php:63
+#: index.php:39 tag.php:62
+msgid "Tags"
+msgstr ""
+
+#: archive.php:78 author.php:67 blog-left-sidebar.php:34 category.php:68
+#: fullwidth.php:16 index.php:35 page.php:44 single.php:22 tag.php:66
+msgid "Read More"
+msgstr ""
+
+#: author.php:14
+#, php-format
+msgid "Author Archive %s"
+msgstr ""
+
+#: banner-strip.php:29 search.php:7
+#, php-format
+msgid "Search results for %s"
+msgstr ""
+
+#: category.php:35
+msgid "Category Archive"
+msgstr ""
+
+#: comments.php:2
+msgid ""
+"This post is password protected. Enter the password to view any comments."
+msgstr ""
+
+#: comments.php:8
+msgid "Comments"
+msgstr ""
+
+#: comments.php:14 comments.php:25
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:15 comments.php:26
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: comments.php:16 comments.php:27
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: comments.php:31
+msgid "Comments are closed"
+msgstr ""
+
+#: comments.php:35
+#, php-format
+msgid "You must be <a href=\"%s\">logged in</a> to post a comment"
+msgstr ""
+
+#: comments.php:60
+msgid "Logged in as"
+msgstr ""
+
+#: comments.php:60
+msgid "Logout"
+msgstr ""
+
+#: comments.php:62
+msgid "Send Message"
+msgstr ""
+
+#: comments.php:64
+msgid "Leave a Reply"
+msgstr ""
+
+#: footer.php:27
+msgid "Powered By "
+msgstr ""
+
+#: footer.php:27
+msgid "WordPress"
+msgstr ""
+
+#: functions.php:76
+msgid "Page"
+msgstr ""
+
+#: functions.php:112
+msgid "Primary Menu"
+msgstr ""
+
+#: functions.php:135
+msgid ""
+"Click the big blue button to start the dummy data import process.</br></"
+"br>Please be patient while WordPress imports all the content.</br></br>\n"
+"\t\t\t<h3> Recommend Plugins</h3>Rambo theme supports following plugins.</"
+"br> </br><li> <a href=\"https://wordpress.org/plugins/contact-form-7/\"> "
+"Contact form 7</a> </l1> </br> <li> <a href=\"https://wordpress.org/plugins/"
+"woocommerce/\"> WooCommerce </a> </li><li> <a href=\"https://wordpress.org/"
+"plugins/spoontalk-social-media-icons-widget/\"> Spoon talk social media icon "
+"</a></li>"
+msgstr ""
+
+#: functions/commentbox/comment-function.php:14
+msgid "Reply"
+msgstr ""
+
+#: functions/commentbox/comment-function.php:30
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: functions/custom_control/class-dummy-import-control.php:10
+msgid "Import Dummy Data"
+msgstr ""
+
+#: functions/custom_control/class-dummy-import-control.php:13
+#: functions/rambo-info/welcome-screen.php:68
+#, php-format
+msgid ""
+"Save time by importing our demo data and make your site ready in minutes. %s"
+msgstr ""
+
+#: functions/custom_control/class-dummy-import-control.php:13
+#: functions/rambo-info/welcome-screen.php:68
+msgid "Import Demo Data"
+msgstr ""
+
+#: functions/customizer/customizer_copyright.php:8
+msgid "Footer copyright settings"
+msgstr ""
+
+#: functions/customizer/customizer_copyright.php:13
+#: functions/customizer/customizer_copyright.php:27
+msgid "Copyright text"
+msgstr ""
+
+#: functions/customizer/customizer_copyright.php:20 theme_setup_data.php:82
+msgid ""
+"Copyright @ 2014 - RAMBO. Designed by <a href=\"http://webriti.com\" rel="
+"\"nofollow\" target=\"_blank\"> Webriti</a>"
+msgstr ""
+
+#: functions/customizer/customizer_emailcourse.php:5
+msgid "CREATE TRUSTWORTHY WEBSITES"
+msgstr ""
+
+#: functions/customizer/customizer_emailcourse.php:20
+msgid "A website exists for one and ONLY one reason:"
+msgstr ""
+
+#: functions/customizer/customizer_emailcourse.php:21
+msgid "To bring you more business."
+msgstr ""
+
+#: functions/customizer/customizer_emailcourse.php:23
+msgid ""
+"Think of your website as a hardworking salesman who works 24/7 and never "
+"asks for a raise!"
+msgstr ""
+
+#: functions/customizer/customizer_emailcourse.php:25
+msgid ""
+"In this email course I deliver 4 highly actionable tips on how you can build "
+"a website which is trustworthy and which, in turn, brings more business to "
+"you."
+msgstr ""
+
+#: functions/customizer/customizer_emailcourse.php:29
+msgid "JOIN COURSE"
+msgstr ""
+
+#: functions/customizer/customizer_header.php:8
+msgid "Header settings"
+msgstr ""
+
+#: functions/customizer/customizer_header.php:16
+#: functions/customizer/customizer_header.php:25
+#: functions/customizer/customizer_header.php:39
+msgid "Custom CSS"
+msgstr ""
+
+#: functions/customizer/customizer_help.php:12
+msgid "DOWNLOAD IMPORT FILE"
+msgstr ""
+
+#: functions/customizer/customizer_help.php:19
+msgid "HELP"
+msgstr ""
+
+#: functions/customizer/customizer_help.php:44
+msgid "VIDEO SETUP GUIDE"
+msgstr ""
+
+#: functions/customizer/customizer_help.php:73
+msgid "THEME SUPPORT"
+msgstr ""
+
+#: functions/customizer/customizer_pro.php:13
+#: functions/customizer/customizer_pro.php:20
+msgid "UPGRADE  TO PRO"
+msgstr ""
+
+#: functions/customizer/customizer_pro.php:46
+msgid "ADD YOUR REVIEW"
+msgstr ""
+
+#: functions/customizer/customizer_pro.php:75
+msgid "PRO DOCUMENTATION"
+msgstr ""
+
+#: functions/customizer/customizer_pro.php:79
+msgid ""
+"The Pro Version gives you more opportunities to enhance your site and "
+"business. In order to create effective online presence one have to showcase "
+"their wide range of products, have to use contact us enquiry form, have to "
+"make effective about us page, have to introduce team members, etc etc . The "
+"pro version will give it all. Buy the pro version and give us a chance to "
+"serve you better. "
+msgstr ""
+
+#: functions/customizer/customizer_project.php:8
+msgid "Project section"
+msgstr ""
+
+#: functions/customizer/customizer_project.php:15
+#: functions/customizer/customizer_recent_news.php:14
+#: functions/customizer/customizer_service_panel.php:16
+#: functions/customizer/customizer_site_intro.php:12
+#: functions/customizer/customizer_slider_panel.php:24
+msgid "Settings"
+msgstr ""
+
+#: functions/customizer/customizer_project.php:29
+msgid "Hide project section"
+msgstr ""
+
+#: functions/customizer/customizer_project.php:43
+#: functions/customizer/customizer_service_panel.php:44
+#: functions/customizer/customizer_site_intro.php:26
+msgid "Select column layout"
+msgstr ""
+
+#: functions/customizer/customizer_project.php:51
+#: functions/customizer/customizer_service_panel.php:51
+msgid "Section Header"
+msgstr ""
+
+#: functions/customizer/customizer_project.php:68
+#: functions/customizer/customizer_service_panel.php:66
+#: functions/widget/rambo-recent-news-widget.php:86
+#: functions/widget/rambo-sidebar-latest-news.php:74
+msgid "Title"
+msgstr ""
+
+#: functions/customizer/customizer_project.php:84
+#: functions/customizer/customizer_service_panel.php:80
+#: functions/widget/rambo-site-intro-widget.php:74
+msgid "Description"
+msgstr ""
+
+#: functions/customizer/customizer_recent_news.php:7
+msgid "News section"
+msgstr ""
+
+#: functions/customizer/customizer_recent_news.php:28
+msgid "Hide news section"
+msgstr ""
+
+#: functions/customizer/customizer_recent_news.php:47
+msgid "Show slider post in latest news"
+msgstr ""
+
+#: functions/customizer/customizer_service_panel.php:9
+msgid "Service section"
+msgstr ""
+
+#: functions/customizer/customizer_service_panel.php:30
+msgid "Hide service section"
+msgstr ""
+
+#: functions/customizer/customizer_site_intro.php:5
+msgid "Call to action top"
+msgstr ""
+
+#: functions/customizer/customizer_slider_panel.php:7
+msgid "Choose Post"
+msgstr ""
+
+#: functions/customizer/customizer_slider_panel.php:18
+msgid "Slider section"
+msgstr ""
+
+#: functions/customizer/customizer_slider_panel.php:43
+msgid "Enable home slider"
+msgstr ""
+
+#: functions/customizer/customizer_slider_panel.php:46
+msgid "Enable slider on front page."
+msgstr ""
+
+#: functions/customizer/customizer_slider_panel.php:57
+msgid "Select post"
+msgstr ""
+
+#: functions/menu/default_menu_walker.php:23
+msgid "Home"
+msgstr ""
+
+#: functions/rambo-info/sections/actions-required.php:13
+msgid "1. Set your Homepage as Front Page."
+msgstr ""
+
+#: functions/rambo-info/sections/actions-required.php:14
+msgid ""
+"To setup exact replica of homepage as shown in our demo, We are providing "
+"setting to display your homepage as front page\". Homepage shows all the "
+"section like banner, services, portfolio, Latest News, 3 Column Footer etc "
+"which is ideal for any business site. Kindly refer the snapshot."
+msgstr ""
+
+#: functions/rambo-info/sections/actions-required.php:23
+#: functions/rambo-info/sections/getting-started.php:31
+msgid "rambo Blue Child Theme"
+msgstr ""
+
+#: functions/rambo-info/sections/child-themes.php:16
+msgid "Install & Use Rambo Child Themes"
+msgstr ""
+
+#: functions/rambo-info/sections/child-themes.php:18
+msgid ""
+"Below you will find a selection of Rambo child themes that will totally "
+"transform the look of your site."
+msgstr ""
+
+#: functions/rambo-info/sections/child-themes.php:27
+msgid "Redify Child Theme"
+msgstr ""
+
+#: functions/rambo-info/sections/child-themes.php:29
+#: functions/rambo-info/sections/child-themes.php:35
+msgid "Redify"
+msgstr ""
+
+#: functions/rambo-info/sections/child-themes.php:37
+#: functions/rambo-info/sections/child-themes.php:69
+#: functions/rambo-info/sections/child-themes.php:101
+#: functions/rambo-info/sections/child-themes.php:134
+#, php-format
+msgid "Install %s now"
+msgstr ""
+
+#: functions/rambo-info/sections/child-themes.php:38
+#: functions/rambo-info/sections/child-themes.php:70
+#: functions/rambo-info/sections/child-themes.php:102
+#: functions/rambo-info/sections/child-themes.php:135
+msgid "Live Preview"
+msgstr ""
+
+#: functions/rambo-info/sections/child-themes.php:44
+msgid "redify - Current theme"
+msgstr ""
+
+#: functions/rambo-info/sections/child-themes.php:45
+#: functions/rambo-info/sections/child-themes.php:77
+#: functions/rambo-info/sections/child-themes.php:109
+#: functions/rambo-info/sections/child-themes.php:142
+msgid "Customize"
+msgstr ""
+
+#: functions/rambo-info/sections/child-themes.php:59
+msgid "Mambo Child Theme"
+msgstr ""
+
+#: functions/rambo-info/sections/child-themes.php:61
+#: functions/rambo-info/sections/child-themes.php:67
+msgid "Mambo"
+msgstr ""
+
+#: functions/rambo-info/sections/child-themes.php:76
+msgid "mambo - Current theme"
+msgstr ""
+
+#: functions/rambo-info/sections/child-themes.php:91
+msgid "Spicy Child Theme"
+msgstr ""
+
+#: functions/rambo-info/sections/child-themes.php:93
+#: functions/rambo-info/sections/child-themes.php:99
+msgid "Spicy"
+msgstr ""
+
+#: functions/rambo-info/sections/child-themes.php:108
+msgid "spicy - Current theme"
+msgstr ""
+
+#: functions/rambo-info/sections/child-themes.php:124
+#: functions/rambo-info/sections/child-themes.php:126
+#: functions/rambo-info/sections/child-themes.php:132
+msgid "WorkPress"
+msgstr ""
+
+#: functions/rambo-info/sections/child-themes.php:141
+msgid "workPress - Current theme"
+msgstr ""
+
+#: functions/rambo-info/sections/free_pro.php:14
+msgid "Features"
+msgstr ""
+
+#: functions/rambo-info/sections/free_pro.php:19
+msgid "Frontpage Sections"
+msgstr ""
+
+#: functions/rambo-info/sections/free_pro.php:20
+msgid "You will find number of sections on front-page"
+msgstr ""
+
+#: functions/rambo-info/sections/free_pro.php:24
+msgid "Page Templates Support"
+msgstr ""
+
+#: functions/rambo-info/sections/free_pro.php:25
+msgid "Various Page Template included in rambo Premium Theme."
+msgstr ""
+
+#: functions/rambo-info/sections/free_pro.php:30
+msgid "No of Section on Homepage"
+msgstr ""
+
+#: functions/rambo-info/sections/free_pro.php:31
+msgid "Theme have many sidebar on Front page."
+msgstr ""
+
+#: functions/rambo-info/sections/free_pro.php:36
+#: functions/rambo-info/sections/upgrade.php:116
+msgid "Jetpack Gallery Support"
+msgstr ""
+
+#: functions/rambo-info/sections/free_pro.php:37
+msgid "Create Awesome Gallery with Overlay"
+msgstr ""
+
+#: functions/rambo-info/sections/free_pro.php:41
+msgid "Mobile Friendly"
+msgstr ""
+
+#: functions/rambo-info/sections/free_pro.php:42
+msgid "Responsive  layout in all devices."
+msgstr ""
+
+#: functions/rambo-info/sections/free_pro.php:46
+msgid "Portfolio"
+msgstr ""
+
+#: functions/rambo-info/sections/free_pro.php:47
+msgid ""
+"Create Categorized Portfolio by using portfolio 2,3,4 column templates. Also "
+"show Diffrent set of portfolio on diffrent page. "
+msgstr ""
+
+#: functions/rambo-info/sections/free_pro.php:51
+msgid "Contact Form Support"
+msgstr ""
+
+#: functions/rambo-info/sections/free_pro.php:52
+msgid ""
+"Default WordPress Contact Form and Contact Form 7 support. Add the forms "
+"using predefined Contact Page Templates"
+msgstr ""
+
+#: functions/rambo-info/sections/free_pro.php:56
+#: functions/rambo-info/sections/upgrade.php:16
+msgid "SEO Friendly URL"
+msgstr ""
+
+#: functions/rambo-info/sections/free_pro.php:57
+msgid ""
+"This feature allow you to change custom post type slug names in the url."
+msgstr ""
+
+#: functions/rambo-info/sections/free_pro.php:61
+#: functions/rambo-info/sections/upgrade.php:87
+msgid "Mulitple Color Schemes"
+msgstr ""
+
+#: functions/rambo-info/sections/free_pro.php:62
+msgid ""
+"Enjoy with 5 preset color schemes. You can also create custom skin without "
+"adding any code."
+msgstr ""
+
+#: functions/rambo-info/sections/free_pro.php:66
+msgid "Google Map"
+msgstr ""
+
+#: functions/rambo-info/sections/free_pro.php:67
+msgid ""
+"Display your Shop and Business location on your website. Support for all the "
+"Google Map plugins which generates shortcode.  "
+msgstr ""
+
+#: functions/rambo-info/sections/free_pro.php:72
+msgid "WPML Support"
+msgstr ""
+
+#: functions/rambo-info/sections/free_pro.php:73
+msgid ""
+"Create Multilingual Website. Support for famous plugin like: WPML / Polylang "
+msgstr ""
+
+#: functions/rambo-info/sections/free_pro.php:77
+msgid "Access to Dummy Data File"
+msgstr ""
+
+#: functions/rambo-info/sections/free_pro.php:78
+msgid "Create exact replica of our demo site by importing the dummy data file."
+msgstr ""
+
+#: functions/rambo-info/sections/free_pro.php:82
+msgid "Support Forum"
+msgstr ""
+
+#: functions/rambo-info/sections/free_pro.php:83
+msgid "Get instant 24x7 support on Our Support Forum."
+msgstr ""
+
+#: functions/rambo-info/sections/free_pro.php:94
+msgid "Rambo Lite"
+msgstr ""
+
+#: functions/rambo-info/sections/free_pro.php:98
+msgid ""
+"Banner Image, No of 4 Services, No of 4 Projects, Latest News, 3 Column "
+"Footer Widgetizeds area"
+msgstr ""
+
+#: functions/rambo-info/sections/free_pro.php:99
+msgid "Blog Left Sidebar, Full Width Template"
+msgstr ""
+
+#: functions/rambo-info/sections/free_pro.php:102
+msgid "Simple Thumbnail Gallery"
+msgstr ""
+
+#: functions/rambo-info/sections/free_pro.php:112
+msgid "On WordPress.org Support Forum"
+msgstr ""
+
+#: functions/rambo-info/sections/free_pro.php:124
+msgid "Rambo Pro"
+msgstr ""
+
+#: functions/rambo-info/sections/free_pro.php:128
+msgid ""
+"Slider [Unlimited Slides], Site Intro, Service [Unlimited Services], "
+"Projects [Unlimited Products], Latest News, Footer Callout and 3 Column "
+"Footer Widgetizeds area"
+msgstr ""
+
+#: functions/rambo-info/sections/free_pro.php:129
+msgid ""
+"Custom Homepage, About Us, Service, Portfolio 2,3 and 4 column, Blog Left & "
+"Right Sidebar, Blog Full Width, Page Left & Right Sidebar, Page Left "
+"Sidebar, Page Right Sidebar, Page Full Width and Contact Page"
+msgstr ""
+
+#: functions/rambo-info/sections/free_pro.php:132
+msgid "Overlay Effects Gallery"
+msgstr ""
+
+#: functions/rambo-info/sections/free_pro.php:142
+msgid "Premium Support Forum"
+msgstr ""
+
+#: functions/rambo-info/sections/free_pro.php:153
+msgid "Get rambo PRO Now!"
+msgstr ""
+
+#: functions/rambo-info/sections/getting-started.php:14
+msgid "About Rambo Theme"
+msgstr ""
+
+#: functions/rambo-info/sections/getting-started.php:20
+msgid ""
+"Rambo is an ideal WordPress theme for those who wish to create an impressive "
+"web presence. Rambo is easy to use, provides everything you need to create "
+"great looking website. It is professional, smooth and sleek, with a clean "
+"modern layout, for almost any business types: agency, freelance, blog, "
+"startup, portfolio, corporate, firms, law firms, digital media agency , "
+"architecture firms, real estate firms, food , fashion etc etc. The theme is "
+"developed using Bootstrap 3 CSS framework that makes it friendly for all the "
+"modern devices like mobiles, tablets, laptops etc."
+msgstr ""
+
+#: functions/rambo-info/sections/getting-started.php:22
+msgid ""
+"In Rambo Lite, you can easily set Featured Banner, Services, Portfolio and 4 "
+"column widgetized footer. Page templates like Homepage, Full Width Page and "
+"Blog left sidebar template will be there."
+msgstr ""
+
+#: functions/rambo-info/sections/getting-started.php:25
+msgid ""
+"In the premium version, you will get caption Slider, Site Intro, unlimited "
+"Services, unlimited Projects, Latest News, Footer Callout, Wide & Boxed "
+"Layout, 5 predefined color schemes, feature for creating custom color scheme "
+"and Layout Manager. Page templates like About Us, Services, Portfolio, "
+"Contact Us etc are there. The theme supports popular plugins like WPML, "
+"Polylang, Contact Form 7, WP Google Maps and JetPack Gallery Extensions. "
+"Just navigate to Appearance > Customize to start customizing. Both the lite "
+"and premium version of Rambo themes are completely translated in Spanish "
+"Language."
+msgstr ""
+
+#: functions/rambo-info/sections/getting-started.php:41
+msgid "Useful Links"
+msgstr ""
+
+#: functions/rambo-info/sections/getting-started.php:49
+msgid "Lite Demo"
+msgstr ""
+
+#: functions/rambo-info/sections/getting-started.php:53
+msgid "View Pro"
+msgstr ""
+
+#: functions/rambo-info/sections/getting-started.php:56
+msgid "Premium Theme Support"
+msgstr ""
+
+#: functions/rambo-info/sections/getting-started.php:65
+msgid "Rate This Theme"
+msgstr ""
+
+#: functions/rambo-info/sections/getting-started.php:68
+msgid "Support"
+msgstr ""
+
+#: functions/rambo-info/sections/import-data.php:11
+msgid "Install Now"
+msgstr ""
+
+#: functions/rambo-info/sections/import-data.php:34
+msgid "Active Now"
+msgstr ""
+
+#: functions/rambo-info/sections/import-data.php:50
+msgid "Importing Dummy Content"
+msgstr ""
+
+#: functions/rambo-info/sections/import-data.php:51
+msgid ""
+"<p><strong>One Click Demo Import</strong> is the WordPress Plugin which "
+"helps in creating the exact replica of our demo site. Just click the button "
+"to proceed further.</p>"
+msgstr ""
+
+#: functions/rambo-info/sections/import-data.php:52
+msgid "Key Notes:"
+msgstr ""
+
+#: functions/rambo-info/sections/import-data.php:54
+msgid "Click the button to install the plugin. Ignore if already installed."
+msgstr ""
+
+#: functions/rambo-info/sections/import-data.php:55
+msgid ""
+"Activate the plugin so that they can read the dummy data files from the "
+"theme folder and import the content for you."
+msgstr ""
+
+#: functions/rambo-info/sections/import-data.php:56
+msgid "After activation go to Appreance >> Import Demo Data."
+msgstr ""
+
+#: functions/rambo-info/sections/upgrade.php:11
+#: functions/rambo-info/welcome-screen.php:229
+msgid "Why Upgrade Pro"
+msgstr ""
+
+#: functions/rambo-info/sections/upgrade.php:17
+msgid ""
+"This feature helps you to rename the slug names from the URL allowing you to "
+"make it SEO friendly."
+msgstr ""
+
+#: functions/rambo-info/sections/upgrade.php:24
+msgid "Testimonial Feature"
+msgstr ""
+
+#: functions/rambo-info/sections/upgrade.php:25
+msgid ""
+"Testimonials are a powerful way to gain credibility. You can display "
+"testimonial with carousel effect. You can display testimonial on About page "
+"template."
+msgstr ""
+
+#: functions/rambo-info/sections/upgrade.php:33
+msgid "Multi Level Navigation"
+msgstr ""
+
+#: functions/rambo-info/sections/upgrade.php:34
+msgid ""
+"Beautifully style navigation/menu in rambo Theme. You can make multi level "
+"menu. Multi Level menu means that you can create sub menu."
+msgstr ""
+
+#: functions/rambo-info/sections/upgrade.php:42
+msgid "Front Page Settings"
+msgstr ""
+
+#: functions/rambo-info/sections/upgrade.php:43
+msgid ""
+"Rambo Premium theme comes with Homepage Settings. You can easily display "
+"Homepage on front."
+msgstr ""
+
+#: functions/rambo-info/sections/upgrade.php:51
+msgid "Service Features"
+msgstr ""
+
+#: functions/rambo-info/sections/upgrade.php:52
+msgid ""
+"HomePage Service section is created via Service Menu is situated in "
+"WordPress Menu on the left side. You can display unlimited services, you "
+"want having support for thousands of Font Awesome Icons, custom icons and "
+"service description and service link. Display your all services on a page "
+"using Service Page Template"
+msgstr ""
+
+#: functions/rambo-info/sections/upgrade.php:60
+msgid "Portfolio Features"
+msgstr ""
+
+#: functions/rambo-info/sections/upgrade.php:61
+msgid ""
+"Showcase any number of projects in the portfolio. Theme will provide you an "
+"option for creating 2,3,4 cloumn grid layout by using portfolio 2,3,4 column "
+"layout templates respectively. If you have number of projects to show than "
+"these templates will be the answer. You can also create categorised "
+"portfolio, which displays all the portfolio categories on single place. In "
+"fact we have coded in such a manner so that you can create any number of "
+"different set of portfolios."
+msgstr ""
+
+#: functions/rambo-info/sections/upgrade.php:69
+msgid "Latest News Section"
+msgstr ""
+
+#: functions/rambo-info/sections/upgrade.php:70
+msgid ""
+"Commonly this section is used to display  Latest News, Announcement and "
+"Events type of content. Since this section is created via News Sidebar you "
+"can easily use other WordPress widgets. Powerful styling of all the sidebar "
+"areas on HomePage makes this theme very flexible. "
+msgstr ""
+
+#: functions/rambo-info/sections/upgrade.php:77
+msgid "Team Feature"
+msgstr ""
+
+#: functions/rambo-info/sections/upgrade.php:78
+msgid ""
+"Team features are a powerful way to display your team member with carousel "
+"slider. Use the rambo: Team Widget for showing team member."
+msgstr ""
+
+#: functions/rambo-info/sections/upgrade.php:88
+msgid ""
+"You will get 5 predefined color skins and you can even make yours favorite "
+"color schemes using Custom Color Setting in the Customizer."
+msgstr ""
+
+#: functions/rambo-info/sections/upgrade.php:96
+msgid "Well Documented"
+msgstr ""
+
+#: functions/rambo-info/sections/upgrade.php:97
+msgid ""
+"We provide good  knowledge base articles which helps you to create an "
+"effective wesbite. You can visit these articles on our  "
+msgstr ""
+
+#: functions/rambo-info/sections/upgrade.php:98
+msgid "Help Section"
+msgstr ""
+
+#: functions/rambo-info/sections/upgrade.php:106
+msgid "Custom widget "
+msgstr ""
+
+#: functions/rambo-info/sections/upgrade.php:107
+msgid ""
+"Building website with our custom widgets is very simple. Just place them in "
+"inside the available Sidebar or even in the content"
+msgstr ""
+
+#: functions/rambo-info/sections/upgrade.php:117
+msgid ""
+"The native WordPress image gallery displays as a grid of image thumbnails. "
+"If you want to show overlay effects on the gallery images? You need to "
+"install"
+msgstr ""
+
+#: functions/rambo-info/sections/upgrade.php:117
+msgid "Jetpack plugin,"
+msgstr ""
+
+#: functions/rambo-info/sections/upgrade.php:117
+msgid ""
+"Using Jetpack you can create four types of gallery style like Tiled Mosaic, "
+"Square Tiles, Circles and Tiled Columns. See gallery look on rambo theme "
+"demo."
+msgstr ""
+
+#: functions/rambo-info/sections/upgrade.php:117
+msgid "Click Here"
+msgstr ""
+
+#: functions/rambo-info/sections/upgrade.php:127
+msgid "Translation Ready"
+msgstr ""
+
+#: functions/rambo-info/sections/upgrade.php:128
+msgid ""
+"Theme supports  yet another famous plugin WPML / Polylang. With the help of "
+"this support you can create website in multiple languages."
+msgstr ""
+
+#: functions/rambo-info/welcome-screen.php:60
+#, php-format
+msgid ""
+"Welcome! Thank you for choosing Rambo Theme! To fully take advantage of the "
+"best our theme can offer please make sure you visit our %swelcome page%s."
+msgstr ""
+
+#: functions/rambo-info/welcome-screen.php:76
+#, php-format
+msgid ""
+"Walkthrough our step by step video series for setting front page sections. "
+"%sClick here to watch%s"
+msgstr ""
+
+#: functions/rambo-info/welcome-screen.php:120
+msgid "Hooray! There are no required actions for you right now."
+msgstr ""
+
+#: functions/rambo-info/welcome-screen.php:157
+msgid "View Theme Info"
+msgstr ""
+
+#: functions/rambo-info/welcome-screen.php:227
+msgid "Getting Started"
+msgstr ""
+
+#: functions/rambo-info/welcome-screen.php:228
+msgid "Actions Required"
+msgstr ""
+
+#: functions/rambo-info/welcome-screen.php:230
+msgid "Free VS PRO"
+msgstr ""
+
+#: functions/rambo-info/welcome-screen.php:231
+msgid "Child Themes"
+msgstr ""
+
+#: functions/rambo-info/welcome-screen.php:232
+msgid "One Click Demo Import"
+msgstr ""
+
+#: functions/template-tags.php:9
+msgid "leave a comment"
+msgstr ""
+
+#: functions/widget/custom-sidebar.php:12
+#: functions/widget/custom-sidebar.php:14
+msgid "Sidebar widget area"
+msgstr ""
+
+#: functions/widget/custom-sidebar.php:24
+#: functions/widget/custom-sidebar.php:26
+msgid "Call to action top widget area"
+msgstr ""
+
+#: functions/widget/custom-sidebar.php:35
+msgid "Homepage service section - sidebar"
+msgstr ""
+
+#: functions/widget/custom-sidebar.php:37
+msgid "Use the widget Page/Service Widget to add service type content"
+msgstr ""
+
+#: functions/widget/custom-sidebar.php:47
+msgid "Homepage project section - sidebar"
+msgstr ""
+
+#: functions/widget/custom-sidebar.php:49
+msgid "Use the Project Widget to add project type content"
+msgstr ""
+
+#: functions/widget/custom-sidebar.php:58
+msgid "Homepage news section - sidebar"
+msgstr ""
+
+#: functions/widget/custom-sidebar.php:60
+msgid "Use the News Widget to add News type content"
+msgstr ""
+
+#: functions/widget/custom-sidebar.php:68
+#: functions/widget/custom-sidebar.php:70
+msgid "Woocommerce sidebar widget area"
+msgstr ""
+
+#: functions/widget/custom-sidebar.php:80
+#: functions/widget/custom-sidebar.php:82
+msgid "Footer widget area"
+msgstr ""
+
+#: functions/widget/custom-sidebar.php:91
+#: functions/widget/custom-sidebar.php:93
+msgid "Footer social icon sidebar area"
+msgstr ""
+
+#: functions/widget/rambo-recent-news-widget.php:17
+msgid "WBR : Recent News Widget"
+msgstr ""
+
+#: functions/widget/rambo-recent-news-widget.php:18
+msgid "Recent News widget"
+msgstr ""
+
+#: functions/widget/rambo-recent-news-widget.php:91
+msgid "Number of post to show"
+msgstr ""
+
+#: functions/widget/rambo-register-page-widget.php:17
+msgid "WBR : Page Widget"
+msgstr ""
+
+#: functions/widget/rambo-register-page-widget.php:18
+msgid "Feature Page item widget"
+msgstr ""
+
+#: functions/widget/rambo-register-page-widget.php:111
+msgid "Select Pages"
+msgstr ""
+
+#: functions/widget/rambo-register-page-widget.php:113
+msgid "Select"
+msgstr ""
+
+#: functions/widget/rambo-register-page-widget.php:132
+msgid "Hide featured image"
+msgstr ""
+
+#: functions/widget/rambo-register-page-widget.php:136
+msgid "Display image above title"
+msgstr ""
+
+#: functions/widget/rambo-sidebar-latest-news.php:16
+msgid "WBR : Sidebar Latest News"
+msgstr ""
+
+#: functions/widget/rambo-sidebar-latest-news.php:17
+msgid "The Recent post display on your site"
+msgstr ""
+
+#: functions/widget/rambo-sidebar-latest-news.php:69
+msgid "Latest News"
+msgstr ""
+
+#: functions/widget/rambo-sidebar-latest-news.php:78
+msgid "Number of pages to show"
+msgstr ""
+
+#: functions/widget/rambo-site-intro-widget.php:15
+msgid "WBR : Call To Action Top"
+msgstr ""
+
+#: functions/widget/rambo-site-intro-widget.php:16
+msgid "Display the Site Intro Section."
+msgstr ""
+
+#: functions/widget/rambo-site-intro-widget.php:77
+msgid "Button Text"
+msgstr ""
+
+#: functions/widget/rambo-site-intro-widget.php:80
+msgid "Button Link"
+msgstr ""
+
+#: functions/widget/rambo-site-intro-widget.php:86
+msgid "Open link in new tab"
+msgstr ""
+
+#: header.php:52
+msgid "R<small>ambo</small>"
+msgstr ""
+
+#: index-banner.php:47
+msgid "Theme Feature Goes Here !"
+msgstr ""
+
+#: index-banner.php:48
+msgid ""
+"This is Dummy Text. This is Dummy Text. This is Dummy Text.  I repeat.. This "
+"is Dummy Text."
+msgstr ""
+
+#: search.php:26
+msgid "Nothing Found"
+msgstr ""
+
+#: search.php:28
+msgid ""
+"Sorry, but nothing matched your search criteria. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: tag.php:14
+#, php-format
+msgid "Tag Archive %s"
+msgstr ""
+
+#. Theme Name of the plugin/theme
+msgid "Rambo"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+msgid "http://webriti.com/rambo-lite-version-details-page/"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Webriti"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://webriti.com/"
+msgstr ""

@@ -1,0 +1,408 @@
+/*
+Theme Name: Nirvana
+*/
+
+
+/*
+RTL Basics
+*/
+
+body {
+	direction: rtl;
+	unicode-bidi: embed;
+}
+
+
+/* =Structure
+-------------------------------------------------------------- */
+
+
+/* =Global Elements
+-------------------------------------------------------------- */
+
+/* Text elements */
+ul,
+ol {
+	margin-left: 0;
+	margin-right: 1.5em;
+}
+
+#calendar_wrap {
+    margin-right: 10px;
+}
+
+
+/* Text meant only for screen readers */
+.screen-reader-text {
+	left: auto;
+	right: -9000px;
+	overflow: hidden;
+}
+
+
+/* =Header
+-------------------------------------------------------------- */
+
+#site-title {
+	float: right;
+}
+
+#site-description {
+	clear: both;
+	float: right;
+}
+
+/* =Menu
+-------------------------------------------------------------- */
+
+.nirvana-menu-left #access > .menu > ul {
+	float: left;
+}
+
+#access ul li {
+    float: right;
+}
+
+#access .menu-header,
+	div.menu {
+}
+#access .menu-header li,
+	div.menu li{
+}
+
+#access ul ul {
+	right: 0;
+	margin-right: 0;
+}
+
+#access > .menu > ul > li > ul:before {
+	left: inherit;
+	right: 10px;
+}
+
+#access ul ul ul {
+	left: inherit;
+	right: 100%
+}
+
+#access > .menu > ul > li > a:not(:only-child) span:after {
+	right: inherit;
+	left: 9px;
+}
+
+#access > .menu > ul > li > a:not(:only-child) span {
+	padding-right: 18px;
+	padding-left: 24px;
+}
+
+#access > .menu .menu-item > ul li > a:not(:only-child) span:after {
+    left: 9px;
+    right: initial;
+    transform: rotate(90deg);
+}
+
+#access > .menu .menu-item > ul ul > li:hover > a:not(:only-child) span:after {
+    right: initial;
+	left: -20px;
+}
+
+.nirvana-menu-center #access > .menu > ul > li > a > span {
+	text-align: right;
+}
+
+
+/* =Content
+-------------------------------------------------------------- */
+
+#content table {
+	text-align: right;
+}
+
+#content .format-status .entry-meta2 {
+	clear: left;
+	float: right;
+	margin-right: 0;
+	padding-right: 0;
+}
+
+.status_content {
+	float:right;
+}
+
+.entry-meta span,
+.entry-meta2 span{
+	float: right;
+	padding-left: 15px;
+	margin-right: 0;
+}
+
+span.edit-link,
+.comments-link  {
+	float: left;
+	margin-left: 0;
+	margin-right: 10px;
+}
+
+#content span.entry-format {
+	float: right;
+}
+
+.crycon-metas:before {
+	margin-right: 0;
+	margin-left: 5px;
+}
+
+.crycon-right-dir:before {
+	content: '\e811';
+}
+
+.comments-link {
+	float: left;
+}
+
+.format-status .avatar {
+	float: right;
+}
+
+#content h3.entry-format {
+	float: right;
+}
+
+#content .format-status h3.entry-format {
+	margin-left: 10px;
+}
+
+.entry-content input.file,
+.entry-content input.button {
+	margin-left: 24px;
+	margin-right: 0;
+}
+
+.entry-content blockquote.left {
+	float: right;
+	margin-right: 0;
+	margin-left: 24px;
+	text-align: left;
+}
+
+.entry-content blockquote.right {
+	float: left;
+	margin-right: 24px;
+	margin-left: 0;
+	text-align: right;
+}
+
+#entry-author-info #author-avatar {
+	float: right;
+	margin: 0 0 0 -104px;
+}
+
+#entry-author-info #author-description {
+	float: right;
+	margin: 0 104px 0 0;
+}
+
+.pagination span,
+.pagination a {
+	float: right;
+}
+
+#commentform {
+	float: right;
+}
+
+#respond .required {
+	float: right;
+}
+
+#respond .comment-notes {
+	float: right;
+	text-align: right;
+}
+
+/* Gallery listing
+-------------------------------------------------------------- */
+.category-gallery .gallery-thumb {
+	float: right;
+ 	margin-left: 20px;
+	margin-right: 0;
+}
+
+
+/* Images
+-------------------------------------------------------------- */
+#content .gallery .gallery-caption {
+	margin-right: 0;
+}
+
+#content .gallery .gallery-item {
+	float: right;
+}
+
+#content .entry-title {
+	float:none;
+}
+
+/* =Navigation
+-------------------------------------------------------------- */
+.nav-previous {
+	text-align:left;
+}
+.nav-next {
+}
+
+/* =Comments
+-------------------------------------------------------------- */
+
+.commentlist .avatar {
+	right: 0;
+	left: auto;
+}
+.comment-author .says,
+#comments .pingback .url  {
+	font-style: normal;
+}
+
+/* Comments form */
+.children #respond {
+	margin: 0 0 0 48px;
+}
+
+/* =Widget Areas
+-------------------------------------------------------------- */
+
+.widget-title {
+	text-align:right;
+	padding-left: 0;
+	padding-right: 20px;
+}
+
+.widget-area ul {
+	margin-right: 0;
+}
+
+.widget-area ul ul {
+	margin-right: 1.3em;
+	margin-left: 0;
+}
+
+#wp-calendar caption {
+	text-align: right;
+}
+
+#wp-calendar tfoot #next {
+	text-align: left;
+}
+
+/* Main sidebars */
+#main .widget-area ul {
+	margin-right: 0;
+	padding: 0 0 0 20px;
+}
+#main .widget-area ul ul {
+	margin-right: 1.3em;
+	margin-left: 0;
+}
+
+/* =Footer
+-------------------------------------------------------------- */
+#site-generator {
+	font-style: normal;
+}
+
+#site-generator a {
+	background-position: right center;
+	padding-right: 20px;
+	padding-left: 0;
+}
+
+/* =Magazine Layout
+-------------------------------------------------------------- */
+.magazine-layout #content article.post,
+.magazine-layout.search #content article {
+    float: right;
+    margin-right: 0;
+}
+.magazine-layout #content article:nth-of-type(2n+1) {
+    margin-left: 4%;
+}
+
+#header-container > div#sheader {
+	left: 0;
+	right: auto;
+}
+
+.theme-default .nivo-controlNav:before,
+.theme-default .nivo-controlNav:after {
+	display: block;
+}
+
+.columnmore {
+	float: left;
+	left: -10px;
+	right: auto;
+}
+
+.reply a {
+	text-align:left;
+}
+
+.commentlist .avatar {
+	float: right;
+}
+
+.avatar-container {
+	float: right;
+}
+
+.crycon-replies {
+	float: right;
+}
+
+.commentlist .children {
+	margin-left: 0;
+	margin-right: 20px;
+}
+
+.crycon-angle-right:before {
+	content: '\e807';
+}
+
+.continue-reading-link  .crycon-right-dir:before {
+	margin-right: .2em;
+	margin-left: 0;
+}
+
+.reply a .crycon-reply:before {
+	float: left;
+}
+
+#front-text1 h2,
+#front-text2 h2,
+#front-text5 h2,
+#front-columns h2 {
+	text-align: right;
+}
+
+#front-columns > div,
+#front-columns > li {
+	float: right;
+}
+
+#front-columns > div.column3,
+#front-columns > li:nth-child(3n+1) {
+	margin-right: initial;
+	margin-left: 0;
+}
+
+/* mobile menu sub-sub items fix */
+@media screen and (max-width: 640px) {
+
+	body #access > .menu ul ul ul {
+		right: 0;
+		left: auto;
+	}
+
+}
+
+/* NIF */

@@ -1,0 +1,2856 @@
+# Translation of Themes - Nirvana in Dutch
+# This file is distributed under the same license as the Themes - Nirvana package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2017-10-21 16:09:51+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: nl\n"
+"Project-Id-Version: Themes - Nirvana\n"
+
+#. Theme Name of the plugin/theme
+msgid "Nirvana"
+msgstr "Nirvana"
+
+#: admin/settings.php:432
+msgid "Custom slides are limited to a maximum of 5."
+msgstr "Eigen slides zijn beperkt tot maximaal 5."
+
+#: admin/settings.php:376
+msgid "Enter the desired slider plugin shortcode below:"
+msgstr "Voer de gewenste slider voor de shortcode hieronder in:"
+
+#: admin/settings.php:362
+msgid "Slider Shortcode"
+msgstr "Slider shortcode"
+
+#: admin/customizer.php:102
+msgid "%1$s Theme by %2$s"
+msgstr "%1$s Thema door %2$s"
+
+#: admin/customizer.php:101
+msgid "About %s"
+msgstr "Over %s"
+
+#: admin/customizer.php:37
+msgid "Manage Theme Settings"
+msgstr "Thema-instellingen beheren"
+
+#: admin/customizer.php:24
+msgid "Priority Support"
+msgstr "Hoge prioriteitsondersteuning"
+
+#: admin/customizer.php:12
+msgid "Read the Docs"
+msgstr "Lees de documentatie"
+
+#: admin/settings.php:1681
+msgid "Disable to troubleshoot embedded video resize issues."
+msgstr "Uitschakelen om problemen met schalen van ingevoegde video's op te lossen."
+
+#: admin/main.php:257
+msgid "FitVids"
+msgstr "Fitvids"
+
+#: includes/theme-comments.php:89
+msgid "Leave a comment"
+msgstr "Geef een reactie"
+
+#: searchform.php:12
+msgid "Search for:"
+msgstr "Zoeken naar:"
+
+#: includes/theme-functions.php:178
+msgid "Home"
+msgstr "Home"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: includes/tgm.php:2669
+msgid "Activate %2$s"
+msgstr "Activeer %2$s"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: includes/tgm.php:2663
+msgid "Update %2$s"
+msgstr "Update %2$s"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: includes/tgm.php:2658
+msgid "Install %2$s"
+msgstr "Installeer %2$s"
+
+#: includes/tgm.php:2588
+msgid "No plugins to install, update or activate."
+msgstr "Geen plugins om te Installeren, bij te werken of te activeren."
+
+#. translators: 1: install status, 2: update status
+#: includes/tgm.php:2397
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr "%1$s, %2$s"
+
+#. translators: %s: version number
+#: includes/tgm.php:2037
+msgid "TGMPA v%s"
+msgstr "TGMPA v%s"
+
+#: includes/tgm.php:451
+msgid "There are one or more required or recommended plugins to install, update or activate."
+msgstr "Er zijn een of meerdere vereiste of aanbevolen plugins beschikbaar om te installeren, bij te werken of te activeren."
+
+#. translators: %s: plugin name.
+#: includes/tgm.php:387
+msgid "Updating Plugin: %s"
+msgstr "Bijwerken plugin: %s"
+
+#: includes/tgm.php:30
+msgid "%s Plugins"
+msgstr "%s plugins"
+
+#: admin/settings.php:262
+msgid "The label of the 'More Posts' button at the bottom of the Presentation Page."
+msgstr "Het label van de 'Meer berichten'-knop aan de onderzijde van de presentatiepagina."
+
+#: admin/settings.php:260
+msgid "More Posts text:"
+msgstr "\"Meer berichten\"-tekst:"
+
+#: admin/settings.php:259
+msgid "Select how many posts per row to display on the Presentation Page."
+msgstr "Selecteer hoeveel berichten getoond worden per rij op de presentatiepagina."
+
+#: includes/theme-functions.php:274
+msgid "Post format"
+msgstr "Berichtformat"
+
+#: admin/settings.php:1645
+msgid "Display"
+msgstr "Weergeven"
+
+#: admin/main.php:250
+msgid "Link #5"
+msgstr "Link #5"
+
+#: admin/main.php:249
+msgid "Link #4"
+msgstr "Link #4"
+
+#: admin/main.php:248
+msgid "Link #3"
+msgstr "Link #3"
+
+#: admin/main.php:247
+msgid "Link #2"
+msgstr "Link #2"
+
+#: admin/main.php:246
+msgid "Link #1"
+msgstr "Link #1"
+
+#: admin/customizer.php:39
+msgid "To configure the remaining 200+ theme options, access the dedicated settings page.<br><br><em>The settings page is only available when the theme is active. It cannot be previewed in the Customizer.</em>"
+msgstr ""
+"Om de overige 200+ thema-opties te configureren, open de thema-instellingen pagina.<br><br>\n"
+"<em>Deze instellingenpagina is enkel beschikbaar als het thema actief is, en kan niet worden bekeken in de Customizer</em>"
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: includes/tgm.php:3575
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr "Plugin  %1$s (%2$d/%3$d) wordt geïnstalleerd"
+
+#: includes/tgm.php:3573
+msgid "All installations have been completed."
+msgstr "Alle installaties zijn voltooid."
+
+#. translators: 1: plugin name.
+#: includes/tgm.php:3572
+msgid "%1$s installed successfully."
+msgstr "%1$s is succesvol geïnstalleerd."
+
+#: includes/tgm.php:3570
+msgid "The installation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr "Het installatieproces is begonnen. Dit proces kan een tijdje duren afhankelijk van uw webhost, een moment geduld a.u.b."
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: includes/tgm.php:3567
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr "Plugin %1$s (%2$d/%3$d) wordt geïnstalleerd en geactiveerd."
+
+#: includes/tgm.php:3565
+msgid "All installations and activations have been completed."
+msgstr "Alle installaties en activeringen zijn voltooid."
+
+#: includes/tgm.php:3564 includes/tgm.php:3572
+msgid "Hide Details"
+msgstr "Details verbergen"
+
+#: includes/tgm.php:3564 includes/tgm.php:3572
+msgid "Show Details"
+msgstr "Laat details zien"
+
+#. translators: 1: plugin name.
+#: includes/tgm.php:3564
+msgid "%1$s installed and activated successfully."
+msgstr "%1$s succesvol geïnstalleerd en geactiveerd."
+
+#: includes/tgm.php:3562
+msgid "The installation and activation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr "Het installatie- en activeringsproces is begonnen. Dit proces kan een tijdje duren afhankelijk van uw webhost, een moment geduld a.u.b."
+
+#. translators: 1: plugin name.
+#: includes/tgm.php:3558
+msgid "The installation of %1$s failed."
+msgstr "De installatie van %1$s is mislukt."
+
+#. translators: 1: plugin name, 2: error message.
+#: includes/tgm.php:3556
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr "Er is een fout opgetreden tijdens de installatie van %1$s: <strong> %2$s</strong>."
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: includes/tgm.php:3553
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr "Plugin %1$s bijwerken (%2$d/%3$d)"
+
+#: includes/tgm.php:3213
+msgid "Plugin activation failed."
+msgstr "Plugin activatie mislukt."
+
+#: includes/tgm.php:2989
+msgid "No plugins are available to be activated at this time."
+msgstr "Er zijn geen plugins om te activeren op dit moment."
+
+#: includes/tgm.php:2963
+msgid "No plugins were selected to be activated. No action taken."
+msgstr "Er zijn geen plugins geselecteerd om geactiveerd te worden. Er is geen actie ondernomen."
+
+#: includes/tgm.php:2857
+msgid "No plugins are available to be updated at this time."
+msgstr "Er zijn op dit moment geen plugins beschikbaar om bij te werken."
+
+#: includes/tgm.php:2855
+msgid "No plugins are available to be installed at this time."
+msgstr "Er zijn geen plugins om te installeren op dit moment."
+
+#: includes/tgm.php:2814
+msgid "No plugins were selected to be updated. No action taken."
+msgstr "Er zijn geen plugins geselecteerd om bijgewerkt te worden. Er is geen actie ondernomen."
+
+#: includes/tgm.php:2812
+msgid "No plugins were selected to be installed. No action taken."
+msgstr "Er zijn geen plugins geselecteerd om te installeren. Er is geen actie ondernomen."
+
+#: includes/tgm.php:2781
+msgid "Activate"
+msgstr "Aktief"
+
+#: includes/tgm.php:2778
+msgid "Update"
+msgstr "Update"
+
+#: includes/tgm.php:2772
+msgid "Install"
+msgstr "Installatie"
+
+#: includes/tgm.php:2739
+msgid "Upgrade message from the plugin author:"
+msgstr "Upgrade bericht van de plugin auteur:"
+
+#: includes/tgm.php:2608
+msgid "Version"
+msgstr "Version"
+
+#: includes/tgm.php:2604
+msgid "Type"
+msgstr "Type:"
+
+#: includes/tgm.php:2603
+msgid "Source"
+msgstr "Bron"
+
+#: includes/tgm.php:2602
+msgid "Plugin"
+msgstr "Plugin"
+
+#: includes/tgm.php:2565
+msgid "Available version:"
+msgstr "Beschikbare versie:"
+
+#: includes/tgm.php:2553
+msgid "Minimum required version:"
+msgstr "Minimaal vereiste versie:"
+
+#: includes/tgm.php:2545
+msgid "Installed version:"
+msgstr "Geïnstalleerde versie:"
+
+#: includes/tgm.php:2537
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr "onbekend"
+
+#. translators: 1: number of plugins.
+#: includes/tgm.php:2455
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] "Te activeren <span class=\"count\">(%s)</span>"
+msgstr[1] "Te activeren <span class=\"count\">(%s)</span>"
+
+#. translators: 1: number of plugins.
+#: includes/tgm.php:2451
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] "Update beschikbaar <span class=\"count\">(%s)</span>"
+msgstr[1] "Updates beschikbaar <span class=\"count\">(%s)</span>"
+
+#. translators: 1: number of plugins.
+#: includes/tgm.php:2447
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] "Te installeren <span class=\"count\">(%s)</span>"
+msgstr[1] "Te installeren <span class=\"count\">(%s)</span>"
+
+#. translators: 1: number of plugins.
+#: includes/tgm.php:2443
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] "Alle <span class=\"count\">(%s)</span>"
+msgstr[1] "Alle <span class=\"count\">(%s)</span>"
+
+#: includes/tgm.php:2388
+msgid "Update recommended"
+msgstr "Update aangeraden"
+
+#: includes/tgm.php:2385
+msgid "Requires Update"
+msgstr "Vereiste update"
+
+#: includes/tgm.php:2382
+msgid "Required Update not Available"
+msgstr "Vereiste update niet beschikbaar"
+
+#: includes/tgm.php:2376
+msgid "Active"
+msgstr "Activeer"
+
+#: includes/tgm.php:2374
+msgid "Installed But Not Activated"
+msgstr "Geïnstalleerd maar niet geactiveerd"
+
+#: includes/tgm.php:2370
+msgid "Not Installed"
+msgstr "Niet geïnstalleerd"
+
+#: includes/tgm.php:2353
+msgid "Pre-Packaged"
+msgstr "Voorverpakt"
+
+#: includes/tgm.php:2350
+msgid "External Source"
+msgstr "Externe bron"
+
+#: includes/tgm.php:2347
+msgid "WordPress Repository"
+msgstr "WordPress Archief"
+
+#: includes/tgm.php:2331
+msgid "Recommended"
+msgstr "Aanbevolen"
+
+#: includes/tgm.php:2328
+msgid "Required"
+msgstr "Benodigd"
+
+#: includes/tgm.php:1176 includes/tgm.php:3003
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr "en"
+
+#: includes/tgm.php:992
+msgid "The remote plugin package consists of more than one file, but the files are not packaged in a folder."
+msgstr "De niet lokale plugin bestaat uit meer dan een bestand, maar deze bestanden zijn niet samengevoegd in een map."
+
+#: includes/tgm.php:989 includes/tgm.php:992
+msgid "Please contact the plugin provider and ask them to package their plugin according to the WordPress guidelines."
+msgstr "Neem contact op met de verstrekker van de plugin en vraag hem de plugin in te pakken volgens de WordPress richtlijnen."
+
+#: includes/tgm.php:989
+msgid "The remote plugin package does not contain a folder with the desired slug and renaming did not work."
+msgstr "Het niet lokale pluginpakket heeft geen map met de benodigde slug en hernoemen is niet gelukt."
+
+#: includes/tgm.php:441 includes/tgm.php:882 includes/tgm.php:2588
+#: includes/tgm.php:3635
+msgid "Return to the Dashboard"
+msgstr "Ga terug naar het dashboard"
+
+#: includes/tgm.php:578
+msgid "Update Required"
+msgstr "Update vereist"
+
+#: includes/tgm.php:577
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr "Deze plugin moet bijgewerkt worden om geschikt te zijn voor je thema."
+
+#: includes/tgm.php:452
+msgid "Please contact the administrator of this site for help."
+msgstr "Neem voor hulp contact op met de beheerder van deze website."
+
+#: includes/tgm.php:450
+msgid "Dismiss this notice"
+msgstr "Deze melding sluiten"
+
+#. translators: 1: dashboard link.
+#: includes/tgm.php:449
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr "Alle plugins zijn succesvol geïnstalleerd en geactiveerd. %1$s"
+
+#. translators: 1: plugin name.
+#: includes/tgm.php:447
+msgid "Plugin not activated. A higher version of %s is needed for this theme. Please update the plugin."
+msgstr "Plugin niet geactiveerd. Een nieuwere versie van %s is nodig voor dit thema. Werk de plugin bij."
+
+#. translators: 1: plugin name.
+#: includes/tgm.php:445
+msgid "No action taken. Plugin %1$s was already active."
+msgstr "Geen actie ondernomen. Plugin %1$s was al actief."
+
+#: includes/tgm.php:443 includes/tgm.php:3007
+msgid "The following plugin was activated successfully:"
+msgstr "De volgende plugin is succesvol geactiveerd:"
+
+#: includes/tgm.php:430
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] "Begin bijwerken plugin"
+msgstr[1] "Begin bijwerken plugins"
+
+#: includes/tgm.php:383
+msgid "Install Plugins"
+msgstr "Plugins installeren"
+
+#: includes/tgm.php:382
+msgid "Install Required Plugins"
+msgstr "Installeer de benodigde plugins"
+
+#: includes/tgm.php:45
+msgid "All plugins installed and activated successfully. %s"
+msgstr "Alles plugins zijn succesvol geinstalleerd en geactiveerd. %s"
+
+#: includes/tgm.php:44 includes/tgm.php:442 includes/tgm.php:3214
+msgid "Plugin activated successfully."
+msgstr "Plugin succesvol geactiveerd."
+
+#: includes/tgm.php:43 includes/tgm.php:440
+msgid "Return to Required Plugins Installer"
+msgstr "Ga terug naar de Benodigde Plugins Installer"
+
+#: includes/tgm.php:42 includes/tgm.php:435
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] "Begin met activeren van plugin"
+msgstr[1] "Begin met activeren van plugins"
+
+#. translators: 1: plugin name(s).
+#: includes/tgm.php:41 includes/tgm.php:425
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] "Begin met de installatie van de plugin"
+msgstr[1] "Begin met de installatie van de plugins"
+
+#: includes/tgm.php:40
+msgid "Sorry, but you do not have the correct permissions to update the %s plugin. Contact the administrator of this site for help on getting the plugin updated."
+msgid_plural "Sorry, but you do not have the correct permissions to update the %s plugins. Contact the administrator of this site for help on getting the plugins updated."
+msgstr[0] "Je hebt niet de juiste rechten om de plugin %s bij te werken. Neem contact op met de administrator"
+msgstr[1] "Je hebt niet de juiste rechten om de plugins %s bij te werken. Neem contact op met de administrator"
+
+#: includes/tgm.php:39
+msgid "The following plugin needs to be updated to its latest version to ensure maximum compatibility with this theme: %1$s."
+msgid_plural "The following plugins need to be updated to their latest version to ensure maximum compatibility with this theme: %1$s."
+msgstr[0] "De volgende plugin moet bijgewerkt worden om goed te kunnen werken bij dit thema:  %1$s."
+msgstr[1] "De volgende plugins moeten bijgewerkt worden om goed te kunnen werken bij dit thema:  %1$s."
+
+#: includes/tgm.php:38
+msgid "Sorry, but you do not have the correct permissions to activate the %s plugin. Contact the administrator of this site for help on getting the plugin activated."
+msgid_plural "Sorry, but you do not have the correct permissions to activate the %s plugins. Contact the administrator of this site for help on getting the plugins activated."
+msgstr[0] "Je hebt niet de juiste rechten om de plugin  %s te activeren. Neem contact op met de administrator"
+msgstr[1] "Je hebt niet de juiste rechten om de plugins  %s te activeren. Neem contact op met de administrator"
+
+#: includes/tgm.php:37
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] "De volgende aanbevolen plugin is momenteel niet actief %1$s."
+msgstr[1] "De volgende aanbevolen plugins zijn momenteel niet actief %1$s."
+
+#: includes/tgm.php:36
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] "De volgende plugin is momenteel niet actief:  %1$s."
+msgstr[1] "De volgende plugins zijn momenteel niet actief:  %1$s."
+
+#: includes/tgm.php:35
+msgid "Sorry, but you do not have the correct permissions to install the %s plugin. Contact the administrator of this site for help on getting the plugin installed."
+msgid_plural "Sorry, but you do not have the correct permissions to install the %s plugins. Contact the administrator of this site for help on getting the plugins installed."
+msgstr[0] "Je hebt geen toestemming om de plugin %s  te installeren. Neem contact op met de administrator"
+msgstr[1] "Je hebt geen toestemming om de plugins %s  te installeren. Neem contact op met de administrator"
+
+#: includes/tgm.php:32 includes/tgm.php:388
+msgid "Something went wrong with the plugin API."
+msgstr "Er is iets fout gegaan met de plugin API."
+
+#. translators: %s: plugin name.
+#: includes/tgm.php:31 includes/tgm.php:385
+msgid "Installing Plugin: %s"
+msgstr "Installeren Plugin: %s"
+
+#: includes/tgm.php:29
+msgid "Recommended Plugins"
+msgstr "Aanbevolen plugins"
+
+#: admin/settings.php:473
+msgid "<strong>Columns content:</strong>"
+msgstr "<strong>Kolom inhoud:</strong>"
+
+#: admin/settings.php:363
+msgid "<strong>Slides content:</strong>"
+msgstr "<strong>Diavoorstelling inhoud:</strong>"
+
+#: admin/settings.php:591
+msgid "More text for the Presentation Page. The top title is just below the slider, the second title is below the columns. A text area supporting HTML tags and shortcodes below each title<br> It's all optional so leave any input field empty to not display it."
+msgstr ""
+"Aanvullende tekst voor de presentatiepagina. De toptitel is net onder de slider geplaatst, de tweede titel zit onder de kolommen. Een tekstveld die HTML-tags en shortcodes ondersteunt onder elke titel<br>\n"
+"Dit alles is optioneel en wanneer je deze velden leeg laat worden ze niet getoond."
+
+#: admin/customizer.php:30
+msgid "Rate %s on WordPress.org"
+msgstr "Beoordeel %s op WordPress.org"
+
+#: admin/customizer.php:38
+msgid "Settings"
+msgstr "Instellingen"
+
+#: admin/customizer.php:18
+msgid "Browse the Forum"
+msgstr "Blader door het Forum"
+
+#. Template Name of the plugin/theme
+msgid "Two Columns, Sidebar on the Right"
+msgstr "Twee kolommen, sidebar rechts"
+
+#. Template Name of the plugin/theme
+msgid "Two columns, Sidebar on the Left"
+msgstr "Twee kolommen, sidebar links"
+
+#. Template Name of the plugin/theme
+msgid "Three columns, Sidebars on the Right"
+msgstr "Drie kolommen (met 2 zijbalken rechts)"
+
+#. Template Name of the plugin/theme
+msgid "Three Columns, Sidebars on the Left"
+msgstr "Drie kolommen, sidebars links"
+
+#. Template Name of the plugin/theme
+msgid "Three columns, Sidebars Left and Right"
+msgstr "Drie kolommen, sidebars links en rechts"
+
+#. Template Name of the plugin/theme
+msgid "Category page with intro"
+msgstr "Categoriepagina met Intro"
+
+#. Template Name of the plugin/theme
+msgid "One column, no sidebar"
+msgstr "Enkele kolom, zonder sidebar"
+
+#. Template Name of the plugin/theme
+msgid "Blog Template ( Posts Page)"
+msgstr "Blogtemplate (Berichtenpagina)"
+
+#: tag.php:21
+msgid "Tag Archives: %s"
+msgstr "Tagarchief: %s"
+
+#: single.php:40
+msgid "View all posts by "
+msgstr "Bekijk alle berichten van"
+
+#: single.php:36
+msgid "About"
+msgstr "Over"
+
+#: sidebar-right.php:28
+msgid "You currently have no widgets set in the right sidebar. You can add widgets via the <a href=\"%s\">Dashboard</a>."
+msgstr "Je hebt momenteel geen widgets in de rechter sidebar. Via het <a href=\"%s\">Dashboard</a> kunnen widgets worden toegevoegd."
+
+#: sidebar-left.php:29 sidebar-right.php:29
+msgid "To hide this sidebar, switch to a different Layout via the <a href=\"%s\">Theme Settings</a>."
+msgstr "Om deze sidebar te verbergen schakel je over naar een andere layout via <a href=\"%s\">Thema Instellingen</a>."
+
+#: sidebar-left.php:28
+msgid "You currently have no widgets set in the left sidebar. You can add widgets via the <a href=\"%s\">Dashboard</a>."
+msgstr "Je hebt momenteel geen widgets in de linker sidebar. Via het <a href=\"%s\">Dashboard</a> kunnen widgets worden toegevoegd."
+
+#: search.php:40
+msgid "No search results for: %s."
+msgstr "Geen zoekresultaten voor: %s."
+
+#: search.php:18
+msgid "Search Results for: %s"
+msgstr "Zoekresultaten voor: %s"
+
+#: includes/theme-setup.php:336
+msgid "Only drag [Cryout Column] widgets here. Recommended size for uploaded images: %1$dpx (width) x %2$dpx (height). Go to the Nirvana Settings page >> Presentation Page Settings >> Columns to edit sizes and more."
+msgstr "Sleep alleen [Cryout Column] widgets hierheen. Aanbevolen grootte voor geüploade afbeeldingen: %1$dpx (breedte) x %2$dpx (hoogte). Ga naar Nirvana instellingenpagina >> Instellingen presentatiepagina >> Kolomgroottes en meer."
+
+#: includes/theme-setup.php:334
+msgid "Presentation Page Columns"
+msgstr "Presentatie pagina kolomen"
+
+#: includes/theme-setup.php:323 includes/theme-setup.php:325
+msgid "Header Widgets"
+msgstr "Header widgets"
+
+#: includes/theme-setup.php:312 includes/theme-setup.php:314
+msgid "Below Content Area"
+msgstr "Gebied onder de inhoud"
+
+#: includes/theme-setup.php:301 includes/theme-setup.php:303
+msgid "Above Content Area"
+msgstr "Gebied boven de inhoud"
+
+#: includes/theme-setup.php:292
+msgid "The fourth footer area"
+msgstr "Vierde footergebied"
+
+#: includes/theme-setup.php:290
+msgid "Fourth Footer Area"
+msgstr "Vierde footergebied"
+
+#: includes/theme-setup.php:281
+msgid "The third footer area"
+msgstr "Derde footergebied"
+
+#: includes/theme-setup.php:279
+msgid "Third Footer Area"
+msgstr "Derde voettekstgebied"
+
+#: includes/theme-setup.php:270
+msgid "Second footer area"
+msgstr "Tweede voettekst ruimte"
+
+#: includes/theme-setup.php:268
+msgid "Second Footer Area"
+msgstr "Tweede voettekst ruimte"
+
+#: includes/theme-setup.php:259
+msgid "First footer area"
+msgstr "Eerste footerruimte"
+
+#: includes/theme-setup.php:257
+msgid "First Footer Area"
+msgstr "Eerste footerruimte"
+
+#: includes/theme-setup.php:248
+msgid "Right sidebar"
+msgstr "Sidebar rechts"
+
+#: includes/theme-setup.php:237
+msgid "Left sidebar"
+msgstr "Sidebar links"
+
+#: includes/theme-setup.php:207
+msgid "Skip to content"
+msgstr "Naar de inhoud springen"
+
+#: includes/theme-setup.php:144
+msgid "Page %s"
+msgstr "Pagina %s"
+
+#: includes/theme-setup.php:111
+msgid "Nirvana Default Header Image"
+msgstr "Nirvana default header afbeelding"
+
+#: includes/theme-setup.php:79
+msgid "Footer Navigation"
+msgstr "Footer Navigatie"
+
+#: includes/theme-setup.php:78
+msgid "Top Navigation"
+msgstr "Koptekstnavigatie"
+
+#: includes/theme-setup.php:77
+msgid "Primary Navigation"
+msgstr "Primair navigatiemenu"
+
+#: includes/theme-loop.php:329
+msgid "<span>Newer posts</span> <i class=\"meta-nav-next\"></i>"
+msgstr "<span>Recentere posts</span> <i class=\"meta-nav-next\"></i>"
+
+#: includes/theme-loop.php:326
+msgid "<i class=\"meta-nav-prev\"></i> <span>Older posts</span>"
+msgstr "<i class=\"meta-nav-prev\"></i> <span>Oudere posts</span>"
+
+#: includes/theme-loop.php:302
+msgid "Permalink to"
+msgstr "Permalink naar"
+
+#: includes/theme-loop.php:302
+msgid " Bookmark the permalink"
+msgstr "Bookmark de permalink"
+
+#: includes/theme-loop.php:299
+msgid "Tagged"
+msgstr "Getagged"
+
+#: includes/theme-loop.php:241
+msgid "Tags"
+msgstr "Tags"
+
+#: includes/theme-loop.php:220
+msgid "Categories"
+msgstr "Categorie&#235;n"
+
+#: includes/theme-loop.php:192
+msgid "View all posts by %s"
+msgstr "Toon alle berichten van %s"
+
+#: includes/theme-loop.php:189
+msgid "Author "
+msgstr "Auteur"
+
+#: includes/theme-functions.php:380
+msgid "Semantic Personal Publishing Platform"
+msgstr "'Semantic Personal Publishing Platform'"
+
+#: includes/theme-functions.php:379
+msgid "Powered by"
+msgstr "Mogelijk gemaakt door"
+
+#: searchform.php:13 searchform.php:15
+msgid "Search"
+msgstr "Zoek"
+
+#: includes/theme-functions.php:279
+msgid "Page"
+msgstr "Pagina"
+
+#: includes/theme-functions.php:270
+msgid "Error 404"
+msgstr "Fout 404 "
+
+#: includes/theme-functions.php:267
+msgid "Articles posted by"
+msgstr "Posts door"
+
+#: includes/theme-functions.php:261
+msgid "Posts tagged"
+msgstr "Posts Tagged"
+
+#: includes/theme-functions.php:201
+msgid "Search results for"
+msgstr "Zoekresultaten voor"
+
+#: includes/theme-functions.php:198
+msgid "Archive by category"
+msgstr "Archief per categorie"
+
+#: includes/theme-comments.php:188 includes/theme-comments.php:189
+msgctxt "noun"
+msgid "Comment"
+msgstr "Reactie"
+
+#: includes/theme-comments.php:176 includes/theme-comments.php:177
+msgid "Website"
+msgstr "Website"
+
+#: includes/theme-comments.php:172
+msgid "Email*"
+msgstr "Email*"
+
+#: includes/theme-comments.php:171
+msgid "Email"
+msgstr "E-mail"
+
+#: includes/theme-comments.php:167
+msgid "Name*"
+msgstr "Naam*"
+
+#: includes/theme-comments.php:166
+msgid "Name"
+msgstr "Naam"
+
+#: includes/theme-comments.php:150
+msgid "Comments are closed."
+msgstr "Reacties kunnen niet achtergelaten worden op dit moment."
+
+#: includes/theme-comments.php:123
+msgid "Newer Comments"
+msgstr "Nieuwere reacties"
+
+#: includes/theme-comments.php:122
+msgid "Older Comments"
+msgstr "Oudere reacties"
+
+#: includes/theme-comments.php:91 includes/theme-comments.php:94
+#: includes/theme-comments.php:108
+msgid "One Comment"
+msgid_plural "%1$s Comments"
+msgstr[0] "Eén reactie"
+msgstr[1] "%1$s reacties"
+
+#: includes/theme-comments.php:54
+msgid "Reply"
+msgstr "Antwoorden"
+
+#: includes/theme-comments.php:48
+msgid "Your comment is awaiting moderation."
+msgstr "Jouw reactie is in afwachting van moderatie."
+
+#. translators: 1: date, 2: time
+#: includes/theme-comments.php:41
+msgid "at"
+msgstr "om"
+
+#: includes/theme-comments.php:26 includes/theme-comments.php:41
+msgid "(Edit)"
+msgstr "(Bewerk)"
+
+#: includes/theme-comments.php:26
+msgid "Pingback: "
+msgstr "Pingback:"
+
+#: content/content-video.php:15
+msgid "Video"
+msgstr "Video"
+
+#: content/content-status.php:14 includes/tgm.php:2609
+msgid "Status"
+msgstr "Status"
+
+#: content/content-quote.php:13
+msgid "Quote"
+msgstr "Citeren"
+
+#: content/content-gallery.php:40
+msgid "This gallery contains <a %1$s>%2$s photo</a>."
+msgid_plural "This gallery contains <a %1$s>%2$s photos</a>."
+msgstr[0] "Deze galerij bevat <a %1$s>%2$s foto</a>."
+msgstr[1] "Deze galerij bevat <a %1$s>%2$s foto&#39;s</a>."
+
+#: content/content-gallery.php:17
+msgid "Gallery"
+msgstr "Galerij"
+
+#: content/content-frontpage.php:46
+msgid "You currently have no published posts. To hide this message either <a href=\"%s\">add some posts</a> or disable displaying posts on the Presentation Page in <a href=\"%s\">theme settings</a>."
+msgstr "Je hebt op dit moment geen gepubliceerde posts. <a href=\"%s\">Voeg posts toe</a> om deze mededeling te verbergen, of schakel het tonen van posts op de presentatiepagina uit bij <a href=\"%s\">thema instellingen</a>."
+
+#: content/content-frontpage.php:41
+msgid "No Posts to Display"
+msgstr "Geen berichten om te tonen"
+
+#: content/content-chat.php:15
+msgid "Chat"
+msgstr "Chat"
+
+#: content/content-audio.php:15
+msgid "Audio"
+msgstr "Audio"
+
+#: content/content-aside.php:29 content/content-audio.php:23
+#: content/content-chat.php:28 content/content-image.php:22
+#: content/content-link.php:28 content/content-quote.php:26
+#: content/content-status.php:32 content/content-video.php:23
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Verder lezen <span class=\"meta-nav\">&rarr;</span>"
+
+#: content/content-aside.php:21
+msgid "Aside"
+msgstr "'Aside'"
+
+#: content/content-aside.php:15 content/content-audio.php:15
+#: content/content-chat.php:15 content/content-gallery.php:17
+#: content/content-gallery.php:41 content/content-image.php:14
+#: content/content-link.php:15 content/content-quote.php:13
+#: content/content-status.php:14 content/content-video.php:15
+#: content/content.php:17
+msgid "Permalink to %s"
+msgstr "Permalink naar %s"
+
+#: comments.php:52
+msgid "Comments are closed"
+msgstr "Reageren is niet mogelijk"
+
+#: comments.php:27
+msgid "This post is password protected. Enter the password to view any comments."
+msgstr "Dit bericht is beveiligd met een wachtwoord. Geef het wachtwoord om de reacties te bekijken."
+
+#: category.php:20
+msgid "Category Archives: %s"
+msgstr "Categoriearchief: %s"
+
+#: author.php:29
+msgid "Author Archives: %s"
+msgstr "Auteursarchief: %s"
+
+#: attachment.php:93
+msgid "Next image"
+msgstr "Volgende afbeelding"
+
+#: attachment.php:92
+msgid "Previous image"
+msgstr "Vorige afbeelding"
+
+#: attachment.php:87 content/content-aside.php:30 content/content-audio.php:24
+#: content/content-chat.php:29 content/content-gallery.php:50
+#: content/content-image.php:23 content/content-link.php:29
+#: content/content-page.php:22 content/content-quote.php:27
+#: content/content-video.php:24 content/content.php:36 content/content.php:52
+#: single.php:27 templates/template-page-with-intro.php:17
+msgid "Pages:"
+msgstr "Pagina's:"
+
+#: attachment.php:86
+msgid "Continue reading"
+msgstr "Lees verder"
+
+#: attachment.php:75 content/content-page.php:23 includes/theme-loop.php:244
+#: single.php:49 templates/template-page-with-intro.php:18
+msgid "Edit"
+msgstr "Wijzigen"
+
+#: attachment.php:35
+msgid "Link to full-size image"
+msgstr "Link naar volledig formaat afbeelding"
+
+#. translators: %s - title of parent post
+#: attachment.php:32
+msgid "Full size is %s pixels"
+msgstr "Volledig formaat is %s pixels."
+
+#: attachment.php:18
+msgid "Return to %s"
+msgstr "Terug naar %s"
+
+#: archive.php:60 author.php:75 category.php:53 content/content-index.php:38
+#: tag.php:54 templates/template-blog.php:38
+msgid "Apologies, but no results were found for the requested archive. Perhaps searching will help find a related post."
+msgstr "Excuses, er werden geen resultaten gevonden voor het gevraagde archief. Misschien zal zoeken helpen een gerelateerd bericht te vinden."
+
+#: archive.php:56 author.php:71 category.php:49 content/content-index.php:34
+#: search.php:38 tag.php:50 templates/template-blog.php:34
+msgid "Nothing Found"
+msgstr "Niets gevonden"
+
+#: archive.php:32
+msgid "Blog Archives"
+msgstr "Sitearchief"
+
+#: archive.php:30
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "Y"
+
+#: archive.php:30
+msgid "Yearly Archives: %s"
+msgstr "Jaarlijks archief: %s"
+
+#: archive.php:28
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr "F Y"
+
+#: archive.php:28
+msgid "Monthly Archives: %s"
+msgstr "Maandelijks archief: %s"
+
+#: archive.php:26
+msgid "Daily Archives: %s"
+msgstr "Dagelijks archief: %s"
+
+#: admin/settings.php:1653
+msgid "Enable output from Nirvana's injection protection engine. Will display which extensions attempted to interfere with the theme. Uses some memory when enabled and a large number of injections are detected."
+msgstr "Schakel meldingen door Nirvana's injection protection engine in. Dit toont welke extensies proberen het thema te wijzigen. Geheugengebruik neemt toe wanneer ingeschakeld en er veel injecties worden gedetecteerd."
+
+#: admin/settings.php:1639
+msgid "Enable extra compatibility tag for older Internet Explorer versions. Turning this option on will trigger W3C validation errors."
+msgstr "Schakel compatibility tags in  voor oudere Internet Explorer versies. Door inschakelen ontstaan wel W3C validatiefouten."
+
+#: admin/settings.php:1623
+msgid "Insert your custom Javascript code here. (Google Analytics and any other forms of Analytic software)."
+msgstr "Voeg hier eigen javascript code toe. (Google Analytics en andere typen analytics)."
+
+#: admin/settings.php:1616
+msgid "Insert your custom CSS here. Any CSS declarations made here will overwrite Nirvana's (even the custom options specified right here in the Nirvana Settings page). <br /> Your custom CSS will be preserved when updating the theme."
+msgstr "Vul hier je eigen CSS in. CSS declaraties die hier staan overschrijven die van van het Nirvana thema (ook de  custom opties die zijn aangegeven op de pagina met instellingen <br /> Je eigen CSS blijft behouden wanneer je het thema update."
+
+#: admin/settings.php:1608
+msgid "Insert custom text or HTML code that will appear in you footer. <br /> You can use HTML to insert links, images and special characters like &copy;."
+msgstr "Eigen tekst of HTML invoegen voor de footer.<br /> Je kunt HTML gebruiken om links, afbeeldingen en speciale karakters zoals bv. &copy; in te voegen."
+
+#: admin/settings.php:1595
+msgid "Choose the <b>areas</b> where to display the social icons."
+msgstr "Kies het <b>gebied</b> waar je wilt dat het sociale netwerk wordt weergegeven."
+
+#: admin/settings.php:1593 includes/theme-setup.php:246 sidebar-right.php:25
+msgid "Right Sidebar"
+msgstr "Sidebar rechts"
+
+#: admin/settings.php:1589 includes/theme-setup.php:235 sidebar-left.php:25
+msgid "Left Sidebar"
+msgstr "Sidebar links"
+
+#: admin/settings.php:1583
+msgid "Right side"
+msgstr "Rechterzijde"
+
+#: admin/settings.php:1579
+msgid "Left side"
+msgstr "Linkerzijde"
+
+#: admin/settings.php:1575
+msgid "Footer"
+msgstr "Voettekst"
+
+#: admin/settings.php:1532
+msgid "Social Network Title"
+msgstr "Naam van het sociale netwerk"
+
+#: admin/settings.php:1530
+msgid "Open in new window"
+msgstr "Open in een nieuw venster"
+
+#: admin/settings.php:1525
+msgid "Social Network Link"
+msgstr "Sociale netwerk link"
+
+#: admin/settings.php:1507
+msgid "You can change the background for your social colors from the colors settings section."
+msgstr "Je kunt de achtergondkleur van de social icons wijzigen bij de instellingen voor kleur."
+
+#: admin/settings.php:1506
+msgid "You can leave any number of inputs empty."
+msgstr "Je kunt een willekeurig aantal velden leeglaten."
+
+#: admin/settings.php:1505
+msgid "You can show up to 5 different social icons from over 35 social networks."
+msgstr "Je kunt maximaal 5 verschillende social icons tonen van de 35 beschikbare sociale netwerken."
+
+#: admin/settings.php:1504
+msgid "You can also choose if you want the link to open in a new window and what title to display while hovering over the icon."
+msgstr "Je kunt hier ook kiezen of je de link in een nieuw venster wilt openen en welke titel je wilt tonen bij hoveren over de link."
+
+#: admin/settings.php:1503
+msgid "Select your desired Social network from the left dropdown menu and insert your corresponding address in the right input field. (ex: <i>http://www.facebook.com/yourname</i> )"
+msgstr "Selecteer het gewenste sociale netwerk van het uitvalmenu links en voeg je bijhorende webadres in in het bijhoren invoerveld. (ex: <i>http://www.facebook.com/yourname</i> )"
+
+#: admin/settings.php:1490
+msgid "Show featured images on headers. The header will be replaced with a featured image if you selected it as a Featured Image in the post and if it is bigger or at least equal to the current header size."
+msgstr "Toon featured afbeeldingen in headers. De header zal vervangen worden door een featured afbeelding als je de afbeelding in de post selecteert als featured afbeelding en indien deze groter of in elk geval minimaal gelijk is aan de huidige afmeting van de header."
+
+#: admin/settings.php:1474
+msgid "The size (in pixels) for your thumbnails. By default imges will be scaled with aspect ratio kept. Choose to crop the images if you want the exact size."
+msgstr "De afmetingen van de thumbnail (in pixels). Standaard worden afbeeldingen geschaald waarbij de verhoudingen intact blijven. Kies ervoor de afbeeldingen bij de snijden als je de exacte afmetingen wilt."
+
+#: admin/settings.php:1471
+msgid "Crop images to exact size."
+msgstr "Afbeeldingen op het exacte formaat uitsnijden."
+
+#: admin/settings.php:1465
+msgid "(height)"
+msgstr "(hoogte)"
+
+#: admin/settings.php:1464
+msgid "(width)"
+msgstr "(breedte)"
+
+#: admin/settings.php:1457
+msgid "Thumbnail alignment."
+msgstr "Miniatuur uitlijning."
+
+#: admin/settings.php:1441
+msgid "Show the first image that you inserted in a post as a thumbnail. If there is a Featured Image selected for that post, it will have priority."
+msgstr "Toon de eerste afbeelding in de post als thumbnail. Indien er ook een featured afbeelding is, dan gaat die voor."
+
+#: admin/settings.php:1426
+msgid "Show featured images as thumbnails on posts. The images must be selected for each post in the Featured Image section."
+msgstr "Toont uitgelichte afbeeldingen bij berichten. De afbeelding moet voor elk bericht geselecteerd worden in het uigelichte afbeeldingen gedeelte."
+
+#: admin/settings.php:1425
+msgid "Link the thumbnail to the post"
+msgstr "Link de thumbnail naar de post"
+
+#: admin/settings.php:1381
+msgid "Edit the 'Continue Reading' link added to your post excerpts."
+msgstr "Pas de 'Verder lezen' link aan die fragmenten wordt toegevoegd."
+
+#: admin/settings.php:1374
+msgid "Replaces the three dots ('[...])' that are appended automatically to excerpts."
+msgstr "Vevant de drie puntjes ('[...])' die automatishc worden toegevoegd aan de fragmenten."
+
+#: admin/settings.php:131
+msgid "Enable the Magazine Layout. This layout applies to pages with posts and shows 2 posts per row."
+msgstr "Schakelt de magazine lay-out in. Deze lay-out is voor pagina's met berichten and twee berichten per rij."
+
+#: admin/settings.php:1367
+msgid "The number of characters/words for excerpts. When that number is reached the post will be interrupted by a <i>Continue reading</i> link that will take the reader to the full post page."
+msgstr "Het aantal karakters/woorden van samenvattingen. Wanneer dat aantal wordt bereikt dan wordt de post afgebroken met een <i>Lees verder</i> link die linkt naar devolledige post."
+
+#: admin/settings.php:1359
+msgid "Characters"
+msgstr "Tekens"
+
+#: admin/settings.php:1359
+msgid "Words"
+msgstr "Woorden"
+
+#: admin/settings.php:1350
+msgid "Excerpts on archive, categroy and search pages. Same as above, only standard posts will be affected."
+msgstr "Fragmenten op archief, categorie en zoekpagina's. Hetzelfde als herboven, enkel standaardpagina's worden beïnvloed."
+
+#: admin/settings.php:1334
+msgid "Choose if you want the sticky posts on your home page to be visible in full or just the excerpts. "
+msgstr "Kies of je wilt de gepinde berichten op je startpagina volledig zichtbaar wilt hebben of enkel een fragment."
+
+#: admin/settings.php:1319
+msgid "Excerpts on the main page. Only standard posts will be affected. All other post formats (aside, image, chat, quote etc.) have their specific formating."
+msgstr "Fragment op startpagina. Alleen standaardberichten zullen worden aangepast. Alle andere berichtformaten hebben hun eigen specifieke inspringing."
+
+#: admin/settings.php:1311 admin/settings.php:1326 admin/settings.php:1342
+msgid "Full Post"
+msgstr "Volledig bericht."
+
+#: admin/settings.php:1311 admin/settings.php:1326 admin/settings.php:1342
+msgid "Excerpt"
+msgstr "Samenvatting"
+
+#: admin/settings.php:1299
+msgid "Hide the <b>Comments off</b> text next to posts that have comments disabled."
+msgstr "Verberg de <b>Reacties zijn uitgeschakeld</b> tekst naast berichten waarbij de reacties zijn uitgeschakeld."
+
+#: admin/settings.php:1283
+msgid "Hide the <b>Comments are closed</b> text that by default shows up on pages or posts with comments disabled."
+msgstr "Verberg de <b>Commentaren gesloten</b> tekst die standaard getoond wordt op pagina's en posts waar commentaren zijn uitgeschakeld."
+
+#: admin/settings.php:1275
+msgid "Hide everywhere"
+msgstr "Overal verbergen."
+
+#: admin/settings.php:1275
+msgid "Hide in pages"
+msgstr "Verberg in pagina's"
+
+#: admin/settings.php:1275
+msgid "Hide in posts"
+msgstr "Verberg in berichten"
+
+#: admin/settings.php:1268
+msgid "Hide the explanatory text under the comments form (starts with  <i>You may use these HTML tags and attributes:...</i>)."
+msgstr "Verberg de verklarende tekst onder het commentaarformulier (dat begint met <i>Je kunt deze HTML tags en attributen gebruiken:...</i>)."
+
+#: admin/settings.php:1251
+msgid "Choose the post metas you want to show on sigle post pages."
+msgstr "Kies de meta data die je op een enkelvoudige post pagina wilt tonen."
+
+#: admin/settings.php:1242 includes/theme-loop.php:302
+msgid "Bookmark"
+msgstr "Bookmark"
+
+#: admin/settings.php:1235
+msgid "Choose the post metas you want to show on multiple post pages (home, blog, category, archive etc.)"
+msgstr "Kies de metadata die je wilt tonen op posts met meer pagina's (home, blog, categorie, archief etc.)"
+
+#: admin/settings.php:1226
+msgid "Comments"
+msgstr "Reacties"
+
+#: admin/settings.php:1226 admin/settings.php:1242
+msgid "Tag"
+msgstr "Tag"
+
+#: admin/settings.php:1226 admin/settings.php:1242
+msgid "Category"
+msgstr "Categorie"
+
+#: admin/settings.php:1226 admin/settings.php:1242
+msgid "Time"
+msgstr "Tijd"
+
+#: admin/settings.php:1226 admin/settings.php:1242 includes/theme-loop.php:210
+msgid "Date"
+msgstr "Datum"
+
+#: admin/settings.php:1226 admin/settings.php:1242
+msgid "Author"
+msgstr "Auteur"
+
+#: admin/settings.php:1219
+msgid "The position of your meta bar (author, date, category, tags and edit button)."
+msgstr "De positie van de meta bar (auteur, datum, categorie, tags en 'bewerk' button)."
+
+#: admin/settings.php:1211
+msgid "Bottom"
+msgstr "Onderkant"
+
+#: admin/settings.php:1211
+msgid "Top"
+msgstr "Bovenkant"
+
+#: admin/settings.php:1200
+msgid "Enable the Back to Top button. The button appears after scrolling the page down."
+msgstr "Schakelt de terug naar boven knop in. De knop verschijn als je naar beneden scrolt."
+
+#: admin/settings.php:1184
+msgid "Hide table borders and background color."
+msgstr "Verberg tabelranden en achtergrondkleur."
+
+#: admin/settings.php:1169
+msgid "Hide or show titles on Categories and Archives."
+msgstr "Toon of verberg categorie- en archieftitels."
+
+#: admin/settings.php:1154
+msgid "Hide or show titles on pages."
+msgstr "Toon of verberg paginatitels."
+
+#: admin/settings.php:1146 admin/settings.php:1161 admin/settings.php:1260
+#: admin/settings.php:1275 admin/settings.php:1291
+msgid "Show"
+msgstr "Tonen"
+
+#: admin/settings.php:1139
+msgid "The border style for your images. Only images inserted in your posts and pages will be affected. "
+msgstr "De stijl van de rand van afbeeldingen. Heeft alleen invloed op afbeeldingen in posts en pagina's."
+
+#: admin/settings.php:1124
+msgid "Set the left/right padding around the content area. Only works with Boxed layouts."
+msgstr "Stel de linker en rechter padding in rondom de content. Werkt alleen met layouts met een vaste breedte."
+
+#: admin/settings.php:1123
+msgid "Padding left/right: "
+msgstr "Padding links/rechts:"
+
+#: admin/settings.php:1121
+msgid "Set the margin between the content and the menu. It can be set to 0px if you want the content area and menu to join."
+msgstr "Stel de marge in tussen de content en het menu. Zet de marge op 0px als je geen ruimte wilt tussen content en menu."
+
+#: admin/settings.php:1120
+msgid "Margin top: "
+msgstr "Top marge:"
+
+#: admin/settings.php:1115
+msgid "Select the menus where to add a search bar."
+msgstr "Selecteer de menu's waar een zoekbalk aan toe wordt gevoegd."
+
+#: admin/settings.php:1106
+msgid "Footer Menu"
+msgstr "Voettekst menu"
+
+#: admin/settings.php:1106
+msgid "Top Menu"
+msgstr "Bovenste Menu"
+
+#: admin/settings.php:1100
+msgid "Sets the desired menu items alignment."
+msgstr "Stelt de uitlijning van de gewenste menu items in."
+
+#: admin/settings.php:1092
+msgid "Right (multiline)"
+msgstr "Rechts (meerregelig)"
+
+#: admin/settings.php:1086
+msgid "Show numbered pagination. Where there is more than one page, instead of the bottom <b>Older Posts</b> and <b>Newer posts</b> links you have a numbered pagination. "
+msgstr "Show numbered pagination. Where there is more than one page, instead of the bottom <b>Older Posts</b> and <b>Newer posts</b> links you have a numbered pagination."
+
+#: admin/settings.php:1071
+msgid "Show breadcrumbs at the top of the content area. Breadcrumbs are a form of navigation that keeps track of your location withtin the site."
+msgstr "Toont broodkruimels aan de bovenkant van elke inhoudsgebied. Broodkruimels zijn een vorm van navigatie dat je locatie binnen de site toont."
+
+#: admin/settings.php:1056
+msgid "Show the topbar that can include social icons and the top menu."
+msgstr "Toon de top bar die social icons en het top menu kan bevatten."
+
+#: admin/settings.php:1047
+msgid "Full width"
+msgstr "Volle breedte"
+
+#: admin/settings.php:1047
+msgid "Site width"
+msgstr "Breedte site"
+
+#: admin/settings.php:1037 admin/settings.php:1146 admin/settings.php:1161
+#: admin/settings.php:1211 admin/settings.php:1260 admin/settings.php:1291
+#: admin/settings.php:1645
+msgid "Hide"
+msgstr "Verbergen"
+
+#: admin/settings.php:1037
+msgid "Fixed"
+msgstr "Vast"
+
+#: admin/settings.php:1037
+msgid "Normal"
+msgstr "Normaal"
+
+#: admin/settings.php:1024
+msgid "This setting changes the look of your captions. Images that are not inserted through captions will not be affected."
+msgstr "This setting changes the look of your captions. Images that are not inserted through captions will not be affected."
+
+#: admin/settings.php:1016
+msgid "Simple"
+msgstr "Simpel"
+
+#: admin/settings.php:1016
+msgid "Dark"
+msgstr "Donker"
+
+#: admin/settings.php:1016
+msgid "Light"
+msgstr "Licht "
+
+#: admin/settings.php:1010
+msgid "Background colours for your social icons."
+msgstr "Achtergrondkleur social icons"
+
+#: admin/settings.php:1009
+msgid "Social Icons Background Hover"
+msgstr "Hover achtergrond social icons"
+
+#: admin/settings.php:1008
+msgid "Social Icons Background"
+msgstr "Achtergrond social icons"
+
+#: admin/settings.php:1003
+msgid "Colours for your meta area (post information)."
+msgstr "Kleuren voor het metagebied (post informatie)."
+
+#: admin/settings.php:1002
+msgid "Meta Links Hover"
+msgstr "Hover meta links"
+
+#: admin/settings.php:1001
+msgid "Meta Links"
+msgstr "Meta links"
+
+#: admin/settings.php:1000
+msgid "Meta Icons"
+msgstr "Meta iconen"
+
+#: admin/settings.php:995
+msgid "Footer colours include the footer menu colours."
+msgstr "Deze kleuren betreffen ook de kleuren in het footer menu"
+
+#: admin/settings.php:994
+msgid "Footer Links Hover"
+msgstr "Hover footer links"
+
+#: admin/settings.php:993
+msgid "Footer Links"
+msgstr "Footer Links"
+
+#: admin/settings.php:992
+msgid "Footer:"
+msgstr "Footer:"
+
+#: admin/settings.php:991
+msgid "Footer Widgets Links Hover"
+msgstr "Hover links in footer widgets"
+
+#: admin/settings.php:990
+msgid "Footer Widgets Links"
+msgstr "Links in footer widgets"
+
+#: admin/settings.php:989
+msgid "Footer Widgets:"
+msgstr "Footer widgets"
+
+#: admin/settings.php:988
+msgid "Sidebar Widgets Links Hover"
+msgstr "Hover links in sidebar widgets"
+
+#: admin/settings.php:987
+msgid "Sidebar Widgets Links"
+msgstr "Links in sidebar widgets"
+
+#: admin/settings.php:986
+msgid "Sidebar Widgets:"
+msgstr "Sidebar widgets:"
+
+#: admin/settings.php:985
+msgid "General Links Hover"
+msgstr "Hover algemene links"
+
+#: admin/settings.php:984
+msgid "General Links"
+msgstr "Algemene links"
+
+#: admin/settings.php:983
+msgid "General:"
+msgstr "Algemeen:"
+
+#: admin/settings.php:978
+msgid "These colours apply to the widgets in the footer area."
+msgstr "Deze kleuren betreffen de widgets in de footer."
+
+#: admin/settings.php:977
+msgid "Footer Widgets Title Text"
+msgstr "Titeletekst footer widget"
+
+#: admin/settings.php:976
+msgid "Footer Widget Text"
+msgstr "Tekst footer widget"
+
+#: admin/settings.php:974
+msgid "Footer Widgets Title Background"
+msgstr "Achtergrond titel footer widgets"
+
+#: admin/settings.php:973
+msgid "Footer Widgets Background"
+msgstr "Achtergrond footer widgets"
+
+#: admin/settings.php:967
+msgid "These colours apply to the widgets placed in either sidebar."
+msgstr "Deze kleuren betreffen de widgets in een sidebar."
+
+#: admin/settings.php:966
+msgid "Sidebars Widget Title Text"
+msgstr "Titeltekst sidebar widget"
+
+#: admin/settings.php:965
+msgid "Sidebars Text"
+msgstr "Sidebar tekst"
+
+#: admin/settings.php:963
+msgid "Sidebars Widget Title Background"
+msgstr "Achtergrond titel sidebar widget"
+
+#: admin/settings.php:962
+msgid "Sidebars Background"
+msgstr "Sidebar achtergrond"
+
+#: admin/settings.php:956
+msgid "These colours apply to specific areas of the presentation page."
+msgstr "Deze kleuren betreffen specifieke gebieden van de presentatiepagina."
+
+#: admin/settings.php:955
+msgid "Titles Color"
+msgstr "Titelkleur"
+
+#: admin/settings.php:953
+msgid "Columns Background Color"
+msgstr "Achtergrondkleur kolommen"
+
+#: admin/settings.php:952
+msgid "Text Area 3 Background Color"
+msgstr "Tekstgebied 3 achtergrondkleur"
+
+#: admin/settings.php:951
+msgid "Text Area 2 Background Color"
+msgstr "Tekstgebied 2 achtergrondkleur"
+
+#: admin/settings.php:950
+msgid "Text Area 1 Background Color"
+msgstr "Tekstgebied 1 achtergrondkleur"
+
+#: admin/settings.php:949
+msgid "Areas:"
+msgstr "Gebieden:"
+
+#: admin/settings.php:948
+msgid "Slider Caption Background"
+msgstr "Slider achtergrond tekst"
+
+#: admin/settings.php:947
+msgid "Slider Caption Text Color"
+msgstr "Slider kleur koptekst"
+
+#: admin/settings.php:946
+msgid "Slider Border Color"
+msgstr "Slider randkleur"
+
+#: admin/settings.php:945
+msgid "Slider Background Color"
+msgstr "Slider achtergrond"
+
+#: admin/settings.php:944
+msgid "Slider:"
+msgstr "Slider:"
+
+#: admin/settings.php:939
+msgid "Content colours apply to post and page areas of the site."
+msgstr "Content kleuren betreffen de post en page gebieden van de site."
+
+#: admin/settings.php:938
+msgid "Content Headings"
+msgstr "Content koppen"
+
+#: admin/settings.php:937
+msgid "Page/Post Title Hover"
+msgstr "Pagina-/posttitel hover"
+
+#: admin/settings.php:936
+msgid "Page/Post Title"
+msgstr "Pagina-/posttitel"
+
+#: admin/settings.php:935
+msgid "Content Background"
+msgstr "Achtergrond content"
+
+#: admin/settings.php:930
+msgid "These colours apply to the top bar menu."
+msgstr "Deze kleuren betreffen het menu in de top bar."
+
+#: admin/settings.php:929
+msgid "Top Bar Menu Link Hover"
+msgstr "Top bar menu links hover"
+
+#: admin/settings.php:928
+msgid "Top Bar Menu Link"
+msgstr "Top bar menu links"
+
+#: admin/settings.php:926
+msgid "Top Bar Background"
+msgstr "Top bar achtergrond"
+
+#: admin/settings.php:920
+msgid "These colours apply to the main site menu (and dropdown elements)."
+msgstr "Deze kleuren betreffen het hoofdmenu van de site (en dropdown elementen)"
+
+#: admin/settings.php:918
+msgid "Submenu Shadow"
+msgstr "Submenu schaduw"
+
+#: admin/settings.php:917
+msgid "Submenu Text"
+msgstr "Submenu tekst"
+
+#: admin/settings.php:916
+msgid "Submenu Background"
+msgstr "Achtergrond submenu"
+
+#: admin/settings.php:915
+msgid "Submenu:"
+msgstr "Submenu:"
+
+#: admin/settings.php:912
+msgid "Menu Text"
+msgstr "Menutekst"
+
+#: admin/settings.php:911
+msgid "Menu Background"
+msgstr "Achtergrond van het menu"
+
+#: admin/settings.php:910
+msgid "Menu:"
+msgstr "Menu:"
+
+#: admin/settings.php:904
+msgid "Site Description"
+msgstr "Site Beschrijving"
+
+#: admin/settings.php:901
+msgid "Site Description Background"
+msgstr "Achtergrond sitebeschrijving"
+
+#: admin/settings.php:892
+msgid "Accent Color #5"
+msgstr "Accentkleur #5"
+
+#: admin/settings.php:891
+msgid "Accent Color #4"
+msgstr "Accentkleur #4"
+
+#: admin/settings.php:890
+msgid "Accent Color #3"
+msgstr "Accentkleur #3"
+
+#: admin/settings.php:889
+msgid "Accent Color #2"
+msgstr "Accentkleur #2"
+
+#: admin/settings.php:888
+msgid "Accent Color #1"
+msgstr "Accentkleur #1"
+
+#: admin/settings.php:883
+msgid "The site background features 4 separately coloured areas.<br />The general text colour applies to all text on the website that is not controlled by any other option."
+msgstr "De achtergrond van de website bevat 4 aparte gebieden met een kleur. De standaard tekstkleur is van toepassing op alles tekst in de website die niet door andere opties kan worden aangepast."
+
+#: admin/settings.php:882
+msgid "Footer Text"
+msgstr "Voettekst"
+
+#: admin/settings.php:881
+msgid "General Lighter Text"
+msgstr "Standaard lichtere tekst"
+
+#: admin/settings.php:880
+msgid "General Text"
+msgstr "Algemene tekst"
+
+#: admin/settings.php:879 admin/settings.php:902 admin/settings.php:927
+#: admin/settings.php:954 admin/settings.php:964 admin/settings.php:975
+msgid "Text:"
+msgstr "Tekst:"
+
+#: admin/settings.php:878
+msgid "Footer Background"
+msgstr "Footer Achtergrond"
+
+#: admin/settings.php:877
+msgid "Footer Widgets Area Background"
+msgstr "Achtergrond widget gebied in footer"
+
+#: admin/settings.php:876
+msgid "Main Site Background"
+msgstr "Achtergond website"
+
+#: admin/settings.php:875
+msgid "Header Background"
+msgstr "Header Achtergrond"
+
+#: admin/settings.php:874 admin/settings.php:900 admin/settings.php:925
+#: admin/settings.php:961 admin/settings.php:972
+msgid "Background:"
+msgstr "Achtergrond:"
+
+#: admin/settings.php:869
+msgid "Define background image"
+msgstr "Achtergrondafbeelding definiëren"
+
+#: admin/settings.php:861
+msgid "By default text is both uppercase and lowercase throughout the theme. With this option you can force uppercase or lowercase text styling in the whole theme. This option won't affect content text."
+msgstr "Standaard is tekst in het thema zowel in kapitalen als in onderkast. Met deze optie kun je kapitalen of onderkast (kleine letters) in het hele thema afdwingen. Deze optie heeft geen invloed op de tekst van de inhoud."
+
+#: admin/settings.php:859
+msgid "Force Lowercase"
+msgstr "Onderkast (kleine letters) forceren"
+
+#: admin/settings.php:859
+msgid "Force Uppercase"
+msgstr "Kapitalen forceren"
+
+#: admin/settings.php:852
+msgid "Select the spacing between the paragraphs."
+msgstr "Kies de ruimte tussen alinea's."
+
+#: admin/settings.php:844
+msgid "The space between <i>letters</i>. Leave 'Default' for normal settings (size value will be as set in the CSS)."
+msgstr "De ruimte tussen <i>letters</i>. Laat 'Standaard' staan voor normale instellingen (de afstand zal zijn zoals ingesteld in de CSS)."
+
+#: admin/settings.php:834
+msgid "The space between <i>words</i>. Leave 'Default' for normal settings (size value will be as set in the CSS)."
+msgstr "De ruimte tussen <i>woorden</i>. Laat 'Standaard' staan voor normale instelling (de afstand zal zijn zoals ingesteld in de CSS)."
+
+#: admin/settings.php:824
+msgid "Text line height. The height between 2 rows of text."
+msgstr "Regelafstand voor tekst. Hoogte tussen twee regels tekst."
+
+#: admin/settings.php:814
+msgid "Disable the default headings indent (left margin)."
+msgstr "Schakel de vooraf ingesteld inspringing voor kopregels uit (linker marge)."
+
+#: admin/settings.php:803
+msgid "Choose the indent for your paragraphs."
+msgstr "Kies de inspringing voor je alinea's."
+
+#: admin/settings.php:793
+msgid "This overwrites the text alignment in posts and pages. Leave 'Default' for normal settings (alignment will remain as declared in posts, comments etc.)."
+msgstr "Dit overschrijft de tekstuitlijning in berichten en pagina's. Laat 'Standaard' staan voor normale instellingen (uitlijning zal blijven zoals ingesteld in berichten, reacties, ...)."
+
+#: admin/settings.php:791 admin/settings.php:1092 admin/settings.php:1449
+msgid "Center"
+msgstr "Centrum"
+
+#: admin/settings.php:791
+msgid "Justify"
+msgstr "Uitvullen"
+
+#: admin/settings.php:791 admin/settings.php:1092 admin/settings.php:1449
+msgid "Right"
+msgstr "Rechts"
+
+#: admin/settings.php:791 admin/settings.php:1092 admin/settings.php:1449
+msgid "Left"
+msgstr "Links"
+
+#: admin/settings.php:791 admin/settings.php:832 admin/settings.php:842
+#: admin/settings.php:859
+msgid "Default"
+msgstr "Standaard"
+
+#: admin/settings.php:783
+msgid "Select the font family and size or insert the Google Font name you want your headings to have (h1 - h6 tags will be affected). Leave 'General Font' and the general font values you selected will be used."
+msgstr "Selecteer de font family en de fontgrootte of vul de naam in van het Google font dat je voor de koppen (h1 - h6 tags) wilt gebruiken. Wanneer je 'Standaard font' laat staan dan worden de standaard fonts gebruikt die je hebt geselecteerd."
+
+#: admin/settings.php:762
+msgid "Select the font family and size or insert the Google Font name you want your main menu to use. Leave 'General Font' and the general font values you selected will be used."
+msgstr "Selecteer de font family en de fontgrootte of vul de naam in van het Google font dat je voor het hoofdmenu wilt gebruiken. Wanneer je 'Standaard font' laat staan dan worden de standaard fonts gebruikt die je hebt geselecteerd."
+
+#: admin/settings.php:744
+msgid "Select the font family and size or insert the Google Font name you want your site title and tagline to use. Leave 'General Font' and the general font values you selected will be used."
+msgstr "Selecteer de font family en de fontgrootte of vul de naam in van het Google font dat je voor de site titel en de ondertitel wilt gebruiken. Wanneer je 'Standaard font' laat staan dan worden de standaard fonts gebruikt die je hebt geselecteerd."
+
+#: admin/settings.php:726
+msgid "Select the font family and size or insert the Google Font name you want your widgets to have. Leave 'General Font' and the general font values you selected will be used."
+msgstr "Selecteer de font family en de fontgrootte of vul de naam in van het Google font dat je voor widgets wilt gebruiken. Wanneer je 'Standaard font' laat staan dan worden de standaard fonts gebruikt die je hebt geselecteerd."
+
+#: admin/settings.php:707
+msgid "Select the font family and size or insert the Google Font name you want your widget titles to have. Leave 'General Font' and the general font values you selected will be used."
+msgstr "Selecteer de font family en de fontgrootte of vul de naam in van het Google font dat je voor widget titels wilt gebruiken. Wanneer je 'Standaard font' laat staan dan worden de standaard fonts gebruikt die je hebt geselecteerd."
+
+#: admin/settings.php:688
+msgid "Select the font family and size or insert the Google Font name you want for your titles. It will affect post titles and page titles. Leave 'General Font' and the general font values you selected will be used."
+msgstr "Selecteer de font family en de fontgrootte of vul de naam in van het Google font dat je voor je titels wilt gebruiken. Dit heeft invloed op je paginatitels. Wanneer je 'Standaard font' laat staan dan worden de standaard fonts gebruikt die je hebt geselecteerd."
+
+#: admin/settings.php:641
+msgid "Hide the footer (copyright area)."
+msgstr "Verberg de voetnoot (copyright verwijzingen)."
+
+#: admin/settings.php:638
+msgid "Hide the footer widgets. "
+msgstr "Verberg de voetnootwidgets."
+
+#: admin/settings.php:635
+msgid "Hide the main menu."
+msgstr "Verberg het hoofdmenu"
+
+#: admin/settings.php:632
+msgid "Hide the header area (logo/title and/or image/empty area)."
+msgstr "Header verbergen (logo/titel en/of afbeelding/leeg gebied)."
+
+#: admin/settings.php:629
+msgid "Hide the topbar (includes the top social area and top menu)."
+msgstr "Top balk verbergen (inclusief social media icons en topmenu)."
+
+#: admin/settings.php:618
+msgid "Choose the areas to hide on the Presentation Page:"
+msgstr "Kies de gebieden op de presentatiepagina die verborgen moeten worden:"
+
+#: admin/settings.php:616
+msgid "Hide areas"
+msgstr "Meer gebieden"
+
+#: admin/settings.php:590
+msgid "Text for the Presentation Page"
+msgstr "Tekst voor de presentatiepagina"
+
+#: admin/settings.php:588 admin/settings.php:598 admin/settings.php:605
+msgid "Text Area"
+msgstr "Tekstgebied"
+
+#: admin/settings.php:579
+msgid "Enable subtle foto frames around your column images. Your columns will have white borders and a small shadow around them and will be slightly skewed."
+msgstr "Schakel subtiele randen in rondom kolomafbeeldingen. Kolommen zullen een witte rand hebben met een lichte schaduw die licht afgeschuind is."
+
+#: admin/settings.php:577
+msgid "Photo Frames"
+msgstr "Fotoranden"
+
+#: admin/settings.php:576
+msgid "The title for the columns area on the presentation page."
+msgstr "Titel van het kolommengebied op de presentatiepagina."
+
+#: admin/settings.php:573
+msgid "Columns Title:"
+msgstr "Kolomtitel:"
+
+#: admin/settings.php:571
+msgid "The space between your columns. Increasing the column spacing will naturally decrease the visible area of your images."
+msgstr "De ruimte tussen de kolommen. Het vegroten van de ruimte tussen de kolommen verkleint het zichtbare gedeelte van de afbeelding."
+
+#: admin/settings.php:569
+msgid "Column spacing:"
+msgstr "Ruimte tussen kolommen"
+
+#: admin/settings.php:566
+msgid "The sizes for your column images. The width is dependent on total site width and the number of columns per row so it isn't configurable."
+msgstr "De afmetingen van de kolomafbeeldingen. De breedte is afhankelijk van de totale breedte van de website en van het aantal kolommen per regel en is daarom niet in te stellen."
+
+#: admin/settings.php:565
+msgid "Width: "
+msgstr "Breedte:"
+
+#: admin/settings.php:564
+msgid "Height: "
+msgstr "Hoogte:"
+
+#: admin/settings.php:563
+msgid "Image Size:"
+msgstr "Afbeeldingsgrootte:"
+
+#: admin/settings.php:553
+msgid "Columns per row:"
+msgstr "Kolommen per regel:"
+
+#: admin/settings.php:551
+msgid "How to display your Presentation Page Columns."
+msgstr "Weergave van kolommen op de presentatiepagina."
+
+#: admin/settings.php:543
+msgid "Static under Image"
+msgstr "Statisch onder afbeelding"
+
+#: admin/settings.php:543
+msgid "Static on Image"
+msgstr "Statische afbeelding"
+
+#: admin/settings.php:543
+msgid "Animated"
+msgstr "Animatie:"
+
+#: admin/settings.php:541
+msgid "Column Display:"
+msgstr "Kolomweergave:"
+
+#: admin/settings.php:533
+msgid "Number of posts to show:"
+msgstr "Aantal berichten om te tonen:"
+
+#: admin/settings.php:513
+msgid "Load your custom Widgets as columns. Go to <a>Appearance >> Widgets</a> and create your custom columns using the Columns widget. You can use as many as you want."
+msgstr "Laad je custom widgets als kolommen. Ga naar <a>Weergave >> Widgets</a> en maak je eigen custom kolommen met de Kolom widget. Je kunt zoveel gebruiken als je wil."
+
+#: admin/settings.php:504
+msgid "Only sticky posts will be loaded into the columns."
+msgstr "Alleen sticky posts worden in de kolommen getoond."
+
+#: admin/settings.php:500
+msgid "Random posts from the category you choose will be loaded into the columns."
+msgstr "Random posts uit de gekozen categorie worden in de kolommen getoond.geladen."
+
+#: admin/settings.php:496
+msgid "Latest posts from the category you choose will be loaded in the columns."
+msgstr "Recente posts uit de gekozen categorie worden in de kolommen getoond."
+
+#: admin/settings.php:492
+msgid "Random posts will be loaded into the columns."
+msgstr "Random posts worden in de kolommen getoond."
+
+#: admin/settings.php:488
+msgid "Latest posts will be loaded into the columns."
+msgstr "De meest recente posts worden in de kolommen getoond."
+
+#: admin/settings.php:481
+msgid "Only the columns with a defined image will become active and visible on the presentation page.<br>When using columns from posts, make sure the selected posts have featured images.<br>Read the FAQs for more info."
+msgstr "Alleen slides waarvoor een afbeelding is gedefinieerd zijn actief en zichtbaar in de live slider.<br>Wanneer je slides van posts gebruikt, zorg er dan voor dat de geselecteerde posts featured afbeeldingen bevatten.<br>Lees de FAQs voor meer informatie."
+
+#: admin/settings.php:472
+msgid "Widget Columns"
+msgstr "Widget kolommen"
+
+#: admin/settings.php:461
+msgid "The linked text that appears at the bottom of each slide. Leave empty to hide the link."
+msgstr "De link-tekst die onderaan elke slide verschijnt. Laat leeg om te verbergen."
+
+#: admin/settings.php:458
+msgid "Read more text:"
+msgstr "Verder lezen tekst:"
+
+#: admin/settings.php:450 content/content-link.php:15
+msgid "Link"
+msgstr "Link"
+
+#: admin/settings.php:447 admin/settings.php:595 admin/settings.php:602
+#: admin/settings.php:609
+msgid "Text"
+msgstr "Tekst"
+
+#: admin/settings.php:444 admin/settings.php:593 admin/settings.php:600
+#: admin/settings.php:607
+msgid "Title"
+msgstr "Titel"
+
+#: admin/settings.php:440 content/content-image.php:14
+msgid "Image"
+msgstr "Afbeelding"
+
+#: admin/settings.php:438
+msgid "Slide"
+msgstr "Sliderafbeelding"
+
+#: admin/settings.php:428
+msgid "The number of words for the slider excerpts."
+msgstr "Aantal woorden van de slider samenvatting."
+
+#: admin/settings.php:426
+msgid "Slider excerpt:"
+msgstr "Slider samenvatting:"
+
+#: admin/settings.php:424
+msgid "The number of posts to show in the slider."
+msgstr "Aantal berichten in die in de slider moeten worden getoond."
+
+#: admin/settings.php:427
+msgid "words"
+msgstr "woorden"
+
+#: admin/settings.php:422
+msgid "Number of posts:"
+msgstr "Aantal Berichten:"
+
+#: admin/settings.php:407 admin/settings.php:520
+msgid "Select Category"
+msgstr "Categorie selecteren"
+
+#: admin/settings.php:405 admin/settings.php:518
+msgid "<br> Choose the category: "
+msgstr "<br> Categorie kiezen: "
+
+#: admin/settings.php:400 admin/settings.php:508
+msgid "List the post IDs you want to display (separated by a comma): "
+msgstr "Typ de ID's van de berichten die je wilt tonen (geschijden door een komma): "
+
+#: admin/settings.php:396
+msgid "Only sticky posts will be loaded into the slider."
+msgstr "Enkel gepinde berichten zullen in de diashow geladen worden."
+
+#: admin/settings.php:392
+msgid "Random posts from the category you choose will be loaded into the slider."
+msgstr "Willekeurige berichten uit de gekozen categorie zullen in de diashow geladen worden."
+
+#: admin/settings.php:388
+msgid "Latest posts from the category you choose will be loaded in the slider."
+msgstr "Recentste berichten uit de gekozen categorie zullen in de diashow geladen worden."
+
+#: admin/settings.php:384
+msgid "Random posts will be loaded into the slider."
+msgstr "Random posts worden in de slider getoond."
+
+#: admin/settings.php:380
+msgid "Latest posts will be loaded into the slider."
+msgstr "Recentste berichten zullen in de diashow geladen worden."
+
+#: admin/settings.php:371
+msgid "Only the slides with a defined image will become active and visible in the live slider.<br>When using slides from posts, make sure the selected posts have featured images.<br>Read the FAQs for more info."
+msgstr "Alleen slides waarvoor een afbeelding is gedefinieerd zijn actief en zichtbaar in de live slider.<br>Wanneer je slides van posts gebruikt, zorg er dan voor dat de geselecteerde posts featured afbeeldingen bevatten.<br>Lees de FAQs voor meer informatie."
+
+#: admin/settings.php:362 admin/settings.php:472
+msgid "Disabled"
+msgstr "Uitgeschakeld"
+
+#: admin/settings.php:362 admin/settings.php:472
+msgid "Specific Posts"
+msgstr "Specifieke berichten"
+
+#: admin/settings.php:362 admin/settings.php:472
+msgid "Random Posts from Category"
+msgstr "Willekeurige berichten uit een categorie"
+
+#: admin/settings.php:362 admin/settings.php:472
+msgid "Latest Posts from Category"
+msgstr "Recentste berichten uit een Ccatagorie"
+
+#: admin/settings.php:362 admin/settings.php:472
+msgid "Random Posts"
+msgstr "Willekeurige berichten"
+
+#: admin/settings.php:362 admin/settings.php:472
+msgid "Latest Posts"
+msgstr "Laatste berichten"
+
+#: admin/settings.php:362
+msgid "Custom Slides"
+msgstr "Aangepaste dia's"
+
+#: admin/settings.php:353
+msgid "Add margins to the slider. By default this is set to 0 and you will want to increase this value when the slider is not full width."
+msgstr "Voeg marges toe aan de slider. Standaard staan de marges op 0 en je zult ze willen vergroten wanneer de slider niet de volle breedte inneemt."
+
+#: admin/settings.php:351
+msgid "Slider Top/Bottom Margin:"
+msgstr "Marge boven en onder de slider:"
+
+#: admin/settings.php:349
+msgid "The slider's border width. You can also edit its color from the Color Settings. Use a border width when your slider is smaller than the total site width."
+msgstr "De breedte van de rand van de slider. Je kunt de kleur bewerken bij Kleurinstellingen. Gebruik een rand wanneer je slider smaller is dan de breedte van de website."
+
+#: admin/settings.php:348 admin/settings.php:352
+msgid "px"
+msgstr "px"
+
+#: admin/settings.php:347
+msgid "Slider Border Width:"
+msgstr "Breedte van de rand van de slider:"
+
+#: admin/settings.php:345
+msgid "Text font size."
+msgstr "Fontgrootte tekst"
+
+#: admin/settings.php:344
+msgid "Center Align"
+msgstr "Uitlijnen midden"
+
+#: admin/settings.php:334
+msgid "Text font size:"
+msgstr "Fontgrootte tekst"
+
+#: admin/settings.php:332
+msgid "Slider title Font size."
+msgstr "Fontgrootte slidertitel"
+
+#: admin/settings.php:331 admin/settings.php:343
+msgid "All Caps"
+msgstr "Kapitalen"
+
+#: admin/settings.php:322
+msgid "Title font size:"
+msgstr "Lettergrootte titel:"
+
+#: admin/settings.php:320
+msgid "The Left and Right arrows on your slider"
+msgstr "De linker- en rechterpijl op je diashow"
+
+#: admin/settings.php:312
+msgid "Hidden"
+msgstr "Verborgen"
+
+#: admin/settings.php:312
+msgid "Visible on Hover"
+msgstr "Zichtbaar bij muisover"
+
+#: admin/settings.php:312
+msgid "Always Visible"
+msgstr "Altijd zichtbaar"
+
+#: admin/settings.php:310
+msgid "Slider arrows:"
+msgstr "Diashowpijlen:"
+
+#: admin/settings.php:308
+msgid "Your slider navigation type. Shown under the slider."
+msgstr "Je diaschow type. Getoond onder de diashow"
+
+#: admin/settings.php:300
+msgid "None"
+msgstr "Geen"
+
+#: admin/settings.php:300
+msgid "Bullets"
+msgstr "Bolletjes"
+
+#: admin/settings.php:300
+msgid "Numbers"
+msgstr "Nummers"
+
+#: admin/settings.php:298
+msgid "Slider navigation:"
+msgstr "Diashow navigatie:"
+
+#: admin/settings.php:296
+msgid "The time in which a slide will be still and visible."
+msgstr "De tijd waarin de dia zal stilstaan en zichtbaar zal zijn."
+
+#: admin/settings.php:294
+msgid "Pause Time:"
+msgstr "Pausetijd: "
+
+#: admin/settings.php:292
+msgid "The time in which the transition animation will take place."
+msgstr "Hoelang de overgang zal duren."
+
+#: admin/settings.php:291 admin/settings.php:295
+msgid "milliseconds"
+msgstr "milliseconden"
+
+#: admin/settings.php:290
+msgid "Animation Time:"
+msgstr "Antimatietijd:"
+
+#: admin/settings.php:288
+msgid "The transition effect of your slides."
+msgstr "Overgangseffect van de afbeeldingen."
+
+#: admin/settings.php:279
+msgid "BoxRainGrowReverse"
+msgstr "Omgekeerde groeiende regenboogdoos"
+
+#: admin/settings.php:279
+msgid "BoxRainGrow"
+msgstr "Groeiende regenboogdoos"
+
+#: admin/settings.php:279
+msgid "BoxRainReverse"
+msgstr "Omgedeerde regendoos"
+
+#: admin/settings.php:279
+msgid "BoxRain"
+msgstr "Regendoos"
+
+#: admin/settings.php:279
+msgid "BoxRandom"
+msgstr "Willekeurige doos"
+
+#: admin/settings.php:279
+msgid "SliceUpDownLeft"
+msgstr "Naar linksonder inschuiven"
+
+#: admin/settings.php:279
+msgid "SliceUpDown"
+msgstr "Naar beneden inschuiven"
+
+#: admin/settings.php:279
+msgid "SliceUpLeft"
+msgstr "Naar links schuiven"
+
+#: admin/settings.php:279
+msgid "SliceUp"
+msgstr "Naar boven schuiven"
+
+#: admin/settings.php:279
+msgid "SliceDownLeft"
+msgstr "Naar links schuiven"
+
+#: admin/settings.php:279
+msgid "SliceDown"
+msgstr "Naar beneden schuiven"
+
+#: admin/settings.php:279
+msgid "SlideInLeft"
+msgstr "Links inschuiven"
+
+#: admin/settings.php:279
+msgid "SlideInRight"
+msgstr "Rechts inschuiven"
+
+#: admin/settings.php:279
+msgid "Fade"
+msgstr "vervagen"
+
+#: admin/settings.php:279
+msgid "Fold"
+msgstr "Vouwen"
+
+#: admin/settings.php:279
+msgid "Random"
+msgstr "Willekeurig"
+
+#: admin/settings.php:277
+msgid "Animation:"
+msgstr "Animatie:"
+
+#: admin/settings.php:275
+msgid "The dimensions of your slider. Make sure your images are of the same size."
+msgstr "De afmetingen van je diashow. Zorg ervoor dat da afbeeldingen dezelfde groote hebben."
+
+#: admin/settings.php:274
+msgid "height"
+msgstr "Hoogte"
+
+#: admin/settings.php:273
+msgid "width"
+msgstr "Breedte"
+
+#: admin/settings.php:272
+msgid "Slider Dimensions:"
+msgstr "Diavoorstelling afmetingen:"
+
+#: admin/settings.php:251
+msgid "Posts per row:"
+msgstr "Berichten per regel:"
+
+#: admin/settings.php:248
+msgid "The number of posts to show on the Presentation Page. The same number of posts will be loaded with the <em>More Posts</em> button."
+msgstr "Het aantal posts dat wordt getoond op de presentatiepagina. Hetzelfde aantal posts zal getoond worden met de <em>Meer posts</em> button."
+
+#: admin/settings.php:247 admin/settings.php:423
+msgid "posts"
+msgstr "berichten"
+
+#: admin/settings.php:245
+msgid "Show:"
+msgstr "Tonen:"
+
+#: admin/settings.php:244
+msgid "Enable to display the latest posts on the presentation page, below the columns. Sticky posts are always displayed and not counted."
+msgstr "Schakel in om de meest recente berichten te tonen op de presentatiepagina onder de kolommen. Sticky berichten worden altijd getoond en niet geteld."
+
+#: admin/settings.php:215
+msgid "Limit the header widget area max width as percentage of the entire header width."
+msgstr "Beperk de max breedte van de ruimte voor de header widget als een percentage van de hele header."
+
+#: admin/settings.php:213
+msgid "25%"
+msgstr "25%"
+
+#: admin/settings.php:213
+msgid "33%"
+msgstr "33%"
+
+#: admin/settings.php:213
+msgid "50%"
+msgstr "50%"
+
+#: admin/settings.php:213
+msgid "60%"
+msgstr "60%"
+
+#: admin/settings.php:203
+msgid "Limitations: It has to be an image. It should be max 64x64 pixels in dimensions. Recommended file extensions .ico and .png. <br> <strong>Note that some browsers do not display the changed favicon instantly.</strong>"
+msgstr "Let op: dit moet een afbeelding zijn. Maximale afmetingen: 64x64 pixels. Aanbevolen bestandsformaten .ico en .png. <br> <strong>Denk eraan dat sommige browsers niet direct een gewijzigd favicon tonen.</strong>"
+
+#: admin/settings.php:195
+msgid "Select the top and left spacing for the header content. Use it to better position your site title and description or custom logo inside the header. "
+msgstr "Kies de ruimte links en boven de header inhoud. Gebruik dit om de titel en beschrijving of je eigen logo beter binnen de header te plaatsen. "
+
+#: admin/settings.php:194
+msgid "left"
+msgstr "Links"
+
+#: admin/settings.php:193
+msgid "top"
+msgstr "Bovenkant"
+
+#: admin/settings.php:188 admin/settings.php:204 admin/settings.php:443
+msgid "Select / Upload Image"
+msgstr "Afbeelding kiezen / uploaden"
+
+#: admin/settings.php:187
+msgid "Custom Logo upload. The logo will appear over the header image if you have used one."
+msgstr "Eigen logo uploaden. Het logo wordt boven de header afbeelding getoond indien je die gebruikt."
+
+#: admin/settings.php:179
+msgid "Choose what to display inside your header area."
+msgstr "Kies wat je in de header wilt tonen."
+
+#: admin/settings.php:177
+msgid "Empty"
+msgstr "Legen"
+
+#: admin/settings.php:177
+msgid "Clickable header image"
+msgstr "Klikbare header afbeelding"
+
+#: admin/settings.php:177
+msgid "Custom Logo"
+msgstr "Eigen logo"
+
+#: admin/settings.php:177
+msgid "Site Title and Description"
+msgstr "Website titel en beschrijving"
+
+#: admin/settings.php:169
+msgid "By default the header has a minimum height set to accommodate the site title or custom logo. Enabling this option removes that minimum height and the header becomes fully responsive, scalling to any size.<br> Only enable this if you're <b>not</b> using a logo or site title and description in the header. Also make sure you have a header image uploaded. "
+msgstr "Standaard heeft de header een minimum hoogte waar de titel van de website of een logo in past. het inschakelen van deze optie maakt die minimum hoogte ongedaan waardoor de header volledig responsive wordt en naar elke afmeting schaalt.<br> Schakel dit alleen in wanneer je <b>niet</b> een logo of site titel met beschrijving of een logo in de header gebruikt. Controleer of je een header afbeelding hebt geüpload. "
+
+#: admin/settings.php:168
+msgid "Force header image responsiveness."
+msgstr "Afbeelding responsive?"
+
+#: admin/settings.php:166
+msgid "Center the header image horizontally"
+msgstr "Afbeelding horizontaal centreren"
+
+#: admin/settings.php:165
+msgid "Define header image"
+msgstr "Header afbeelding kiezen"
+
+#: admin/settings.php:159
+msgid "Select the header's height. After saving the settings go and upload your new header image. The header's minimum width should be "
+msgstr "Kies de hoogte van de header. Upload een nieuwe header afbeelding na het opslaan.De minimum breedte van de header is "
+
+#: admin/settings.php:147
+msgid "Enable to make Nirvana fully responsive. The layout and general sizes of your blog will adjust depending on what device and what resolution it is viewed in.<br> Do not disable unless you have a good reason to."
+msgstr "Schakel in om Nirvana volledig responsive te maken. De layout en de algemene afmetingen van je website zullen zich aanpassen afhankelijk van het device en de resolutie waarmee de site bekeken wordt.<br> Schakel alleen uit wanneer je daar een goede reden voor hebt."
+
+#: admin/settings.php:146
+msgid "Allow zoom"
+msgstr "Zoom toestaan"
+
+#: admin/settings.php:123 admin/settings.php:138 admin/settings.php:228
+#: admin/settings.php:242 admin/settings.php:812 admin/settings.php:1063
+#: admin/settings.php:1078 admin/settings.php:1176 admin/settings.php:1192
+#: admin/settings.php:1388 admin/settings.php:1414 admin/settings.php:1433
+#: admin/settings.php:1482 admin/settings.php:1629 admin/settings.php:1673
+#: admin/settings.php:1687
+msgid "Disable"
+msgstr "Uitschakelen"
+
+#: admin/settings.php:123 admin/settings.php:138 admin/settings.php:228
+#: admin/settings.php:242 admin/settings.php:578 admin/settings.php:812
+#: admin/settings.php:1063 admin/settings.php:1078 admin/settings.php:1176
+#: admin/settings.php:1192 admin/settings.php:1414 admin/settings.php:1433
+#: admin/settings.php:1482 admin/settings.php:1629 admin/settings.php:1673
+#: admin/settings.php:1687
+msgid "Enable"
+msgstr "Inschakelen"
+
+#: admin/settings.php:116
+msgid "Select the layout format for your site.<br> <strong>Wide</strong> - full width layout. <br><strong>Boxed</strong> - fixed width layout."
+msgstr "Kies de layout voor je website.<br> <strong>Volle breedte</strong> - Volle breedte layout.<br><strong>Vaste breedte</strong> - Layout met vaste breedte."
+
+#: admin/settings.php:108
+msgid "Boxed"
+msgstr "Gefixeerde breedte"
+
+#: admin/settings.php:108
+msgid "Wide"
+msgstr "Maximale breedte"
+
+#: admin/settings.php:99
+msgid "Select the width of your <b>content</b> and <b>sidebar(s)</b>. When using a 3 columns layout (with 2 sidebars) they will each have half the configured width."
+msgstr "Kies de breedte van je <b>content</b> en <b>sidebar(s)</b>. Wanneer je een 3-koloms layout gebruikt (met 2 sidebars) dan heeft is elke sidebar de helft van de ingestelde breedte."
+
+#: admin/settings.php:92
+msgid "Total width ="
+msgstr "Totale breedte = "
+
+#: admin/settings.php:91
+msgid "Sidebar(s) ="
+msgstr "Sidebar(s) = "
+
+#: admin/settings.php:90
+msgid "Content ="
+msgstr "Inhoud = "
+
+#: admin/settings.php:41
+msgid "Choose your layout. Possible options are: <br> No sidebar, a single sidebar on either left of right, two sidebars on either left or right and two sidebars on each side.<br>This can be overriden in pages by using Page Templates."
+msgstr "Kies je layout. De mogelijkheden zijn: <br> Geen sidebar, één sidebar links of rechts, twee sidebars links of rechts en twee sidebars aan elke zijde.<br>Binnen een pagina kan dit overschreven worden met door een pagina template te gebruiken"
+
+#: admin/settings.php:33
+msgid "Three columns, one sidebar on each side"
+msgstr "Drie kolomen, één sidebar aan elke kant"
+
+#: admin/settings.php:32
+msgid "Three columns, sidebars on the left"
+msgstr "Drie kolomen, sidebars aan de linkerkant"
+
+#: admin/settings.php:31
+msgid "Three columns, sidebars on the right"
+msgstr "Drie kolommen (met 2 zijbalken rechts)"
+
+#: admin/settings.php:30
+msgid "Two columns, sidebar on the left"
+msgstr "Twee kolommen, sidebar links"
+
+#: admin/settings.php:29
+msgid "Two columns, sidebar on the right"
+msgstr "Twee kolommen, sidebar rechts"
+
+#: admin/settings.php:28
+msgid "One column (no sidebars)"
+msgstr "Eén kolom (geen sidebars)"
+
+#: admin/prototypes.php:30
+msgid "or Google font"
+msgstr "of Google Font"
+
+#: admin/main.php:425
+msgid "Reset Nirvana Settings to Defaults?"
+msgstr "Nirvana standaardinstellingen terugzetten?"
+
+#: admin/main.php:413
+msgid "Nirvana Latest News"
+msgstr "Laatste nieuws van Nirvana"
+
+#: admin/main.php:406
+msgid "A collection of preset color schemes to use as the starting point for your site. Just load one up and see your blog in a different light."
+msgstr "Een verzameling standaard kleurschema's die je kunt gebruiken als een startpunt voor je website. Laad er een en zie je website in een ander licht."
+
+#: admin/main.php:405
+msgid "Color Schemes"
+msgstr "Kleurenschema's"
+
+#: admin/main.php:400
+msgid "Without the import, the export would just be a fool's exercise. Make sure you have the exported file ready and see you after the mouse click."
+msgstr "Zonder importeermogelijkheid zou de export een domme optie zijn. Zorg ervoor dat je het geëxporteerde bestand klaar hebt staan. Tot zo, na de muisklik."
+
+#: admin/main.php:399
+msgid "Import Theme options"
+msgstr "Importeer thema instellingen"
+
+#: admin/main.php:394
+msgid "It's that easy: a mouse click away - the ability to export your Nirvana settings and save them on your computer. Feeling safer? You should!"
+msgstr "Zo eenvoudig is het: slechts een muisklik en je exporteert je Nirvana instellingen naar je computer. Voel je je nu veiliger? Goed zo!"
+
+#: admin/main.php:393
+msgid "Export Theme options"
+msgstr "Exporteer thema instellingen"
+
+#: admin/main.php:388
+msgid "Import/Export Settings"
+msgstr "Importeer/exporteer instellingen"
+
+#: admin/main.php:296
+msgid "Nirvana settings updated successfully."
+msgstr "Nirvana instellingen succesvol geüpdate!"
+
+#: admin/main.php:288
+msgid "Sorry, but you do not have sufficient permissions to access this page."
+msgstr "Sorry, je hebt niet geen toestemming om deze pagina te bekijken."
+
+#: admin/main.php:261
+msgid "Custom JavaScript"
+msgstr "Aangepaste JavaScrips"
+
+#: admin/main.php:260
+msgid "Custom CSS"
+msgstr "Handmatige CSS"
+
+#: admin/main.php:259
+msgid "Custom Footer Text"
+msgstr "Custom footer tekst"
+
+#: admin/main.php:255
+msgid "Internet Explorer Compatibility Tag"
+msgstr "Internet Explorer compatibiliteitstag"
+
+#: admin/main.php:254
+msgid "Protection Engine Notices"
+msgstr "Meldingen protection engine"
+
+#: admin/main.php:251
+msgid "Socials display"
+msgstr "Weergave sociale netwerken"
+
+#: admin/main.php:243
+msgid "Featured Images as HEADER Images "
+msgstr "Uitgelichte afbeeldingen als KOPTEKST afbeeldingen"
+
+#: admin/main.php:242
+msgid "Thumbnails Size "
+msgstr "Groote miniaturen"
+
+#: admin/main.php:241
+msgid "Thumbnails Alignment "
+msgstr "Uitlijning miniaturen"
+
+#: admin/main.php:240
+msgid "Auto Select Images From Posts "
+msgstr "Selecteer automatisch berichtafbeeldingen"
+
+#: admin/main.php:239
+msgid "Featured Images as POST Thumbnails "
+msgstr "Uitgelichte afbeeldingen als BERICHT-miniaturen"
+
+#: admin/main.php:236
+msgid "HTML tags in Excerpts"
+msgstr "HTML tags in fragmenten"
+
+#: admin/main.php:235
+msgid "Continue reading link text "
+msgstr "Verder lezen link tekst"
+
+#: admin/main.php:234
+msgid "Excerpt suffix"
+msgstr "Achtervoegsel fragment"
+
+#: admin/main.php:155
+msgid "Magazine Layout"
+msgstr "Magazinelay-out"
+
+#: admin/main.php:233
+msgid "Post Excerpt Length "
+msgstr "Lengte van de samenvatting"
+
+#: admin/main.php:232
+msgid "Archive and Category Pages"
+msgstr "Archief- en categoriepagina's"
+
+#: admin/main.php:231 admin/settings.php:362 admin/settings.php:472
+msgid "Sticky Posts"
+msgstr "Gepinde Berichten"
+
+#: admin/main.php:230 includes/theme-functions.php:188
+msgid "Home Page"
+msgstr "Home pagina"
+
+#: admin/main.php:227
+msgid "Comments off"
+msgstr "Reageren uitgeschakeld"
+
+#: admin/main.php:226
+msgid "Comments are closed text"
+msgstr "Reacties zijn uitgeschakeld tekst"
+
+#: admin/main.php:225
+msgid "Text Under Comments"
+msgstr "Tekst onder reacties"
+
+#: admin/main.php:224
+msgid "Show on Single Pages"
+msgstr "Op één pagina tonen"
+
+#: admin/main.php:223
+msgid "Show on Blog Pages"
+msgstr "Toon op blogpagina's"
+
+#: admin/main.php:222
+msgid "Meta Bar Position"
+msgstr "Positie Metabalk"
+
+#: admin/main.php:219
+msgid "Back to Top button"
+msgstr "Terug naar boven knop"
+
+#: admin/main.php:218
+msgid "Hide Tables"
+msgstr "Verberg tabellen"
+
+#: admin/main.php:217
+msgid "Category Titles"
+msgstr "Categorietitels"
+
+#: admin/main.php:216
+msgid "Page Titles"
+msgstr "Pagina titels"
+
+#: admin/main.php:215
+msgid "Post Images Border"
+msgstr "Rand berichtafbeeldingen"
+
+#: admin/main.php:214
+msgid "Search Bar Locations"
+msgstr "Positie zoekbalk"
+
+#: admin/main.php:213
+msgid "Menu Alignment"
+msgstr "Uitlijning menu"
+
+#: admin/main.php:212
+msgid "Pagination"
+msgstr "Pagina overslaan"
+
+#: admin/main.php:211
+msgid "Breadcrumbs"
+msgstr "Broodkruimels"
+
+#: admin/main.php:207
+msgid "Caption type"
+msgstr "Bijschrift type"
+
+#: admin/main.php:206
+msgid "Socials"
+msgstr "Social media"
+
+#: admin/main.php:205
+msgid "Post metas"
+msgstr "Meta-informatie posts"
+
+#: admin/main.php:204
+msgid "Links"
+msgstr "Links"
+
+#: admin/main.php:203
+msgid "Footer Widgets"
+msgstr "Footer widgets"
+
+#: admin/main.php:202
+msgid "Sidebar Widgets"
+msgstr "Sidebar widgets"
+
+#: admin/main.php:200
+msgid "Content"
+msgstr "Inhoud"
+
+#: admin/main.php:199 admin/main.php:210 admin/settings.php:1571
+msgid "Top Bar"
+msgstr "Bovenste balk"
+
+#: admin/main.php:198 admin/settings.php:1106
+msgid "Main Menu"
+msgstr "Hoofdmenu"
+
+#: admin/main.php:197 admin/settings.php:903
+msgid "Site Title"
+msgstr "Websitetitel"
+
+#: admin/main.php:196
+msgid "Accents"
+msgstr "Accenten"
+
+#: admin/main.php:195
+msgid "General"
+msgstr "Algemeen"
+
+#: admin/main.php:194
+msgid "Background Image"
+msgstr "Achtergrondafbeelding"
+
+#: admin/main.php:191
+msgid "Uppercase Text"
+msgstr "Kapitaaltekst"
+
+#: admin/main.php:190
+msgid "Letter Spacing"
+msgstr "Letterspatiëring"
+
+#: admin/main.php:189
+msgid "Word Spacing"
+msgstr "Woordspatiëring"
+
+#: admin/main.php:188
+msgid "Line Height"
+msgstr "Regelhoogte"
+
+#: admin/main.php:187
+msgid "Headings Indent"
+msgstr "Inspringen kopregel"
+
+#: admin/main.php:186
+msgid "Paragraph Indent"
+msgstr "Inspringen alinea"
+
+#: admin/main.php:185
+msgid "Paragraph spacing"
+msgstr "Alinea marge"
+
+#: admin/main.php:184
+msgid "Force Text Align"
+msgstr "Forceer tekstuitlijning"
+
+#: admin/main.php:183
+msgid "Headings Font"
+msgstr "Font kopregel"
+
+#: admin/main.php:182
+msgid "Main Menu Font"
+msgstr "Font hoofdmenu"
+
+#: admin/main.php:181
+msgid "Site Title Font"
+msgstr "Font paginatitel"
+
+#: admin/main.php:180
+msgid "Widget Font"
+msgstr "Widget font"
+
+#: admin/main.php:179
+msgid "Widget Title Font"
+msgstr "Font widget titel"
+
+#: admin/main.php:178
+msgid "Post Title Font "
+msgstr "Berichttitel lettertype"
+
+#: admin/main.php:177 admin/settings.php:686 admin/settings.php:705
+#: admin/settings.php:724 admin/settings.php:742 admin/settings.php:760
+#: admin/settings.php:781
+msgid "General Font"
+msgstr "Algemeen lettertype"
+
+#: admin/main.php:174
+msgid "Header Widget Width"
+msgstr "Breedte headerwidget"
+
+#: admin/main.php:173
+msgid "FavIcon Upload"
+msgstr "Favicon uploaden"
+
+#: admin/main.php:172
+msgid "Header Content Spacing"
+msgstr "Afstand content tot header"
+
+#: admin/main.php:171
+msgid "Custom Logo Upload"
+msgstr "Eigen logo uploaden"
+
+#: admin/main.php:170
+msgid "Site Header"
+msgstr "Site Header"
+
+#: admin/main.php:169
+msgid "Header Image"
+msgstr "Kopafbeelding"
+
+#: admin/main.php:168
+msgid "Header Height"
+msgstr "Hoogte header"
+
+#: admin/main.php:165
+msgid "Extras"
+msgstr "Extra's"
+
+#: admin/main.php:164
+msgid "Text Areas"
+msgstr "Tekstgebieden"
+
+#: admin/main.php:163
+msgid "Columns"
+msgstr "Kolommen"
+
+#: admin/main.php:162
+msgid "Slides"
+msgstr "Dia's"
+
+#: admin/main.php:161
+msgid "Slider Settings"
+msgstr "Slider instellingen"
+
+#: admin/main.php:160
+msgid "Show Posts on Presentation Page"
+msgstr "Toon posts op presentatiepagina"
+
+#: admin/main.php:159
+msgid "Enable Presentation Page"
+msgstr "Presentatie pagina inschakelen"
+
+#: admin/main.php:156
+msgid "Responsiveness"
+msgstr "Responsiveness"
+
+#: admin/main.php:154
+msgid "Duality"
+msgstr "Dualiteit"
+
+#: admin/main.php:153
+msgid "Content Margins"
+msgstr "Content marge"
+
+#: admin/main.php:152
+msgid "Content / Sidebar Width"
+msgstr "Inhoud / Sidebar breedte"
+
+#: admin/main.php:151
+msgid "Main Layout"
+msgstr "Belangrijkste layout"
+
+#: admin/main.php:148
+msgid "Miscellaneous Settings"
+msgstr "Diverse instellingen"
+
+#: admin/main.php:147
+msgid "Social Media Settings"
+msgstr "Sociale netwerken instellingen"
+
+#: admin/main.php:146
+msgid "Featured Image Settings"
+msgstr "Uitgelichte afbeeldingen instellingen"
+
+#: admin/main.php:145
+msgid "Post Excerpt Settings"
+msgstr "Bericht fragment instellingen"
+
+#: admin/main.php:144
+msgid "Post Information Settings"
+msgstr "Bericht informatie instellingen"
+
+#: admin/main.php:143
+msgid "Graphics Settings"
+msgstr "Grafische instellingen"
+
+#: admin/main.php:142
+msgid "Color Settings"
+msgstr "Kleurinstellingen"
+
+#: admin/main.php:141
+msgid "Text Settings"
+msgstr "Tekst instellingen"
+
+#: admin/main.php:140 admin/main.php:201
+msgid "Presentation Page"
+msgstr "Presentatie pagina"
+
+#: admin/main.php:139
+msgid "Header Settings"
+msgstr "Header instellingen"
+
+#: admin/main.php:138
+msgid "Layout Settings"
+msgstr "Layout instellingen"
+
+#: admin/admin-functions.php:301
+msgid "Read the full post"
+msgstr "Lees het volledige artikel"
+
+#: admin/admin-functions.php:300
+msgid "Posted on"
+msgstr "Gepost op"
+
+#: admin/admin-functions.php:296
+msgid "No news items."
+msgstr "Geen nieuwsberichten."
+
+#: admin/admin-functions.php:243
+msgid "Load Color Scheme"
+msgstr "Kleurschema laden"
+
+#: admin/admin-functions.php:219
+msgid "Select one of the preset color schemes and press the Load button.<br> <b> CAUTION! </b> When loading a color scheme, the Nirvana theme settings under Text and Color Settings will be overriden. All other settings will remain intact.<br> <u>SUGGESTION:</u> It's always better to export your current theme settings before loading a color scheme."
+msgstr "Selecteer een van de kleurschema's en druk op de laad-knop<br> <b> VOORZICHTIG! </b> Wanneer je een kleurschema laadt worden de Nirva thema instellingen onder Tekst en Kleur instellingen overschreven! Alle andere instellingen blijven intact.<br><b>SUGGESTIE:</b> Exporteer je huidige thema instellingen voordat je een ander kleurschema laadt."
+
+#: admin/admin-functions.php:214
+msgid "Are you sure you want to load a new color scheme? \\nAll current saved settings under Text and Color Settings will be lost."
+msgstr "Weet je zeker dat je een nieuw kleurenschema wil inladen? \\nAlle huidige instellingen bij Tekst en kleurinstellingen gaan verloren."
+
+#: admin/admin-functions.php:205
+msgid "ERROR: You are not authorised to perform that operation"
+msgstr "FOUT: Je bent niet gemachtigd om deze bewerking uit te voeren"
+
+#: admin/admin-functions.php:199
+msgid "Oops! The file is empty or there was no file. This error could also be caused by uploads being disabled in your php.ini or by post_max_size being defined as smaller than upload_max_filesize in php.ini."
+msgstr "Oeps! Het bestand is leeg of er was geen bestand. Deze fout kan ook veroorzaakt zijn doordat uploads uigeschakeld zijn in je php.ini or doordat post_max_size gedifiniëerd is als kleiner dan upload_max filesize in php.ini"
+
+#: admin/admin-functions.php:190
+msgid "The uploaded file is not supported. Make sure the file was exported from the Nirvana page and that it is a text file."
+msgstr "Het geüploade bestand wordt niet ondersteund. Zorg ervoor dat het bestand wordt geëxporteerd van de Nirvana pagina en dat het een tekstbestand is."
+
+#: admin/admin-functions.php:184
+msgid "The uploaded file could not be read."
+msgstr "Het ge&uuml;ploade bestand kan niet worden gelezen."
+
+#: admin/admin-functions.php:178
+msgid "The uploaded file does not contain valid Nirvana options. Make sure the file is exported from the Nirvana Options page."
+msgstr "Het geüploade bestand bevat niet geldige Nirvana opties. Zorg ervoor dat het bestand is geëxporteerd vanuit de Nirvana Opties pagina!"
+
+#: admin/admin-functions.php:177 admin/admin-functions.php:183
+#: admin/admin-functions.php:189
+msgid "Oops, there's a small problem."
+msgstr "Oeps, er is een klein probleem."
+
+#: admin/admin-functions.php:174
+msgid "Go back to the Nirvana options page and check them out!"
+msgstr "Terug naar de Nirvana Opties!"
+
+#: admin/admin-functions.php:173
+msgid "Great! The options have been imported!"
+msgstr "Geweldig! De opties zijn geïmporteerd!"
+
+#: admin/admin-functions.php:170
+msgid "Import Nirvana Theme Options "
+msgstr "Nirvana Thema Opties importeren"
+
+#: admin/admin-functions.php:104
+msgid "And import!"
+msgstr "Importeren!"
+
+#: admin/admin-functions.php:98
+msgid "Maximum size: %s"
+msgstr "maximale grootte: %s"
+
+#: admin/admin-functions.php:96
+msgid "Just choose a file from your computer:"
+msgstr "Kies gewoon een bestand van je computer:"
+
+#: admin/admin-functions.php:94
+msgid "Hi! This is where you import the  Nirvana settings.<i> Please remember that this is still an experimental feature.</i>"
+msgstr "Hi! Hier kun je de Nirvana instellingen importeren.<i> Denk eraan dat deze functie experimenteel is.</i>"
+
+#: admin/admin-functions.php:92
+msgid "Import Nirvana Theme Options"
+msgstr "Importeer Nirvana Thema opties"
+
+#: admin/admin-functions.php:84
+msgid "Before you can upload your import file, you will need to fix the following error:"
+msgstr "Het importbestand kan niet worden geupload. Los eerst de volgende fout op:"
+
+#: 404.php:20
+msgid "Apologies, but the page you requested could not be found. Perhaps searching will help."
+msgstr "Helaas, de opgevraagde pagina kon niet worden gevonden. Misschien kan de zoekfunctie helpen."
+
+#: 404.php:17
+msgid "Not Found"
+msgstr "Niets gevonden"
+
+#. Theme URI of the plugin/theme
+msgid "https://www.cryoutcreations.eu/wordpress-themes/nirvana"
+msgstr "https://www.cryoutcreations.eu/wordpress-themes/nirvana"
+
+#. Author URI of the plugin/theme
+msgid "https://www.cryoutcreations.eu"
+msgstr "https://www.cryoutcreations.eu"
+
+#. Author of the plugin/theme
+msgid "Cryout Creations"
+msgstr "Cryout Creations"

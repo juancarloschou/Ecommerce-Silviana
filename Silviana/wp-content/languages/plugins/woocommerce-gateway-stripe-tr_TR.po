@@ -1,0 +1,473 @@
+# Translation of Stable (latest release) in Turkish
+# This file is distributed under the same license as the Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2016-09-12 13:21:56+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: GlotPress/2.1.0-alpha\n"
+"Project-Id-Version: Stable (latest release)\n"
+
+#: includes/class-wc-gateway-stripe-addons.php:104
+#: includes/class-wc-gateway-stripe-addons.php:150
+#: includes/class-wc-gateway-stripe.php:437
+#: includes/legacy/class-wc-gateway-stripe.php:446
+msgid "Sorry, the minimum allowed order total is 0.50 to use this payment method."
+msgstr "Maalesef, bu ödeme yöntemini kullanabilmek için izin verilen asgari sipariş toplamı 0.50 TL'dir."
+
+#: includes/class-wc-gateway-stripe-addons.php:117
+msgid "Customer not found"
+msgstr "Müşteri bulunamadı"
+
+#: includes/class-wc-gateway-stripe-addons.php:157
+msgid "Unable to store payment details. Please try again."
+msgstr "Ödeme bilgileri saklanamadı. Lütfen tekrar deneyin."
+
+#: includes/class-wc-gateway-stripe-addons.php:218
+#: includes/class-wc-gateway-stripe-addons.php:269
+msgid "Stripe Transaction Failed (%s)"
+msgstr "Stripe İşlemi Başarısız (%s)"
+
+#: includes/class-wc-gateway-stripe-addons.php:400
+#: includes/class-wc-gateway-stripe-addons.php:405
+msgid "Via %s card ending in %s"
+msgstr "%s içinde süresi dolan kart %s yoluyla"
+
+#: includes/class-wc-gateway-stripe.php:18
+#: includes/legacy/class-wc-gateway-stripe.php:18
+msgid "Stripe"
+msgstr "Stripe"
+
+#: includes/class-wc-gateway-stripe.php:19
+#: includes/legacy/class-wc-gateway-stripe.php:19
+msgid "Stripe works by adding credit card fields on the checkout and then sending the details to Stripe for verification."
+msgstr "Stripe, ödeme sırasında kredi kartı alanları ekleyerek ve ardından bilgileri doğrulama amacıyla Stripe'a göndererek çalışır."
+
+#: includes/class-wc-gateway-stripe.php:61
+#: includes/legacy/class-wc-gateway-stripe.php:60
+msgid "Continue to payment"
+msgstr "Ödeme adımına devam et"
+
+#: includes/class-wc-gateway-stripe.php:65
+#: includes/legacy/class-wc-gateway-stripe.php:64
+msgid "TEST MODE ENABLED. In test mode, you can use the card number 4242424242424242 with any CVC and a valid expiration date or check the documentation \"<a href=\"%s\">Testing Stripe</a>\" for more card numbers."
+msgstr "TEST MODU ETKİN. Test modunda herhangi bir CVC kodu e geçerli bir sona erme tarihiyle 4242424242424242 numaralı kartı kullanabilir ya da daha fazla kart numarası için \"<a href=\"%s\">Stripe Testi</a>\" metnini okuyabilirsiniz."
+
+#: includes/class-wc-gateway-stripe.php:148
+#: includes/legacy/class-wc-gateway-stripe.php:165
+msgid "Stripe is enabled, but the <a href=\"%s\">force SSL option</a> is disabled; your checkout may not be secure! Please enable SSL and ensure your server has a valid SSL certificate - Stripe will only work in test mode."
+msgstr "Stripe etkin durumda ancak <a href=\"%s\">SSL seçeneğini zorla</a> devre dışı; ödeme işleminiz güvenli bir şekilde gerçekleşmeyebilir! Lütfen SSL'i etkinleştirin ve sunucunuzun geçerli bir SSL sertifikası olduğundan emin olun; Stripe sadece test modunda çalışacaktır."
+
+#: includes/class-wc-gateway-stripe.php:188
+msgid "This is not a valid live key. Live keys start with \"sk_live_\" and \"pk_live_\"."
+msgstr "Bu, geçersiz bir canlı anahtarıdır. Canlı anahtarlar \"sk_live_\" and \"pk_live_\" ile başlar."
+
+#: includes/class-wc-gateway-stripe.php:199
+msgid "This is not a valid test key. Test keys start with \"sk_test_\" and \"pk_test_\"."
+msgstr "Bu, geçersiz bir test anahtarıdır. Test anahtarları, \"sk_test_\" and \"pk_test_\" ile başlar."
+
+#: includes/class-wc-gateway-stripe.php:224
+msgid "Add Card"
+msgstr "Kart Ekle"
+
+#: includes/class-wc-gateway-stripe.php:235
+#: includes/legacy/class-wc-gateway-stripe.php:262
+msgid "%s"
+msgstr "%s"
+
+#: includes/class-wc-gateway-stripe.php:279
+#: includes/legacy/class-wc-gateway-stripe.php:296
+msgid "Please accept the terms and conditions first"
+msgstr "Lütfen öncelikle şartları ve koşulları kabul edin"
+
+#: includes/class-wc-gateway-stripe.php:280
+#: includes/legacy/class-wc-gateway-stripe.php:297
+msgid "Please fill in required checkout fields first"
+msgstr "Lütfen öncelikle zorunlu ödeme alanlarını doldurun"
+
+#: includes/class-wc-gateway-stripe.php:314
+#: includes/legacy/class-wc-gateway-stripe.php:331
+msgid "%s - Order %s"
+msgstr "%s - Sipariş %s"
+
+#: includes/class-wc-gateway-stripe.php:371
+msgid "Invalid payment method. Please input a new card number."
+msgstr "Geçersiz ödeme yöntemi. Lütfen yeni bir kart numarası girin."
+
+#: includes/class-wc-gateway-stripe.php:425
+#: includes/legacy/class-wc-gateway-stripe.php:434
+msgid "Please enter your card details to make a payment."
+msgstr "Lütfen ödemeyi gerçekleştirmek için kart bilgilerinizi girin."
+
+#: includes/class-wc-gateway-stripe.php:426
+#: includes/legacy/class-wc-gateway-stripe.php:435
+msgid "Developers: Please make sure that you are including jQuery and there are no JavaScript errors on the page."
+msgstr "Geliştiriciler: Lütfen jQuery'i dahil ettiğinizden ve sayfada herhangi bir JavaScript hatası olmadığından emin olun."
+
+#: includes/class-wc-gateway-stripe.php:454
+msgid "This card is no longer available and has been removed."
+msgstr "Bu kart, artık kullanılamaz ve kaldırılmıştır."
+
+#: includes/class-wc-gateway-stripe.php:477
+#: includes/legacy/class-wc-gateway-stripe.php:481
+msgid "Error: %s"
+msgstr "Hata: %s"
+
+#: includes/class-wc-gateway-stripe.php:522
+#: includes/legacy/class-wc-gateway-stripe.php:526
+msgid "Stripe charge authorized (Charge ID: %s). Process order to take payment, or cancel to remove the pre-authorization."
+msgstr "Stripe ödeme yetkisi verildi (Ödeme Kimliği: %s). Ödeme almak için siparişi işleme alın ya da ön yetkilendirmeyi kaldırmak için iptal edin."
+
+#: includes/class-wc-gateway-stripe.php:536
+#: includes/legacy/class-wc-gateway-stripe.php:540
+msgid "There was a problem adding the card."
+msgstr "Kart eklenirken bir hata oluştu."
+
+#: includes/class-wc-gateway-stripe.php:586
+#: includes/legacy/class-wc-gateway-stripe.php:590
+msgid "Refunded %s - Refund ID: %s - Reason: %s"
+msgstr "Para İadesi Yapıldı %s - Para İadesi Kimliği: %s - Neden: %s"
+
+#: includes/class-wc-stripe-api.php:73
+msgid "There was a problem connecting to the payment gateway."
+msgstr "Ödeme ağ geçidiyle bağlantı kurulurken bir sorun oluştu."
+
+#: includes/class-wc-stripe-customer.php:143
+msgid "Could not create Stripe customer."
+msgstr "Stripe müşterisi oluşturulamadı."
+
+#: includes/class-wc-stripe-customer.php:184
+msgid "Unable to add card"
+msgstr "Sepete eklenemedi"
+
+#: includes/legacy/class-wc-gateway-stripe-saved-cards.php:50
+#: includes/legacy/class-wc-gateway-stripe-saved-cards.php:73
+msgid "Unable to make default card, please try again"
+msgstr "Varsayılan kart olarak ayarlanamadı; lütfen tekrar deneyin"
+
+#: includes/legacy/class-wc-gateway-stripe-saved-cards.php:54
+msgid "Unable to delete card."
+msgstr "Kart silinemedi."
+
+#: includes/legacy/class-wc-gateway-stripe-saved-cards.php:56
+msgid "Card deleted."
+msgstr "Kart silindi."
+
+#: includes/legacy/class-wc-gateway-stripe-saved-cards.php:77
+msgid "Unable to update default card."
+msgstr "Varsayılan kart güncellenemedi."
+
+#: includes/legacy/class-wc-gateway-stripe-saved-cards.php:79
+msgid "Default card updated."
+msgstr "Varsayılan kart güncellendi."
+
+#: includes/legacy/class-wc-gateway-stripe.php:149
+msgid "Stripe error: Please enter your secret key <a href=\"%s\">here</a>"
+msgstr "Stripe hatası: Lütfen gizli anahtarınızı <a href=\"%s\">buraya</a> girin"
+
+#: includes/legacy/class-wc-gateway-stripe.php:153
+msgid "Stripe error: Please enter your publishable key <a href=\"%s\">here</a>"
+msgstr "Stripe hatası: Lütfen yayınlanabilir anahtarınızı <a href=\"%s\">buraya</a> girin"
+
+#: includes/legacy/class-wc-gateway-stripe.php:159
+msgid "Stripe error: Your secret and publishable keys match. Please check and re-enter."
+msgstr "Stripe hatası: Gizli ve yayınlanabilir anahtarlarınız eşleşiyor. Lütfen kontrol edin ve yeniden girin."
+
+#: includes/legacy/class-wc-gateway-stripe.php:218
+msgid "Manage cards"
+msgstr "Kartları yönetin"
+
+#: includes/legacy/class-wc-gateway-stripe.php:229
+msgid "%s card ending in %s (Expires %s/%s)"
+msgstr "%s içinde süresi dolan %s kartı (Sona ereceği tarih: %s/%s)  "
+
+#: includes/legacy/class-wc-gateway-stripe.php:237
+msgid "Use a new credit card"
+msgstr "Yeni bir kredi kartı kullanın"
+
+#: includes/legacy/templates/saved-cards.php:1
+msgid "Saved cards"
+msgstr "Kayıtlı kartlar"
+
+#: includes/legacy/templates/saved-cards.php:5
+msgid "Card"
+msgstr "Kart"
+
+#: includes/legacy/templates/saved-cards.php:6
+msgid "Expires"
+msgstr "Süresi doluyor"
+
+#: includes/legacy/templates/saved-cards.php:19
+msgid "%s card ending in %s"
+msgstr "%s içinde süresi dolan kart %s"
+
+#: includes/legacy/templates/saved-cards.php:20
+msgid "(Default)"
+msgstr "(Varsayılan)"
+
+#: includes/legacy/templates/saved-cards.php:22
+msgid "Expires %s/%s"
+msgstr "Sona erme tarihi: %s/%s"
+
+#: includes/legacy/templates/saved-cards.php:27
+msgid "Delete card"
+msgstr "Kartı sil"
+
+#: includes/legacy/templates/saved-cards.php:34
+msgid "Make Default"
+msgstr "Varsayılan Yap"
+
+#: includes/settings-stripe.php:9
+msgid "Enable/Disable"
+msgstr "Etkin / Devredışı"
+
+#: includes/settings-stripe.php:10
+msgid "Enable Stripe"
+msgstr "Stripe'ı Etkinleştir"
+
+#: includes/settings-stripe.php:16
+msgid "Title"
+msgstr "Başlık"
+
+#: includes/settings-stripe.php:18
+msgid "This controls the title which the user sees during checkout."
+msgstr "Bu alan Ödeme işlemi sırasında müşterinizin göreceği başlığı kontrol eder."
+
+#: includes/settings-stripe.php:19
+msgid "Credit Card (Stripe)"
+msgstr "Kredi kartı (Stripe)"
+
+#: includes/settings-stripe.php:23
+msgid "Description"
+msgstr "Açıklama"
+
+#: includes/settings-stripe.php:25
+msgid "This controls the description which the user sees during checkout."
+msgstr "Bu alanda müşterinin ödeme işlemi sırasında görmesini istediğiniz açıklama bilgisini yazınız."
+
+#: includes/settings-stripe.php:26
+msgid "Pay with your credit card via Stripe."
+msgstr "Stripe hizmetini kullanarak kredi kartınızla ödeme yapın."
+
+#: includes/settings-stripe.php:30
+msgid "Test mode"
+msgstr "Test modu"
+
+#: includes/settings-stripe.php:31
+msgid "Enable Test Mode"
+msgstr "Test Modunu Etkinleştir"
+
+#: includes/settings-stripe.php:33
+msgid "Place the payment gateway in test mode using test API keys."
+msgstr "API anahtarları kullanarak ödeme ağ geçidini test modunda yerleştirin."
+
+#: includes/settings-stripe.php:38
+msgid "Live Secret Key"
+msgstr "Canlı Gizli Anahtar"
+
+#: includes/settings-stripe.php:40 includes/settings-stripe.php:47
+#: includes/settings-stripe.php:54 includes/settings-stripe.php:61
+msgid "Get your API keys from your stripe account."
+msgstr "API anahtarlarınızı stripe hesabınızdan alın."
+
+#: includes/settings-stripe.php:45
+msgid "Live Publishable Key"
+msgstr "Canlı Yayınlanabilir Anahtar"
+
+#: includes/settings-stripe.php:52
+msgid "Test Secret Key"
+msgstr "Test Gizli Anahtarı"
+
+#: includes/settings-stripe.php:59
+msgid "Test Publishable Key"
+msgstr "Test Yayınlanabilir Anahtarı"
+
+#: includes/settings-stripe.php:66
+msgid "Capture"
+msgstr "Aktarım"
+
+#: includes/settings-stripe.php:67
+msgid "Capture charge immediately"
+msgstr "Ücreti anında al"
+
+#: includes/settings-stripe.php:69
+msgid "Whether or not to immediately capture the charge. When unchecked, the charge issues an authorization and will need to be captured later. Uncaptured charges expire in 7 days."
+msgstr "Ücretin anında alınıp alınmayacağı. İşareti kaldırıldığında ödeme kapsamında bir yetki düzenlenir ve ücretin daha sonra alınması gerekir. Alınmayan ücretlerin süresi 7 gün içinde dolar."
+
+#: includes/settings-stripe.php:74
+msgid "Stripe Checkout"
+msgstr "Stripe Ödemesi"
+
+#: includes/settings-stripe.php:75
+msgid "Enable Stripe Checkout"
+msgstr "Stripe Ödemesini Etkinleştir"
+
+#: includes/settings-stripe.php:77
+msgid "If enabled, this option shows a \"pay\" button and modal credit card form on the checkout, instead of credit card fields directly on the page."
+msgstr "Bu seçenek etkinleştirildiğinde ödeme sırasında, sayfada doğrudan kredi kartı alanları yerine bir \"öde\" düğmesi ve modal kredi kartı formu görüntülenir. "
+
+#: includes/settings-stripe.php:82
+msgid "Stripe Checkout locale"
+msgstr "Stripe Ödemesi yerel ayarları"
+
+#: includes/settings-stripe.php:85
+msgid "Language to display in Stripe Checkout modal. Specify Auto to display Checkout in the user's preferred language, if available. English will be used by default."
+msgstr "Stripe Ödeme modalinde görüntülenecek dil. Ödemenin mümkünse otomatik olarak kullanıcının tercih ettiği dilde gösterilip gösterilmeyeceğini belirtin. Varsayılan olarak İngilizce kullanılır."
+
+#: includes/settings-stripe.php:89
+msgid "Auto"
+msgstr "Otomotiv"
+
+#: includes/settings-stripe.php:90
+msgid "Simplified Chinese"
+msgstr "Sadeleştirilmiş Çince"
+
+#: includes/settings-stripe.php:91
+msgid "Dutch"
+msgstr "Hollandalı"
+
+#: includes/settings-stripe.php:92
+msgid "English"
+msgstr "İngilizce"
+
+#: includes/settings-stripe.php:93
+msgid "French"
+msgstr "Fransız"
+
+#: includes/settings-stripe.php:94
+msgid "German"
+msgstr "Almanca"
+
+#: includes/settings-stripe.php:95
+msgid "Italian"
+msgstr "İtalyanca"
+
+#: includes/settings-stripe.php:96
+msgid "Japanese"
+msgstr "Japonca"
+
+#: includes/settings-stripe.php:97
+msgid "Spanish"
+msgstr "İspanyolca"
+
+#: includes/settings-stripe.php:101
+msgid "Bitcoin Currency"
+msgstr "Sanal Para Birimi"
+
+#: includes/settings-stripe.php:102
+msgid "Enable Bitcoin Currency"
+msgstr "Sanal Para Birimini Etkinleştir"
+
+#: includes/settings-stripe.php:104
+msgid "If enabled, an option to accept bitcoin will show on the checkout modal. Note: Stripe Checkout needs to be enabled and store currency must be set to USD."
+msgstr "Etkinleştirildiğinde ödeme modalinde sanal para kabul etme seçeneği görüntülenir. Not: Stripe Ödemesinin etkinleştirilmesi ve mağaza para biriminin ABD Doları olarak ayarlanması gerekir."
+
+#: includes/settings-stripe.php:109
+msgid "Stripe Checkout Image"
+msgstr "Stripe Ödemesi Görseli"
+
+#: includes/settings-stripe.php:110
+msgid "Optionally enter the URL to a 128x128px image of your brand or product. e.g. <code>https://yoursite.com/wp-content/uploads/2013/09/yourimage.jpg</code>"
+msgstr "İsteğe bağlı olarak markanızın 128x128px boyutlarındaki görseline bir URL girin. Örn: <code>https://siteniz.com/wp-content/uploads/2013/09/gorsel.jpg</code>"
+
+#: includes/settings-stripe.php:116
+msgid "Saved Cards"
+msgstr "Kayıtlı Kartlar"
+
+#: includes/settings-stripe.php:117
+msgid "Enable Payment via Saved Cards"
+msgstr "Kayıtlı Kartlar Yoluyla Ödemeyi Etkinleştir"
+
+#: includes/settings-stripe.php:119
+msgid "If enabled, users will be able to pay with a saved card during checkout. Card details are saved on Stripe servers, not on your store."
+msgstr "Etkinleştirilirse, kullanıcılar ödeme sırasında kayıtlı kartları kullanabilir. Kart bilgileri, mağazanıza değil; Stripe sunucularına kaydedilir."
+
+#: includes/settings-stripe.php:124
+msgid "Logging"
+msgstr "Günlük oluşturma"
+
+#: includes/settings-stripe.php:125
+msgid "Log debug messages"
+msgstr "Hata ayıklama mesajları için günlük oluştur"
+
+#: includes/settings-stripe.php:127
+msgid "Save debug messages to the WooCommerce System Status log."
+msgstr "Hata ayıklama mesajlarını WooCommerce Sistem Durum günlüğüne kaydedin."
+
+#: woocommerce-gateway-stripe.php:175
+msgid "Stripe is almost ready. To get started, <a href=\"%s\">set your Stripe account keys</a>."
+msgstr "Stripe hazır sayılır. Başlamak için <a href=\"%s\">Stripe hesap anahtarlarınızı ayarlayın</a>."
+
+#: woocommerce-gateway-stripe.php:186
+msgid "The plugin could not be activated. The minimum PHP version required for this plugin is %1$s. You are running %2$s."
+msgstr "Eklenti etkinleştirilemedi. Bu eklenti için gereken minimum PHP sürümü %1$s şeklindedir. %2$s öğesini çalıştırıyorsunuz."
+
+#: woocommerce-gateway-stripe.php:188
+msgid "The WooCommerce Stripe plugin has been deactivated. The minimum PHP version required for this plugin is %1$s. You are running %2$s."
+msgstr "WooCommerce Stripe eklentisi devre dışı bırakıldı. Bu eklenti için gereken minimum PHP sürümü %1$s şeklindedir. %2$s öğesini çalıştırıyorsunuz."
+
+#: woocommerce-gateway-stripe.php:195
+msgid "The plugin could not be activated. The minimum WooCommerce version required for this plugin is %1$s. You are running %2$s."
+msgstr "Eklenti etkinleştirilemedi. Bu eklenti için gereken minimum WooCommerce sürümü, %1$s şeklindedir. %2$s öğesini çalıştırıyorsunuz."
+
+#: woocommerce-gateway-stripe.php:197
+msgid "The WooCommerce Stripe plugin has been deactivated. The minimum WooCommerce version required for this plugin is %1$s. You are running %2$s."
+msgstr "WooCommerce Stripe eklentisi devre dışı bırakıldı. Bu eklenti için gereken minimum WooCommerce sürümü, %1$s şeklindedir. %2$s öğesini çalıştırıyorsunuz."
+
+#: woocommerce-gateway-stripe.php:204
+msgid "The plugin could not be activated. cURL is not installed."
+msgstr "Eklenti etkinleştirilemedi. cURL yüklü değil."
+
+#: woocommerce-gateway-stripe.php:206
+msgid "The WooCommerce Stripe plugin has been deactivated. cURL is not installed."
+msgstr "WooCommerce Stripe eklentisi devre dışı bırakıldı. cURL yüklenmedi."
+
+#: woocommerce-gateway-stripe.php:221
+msgid "Settings"
+msgstr "Ayarlar"
+
+#: woocommerce-gateway-stripe.php:222
+msgid "Docs"
+msgstr "Dokümanlar"
+
+#: woocommerce-gateway-stripe.php:223
+msgid "Support"
+msgstr "Destek"
+
+#: woocommerce-gateway-stripe.php:316
+msgid "Unable to capture charge!"
+msgstr "Ücret alınamadı!"
+
+#: woocommerce-gateway-stripe.php:318
+msgid "Stripe charge complete (Charge ID: %s)"
+msgstr "Stripe ödemesi tamamlandı (Ödeme Kimliği: %s)"
+
+#: woocommerce-gateway-stripe.php:350
+msgid "Unable to refund charge!"
+msgstr "Ücret iade edilemedi!"
+
+#: woocommerce-gateway-stripe.php:352
+msgid "Stripe charge refunded (Charge ID: %s)"
+msgstr "Stripe para iadesi tamamlandı (Ödeme Kimliği: %s)"
+
+#. Plugin Name of the plugin/theme
+msgid "WooCommerce Stripe Gateway"
+msgstr "WooCommerce Stripe Ağ Geçici"
+
+#. Plugin URI of the plugin/theme
+msgid "https://wordpress.org/plugins/woocommerce-gateway-stripe/"
+msgstr "https://wordpress.org/plugins/woocommerce-gateway-stripe/"
+
+#. Description of the plugin/theme
+msgid "Take credit card payments on your store using Stripe."
+msgstr "Stripe kullanarak mağazanızda kredi kart ödemelerini kabul edin."
+
+#. Author of the plugin/theme
+msgid "Automattic"
+msgstr "Automattic"
+
+#. Author URI of the plugin/theme
+msgid "http://woothemes.com/"
+msgstr "http://woothemes.com/"

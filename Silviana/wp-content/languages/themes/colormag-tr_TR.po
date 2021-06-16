@@ -1,0 +1,1575 @@
+# Translation of Themes - ColorMag in Turkish
+# This file is distributed under the same license as the Themes - ColorMag package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2017-07-20 09:44:24+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: tr\n"
+"Project-Id-Version: Themes - ColorMag\n"
+
+#. #-#-#-#-#  colormag.pot (ColorMag 1.2.0)  #-#-#-#-#
+#. Theme Name of the plugin/theme
+#: inc/admin/class-colormag-admin.php:355 inc/demo-config.php:24
+msgid "ColorMag"
+msgstr "ColorMag"
+
+#. Description of the plugin/theme
+msgid "ColorMag is a perfect responsive magazine style WordPress theme. Suitable for news, newspaper, magazine, publishing, business and any kind of sites. Get free support at http://themegrill.com/support-forum/ and check the demo at http://demo.themegrill.com/colormag/"
+msgstr "ColorMag duyarlı, magazin stilinde mükemmel bir WordPress temasıdır. Haber siteleri, gazeteler, magazinler, yayımcılar, kurumsal ve diğer her türlü site için idealdir. http://themegrill.com/support-forum/ adresinden ücretsiz destek alabilir ve http://demo.themegrill.com/colormag/ adresinden demo kurulumunu inceleyebilirsiniz."
+
+#: inc/customizer.php:129
+msgid "Date in header display type:"
+msgstr "Üst alanda tarih gösterim biçimi:"
+
+#: inc/customizer.php:131
+msgid "Theme Default Setting"
+msgstr "Tema varsayılanı ayarı"
+
+#: inc/customizer.php:132
+msgid "From WordPress Date Setting"
+msgstr "WordPress tarih ayarından"
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:3520
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr "%1$s eklentisi yükleniyor (%2$d/%3$d)"
+
+#. translators: 1: plugin name.
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:3517
+msgid "%1$s installed successfully."
+msgstr "%1$s başarıyla yüklendi."
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:3515
+msgid "The installation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr "Yükleme süreci başlıyor. Bu süreç bazı sunucularda zaman alabilir, lütfen sabırlı olun."
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:3510
+msgid "All installations and activations have been completed."
+msgstr "Bütün yüklemeler ve etkinleştirmeler tamamlandı."
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:3509
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:3517
+msgid "Show Details"
+msgstr "Detayları göster"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:3509
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:3517
+msgid "Hide Details"
+msgstr "Detayları gizle"
+
+#. translators: 1: plugin name.
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:3509
+msgid "%1$s installed and activated successfully."
+msgstr "%1$s başarıyla yüklendi ve etkinleştirildi."
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:3507
+msgid "The installation and activation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr "Yükleme ve etkinleştirme süreci başlıyor. Bu süreç bazı sunucularda zaman alabilir, lütfen sabırlı olun."
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2934
+msgid "No plugins are available to be activated at this time."
+msgstr "Şu an etkinleştirilebilecek bir eklenti mevcut değil."
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2908
+msgid "No plugins were selected to be activated. No action taken."
+msgstr "Etkinleştirilecek bir eklenti seçilmedi. Herhangi bir işlem yapılmadı."
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2802
+msgid "No plugins are available to be updated at this time."
+msgstr "Şu an güncellenecek bir eklenti yok."
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2800
+msgid "No plugins are available to be installed at this time."
+msgstr "Şu an yüklenebilecek bir eklenti yok."
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2759
+msgid "No plugins were selected to be updated. No action taken."
+msgstr "Güncellenecek hiç bir eklenti seçilmedi. Herhangi bir işlem yapılmadı."
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:3518
+msgid "All installations have been completed."
+msgstr "Bütün yüklemeler tamamlandı."
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:375
+#: inc/tgm-plugin-activation/tgmpa-colormag.php:88
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] "Eklentiyi güncellemeye başla"
+msgstr[1] "Eklentileri güncellemeye başla"
+
+#. translators: 1: plugin name(s).
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:370
+#: inc/tgm-plugin-activation/tgmpa-colormag.php:83
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] "Eklentiyi yüklemeye başla"
+msgstr[1] "Eklentileri yüklemeye başla"
+
+#. translators: %s: plugin name.
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:332
+#: inc/tgm-plugin-activation/tgmpa-colormag.php:45
+msgid "Updating Plugin: %s"
+msgstr "Eklenti güncelleniyor: %s"
+
+#. translators: %s: plugin name.
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:330
+#: inc/tgm-plugin-activation/tgmpa-colormag.php:43
+msgid "Installing Plugin: %s"
+msgstr "Eklenti yükleniyor: %s"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:522
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr "Bu eklentinin temanızla uyumlu olması için güncellenmesi gerekiyor."
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:397
+#: inc/tgm-plugin-activation/tgmpa-colormag.php:109
+msgid "Please contact the administrator of this site for help."
+msgstr "Lütfen yardım için bu sitenin yöneticisiyle iletişime geçin."
+
+#. translators: 1: dashboard link.
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:394
+#: inc/tgm-plugin-activation/tgmpa-colormag.php:106
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr "Bütün eklentiler başarıyla yüklendi ve etkinleştirildi. %1$s"
+
+#. translators: 1: plugin name.
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:390
+#: inc/tgm-plugin-activation/tgmpa-colormag.php:102
+msgid "No action taken. Plugin %1$s was already active."
+msgstr "Hiçbir şey yapılmadı. %1$s eklentisi zaten etkindi."
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:388
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2952
+#: inc/tgm-plugin-activation/tgmpa-colormag.php:100
+msgid "The following plugin was activated successfully:"
+msgstr "Bu eklenti başarıyla etkinleştirildi:"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:387
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:3159
+#: inc/tgm-plugin-activation/tgmpa-colormag.php:99
+msgid "Plugin activated successfully."
+msgstr "Eklenti başarıyla etkinleştirildi."
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:386
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:827
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2533
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:3580
+msgid "Return to the Dashboard"
+msgstr "Panoya geri dön"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:380
+#: inc/tgm-plugin-activation/tgmpa-colormag.php:93
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] "Eklentiyi etkinleştirmeye başla"
+msgstr[1] "Eklentileri etkinleştirmeye başla"
+
+#. translators: 1: install status, 2: update status
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2342
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr "%1$s, %2$s"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2333
+msgid "Update recommended"
+msgstr "Güncelleme önerilir"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2330
+msgid "Requires Update"
+msgstr "Güncelleme gerekiyor"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2327
+msgid "Required Update not Available"
+msgstr "Gerekli güncelleme mevcut değil"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2321
+msgid "Active"
+msgstr "Etkin"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2315
+msgid "Not Installed"
+msgstr "Yüklenmedi"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2276
+msgid "Recommended"
+msgstr "Önerilen"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2273
+msgid "Required"
+msgstr "Gerekli"
+
+#. translators: %s: version number
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:1982
+msgid "TGMPA v%s"
+msgstr "TGMPA v%s"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:1121
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2948
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr "ve"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2554
+msgid "Status"
+msgstr "Durum"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2549
+msgid "Type"
+msgstr "Tür"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2548
+msgid "Source"
+msgstr "Kaynak"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2547
+msgid "Plugin"
+msgstr "Eklenti"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2533
+msgid "No plugins to install, update or activate."
+msgstr "Yüklenecek, güncellenecek veya etkinleştirilecek bir eklenti yok."
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2510
+msgid "Available version:"
+msgstr "Mevcut sürüm:"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2553
+msgid "Version"
+msgstr "Sürüm"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2490
+msgid "Installed version:"
+msgstr "Yüklü sürüm:"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2482
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr "bilinmeyen"
+
+#. translators: 1: number of plugins.
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2400
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] "Etkinleştirilecek <span class=\"count\">(%s)</span>"
+msgstr[1] "Etkinleştirilecek <span class=\"count\">(%s)</span>"
+
+#. translators: 1: number of plugins.
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2392
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] "Yüklenecek <span class=\"count\">(%s)</span>"
+msgstr[1] "Yüklenecek <span class=\"count\">(%s)</span>"
+
+#. translators: 1: number of plugins.
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2388
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] "Tümü <span class=\"count\">(%s)</span>"
+msgstr[1] "Tümü <span class=\"count\">(%s)</span>"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2757
+msgid "No plugins were selected to be installed. No action taken."
+msgstr "Yüklenecek herhangi bir eklenti seçilmedi. Hiçbir işlem yapılmadı."
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2726
+msgid "Activate"
+msgstr "Etkinleştir"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2723
+msgid "Update"
+msgstr "Güncelle"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2684
+msgid "Upgrade message from the plugin author:"
+msgstr "Eklenti geliştiricisinden güncelleme mesajı:"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:333
+#: inc/tgm-plugin-activation/tgmpa-colormag.php:46
+msgid "Something went wrong with the plugin API."
+msgstr "Eklenti API ile ilgili bir şeyler yanlış gitti."
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2292
+msgid "WordPress Repository"
+msgstr "WordPress deposu"
+
+#. translators: 1: number of plugins.
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2396
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] "Güncelleme mevcut <span class=\"count\">(%s)</span>"
+msgstr[1] "Güncellemeler mevcut <span class=\"count\">(%s)</span>"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:3158
+msgid "Plugin activation failed."
+msgstr "Etkinleştirilme başarısız oldu."
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:328
+#: inc/tgm-plugin-activation/tgmpa-colormag.php:41
+msgid "Install Plugins"
+msgstr "Eklentileri yükle"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2298
+msgid "Pre-Packaged"
+msgstr "Önceden paketlenmiş"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:937
+msgid "The remote plugin package consists of more than one file, but the files are not packaged in a folder."
+msgstr "Uzak eklenti paketi birden fazla dosyadan oluşuyor, ama bu dosyalar bir klasörde paketli değil."
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2319
+msgid "Installed But Not Activated"
+msgstr "Yüklendi ama etkinleştirilmedi"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:523
+msgid "Update Required"
+msgstr "Güncelleme gerekli"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:934
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:937
+msgid "Please contact the plugin provider and ask them to package their plugin according to the WordPress guidelines."
+msgstr "Lütfen eklenti sağlayıcısıyla iletişime geçin ve eklentiyi WordPress kılavuzuna göre paketlemelerini isteyin."
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:396
+#: inc/tgm-plugin-activation/tgmpa-colormag.php:108
+msgid "There are one or more required or recommended plugins to install, update or activate."
+msgstr "Yüklenmesi, güncellenmesi veya etkinleştirilmesi gereken ya da önerilen bir veya daha fazla eklenti var."
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:395
+#: inc/tgm-plugin-activation/tgmpa-colormag.php:107
+msgid "Dismiss this notice"
+msgstr "Bu bildirimi kapat"
+
+#. translators: 1: plugin name.
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:392
+#: inc/tgm-plugin-activation/tgmpa-colormag.php:104
+msgid "Plugin not activated. A higher version of %s is needed for this theme. Please update the plugin."
+msgstr "Eklenti etkinleştirilmedi. Bu tema için %s eklentisinin daha yeni bir sürümüne ihtiyaç var. Lütfen eklentiyi güncelleyin."
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2498
+msgid "Minimum required version:"
+msgstr "Gerekli en düşük sürüm:"
+
+#. translators: 1: plugin name, 2: error message.
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:3501
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr "%1$s yüklenirken bir hata oluştu: <strong>%2$s</strong>."
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:3498
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr "%1$s eklentisi güncelleniyor (%2$d/%3$d)"
+
+#. translators: 1: plugin name.
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:3503
+msgid "The installation of %1$s failed."
+msgstr "%1$s güncellemesi başarısız oldu."
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2295
+msgid "External Source"
+msgstr "Harici kaynak"
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:3512
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr "%1$s eklentisi kuruluyor ve etkinleştiriliyor (%2$d/%3$d)"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:327
+#: inc/tgm-plugin-activation/tgmpa-colormag.php:40
+msgid "Install Required Plugins"
+msgstr "Gerekli eklentileri kur"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:385
+#: inc/tgm-plugin-activation/tgmpa-colormag.php:98
+msgid "Return to Required Plugins Installer"
+msgstr "Gerekli eklenti yükleyicisine geri dön"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:934
+msgid "The remote plugin package does not contain a folder with the desired slug and renaming did not work."
+msgstr "Uzak eklenti paketi istenen kısa isimde bir klasör içermiyor ve yeniden isimlendirme çalışmadı."
+
+#. translators: %2$s: plugin name in screen reader markup
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2608
+msgid "Update %2$s"
+msgstr "%2$s eklentisini güncelle"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2614
+msgid "Activate %2$s"
+msgstr "%2$s eklentisini etkinleştir"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2603
+msgid "Install %2$s"
+msgstr "%2$s eklentisini kur"
+
+#: inc/admin/class-colormag-admin.php:186
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2717
+msgid "Install"
+msgstr "Yükle"
+
+#: inc/customizer.php:233
+msgid "Check to switch to new responsive menu."
+msgstr "Yeni duyarlı menüye geçmek için seçin."
+
+#: inc/admin/class-colormag-admin.php:184
+msgid "Import Demo"
+msgstr "Örneği içe aktar"
+
+#: inc/customizer.php:220
+msgid "Responsive Menu Style"
+msgstr "Duyarlı menü biçimi"
+
+#: inc/admin/class-colormag-admin.php:185
+msgid "Needs ThemeGrill Demo Importer plugin."
+msgstr "ThemeGrill Demo Importer eklentisi gerekli."
+
+#: inc/widgets/widgets.php:821 inc/widgets/widgets.php:921
+#: inc/widgets/widgets.php:1027
+msgid "Use image"
+msgstr "Görseli kullan"
+
+#: inc/widgets/widgets.php:821 inc/widgets/widgets.php:921
+#: inc/widgets/widgets.php:1027
+msgid "Choose an image"
+msgstr "Bir görsel seçin"
+
+#: inc/widgets/widgets.php:821 inc/widgets/widgets.php:921
+#: inc/widgets/widgets.php:1027
+msgid "Select an Image"
+msgstr "Bir görsel seçin"
+
+#: inc/widgets/widgets.php:144
+msgid "Shows widgets just above the footer, suitable for TG: 728x90 Advertisement widget."
+msgstr "Alt kısmın hemen üstünde bileşeni gösterir, TG: 728x90 reklam bileşeni için uygundur."
+
+#: inc/widgets/widgets.php:111
+msgid "Content Bottom Section"
+msgstr "İçerik alt kısmı"
+
+#: inc/admin/class-colormag-admin.php:36 inc/admin/class-colormag-admin.php:115
+msgid "About"
+msgstr "Hakkında"
+
+#: inc/admin/class-colormag-admin.php:74
+msgid "Action failed. Please refresh the page and retry."
+msgstr "İşlem başarısız. Lütfen sayfayı yenileyin ve tekrar deneyin."
+
+#: inc/admin/class-colormag-admin.php:78
+msgid "Cheatin&#8217; huh?"
+msgstr "Hile mi yapıyorsun?"
+
+#: inc/admin/class-colormag-admin.php:92
+msgid "Dismiss"
+msgstr "Gizle"
+
+#: inc/admin/class-colormag-admin.php:95
+msgid "Get started with ColorMag"
+msgstr "ColorMag ile başlangıç"
+
+#: inc/admin/class-colormag-admin.php:144
+msgid "Supported Plugins"
+msgstr "Desteklenen eklentiler"
+
+#: inc/admin/class-colormag-admin.php:147
+msgid "Free Vs Pro"
+msgstr "Ücretsiz ve Pro"
+
+#: inc/admin/class-colormag-admin.php:150
+msgid "Changelog"
+msgstr "Değişiklik listesi"
+
+#: inc/admin/class-colormag-admin.php:190
+msgid "Theme Customizer"
+msgstr "Tema özelleştirici"
+
+#: inc/admin/class-colormag-admin.php:191
+msgid "All Theme Options are available via Customize screen."
+msgstr "Tüm tema seçenekleri özelleştirici ekranında kullanılabilir."
+
+#: inc/admin/class-colormag-admin.php:192
+msgid "Customize"
+msgstr "Özelleştir"
+
+#: inc/admin/class-colormag-admin.php:197
+msgid "Please view our documentation page to setup the theme."
+msgstr "Temayı kurmak için belgeler sayfalarımıza göz atın."
+
+#: inc/admin/class-colormag-admin.php:202
+msgid "Got theme support question?"
+msgstr "Tema desteği sorunuz mu var?"
+
+#: inc/admin/class-colormag-admin.php:203
+msgid "Please put it in our dedicated support forum."
+msgstr "Lütfen destek forumlarımıza yazın."
+
+#: inc/admin/class-colormag-admin.php:208
+msgid "Need more features?"
+msgstr "Daha fazla özellik mi gerekiyor?"
+
+#: inc/admin/class-colormag-admin.php:209
+#: inc/admin/class-colormag-admin.php:349
+msgid "Upgrade to PRO version for more exciting features."
+msgstr "Heyecan verici özellikler için PRO sürümüne yükseltin."
+
+#: inc/admin/class-colormag-admin.php:214
+msgid "Got sales related question?"
+msgstr "Satış ile ilgili sorularınız mı var?"
+
+#: inc/admin/class-colormag-admin.php:215
+msgid "Please send it via our sales contact page."
+msgstr "Lütfen satış iletişim sayfasından gönderin."
+
+#: inc/admin/class-colormag-admin.php:222
+#: inc/admin/class-colormag-admin.php:230
+msgid "Translate"
+msgstr "Çeviri"
+
+#: inc/admin/class-colormag-admin.php:226
+msgid "Click below to translate this theme into your own language."
+msgstr "Aşağıdaki bağlantıyı kullanarak bu temayı kendi dilinize çevirin."
+
+#: inc/admin/class-colormag-admin.php:242
+msgid "Return to Updates"
+msgstr "Güncelleştirmelere geri dön"
+
+#: inc/admin/class-colormag-admin.php:242
+msgid "Return to Dashboard &rarr; Updates"
+msgstr "Başlangıç ekranına geri dön &rarr; Güncellemeler"
+
+#: inc/admin/class-colormag-admin.php:245
+msgid "Go to Dashboard &rarr; Home"
+msgstr "Başlangıç ekranına git &rarr; Ana sayfa"
+
+#: inc/admin/class-colormag-admin.php:245
+msgid "Go to Dashboard"
+msgstr "Başlangıca git"
+
+#: inc/admin/class-colormag-admin.php:262
+msgid "View changelog below:"
+msgstr "Değişiklik dosyasını görüntüleyin:"
+
+#: inc/admin/class-colormag-admin.php:315
+msgid "This theme recommends following plugins:"
+msgstr "Bu tema şu eklentileri öneriyor:"
+
+#: inc/admin/class-colormag-admin.php:317
+#: inc/admin/class-colormag-admin.php:391
+msgid "Social Icons"
+msgstr "Sosyal simgeler"
+
+#: inc/admin/class-colormag-admin.php:318
+#: inc/admin/class-colormag-admin.php:321
+msgid " by ThemeGrill"
+msgstr " ThemeGrill"
+
+#: inc/admin/class-colormag-admin.php:320
+msgid "Easy Social Sharing"
+msgstr "Easy Social Sharing"
+
+#: inc/admin/class-colormag-admin.php:323
+msgid "Contact Form 7"
+msgstr "Contact Form 7"
+
+#: inc/admin/class-colormag-admin.php:324
+msgid "WP-PageNavi"
+msgstr "WP-PageNavi"
+
+#: inc/admin/class-colormag-admin.php:325
+msgid "WooCommerce"
+msgstr "WooCommerce"
+
+#: inc/admin/class-colormag-admin.php:327
+msgid "Polylang"
+msgstr "Polylang"
+
+#: inc/admin/class-colormag-admin.php:328
+#: inc/admin/class-colormag-admin.php:332
+msgid "Fully Compatible in Pro Version"
+msgstr "Pro sürümde tamamen uyumlu"
+
+#: inc/admin/class-colormag-admin.php:331
+msgid "WPML"
+msgstr "WPML"
+
+#: inc/admin/class-colormag-admin.php:354
+msgid "Features"
+msgstr "Özellikler"
+
+#: inc/admin/class-colormag-admin.php:356
+msgid "ColorMag Pro"
+msgstr "ColorMag Pro"
+
+#: inc/admin/class-colormag-admin.php:362
+msgid "Forum"
+msgstr "Forum"
+
+#: inc/admin/class-colormag-admin.php:363
+msgid "Forum + Emails/Support Ticket"
+msgstr "Forum + e-posta/destek bileti"
+
+#: inc/admin/class-colormag-admin.php:366
+msgid "Color Options"
+msgstr "Renk seçenekleri"
+
+#: inc/admin/class-colormag-admin.php:367
+#: inc/admin/class-colormag-admin.php:402
+msgid "1"
+msgstr "1"
+
+#: inc/admin/class-colormag-admin.php:368
+msgid "22"
+msgstr "22"
+
+#: inc/admin/class-colormag-admin.php:376
+msgid "Font Size Options"
+msgstr "Yazı tipi seçenekleri"
+
+#: inc/admin/class-colormag-admin.php:381
+msgid "Google Fonts Options"
+msgstr "Google yazı tipleri seçenekleri"
+
+#: inc/admin/class-colormag-admin.php:383
+msgid "600+"
+msgstr "600+"
+
+#: inc/admin/class-colormag-admin.php:386
+msgid "Custom Widgets"
+msgstr "Özel bileşenler"
+
+#: inc/admin/class-colormag-admin.php:387
+#: inc/admin/class-colormag-admin.php:408
+msgid "7"
+msgstr "7"
+
+#: inc/admin/class-colormag-admin.php:388
+msgid "16"
+msgstr "16"
+
+#: inc/admin/class-colormag-admin.php:392
+msgid "6"
+msgstr "6"
+
+#: inc/admin/class-colormag-admin.php:393
+msgid "18 + 6 Custom"
+msgstr "18 + 6 Özel"
+
+#: inc/admin/class-colormag-admin.php:396
+msgid "Social Sharing"
+msgstr "Sosyal paylaşım"
+
+#: inc/admin/class-colormag-admin.php:401
+msgid "Custom Menu"
+msgstr "Özel menü"
+
+#: inc/admin/class-colormag-admin.php:403
+msgid "2"
+msgstr "2"
+
+#: inc/admin/class-colormag-admin.php:406
+msgid "Footer Sidebar"
+msgstr "Alt kısım yan sütunu"
+
+#: inc/admin/class-colormag-admin.php:407
+msgid "4"
+msgstr "4"
+
+#: inc/admin/class-colormag-admin.php:411
+msgid "Site Layout Option"
+msgstr "Site düzen seçeneği"
+
+#: inc/admin/class-colormag-admin.php:416
+msgid "Options in Breaking News"
+msgstr "Son dakika haberleri seçenekleri"
+
+#: inc/admin/class-colormag-admin.php:421
+msgid "Unique Post System"
+msgstr "Eşsiz yazı sistemi"
+
+#: inc/admin/class-colormag-admin.php:426
+msgid "Change Read More Text"
+msgstr "Daha fazla oku metnini değiştirin"
+
+#: inc/admin/class-colormag-admin.php:436
+msgid "Author Biography"
+msgstr "Yazar biyografisi"
+
+#: inc/admin/class-colormag-admin.php:441
+msgid "Author Biography with Social Icons"
+msgstr "Sosyal simgeler ile beraber yazar biyografisi"
+
+#: inc/admin/class-colormag-admin.php:446
+msgid "Footer Copyright Editor"
+msgstr "Alt alan hak bildirimi düzenleyici"
+
+#: inc/admin/class-colormag-admin.php:476
+msgid "TG: Random Posts Widget"
+msgstr "TG: Rastgele yazılar bileşeni"
+
+#: inc/admin/class-colormag-admin.php:481
+msgid "TG: Tabbed Widget"
+msgstr "TG: Sekmeli bileşen"
+
+#: inc/admin/class-colormag-admin.php:486
+msgid "TG: Videos"
+msgstr "TG: Videolar"
+
+#: inc/admin/class-colormag-admin.php:501
+msgid "TG: Featured Posts (Style 3)"
+msgstr "TG: Öne çıkan yazılar (Stil 3)"
+
+#: inc/admin/class-colormag-admin.php:506
+msgid "TG: Featured Posts (Style 4)"
+msgstr "TG: Öne çıkan yazılar (Stil 4)"
+
+#: inc/admin/class-colormag-admin.php:511
+msgid "TG: Featured Posts (Style 5)"
+msgstr "TG: Öne çıkan yazılar (Stil 5)"
+
+#: inc/admin/class-colormag-admin.php:516
+msgid "TG: Featured Posts (Style 6)"
+msgstr "TG: Öne çıkan yazılar (Stil 6)"
+
+#: inc/admin/class-colormag-admin.php:521
+msgid "TG: Featured Posts (Style 7)"
+msgstr "TG: Öne çıkan yazılar (Stil 7)"
+
+#: inc/admin/class-colormag-admin.php:531
+msgid "WPML Compatible"
+msgstr "WPML uyumlı"
+
+#: inc/admin/class-colormag-admin.php:536
+msgid "Polylang Compatible"
+msgstr "Polylang uyumlu"
+
+#: inc/admin/class-colormag-admin.php:541
+msgid "WooCommerce Compatible"
+msgstr "WooCommerce uyumlu"
+
+#: inc/admin/class-colormag-admin.php:549 inc/customizer.php:22
+msgid "View Pro"
+msgstr "Pro sürümü görüntüle"
+
+#: inc/admin/class-colormag-admin.php:93
+msgid "Welcome! Thank you for choosing colormag! To fully take advantage of the best our theme can offer please make sure you visit our %swelcome page%s."
+msgstr "Merhaba! ColorMag temasını seçtiğiniz için teşekkürler. Temamızın sağladığı tüm imkanlardan faydalanabilmek için lütfen %smerhaba sayfamızı%s ziyaret edin."
+
+#: inc/customizer.php:54
+msgid "ColorMag Important Links"
+msgstr "ColorMag önemli bağlantılar"
+
+#: search.php:18
+msgid "Search Results for: %s"
+msgstr "Arama sonuçları: %s"
+
+#. Template Name of the plugin/theme
+msgid "Contact Page Template"
+msgstr "İletişim sayfası şablonu"
+
+#: sidebar.php:26
+msgid "Right"
+msgstr "Sağ"
+
+#: sidebar-left.php:30 sidebar.php:30
+msgid "Example Widget"
+msgstr "Örnek bileşen"
+
+#: sidebar-left.php:31 sidebar.php:31
+msgid "This is an example widget to show how the %s Sidebar looks by default. You can add custom widgets from the %swidgets screen%s in the admin. If custom widgets are added then this will be replaced by those widgets."
+msgstr "%s yan sütununun nasıl görüntüleneceğini görebilmeniz için örnek bir bileşendir. Yönetim panelinde %sBileşenler ekranından%s özel bileşenler ekleyebilirsiniz. Eğer özel bileşenler eklenirse, bu bileşen eklediklerinizle yer değiştirecektir."
+
+#: sidebar-left.php:26
+msgid "Left"
+msgstr "Sol"
+
+#: inc/admin/class-colormag-admin.php:216 sidebar-left.php:24 sidebar.php:24
+msgid "Contact Page"
+msgstr "İletişim sayfası"
+
+#: searchform.php:12
+msgid "Search"
+msgstr "Ara"
+
+#: no-results.php:27
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Aradığınız sayfa bulunamadı. Belki arama kutusu aradığınızı bulma konusunda yardımcı olabilir."
+
+#: no-results.php:22
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Üzgünüz fakat aradığınız kriterler ile örtüşen sonuç bulunamadı. Lütfen başka kriterler ile tekrar deneyin."
+
+#: no-results.php:18
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "İlk yazınızı yayınlamaya hazır mısınız? <a href=\"%1$s\">Buradan başlayın</a>."
+
+#: navigation.php:25 navigation.php:37
+msgid "Next &rarr;"
+msgstr "Sonraki &rarr;"
+
+#: navigation.php:24 navigation.php:36
+msgid "&larr; Previous"
+msgstr "&larr; Önceki"
+
+#: inc/widgets/widgets.php:907
+msgid "Add your Advertisement 728x90 Images Here"
+msgstr "728x90 reklam görsellerinizi buraya ekleyin"
+
+#: inc/widgets/widgets.php:987
+msgid "Add your 125x125 Advertisement here"
+msgstr "125x125 reklamınızı buradan ekleyin"
+
+#: inc/admin/class-colormag-admin.php:451 inc/widgets/widgets.php:989
+msgid "TG: 125x125 Advertisement"
+msgstr "TG: 125x125 reklam"
+
+#: inc/widgets/widgets.php:1008
+msgid "Add your Advertisement 125x125 Images Here"
+msgstr "125x125 reklam görsellerinizi buraya ekleyin"
+
+#: inc/widgets/widgets.php:886
+msgid "Add your 728x90 Advertisement here"
+msgstr "728x90 reklamınızı buraya yerleştirin"
+
+#: inc/admin/class-colormag-admin.php:461 inc/widgets/widgets.php:888
+msgid "TG: 728x90 Advertisement"
+msgstr "TG: 728x90 reklam"
+
+#: inc/admin/class-colormag-admin.php:496 inc/widgets/widgets.php:628
+msgid "TG: Featured Posts (Style 2)"
+msgstr "TG: Öne çıkan yazılar (Stil 2)"
+
+#: inc/widgets/widgets.php:786
+msgid "Add your 300x250 Advertisement here"
+msgstr "300x250 reklamınızı buradan ekleyin"
+
+#: inc/admin/class-colormag-admin.php:456 inc/widgets/widgets.php:788
+msgid "TG: 300x250 Advertisement"
+msgstr "TG: 300x250 reklam"
+
+#: inc/widgets/widgets.php:807
+msgid "Add your Advertisement 300x250 Images Here"
+msgstr "300x250 reklam görsellerinizi buraya ekleyin"
+
+#: inc/widgets/widgets.php:809 inc/widgets/widgets.php:909
+#: inc/widgets/widgets.php:1015
+msgid "Advertisement Image Link "
+msgstr "Reklam görsel bağlantısı"
+
+#: inc/widgets/widgets.php:813 inc/widgets/widgets.php:913
+#: inc/widgets/widgets.php:1019
+msgid "Advertisement Image "
+msgstr "Reklam görseli"
+
+#: inc/widgets/widgets.php:492 inc/widgets/widgets.php:650
+msgid "Description"
+msgstr "Açıklama"
+
+#: inc/widgets/widgets.php:489 inc/widgets/widgets.php:647
+#: inc/widgets/widgets.php:804 inc/widgets/widgets.php:904
+#: inc/widgets/widgets.php:1005
+msgid "Title:"
+msgstr "Başlık:"
+
+#: inc/admin/class-colormag-admin.php:491 inc/widgets/widgets.php:470
+msgid "TG: Featured Posts (Style 1)"
+msgstr "TG: Öne çıkan yazılar (Stil 1)"
+
+#: inc/widgets/widgets.php:342
+msgid "Display latest posts or posts of specific category. Suitable for the Area Beside Slider Sidebar."
+msgstr "Belirli bir kategoriden yazıları ya da en güncel yazıları görüntüler. Kaydırak yan sütun harici diğer alanlar için uygundur."
+
+#: inc/widgets/widgets.php:468 inc/widgets/widgets.php:626
+msgid "Display latest posts or posts of specific category."
+msgstr "Belirli bir kategoriden yazıları ya da en güncel yazıları görüntüler."
+
+#: inc/widgets/widgets.php:486 inc/widgets/widgets.php:644
+msgid "Layout will be as below:"
+msgstr "Düzen aşağıdaki gibi olacaktır:"
+
+#: inc/admin/class-colormag-admin.php:471 inc/widgets/widgets.php:344
+msgid "TG: Highlighted Posts"
+msgstr "TG: Öne çıkarılan yazılar"
+
+#: inc/widgets/widgets.php:231 inc/widgets/widgets.php:361
+#: inc/widgets/widgets.php:499 inc/widgets/widgets.php:657
+msgid "Show latest Posts"
+msgstr "En son yazıları göster"
+
+#: inc/widgets/widgets.php:235 inc/widgets/widgets.php:365
+#: inc/widgets/widgets.php:503 inc/widgets/widgets.php:661
+msgid "Select category"
+msgstr "Kategori Seçin"
+
+#: inc/widgets/widgets.php:186
+msgid "Footer Sidebar Four"
+msgstr "Alt alan yan sütun dört"
+
+#: inc/widgets/widgets.php:188
+msgid "Shows widgets at footer sidebar four."
+msgstr "Dördüncü alt alan yan sütunda bileşenleri gösterir."
+
+#: inc/widgets/widgets.php:212
+msgid "Display latest posts or posts of specific category, which will be used as the slider."
+msgstr "Kaydırakta kullanılmak üzere en güncel yazıları ya da belirli bir kategorinin yazılarını gösterir."
+
+#: inc/admin/class-colormag-admin.php:466 inc/widgets/widgets.php:214
+msgid "TG: Featured Category Slider"
+msgstr "TG: Öne çıkan kategori kaydırağı"
+
+#: inc/widgets/widgets.php:227 inc/widgets/widgets.php:357
+#: inc/widgets/widgets.php:495 inc/widgets/widgets.php:653
+msgid "Number of posts to display:"
+msgstr "Görüntülenecek yazı sayısı:"
+
+#: inc/widgets/widgets.php:232 inc/widgets/widgets.php:362
+#: inc/widgets/widgets.php:500 inc/widgets/widgets.php:658
+msgid "Show posts from a category"
+msgstr "Bir kategoriden yazıları göster"
+
+#: inc/widgets/widgets.php:153
+msgid "Footer Sidebar One"
+msgstr "Alt alan yan sütun bir"
+
+#: inc/widgets/widgets.php:155
+msgid "Shows widgets at footer sidebar one."
+msgstr "Birinci alt alan yan sütunda bileşenleri gösterir."
+
+#: inc/widgets/widgets.php:164
+msgid "Footer Sidebar Two"
+msgstr "Alt alan yan sütun iki"
+
+#: inc/widgets/widgets.php:166
+msgid "Shows widgets at footer sidebar two."
+msgstr "İkinci alt alan yan sütunda bileşenleri gösterir."
+
+#: inc/widgets/widgets.php:175
+msgid "Footer Sidebar Three"
+msgstr "Alt alan yan sütun üç"
+
+#: inc/widgets/widgets.php:177
+msgid "Shows widgets at footer sidebar three."
+msgstr "Üçüncü alt alan yan sütunda bileşenleri gösterir."
+
+#: inc/widgets/widgets.php:133
+msgid "Shows widgets on Error 404 page."
+msgstr "404 hata sayfasında bileşenleri gösterir"
+
+#: inc/widgets/widgets.php:142
+msgid "Advertisement Above The Footer"
+msgstr "Alt bölümün üstünde reklam alanı"
+
+#: inc/widgets/widgets.php:34
+msgid "Shows widgets at Left side."
+msgstr "Sol kenar çubuğunda widget gösterir."
+
+#: inc/widgets/widgets.php:43
+msgid "Header Sidebar"
+msgstr "Üst alan araç çubuğu"
+
+#: inc/widgets/widgets.php:45
+msgid "Shows widgets in header section just above the main navigation menu."
+msgstr "Ana dolaşım menüsünün hemen üstünde, üst alanda bileşenleri göster"
+
+#: inc/widgets/widgets.php:54
+msgid "Front Page: Slider Area"
+msgstr "Ön sayfa: Kaydırak alanı"
+
+#: inc/widgets/widgets.php:65
+msgid "Front Page: Area beside slider"
+msgstr "Ön sayfa: Kaydırağın yanındaki alan"
+
+#: inc/widgets/widgets.php:67
+msgid "Show widget beside the slider. Suitable for TG: Highlighted Posts."
+msgstr "Kaydırağın hemen yanında bileşen gösterir. TG: Dikkate değer yazılar için uygundur."
+
+#: inc/widgets/widgets.php:76
+msgid "Front Page: Content Top Section"
+msgstr "Ön sayfa: İçerik üst bölüm"
+
+#: inc/widgets/widgets.php:78
+msgid "Content Top Section"
+msgstr "İçerik üst bölüm"
+
+#: inc/widgets/widgets.php:87
+msgid "Front Page: Content Middle Left Section"
+msgstr "Ön sayfa: İçerik orta sol bölüm"
+
+#: inc/widgets/widgets.php:89
+msgid "Content Middle Left Section"
+msgstr "İçerik orta sol bölüm"
+
+#: inc/widgets/widgets.php:98
+msgid "Front Page: Content Middle Right Section"
+msgstr "Ön sayfa: İçerik orta sağ bölüm"
+
+#: inc/widgets/widgets.php:100
+msgid "Content Middle Right Section"
+msgstr "İçerik orta sağ bölüm"
+
+#: inc/widgets/widgets.php:109
+msgid "Front Page: Content Bottom Section"
+msgstr "Ön sayfa: İçerik alt bölüm"
+
+#: inc/widgets/widgets.php:120
+msgid "Contact Page Sidebar"
+msgstr "İletişim sayfası kenar çubuğu"
+
+#: inc/widgets/widgets.php:122
+msgid "Shows widgets on Contact Page Template."
+msgstr "İletişim sayfası şablonunda bileşenleri gösterir."
+
+#: inc/widgets/widgets.php:131
+msgid "Error 404 Page Sidebar"
+msgstr "404 hata sayfası kenar çubuğu"
+
+#: inc/widgets/widgets.php:56
+msgid "Show widget just below menu. Suitable for TG: Featured Category Slider."
+msgstr "Bileşeni menünün hemen altında göster. TG: Öne çıkan kategori kaydırağı için uygundur."
+
+#: inc/functions.php:488
+msgid "Theme: %1$s by %2$s."
+msgstr "Tema: %2$s tarafından %1$s."
+
+#: inc/functions.php:488
+msgid "Powered by %s."
+msgstr "Altyapı %s."
+
+#: inc/widgets/widgets.php:23
+msgid "Shows widgets at Right side."
+msgstr "Sağ kenar çubuğunda widget gösterir."
+
+#. #-#-#-#-#  colormag.pot (ColorMag 1.2.0)  #-#-#-#-#
+#. Author of the plugin/theme
+#: inc/functions.php:486
+msgid "ThemeGrill"
+msgstr "ThemeGrill"
+
+#: inc/functions.php:528
+msgid "Latest:"
+msgstr "En güncel:"
+
+#: inc/functions.php:579
+msgid "View a random post"
+msgstr "Rastgele bir yazı görüntüle"
+
+#: inc/related-posts.php:5
+msgid "You May Also Like"
+msgstr "Bunları da sevebilirsiniz"
+
+#: inc/functions.php:488
+msgid "Copyright &copy; %1$s %2$s. All rights reserved."
+msgstr "Tüm hakları saklıdır &copy; %1$s %2$s."
+
+#: inc/functions.php:484
+msgid "WordPress"
+msgstr "WordPress"
+
+#: inc/functions.php:464
+msgid "Reply"
+msgstr "Yanıtla"
+
+#: inc/functions.php:459
+msgid "Your comment is awaiting moderation."
+msgstr "Yorumunuz denetim için bekliyor."
+
+#: inc/functions.php:451
+msgid "%1$s at %2$s"
+msgstr "%1$s tarihinde, saat %2$s"
+
+#: inc/functions.php:448
+msgid "Post author"
+msgstr "Yazar"
+
+#: inc/functions.php:433
+msgid "(Edit)"
+msgstr "(Düzenle)"
+
+#: inc/functions.php:433
+msgid "Pingback:"
+msgstr "Geri bildirim: "
+
+#: inc/functions.php:407
+msgid "Newer posts <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Yeni yazılar <span class=\"meta-nav\">&rarr;</span>"
+
+#: inc/functions.php:403
+msgid "<span class=\"meta-nav\">&larr;</span> Older posts"
+msgstr "<span class=\"meta-nav\">&larr;</span> Eski yazılar"
+
+#: inc/functions.php:398 navigation.php:45
+msgctxt "Next post link"
+msgid "&rarr;"
+msgstr "&rarr;"
+
+#: inc/functions.php:397 navigation.php:44
+msgctxt "Previous post link"
+msgid "&larr;"
+msgstr "&larr;"
+
+#: inc/functions.php:393
+msgid "Post navigation"
+msgstr "Yazı dolaşımı"
+
+#: inc/functions.php:269
+msgid "Edit"
+msgstr "Düzenle"
+
+#: inc/functions.php:266
+msgid ", "
+msgstr ", "
+
+#: inc/admin/class-colormag-admin.php:134
+#: inc/admin/class-colormag-admin.php:210
+msgid "View PRO version"
+msgstr "PRO sürümü incele"
+
+#: inc/admin/class-colormag-admin.php:130 inc/customizer.php:26
+msgid "Theme Info"
+msgstr "Tema bilgisi"
+
+#: inc/functions.php:254 inc/related-posts.php:33 inc/widgets/widgets.php:313
+#: inc/widgets/widgets.php:439 inc/widgets/widgets.php:590
+#: inc/widgets/widgets.php:748
+msgid "<span class=\"posted-on\"><a href=\"%1$s\" title=\"%2$s\" rel=\"bookmark\"><i class=\"fa fa-calendar-o\"></i> %3$s</a></span>"
+msgstr "<span class=\"posted-on\"><a href=\"%1$s\" title=\"%2$s\" rel=\"bookmark\"><i class=\"fa fa-calendar-o\"></i> %3$s</a></span>"
+
+#: inc/functions.php:264
+msgid "<i class=\"fa fa-comment\"></i> 0 Comments"
+msgstr "<i class=\"fa fa-comment\"></i> 0 yorum"
+
+#: inc/functions.php:264
+msgid "<i class=\"fa fa-comment\"></i> 1 Comment"
+msgstr "<i class=\"fa fa-comment\"></i> 1 yorum"
+
+#: inc/functions.php:264
+msgid "<i class=\"fa fa-comments\"></i> % Comments"
+msgstr "<i class=\"fa fa-comments\"></i> % yorum"
+
+#: inc/admin/class-colormag-admin.php:431 inc/customizer.php:701
+msgid "Related Posts"
+msgstr "İlişkili Yazılar"
+
+#: inc/customizer.php:788
+msgid "%s"
+msgstr "%s"
+
+#: inc/customizer.php:659
+msgid "Change the Additional Settings from here as you want"
+msgstr "Buradan ek ayarları istediğiniz gibi değiştirin"
+
+#: inc/customizer.php:661
+msgid "Additional Options"
+msgstr "Ek ayarlar"
+
+#: inc/customizer.php:668
+msgid "Activate favicon"
+msgstr "favicon özelliğini etkinleştir"
+
+#: inc/customizer.php:680
+msgid "Check to activate favicon. Upload favicon from below option"
+msgstr "favicon özelliğini etkinleştirmek için işaretleyin. Aşağıdan bir favicon yükleyebilirsiniz"
+
+#: inc/customizer.php:692
+msgid "Upload favicon for your site"
+msgstr "Siteniz için bir favicon yükleyin"
+
+#: inc/customizer.php:713
+msgid "Check to activate the related posts"
+msgstr "İlişkili yazıları etkinleştirmek için işaretleyin"
+
+#: inc/customizer.php:726
+msgid "Related Posts Must Be Shown As:"
+msgstr "İlişkili yazılar şu şekilde gösterilmeli:"
+
+#: inc/customizer.php:730 inc/customizer.php:810
+msgid "Related Posts By Categories"
+msgstr "Kategorilere göre ilişkili yazılar"
+
+#: inc/customizer.php:731 inc/customizer.php:811
+msgid "Related Posts By Tags"
+msgstr "Etiketlere göre ilişkili yazılar"
+
+#: inc/customizer.php:738
+msgid "Image Lightbox"
+msgstr "Görsel kutusu"
+
+#: inc/customizer.php:750
+msgid "Check to enable the lightbox for the featured images in single post"
+msgstr "Tekil yazılarda öne çıkan görseller için kutu özelliğini etkinleştirmek için işaretleyin"
+
+#: inc/admin/class-colormag-admin.php:526 inc/customizer.php:759
+msgid "Category Color Options"
+msgstr "Kategori renk seçenekleri"
+
+#: inc/customizer.php:761
+msgid "Change the color of each category items as you want."
+msgstr "Her bir kategori ögesinin rengini istediğiniz gibi değiştirin"
+
+#: inc/customizer.php:766
+msgid "Category Color Settings"
+msgstr "Kategori renk ayarları"
+
+#: inc/customizer.php:645
+msgid "Check to open in new tab"
+msgstr "Yeni sekmede açmak için işaretleyin"
+
+#: inc/customizer.php:610 inc/header-functions.php:25
+msgid "Pinterest"
+msgstr "Pinterest"
+
+#: inc/customizer.php:615 inc/header-functions.php:26
+msgid "YouTube"
+msgstr "YouTube"
+
+#: inc/customizer.php:605 inc/header-functions.php:24
+msgid "Instagram"
+msgstr "Instagram"
+
+#: inc/customizer.php:600 inc/header-functions.php:23
+msgid "Google-Plus"
+msgstr "Google-Plus"
+
+#: inc/customizer.php:590 inc/header-functions.php:21
+msgid "Facebook"
+msgstr "Facebook"
+
+#: inc/customizer.php:595 inc/header-functions.php:22
+msgid "Twitter"
+msgstr "Twitter"
+
+#: inc/customizer.php:563
+msgid "Social Options"
+msgstr "Sosyal seçenekler"
+
+#: inc/customizer.php:553
+msgid "Write your Custom CSS"
+msgstr "Kendi CSS kodlarınızı yazın"
+
+#: inc/customizer.php:570
+msgid "Activate social links area"
+msgstr "Sosyal bağlantılar alanını etkinleştir"
+
+#: inc/customizer.php:582
+msgid "Check to activate social links area"
+msgstr "Sosyal bağlantılar alanını etkinleştirmek için tıklayın"
+
+#: inc/customizer.php:564
+msgid "Change the Social Links settings from here as you want"
+msgstr "Buradan sosyal bağlantı ayarlarını istediğiniz gibi değiştirin"
+
+#: inc/customizer.php:541
+msgid "Custom CSS"
+msgstr "Özel CSS"
+
+#: inc/customizer.php:439
+msgid "Select default layout. This layout will be reflected in whole site archives, categories, search page etc. The layout for a single post and page can be controlled from below options"
+msgstr "Varsayılan düzeni seçin. Bu düzen tüm site arşivleri, kategoriler, arama sayfaları vb. alanlara uygulanacaktır. Tekil yazı ve sayfaların düzeni aşağıdaki seçenekler ile kontrol edilebilir."
+
+#: inc/customizer.php:453
+msgid "Default layout for pages only"
+msgstr "Sayfalar için varsayılan düzen"
+
+#: inc/customizer.php:465
+msgid "Select default layout for pages. This layout will be reflected in all pages unless unique layout is set for specific page"
+msgstr "Sayfalar için varsayılan düzeni seçin. Bu düzen belirli bir sayfaya eşsiz bir düzen seçilmediği sürece tüm sayfalara uygulanacaktır"
+
+#: inc/customizer.php:479
+msgid "Default layout for single posts only"
+msgstr "Tekil yazılar için varsayılan düzen"
+
+#: inc/customizer.php:491
+msgid "Select default layout for single posts. This layout will be reflected in all single posts unless unique layout is set for specific post"
+msgstr "Tekil yazılar için varsayılan düzeni seçin. Bu düzen belirli bir yazıya eşsiz bir düzen seçilmediği sürece tüm sayfalara uygulanacaktır"
+
+#: inc/admin/class-colormag-admin.php:371 inc/customizer.php:506
+msgid "Primary color option"
+msgstr "Birincil renk seçeneği"
+
+#: inc/customizer.php:517
+msgid "This will reflect in links, buttons and many others. Choose a color to match your site"
+msgstr "Bu bağlantılar, tuşlar ve diğer bir çok şeye etkiyecektir. Siteniz ile uyumlu bir renk seçin"
+
+#: inc/customizer.php:427
+msgid "Default layout"
+msgstr "Varsayılan düzen"
+
+#: inc/customizer.php:318
+msgid "Design Options"
+msgstr "Tasarım Ayarları"
+
+#: inc/customizer.php:342
+msgid "Site Layout"
+msgstr "Site düzeni"
+
+#: inc/customizer.php:356 inc/customizer.php:849
+msgid "Boxed Layout"
+msgstr "Kutulu düzen"
+
+#: inc/customizer.php:357 inc/customizer.php:850
+msgid "Wide Layout"
+msgstr "Geniş düzen"
+
+#: inc/customizer.php:280
+msgid "Header Image Position"
+msgstr "Başlık görseli konumu"
+
+#: inc/customizer.php:292
+msgid "Header image display position"
+msgstr "Üst kısım görseli görüntüleme konumu"
+
+#: inc/customizer.php:295 inc/customizer.php:836
+msgid "Display the Header image just above the site title/text."
+msgstr "Üst kısım görselini site başlığının/metninin hemen üstünde göster."
+
+#: inc/customizer.php:296 inc/customizer.php:837
+msgid "Default: Display the Header image between site title/text and the main/primary menu."
+msgstr "Varsayılan: Üst kısım görselini site başlığı/metni ile ana/birincil menü arasında göster."
+
+#: inc/customizer.php:297 inc/customizer.php:838
+msgid "Display the Header image below main/primary menu."
+msgstr "Üst kısım görselini ana/birincil menünün altında göster."
+
+#: inc/customizer.php:309
+msgid "Check to make header image link back to home page"
+msgstr "Üst kısım görsel bağlantısının ana sayfaya yönlendirilmesi için işaretleyin"
+
+#: inc/customizer.php:316
+msgid "Change the Design Settings from here as you want"
+msgstr "Buradan tasarım ayarlarını istediğiniz gibi değiştirin"
+
+#: inc/customizer.php:324
+msgid "Front Page Settings"
+msgstr "Ön sayfa ayarları"
+
+#: inc/customizer.php:335
+msgid "Check to hide blog posts/static page on front page"
+msgstr "Blog yazılarını/statik sayfaları ön sayfadan gizlemek için işaretleyin"
+
+#: inc/customizer.php:354
+msgid "Choose your site layout. The change is reflected in whole site"
+msgstr "Site yerleşimini seçin. Bu değişiklik tüm siteye yansır"
+
+#: inc/customizer.php:241
+msgid "Header Logo"
+msgstr "Başlık Logo"
+
+#: inc/customizer.php:270 inc/customizer.php:822
+msgid "Header Logo Only"
+msgstr "Başlık Sadece Logo "
+
+#: inc/customizer.php:271 inc/customizer.php:823
+msgid "Header Text Only"
+msgstr "Başlık Sadece Yazı "
+
+#: inc/customizer.php:273 inc/customizer.php:825
+msgid "Disable"
+msgstr "Etkisizleştir"
+
+#: inc/customizer.php:180
+msgid "Search Icon"
+msgstr "Arama simgesi"
+
+#: inc/customizer.php:200
+msgid "Random Post"
+msgstr "Rastgele Yazı"
+
+#: inc/customizer.php:253
+msgid "Upload logo for your header"
+msgstr "Üst alan için logo yükleyin"
+
+#: inc/customizer.php:267
+msgid "Choose the option that you want"
+msgstr "İstediğiniz seçeneği seçin"
+
+#: inc/customizer.php:272 inc/customizer.php:824
+msgid "Show Both"
+msgstr "İkisini de göster"
+
+#: inc/customizer.php:193
+msgid "Check to display the Search Icon in the primary menu"
+msgstr "Birincil menüde arama simgesini göstermek için işaretleyin"
+
+#: inc/customizer.php:213
+msgid "Check to display the Random Post Icon in the primary menu"
+msgstr "Birincil menüde rastgele yazı simgesini göstermek için işaretleyin"
+
+#: inc/customizer.php:77
+msgid "Header Options"
+msgstr "Sayfa Tepesi Seçenekleri"
+
+#: inc/admin/class-colormag-admin.php:132 inc/customizer.php:38
+msgid "View Demo"
+msgstr "Demoyu görüntüle"
+
+#: inc/admin/class-colormag-admin.php:136 inc/customizer.php:42
+msgid "Rate this theme"
+msgstr "Bu Tema değerlendir"
+
+#: inc/customizer.php:66
+msgid "Important Links"
+msgstr "Önemli bağlantılar"
+
+#: inc/customizer.php:75
+msgid "Change the Header Settings from here as you want"
+msgstr "Üst alan ayarlarını buradan istediğiniz gibi değiştirin"
+
+#: inc/customizer.php:82
+msgid "Breaking News"
+msgstr "Son dakika haberleri"
+
+#: inc/customizer.php:95
+msgid "Check to enable the breaking news section"
+msgstr "Son dakika haberleri bölümünü etkinleştirmek için işaretleyin"
+
+#: inc/customizer.php:102
+msgid "Show Date"
+msgstr "Tarih göster"
+
+#: inc/customizer.php:115
+msgid "Check to show the date in header"
+msgstr "Üst alanda tarih göstermek için işaretleyin"
+
+#: inc/customizer.php:140
+msgid "Show Home Icon"
+msgstr "Ana sayfa simgesi göster"
+
+#: inc/customizer.php:153
+msgid "Check to show the home icon in the primary menu"
+msgstr "Birincil menüde ana sayfa simgesi göstermek için işaretleyin"
+
+#: inc/customizer.php:160
+msgid "Sticky Menu"
+msgstr "Yapışkan menü"
+
+#: inc/customizer.php:173
+msgid "Check to enable the sticky behavior of the primary menu"
+msgstr "Birincil menünün yapışkan özelliğini etkinleştirmek için tıklayın"
+
+#: inc/admin/class-colormag-admin.php:204
+#: inc/admin/class-colormag-admin.php:361 inc/customizer.php:30
+msgid "Support"
+msgstr "Destek"
+
+#: inc/admin/class-colormag-admin.php:196
+#: inc/admin/class-colormag-admin.php:198 inc/customizer.php:34
+msgid "Documentation"
+msgstr "Belgeler"
+
+#: inc/admin/meta-boxes.php:43
+msgid "No Sidebar Full Width"
+msgstr "Tam genişlikli yan sütun yok"
+
+#: inc/admin/meta-boxes.php:48
+msgid "No Sidebar Content Centered"
+msgstr "Ortalanmış içerikli yan sütun yok"
+
+#: inc/admin/meta-boxes.php:38 inc/widgets/widgets.php:32
+msgid "Left Sidebar"
+msgstr "Sol Menü"
+
+#: inc/admin/meta-boxes.php:33 inc/widgets/widgets.php:21
+msgid "Right Sidebar"
+msgstr "Sağ Menü"
+
+#: inc/admin/meta-boxes.php:28
+msgid "Default Layout"
+msgstr "Varsayılan düzen"
+
+#: inc/admin/meta-boxes.php:16 inc/admin/meta-boxes.php:18
+msgid "Select Layout"
+msgstr "Düzen seçin"
+
+#: content.php:38
+msgid "Read more"
+msgstr "Devam"
+
+#: functions.php:63
+msgid "Primary Menu"
+msgstr "Birincil menü"
+
+#: content-page.php:30 content-single.php:48
+msgid "Pages:"
+msgstr "Sayfalar"
+
+#: comments.php:67
+msgid "Comments are closed."
+msgstr "Yorumlar kapatıldı."
+
+#: comments.php:40 comments.php:57
+msgid "Newer Comments &rarr;"
+msgstr "Yeni yorumlar &rarr;"
+
+#: comments.php:39 comments.php:56
+msgid "&larr; Older Comments"
+msgstr "&larr; Eski yorumlar"
+
+#: comments.php:38 comments.php:55
+msgid "Comment navigation"
+msgstr "Yorum dolaşımı"
+
+#: comments.php:31
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "&ldquo;%2$s&rdquo; için bir yorum"
+msgstr[1] "&ldquo;%2$s&rdquo; için %1$s yorum"
+
+#: archive.php:70
+msgid "Archives"
+msgstr "Arşiv"
+
+#: archive.php:64
+msgid "Links"
+msgstr "Bağlantılar"
+
+#: archive.php:61
+msgid "Quotes"
+msgstr "Alıntılar"
+
+#: archive.php:58
+msgid "Videos"
+msgstr "Videolar"
+
+#: archive.php:55
+msgid "Images"
+msgstr "Görseller"
+
+#: archive.php:52
+msgid "Asides"
+msgstr "Yan sütunlar"
+
+#: archive.php:49
+msgid "Year: %s"
+msgstr "Yıl: %s"
+
+#: archive.php:46
+msgid "Month: %s"
+msgstr "Aylar: %s"
+
+#: archive.php:43
+msgid "Day: %s"
+msgstr "Gün :%s"
+
+#: archive.php:35
+msgid "Author: %s"
+msgstr "Yazar: %s"
+
+#: 404.php:23
+msgid "It looks like nothing was found at this location. Try the search below."
+msgstr "Görünen o ki burada hiç bir şey bulunamadı. Bir de aşağıdan arama yapmayı deneyin."
+
+#: 404.php:21
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Off! Bu sayfa bulunamadı."
+
+#. Theme URI of the plugin/theme
+msgid "https://themegrill.com/themes/colormag/"
+msgstr "https://themegrill.com/themes/colormag/"
+
+#. Author URI of the plugin/theme
+msgid "https://themegrill.com"
+msgstr "https://themegrill.com"

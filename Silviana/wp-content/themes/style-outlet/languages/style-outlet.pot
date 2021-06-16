@@ -1,0 +1,1118 @@
+# Copyright (C) 2017 Style Outlet
+# This file is distributed under the same license as the Style Outlet package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Style Outlet\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;_ex:1,2c;_n:1,2;_n_noop:1,2;_nx:1,2,4c;_nx_noop:1,2,3c;_x:1,2c;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: 404.php:16
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: 404.php:20
+msgid "It looks like nothing was found at this location. Maybe try one of the links below or a search?"
+msgstr ""
+
+#: comments.php:29
+msgctxt "comments title"
+msgid "%1$s  thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:38, comments.php:57
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:40, comments.php:59
+msgid "Older Comments"
+msgstr ""
+
+#: comments.php:41, comments.php:60
+msgid "Newer Comments"
+msgstr ""
+
+#: comments.php:72
+msgid "Comments are closed."
+msgstr ""
+
+#: footer.php:32
+msgid "<p>Powered by <a href=\"%1$s\" target=\"_blank\">WordPress</a>"
+msgstr ""
+
+#: footer.php:34
+msgid "Theme: Style Outlet by <a href=\"%1$s\" rel=\"designer\" target=\"_blank\">Genex Themes</a></p>"
+msgstr ""
+
+#: functions.php:48
+msgid "Primary Menu"
+msgstr ""
+
+#: functions.php:124
+msgid "About Theme"
+msgstr ""
+
+#: functions.php:125
+msgid "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmodtempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam."
+msgstr ""
+
+#: functions.php:166
+msgid "Post One"
+msgstr ""
+
+#: functions.php:167, functions.php:173
+msgid "<h3>We are starting our business</h3><h1>Realize your goal Here</h1><a href=\"#\">GET THE THEME</a>"
+msgstr ""
+
+#: functions.php:172
+msgid "Post Two"
+msgstr ""
+
+#: functions.php:178
+msgid "For Men"
+msgstr ""
+
+#: functions.php:179, functions.php:185, functions.php:191
+msgid "Collection<br><a href=\"#\">Up-to 50 Off </a>"
+msgstr ""
+
+#: functions.php:184
+msgid "For Child"
+msgstr ""
+
+#: functions.php:190
+msgid "For Women"
+msgstr ""
+
+#: functions.php:200
+msgid "slider one"
+msgstr ""
+
+#: functions.php:204
+msgid "Page Images"
+msgstr ""
+
+#: functions.php:254
+msgid "Sidebar"
+msgstr ""
+
+#: functions.php:263
+msgid "Top Left"
+msgstr ""
+
+#: functions.php:272
+msgid "Top Right"
+msgstr ""
+
+#: functions.php:282
+msgid "Footer %d"
+msgstr ""
+
+#: functions.php:292
+msgid "Footer Nav"
+msgstr ""
+
+#: functions.php:352, header.php:69
+msgid "View your shopping cart"
+msgstr ""
+
+#: functions.php:352, header.php:70
+msgid "%d item"
+msgid_plural "%d items"
+msgstr[0] ""
+msgstr[1] ""
+
+#: header.php:22
+msgid "Skip to content"
+msgstr ""
+
+#: search.php:26
+msgid "Search Results for: %s"
+msgstr ""
+
+#: single.php:35
+msgid "About Author:"
+msgstr ""
+
+#: admin/class-tgm-plugin-activation.php:327
+msgid "Install Required Plugins"
+msgstr ""
+
+#: admin/class-tgm-plugin-activation.php:328
+msgid "Install Plugins"
+msgstr ""
+
+#: admin/class-tgm-plugin-activation.php:330
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: admin/class-tgm-plugin-activation.php:332
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: admin/class-tgm-plugin-activation.php:333
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: admin/class-tgm-plugin-activation.php:334
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: admin/class-tgm-plugin-activation.php:340
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: admin/class-tgm-plugin-activation.php:346
+msgid "The following plugin needs to be updated to its latest version to ensure maximum compatibility with this theme: %1$s."
+msgid_plural "The following plugins need to be updated to their latest version to ensure maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: admin/class-tgm-plugin-activation.php:352
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: admin/class-tgm-plugin-activation.php:358
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: admin/class-tgm-plugin-activation.php:364
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: admin/class-tgm-plugin-activation.php:370
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: admin/class-tgm-plugin-activation.php:375
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: admin/class-tgm-plugin-activation.php:380
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: admin/class-tgm-plugin-activation.php:385
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: admin/class-tgm-plugin-activation.php:386, admin/class-tgm-plugin-activation.php:827, admin/class-tgm-plugin-activation.php:2533, admin/class-tgm-plugin-activation.php:3580
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: admin/class-tgm-plugin-activation.php:387, admin/class-tgm-plugin-activation.php:3159
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: admin/class-tgm-plugin-activation.php:388, admin/class-tgm-plugin-activation.php:2952
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] ""
+msgstr[1] ""
+
+#: admin/class-tgm-plugin-activation.php:390
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: admin/class-tgm-plugin-activation.php:392
+msgid "Plugin not activated. A higher version of %s is needed for this theme. Please update the plugin."
+msgstr ""
+
+#: admin/class-tgm-plugin-activation.php:394
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: admin/class-tgm-plugin-activation.php:395
+msgid "Dismiss this notice"
+msgstr ""
+
+#: admin/class-tgm-plugin-activation.php:396
+msgid "There are one or more required or recommended plugins to install, update or activate."
+msgstr ""
+
+#: admin/class-tgm-plugin-activation.php:397
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: admin/class-tgm-plugin-activation.php:522
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: admin/class-tgm-plugin-activation.php:523
+msgid "Update Required"
+msgstr ""
+
+#: admin/class-tgm-plugin-activation.php:934
+msgid "The remote plugin package does not contain a folder with the desired slug and renaming did not work."
+msgstr ""
+
+#: admin/class-tgm-plugin-activation.php:934, admin/class-tgm-plugin-activation.php:937
+msgid "Please contact the plugin provider and ask them to package their plugin according to the WordPress guidelines."
+msgstr ""
+
+#: admin/class-tgm-plugin-activation.php:937
+msgid "The remote plugin package consists of more than one file, but the files are not packaged in a folder."
+msgstr ""
+
+#: admin/class-tgm-plugin-activation.php:1121, admin/class-tgm-plugin-activation.php:2948
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr ""
+
+#: admin/class-tgm-plugin-activation.php:1982
+msgid "TGMPA v%s"
+msgstr ""
+
+#: admin/class-tgm-plugin-activation.php:2273
+msgid "Required"
+msgstr ""
+
+#: admin/class-tgm-plugin-activation.php:2276
+msgid "Recommended"
+msgstr ""
+
+#: admin/class-tgm-plugin-activation.php:2292
+msgid "WordPress Repository"
+msgstr ""
+
+#: admin/class-tgm-plugin-activation.php:2295
+msgid "External Source"
+msgstr ""
+
+#: admin/class-tgm-plugin-activation.php:2298
+msgid "Pre-Packaged"
+msgstr ""
+
+#: admin/class-tgm-plugin-activation.php:2315
+msgid "Not Installed"
+msgstr ""
+
+#: admin/class-tgm-plugin-activation.php:2319
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: admin/class-tgm-plugin-activation.php:2321
+msgid "Active"
+msgstr ""
+
+#: admin/class-tgm-plugin-activation.php:2327
+msgid "Required Update not Available"
+msgstr ""
+
+#: admin/class-tgm-plugin-activation.php:2330
+msgid "Requires Update"
+msgstr ""
+
+#: admin/class-tgm-plugin-activation.php:2333
+msgid "Update recommended"
+msgstr ""
+
+#: admin/class-tgm-plugin-activation.php:2342
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr ""
+
+#: admin/class-tgm-plugin-activation.php:2388
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: admin/class-tgm-plugin-activation.php:2392
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: admin/class-tgm-plugin-activation.php:2396
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: admin/class-tgm-plugin-activation.php:2400
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: admin/class-tgm-plugin-activation.php:2482
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr ""
+
+#: admin/class-tgm-plugin-activation.php:2490
+msgid "Installed version:"
+msgstr ""
+
+#: admin/class-tgm-plugin-activation.php:2498
+msgid "Minimum required version:"
+msgstr ""
+
+#: admin/class-tgm-plugin-activation.php:2510
+msgid "Available version:"
+msgstr ""
+
+#: admin/class-tgm-plugin-activation.php:2533
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+#: admin/class-tgm-plugin-activation.php:2547
+msgid "Plugin"
+msgstr ""
+
+#: admin/class-tgm-plugin-activation.php:2548
+msgid "Source"
+msgstr ""
+
+#: admin/class-tgm-plugin-activation.php:2549
+msgid "Type"
+msgstr ""
+
+#: admin/class-tgm-plugin-activation.php:2553
+msgid "Version"
+msgstr ""
+
+#: admin/class-tgm-plugin-activation.php:2554
+msgid "Status"
+msgstr ""
+
+#: admin/class-tgm-plugin-activation.php:2603
+msgid "Install %2$s"
+msgstr ""
+
+#: admin/class-tgm-plugin-activation.php:2608
+msgid "Update %2$s"
+msgstr ""
+
+#: admin/class-tgm-plugin-activation.php:2614
+msgid "Activate %2$s"
+msgstr ""
+
+#: admin/class-tgm-plugin-activation.php:2684
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: admin/class-tgm-plugin-activation.php:2717
+msgid "Install"
+msgstr ""
+
+#: admin/class-tgm-plugin-activation.php:2723
+msgid "Update"
+msgstr ""
+
+#: admin/class-tgm-plugin-activation.php:2726
+msgid "Activate"
+msgstr ""
+
+#: admin/class-tgm-plugin-activation.php:2757
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: admin/class-tgm-plugin-activation.php:2759
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: admin/class-tgm-plugin-activation.php:2800
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: admin/class-tgm-plugin-activation.php:2802
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: admin/class-tgm-plugin-activation.php:2908
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: admin/class-tgm-plugin-activation.php:2934
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: admin/class-tgm-plugin-activation.php:3158
+msgid "Plugin activation failed."
+msgstr ""
+
+#: admin/class-tgm-plugin-activation.php:3498
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: admin/class-tgm-plugin-activation.php:3501
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: admin/class-tgm-plugin-activation.php:3503
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: admin/class-tgm-plugin-activation.php:3507
+msgid "The installation and activation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr ""
+
+#: admin/class-tgm-plugin-activation.php:3509
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: admin/class-tgm-plugin-activation.php:3509, admin/class-tgm-plugin-activation.php:3517
+msgid "Show Details"
+msgstr ""
+
+#: admin/class-tgm-plugin-activation.php:3509, admin/class-tgm-plugin-activation.php:3517
+msgid "Hide Details"
+msgstr ""
+
+#: admin/class-tgm-plugin-activation.php:3510
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: admin/class-tgm-plugin-activation.php:3512
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: admin/class-tgm-plugin-activation.php:3515
+msgid "The installation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr ""
+
+#: admin/class-tgm-plugin-activation.php:3517
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: admin/class-tgm-plugin-activation.php:3518
+msgid "All installations have been completed."
+msgstr ""
+
+#: admin/class-tgm-plugin-activation.php:3520
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/enqueue.php:39
+msgctxt "Font: on or off"
+msgid "on"
+msgstr ""
+
+#: inc/options-config.php:2
+msgid "Page Builder"
+msgstr ""
+
+#: inc/options-config.php:3
+msgid "Theme supports Page Builder. You can drag and drop our widgets with page builder visual editor."
+msgstr ""
+
+#: inc/options-config.php:4
+msgid "Page Layout"
+msgstr ""
+
+#: inc/options-config.php:5
+msgid "Theme offers many different page layouts so you can quickly and easily create your pages with no hassle!"
+msgstr ""
+
+#: inc/options-config.php:6, inc/options-config.php:316
+msgid "Unlimited Sidebar"
+msgstr ""
+
+#: inc/options-config.php:7
+msgid "Theme includes a different sidebar layouts. Unlimited sidebars allow you to create custom sidebars that match the style and layout of pages!"
+msgstr ""
+
+#: inc/options-config.php:8
+msgid "Custom Widget"
+msgstr ""
+
+#: inc/options-config.php:9
+msgid "We offer many custom widgets that are stylized and ready for use. Simply drag & drop into place to activate!"
+msgstr ""
+
+#: inc/options-config.php:10
+msgid "Multi Portfolio"
+msgstr ""
+
+#: inc/options-config.php:11
+msgid "Theme have a unlimited customization options in portfolio. You can use 2, 3, or 4 Columns with masonry layouts!"
+msgstr ""
+
+#: inc/options-config.php:12
+msgid "Typography"
+msgstr ""
+
+#: inc/options-config.php:13
+msgid "Theme loves typography, you can choose from over 500+ Google Fonts and Standard Fonts to customize your site!"
+msgstr ""
+
+#: inc/options-config.php:14
+msgid "Awesome Sliders"
+msgstr ""
+
+#: inc/options-config.php:15
+msgid "Theme includes Flex and Elastic sliders . You can use flexslider as a image,video and google map anywhere in your site."
+msgstr ""
+
+#: inc/options-config.php:16
+msgid "Woo Commerce"
+msgstr ""
+
+#: inc/options-config.php:17
+msgid "Theme has full design/code integration for WooCommerce, your shop will look as good as the rest of your site!"
+msgstr ""
+
+#: inc/options-config.php:18
+msgid "Retina Ready"
+msgstr ""
+
+#: inc/options-config.php:19
+msgid "Theme is Retina Ready. So, Everything looks amazingly sharp and crisp on high resolution retina displays of all sizes!"
+msgstr ""
+
+#: inc/options-config.php:20
+msgid "Icons"
+msgstr ""
+
+#: inc/options-config.php:21
+msgid " Choose from over 2500 icons are fully integrated into the theme. Use them anywhere in your site with select your own size and color."
+msgstr ""
+
+#: inc/options-config.php:22
+msgid "Excellent Support"
+msgstr ""
+
+#: inc/options-config.php:23
+msgid "We truly care about our customers and themes performance. We assure you that you will get the best after sale support like never before!"
+msgstr ""
+
+#: inc/options-config.php:24
+msgid "Responsive Layout"
+msgstr ""
+
+#: inc/options-config.php:25
+msgid "Theme is fully responsive and can adapt to any screen size. Resize your browser window to view it!"
+msgstr ""
+
+#: inc/options-config.php:26
+msgid "Testimonials"
+msgstr ""
+
+#: inc/options-config.php:27
+msgid "Display your clients' glowing comments about your business on your homepage. Showing a specific number of testimonials with use of testimonial widget. "
+msgstr ""
+
+#: inc/options-config.php:28
+msgid "Social Media"
+msgstr ""
+
+#: inc/options-config.php:29
+msgid "Want your users to stay in touch? No problem, Theme has Social Media icons all throughout the theme!"
+msgstr ""
+
+#: inc/options-config.php:30, inc/options-config.php:286
+msgid "Google Map"
+msgstr ""
+
+#: inc/options-config.php:31
+msgid "Theme includes Goole Map widget. Find a place on the map and get directions. Or get info like business hours and menus, and see Street View imagery."
+msgstr ""
+
+#: inc/options-config.php:32
+msgid "Customization"
+msgstr ""
+
+#: inc/options-config.php:33
+msgid "With advanced theme options, page options & extensive docs, its never been easier to customize a theme!"
+msgstr ""
+
+#: inc/options-config.php:34
+msgid "Demo content"
+msgstr ""
+
+#: inc/options-config.php:35
+msgid "Theme includes single click demo content. You can quickly setup the site like our demo and get started easily!"
+msgstr ""
+
+#: inc/options-config.php:36
+msgid "Improvement"
+msgstr ""
+
+#: inc/options-config.php:37
+msgid "We love our theme and customers. We are committed to improve and add new features to Theme!"
+msgstr ""
+
+#: inc/options-config.php:39
+msgid "View Demo"
+msgstr ""
+
+#: inc/options-config.php:40
+msgid "Upgrade To Pro"
+msgstr ""
+
+#: inc/options-config.php:138, inc/options-config.php:176
+msgid "Style Outlet"
+msgstr ""
+
+#: inc/options-config.php:140
+msgid "Upgrade To Style Outlet Pro"
+msgstr ""
+
+#: inc/options-config.php:170
+msgid "Welcome to %1$s - Version %2$s"
+msgstr ""
+
+#: inc/options-config.php:171
+msgid "Style Outlet is Powerful multipurpose e-commerce/WooCommerce WordPress Theme. Style Outlet  is the perfect free theme for e-commerce shop. Style Outlet is responsive mobile optimized and using skeleton framework. Stylesheet is generated using SASS and so stays DRY. Best suited for Corporate/Business/Blog sites. There is no theme options panel, instead uses Customizer, core feature of WordPress and comes with lots of options to customize. Has 4 Footer Widget Areas. "
+msgstr ""
+
+#: inc/options-config.php:173, inc/options-config.php:323
+msgid "Buy %1s Pro"
+msgstr ""
+
+#: inc/options-config.php:177
+msgid "PRO Fearures"
+msgstr ""
+
+#: inc/options-config.php:178
+msgid "Free VS PRO"
+msgstr ""
+
+#: inc/options-config.php:187
+msgid "Theme Customizer"
+msgstr ""
+
+#: inc/options-config.php:188
+msgid "%s supports the Theme Customizer for all theme settings. Click \"Customize\" to start customize your site."
+msgstr ""
+
+#: inc/options-config.php:190
+msgid "Start Customize"
+msgstr ""
+
+#: inc/options-config.php:194
+msgid "Theme Documentation"
+msgstr ""
+
+#: inc/options-config.php:195
+msgid "Need any help to setup and configure %s? Please have a look at our documentations instructions."
+msgstr ""
+
+#: inc/options-config.php:197
+msgid "Documentation"
+msgstr ""
+
+#: inc/options-config.php:202
+msgid "Having Trouble, Need Support?"
+msgstr ""
+
+#: inc/options-config.php:203
+msgid "Support for %s WordPress theme is conducted through Webulous free support ticket system."
+msgstr ""
+
+#: inc/options-config.php:241
+msgid "Flex Slider"
+msgstr ""
+
+#: inc/options-config.php:246
+msgid "Support"
+msgstr ""
+
+#: inc/options-config.php:251
+msgid "Responsive Design"
+msgstr ""
+
+#: inc/options-config.php:256
+msgid "Custom Logo Option"
+msgstr ""
+
+#: inc/options-config.php:261
+msgid "Social Links"
+msgstr ""
+
+#: inc/options-config.php:266
+msgid "Unlimited color option"
+msgstr ""
+
+#: inc/options-config.php:271
+msgid "Elastic Slider"
+msgstr ""
+
+#: inc/options-config.php:276
+msgid "Page Builder Support"
+msgstr ""
+
+#: inc/options-config.php:281
+msgid "Page Templates"
+msgstr ""
+
+#: inc/options-config.php:291
+msgid "Demo Content"
+msgstr ""
+
+#: inc/options-config.php:296
+msgid "Polylang Compatible"
+msgstr ""
+
+#: inc/options-config.php:301
+msgid "Multiple Portfolio Layouts"
+msgstr ""
+
+#: inc/options-config.php:306
+msgid "Multiple Blog Layouts"
+msgstr ""
+
+#: inc/options-config.php:311
+msgid "Page Animation"
+msgstr ""
+
+#: inc/options-config.php:340, inc/options-config.php:341
+msgid "Theme Options"
+msgstr ""
+
+#: inc/options-config.php:344
+msgid "General"
+msgstr ""
+
+#: inc/options-config.php:345
+msgid "General settings that affects overall site"
+msgstr ""
+
+#: inc/options-config.php:349
+msgid "Enable Breadcrumb"
+msgstr ""
+
+#: inc/options-config.php:355
+msgid "Select Breadcrumb Character"
+msgstr ""
+
+#: inc/options-config.php:366
+msgid "Enable Numeric Page Navigation"
+msgstr ""
+
+#: inc/options-config.php:367
+msgid "Check to display numeric page navigation, instead of Previous Posts / Next Posts links."
+msgstr ""
+
+#: inc/options-config.php:373
+msgid "Website Layout Options"
+msgstr ""
+
+#: inc/options-config.php:374
+msgid "Select main content and sidebar alignment."
+msgstr ""
+
+#: inc/options-config.php:376
+msgid "Sidebar Left"
+msgstr ""
+
+#: inc/options-config.php:377
+msgid "Sidebar Right"
+msgstr ""
+
+#: inc/options-config.php:378
+msgid "Full Width"
+msgstr ""
+
+#: inc/options-config.php:379
+msgid "No Sidebar"
+msgstr ""
+
+#: inc/options-config.php:387
+msgid "Header"
+msgstr ""
+
+#: inc/options-config.php:388
+msgid "Header options"
+msgstr ""
+
+#: inc/options-config.php:392
+msgid "Logo as Title"
+msgstr ""
+
+#: inc/options-config.php:398
+msgid "Show site Tagline"
+msgstr ""
+
+#: inc/options-config.php:412
+msgid "Footer"
+msgstr ""
+
+#: inc/options-config.php:413
+msgid "Footer related options"
+msgstr ""
+
+#: inc/options-config.php:417
+msgid "Footer Widget Area"
+msgstr ""
+
+#: inc/options-config.php:423
+msgid "Footer Copyright Text (Validated that it's HTML Allowed)"
+msgstr ""
+
+#: inc/options-config.php:424
+msgid "HTML Allowed. <b>This field is even HTML validated! </b>"
+msgstr ""
+
+#: inc/options-config.php:430
+msgid "Home"
+msgstr ""
+
+#: inc/options-config.php:431
+msgid "Home Page options"
+msgstr ""
+
+#: inc/options-config.php:435
+msgid "Enable Home Page Slider Section"
+msgstr ""
+
+#: inc/options-config.php:441
+msgid "Slider Posts Category"
+msgstr ""
+
+#: inc/options-config.php:446
+msgid "No. of Sliders"
+msgstr ""
+
+#: inc/options-config.php:452
+msgid "Enable Home page Service Section Discount Offer"
+msgstr ""
+
+#: inc/options-config.php:458, inc/options-config.php:463, inc/options-config.php:468
+msgid "Select the page to display Service Offer"
+msgstr ""
+
+#: inc/options-config.php:481
+msgid "Blog"
+msgstr ""
+
+#: inc/options-config.php:482
+msgid "Blog Related Posts options"
+msgstr ""
+
+#: inc/options-config.php:486
+msgid "Enable Featured Image"
+msgstr ""
+
+#: inc/options-config.php:492
+msgid "Choose the featured image display type for Blog Page "
+msgstr ""
+
+#: inc/options-config.php:494, inc/options-config.php:510
+msgid "Large Featured Image"
+msgstr ""
+
+#: inc/options-config.php:495, inc/options-config.php:511
+msgid "Small Featured Image"
+msgstr ""
+
+#: inc/options-config.php:502
+msgid "Enable Single Post Featured Image"
+msgstr ""
+
+#: inc/options-config.php:508
+msgid "Choose the featured image display type for Single Page "
+msgstr ""
+
+#: inc/options-config.php:518
+msgid " Enable Author Bio Box below single post"
+msgstr ""
+
+#: inc/options-config.php:519
+msgid "Show Author information box below single post."
+msgstr ""
+
+#: inc/options-config.php:525
+msgid "Show Related posts"
+msgstr ""
+
+#: inc/options-config.php:526
+msgid "Show related posts."
+msgstr ""
+
+#: inc/options-config.php:532
+msgid "Related Posts Must Be Shown As:"
+msgstr ""
+
+#: inc/options-config.php:534
+msgid "Related Posts By Tags"
+msgstr ""
+
+#: inc/options-config.php:535
+msgid "Related Posts By Categories"
+msgstr ""
+
+#: inc/options-config.php:542
+msgid " Show Comments"
+msgstr ""
+
+#: inc/options-config.php:543
+msgid "Show Comments"
+msgstr ""
+
+#: inc/template-tags.php:28
+msgctxt "post date"
+msgid "Posted on %s"
+msgstr ""
+
+#: inc/template-tags.php:33
+msgctxt "post author"
+msgid "by %s"
+msgstr ""
+
+#: inc/template-tags.php:50, inc/template-tags.php:56
+msgid ", "
+msgstr ""
+
+#: inc/template-tags.php:52
+msgid "Posted in %1$s"
+msgstr ""
+
+#: inc/template-tags.php:58
+msgid "Tagged %1$s"
+msgstr ""
+
+#. translators: %s: post title
+#: inc/template-tags.php:65
+msgid "Leave a Comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr ""
+
+#: inc/template-tags.php:72, template-parts/content-page.php:38
+msgid "Edit %s"
+msgstr ""
+
+#: inc/template-tags.php:150
+msgctxt "post author"
+msgid " %s"
+msgstr ""
+
+#: inc/template-tags.php:161
+msgid "Edit"
+msgstr ""
+
+#: inc/template-tags.php:169
+msgid "Leave a comment"
+msgstr ""
+
+#: inc/template-tags.php:169
+msgid "1 Comment"
+msgstr ""
+
+#: inc/template-tags.php:169
+msgid "% Comments"
+msgstr ""
+
+#: inc/template-tags.php:190
+msgid "Post navigation"
+msgstr ""
+
+#: inc/template-tags.php:193
+msgctxt "Previous post link"
+msgid "<span class=\"meta-nav\"><i class=\"fa fa-angle-left\"></i></span>&nbsp;%title"
+msgstr ""
+
+#: inc/template-tags.php:194
+msgctxt "Next post link"
+msgid "%title&nbsp;<span class=\"meta-nav\"><i class=\"fa fa-angle-right\"></i></span>"
+msgstr ""
+
+#: inc/template-tags.php:228, template-parts/content.php:48
+msgid "Read More"
+msgstr ""
+
+#: inc/template-tags.php:317
+msgid "<i class=\"fa fa-home\"></i>"
+msgstr ""
+
+#: inc/template-tags.php:318
+msgid "Archive by Category \"%s\""
+msgstr ""
+
+#: inc/template-tags.php:319
+msgid "Search Results for \"%s\" Query"
+msgstr ""
+
+#: inc/template-tags.php:320
+msgid "Posts Tagged \"%s\""
+msgstr ""
+
+#: inc/template-tags.php:321
+msgid "Articles Posted by %s"
+msgstr ""
+
+#: inc/template-tags.php:322
+msgid "Error 404"
+msgstr ""
+
+#: inc/template-tags.php:375, inc/template-tags.php:375, inc/template-tags.php:376, inc/template-tags.php:380, inc/template-tags.php:380, inc/template-tags.php:384
+msgid "Y"
+msgstr ""
+
+#: inc/template-tags.php:376
+msgid "m"
+msgstr ""
+
+#: inc/template-tags.php:376, inc/template-tags.php:381
+msgid "F"
+msgstr ""
+
+#: inc/template-tags.php:377
+msgid "d"
+msgstr ""
+
+#: inc/template-tags.php:447
+msgid "Page"
+msgstr ""
+
+#: inc/template-tags.php:503, inc/template-tags.php:506
+msgid "No Related Posts Yet!"
+msgstr ""
+
+#: inc/template-tags.php:534
+msgid "Welcome! Thank you for choosing %1$s! To fully take advantage of the best our theme can offer please make sure you visit our <a href=\"%2$s\">Welcome page</a>"
+msgstr ""
+
+#: inc/template-tags.php:535
+msgid "Get started with Style Outlet"
+msgstr ""
+
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr ""
+
+#: template-parts/content-none.php:21
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: template-parts/content-none.php:25
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr ""
+
+#: template-parts/content-none.php:31
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr ""
+
+#: template-parts/content-page.php:26
+msgid "Pages:"
+msgstr ""
+
+#: template-parts/content-single.php:48, template-parts/content.php:57
+msgid "Pages: "
+msgstr ""

@@ -1,0 +1,3100 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Nirvana v1.0.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2014-12-14 23:12:52+0000\n"
+"Last-Translator: Davor <1snapy@gmail.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n%100/10==1 ? 2 : n%10==1 ? 0 : (n+9)%10>3 ? 2 : 1;\n"
+"X-Generator: CSL v1.x\n"
+"X-Poedit-Language: Croatian\n"
+"X-Poedit-Country: CROATIA\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes"
+
+#: 404.php:17
+#@ nirvana
+msgid "Not Found"
+msgstr "Nije pronađeno"
+
+#: 404.php:20
+#@ nirvana
+msgid "Apologies, but the page you requested could not be found. Perhaps searching will help."
+msgstr "Stranica koju tražite nije pronađena. Pretraga bi mogla pomoći."
+
+#: admin/admin-functions.php:62
+#@ nirvana
+msgid "Before you can upload your import file, you will need to fix the following error:"
+msgstr "Prije uploada datoteke, morat ćete popraviti slijedeću grešku:"
+
+#: admin/admin-functions.php:70
+#@ nirvana
+msgid "Import Nirvana Theme Options"
+msgstr "Uvezi Opcije Nirvana teme"
+
+#: admin/admin-functions.php:72
+#@ nirvana
+msgid "Hi! This is where you import the  Nirvana settings.<i> Please remember that this is still an experimental feature.</i>"
+msgstr "Bok! Ovdje uvozite Nirvana postavke. <i> Molimo imajte na umu da je ovo eksperimentalna opcija.</i>"
+
+#: admin/admin-functions.php:74
+#@ nirvana
+msgid "Just choose a file from your computer:"
+msgstr "Samo odaberite datoteku s vašeg kompjutera:"
+
+#: admin/admin-functions.php:76
+#, php-format
+#@ nirvana
+msgid "Maximum size: %s"
+msgstr "Maksimalna veličina: %s"
+
+#: admin/admin-functions.php:82
+#@ nirvana
+msgid "And import!"
+msgstr "Uvezi!"
+
+#: admin/admin-functions.php:148
+#@ nirvana
+msgid "Import Nirvana Theme Options "
+msgstr "Uvezi Opcije Nrivana teme "
+
+#: admin/admin-functions.php:151
+#@ nirvana
+msgid "Great! The options have been imported!"
+msgstr "Odlično! Opcije su uvezene!"
+
+#: admin/admin-functions.php:152
+#@ nirvana
+msgid "Go back to the Nirvana options page and check them out!"
+msgstr "Vratite se na stranicu s Nirvana opcijama i pregledajte ih!"
+
+#: admin/admin-functions.php:155
+#: admin/admin-functions.php:161
+#: admin/admin-functions.php:167
+#@ nirvana
+msgid "Oops, there's a small problem."
+msgstr "Ups, imamo mali problem."
+
+#: admin/admin-functions.php:156
+#@ nirvana
+msgid "The uploaded file does not contain valid Nirvana options. Make sure the file is exported from the Nirvana Options page."
+msgstr "Uploadana datoteka ne sadrži ispravne Nirvana opcije. Datoteka mora biti izvezena sa stranice Nirvana opcije."
+
+#: admin/admin-functions.php:162
+#@ nirvana
+msgid "The uploaded file could not be read."
+msgstr "Uploadana datoteka nije mogla biti pročitana."
+
+#: admin/admin-functions.php:168
+#@ nirvana
+msgid "The uploaded file is not supported. Make sure the file was exported from the Nirvana page and that it is a text file."
+msgstr "Uploadana datoteka nije podržana. Datoteka mora biti izvezena sa stranice Nirvana opcije te mora biti tekstualna datoteka."
+
+#: admin/admin-functions.php:177
+#@ nirvana
+msgid "Oops! The file is empty or there was no file. This error could also be caused by uploads being disabled in your php.ini or by post_max_size being defined as smaller than upload_max_filesize in php.ini."
+msgstr "Ups! Datoteka je prazna ili je nije ni bilo. Ova greška je mogla biti uzrokovana time što su uploadi onemogućeni u vašem php.ini ili ako je post_max_size definiran kao manji od upload_max_filesize u php.ini."
+
+#: admin/admin-functions.php:183
+#@ nirvana
+msgid "ERROR: You are not authorised to perform that operation"
+msgstr "GREŠKA: Nemate ovlasti izvršiti tu radnju"
+
+#: admin/admin-functions.php:192
+#@ nirvana
+msgid ""
+"Are you sure you want to load a new color scheme? \n"
+"All current saved settings under Text and Color Settings will be lost."
+msgstr ""
+"Jeste li sigurni da želite učitati novu shemu boja? \n"
+" Sve trenutne postavke u Postavke teksta i boja će biti izgubljene."
+
+#: admin/admin-functions.php:198
+#@ nirvana
+msgid "Select one of the preset color schemes and press the Load button.<br> <b> CAUTION! </b> When loading a color scheme, the Nirvana theme settings under Text and Color Settings will be overriden. All other settings will remain intact.<br> <u>SUGGESTION:</u> It's always better to export your current theme settings before loading a color scheme."
+msgstr "Izaberite jednu od pred-postavljenih shema boja i pritisnite gumb Učitaj. <br> <b> PAŽNJA! </b> Kada učitavate shemu boja, opcije Nirvana teme pod kategorijom Opcije teksta i boja će biti premoštene. Sve ostale opcije će ostati netaknute.<br> <u>Prijedlog</u> Uvijek je dobro izvesti vaše trenutne postavke teme prije učitavanja nove sheme boja."
+
+#: admin/admin-functions.php:222
+#@ nirvana
+msgid "Load Color Scheme"
+msgstr "Učitaj shemu boja"
+
+#: admin/admin-functions.php:290
+#@ nirvana
+msgid "No news items."
+msgstr "Nema vijesti."
+
+#: admin/admin-functions.php:294
+#@ nirvana
+msgid "Posted on"
+msgstr "Objavljeno"
+
+#: admin/admin-functions.php:295
+#@ nirvana
+msgid "Read the full post"
+msgstr "Pročitajte cijeli post"
+
+#: admin/customizer.php:33
+#@ nirvana
+msgid "Nirvana Advanced Settings"
+msgstr "Nirvana napredne opcije"
+
+#: admin/customizer.php:36
+#@ nirvana
+msgid " "
+msgstr " "
+
+#: admin/main.php:105
+#@ nirvana
+msgid "Layout Settings"
+msgstr "Postavke rasporeda"
+
+#: admin/main.php:106
+#@ nirvana
+msgid "Header Settings"
+msgstr "Postavke headera"
+
+#: admin/main.php:107
+#: admin/main.php:168
+#@ nirvana
+msgid "Presentation Page"
+msgstr "Prezentacijska stranica"
+
+#: admin/main.php:108
+#@ nirvana
+msgid "Text Settings"
+msgstr "Postavke teksta"
+
+#: admin/main.php:109
+#@ nirvana
+msgid "Color Settings"
+msgstr "Postavke boja"
+
+#: admin/main.php:110
+#@ nirvana
+msgid "Graphics Settings"
+msgstr "Postavke grafike"
+
+#: admin/main.php:111
+#@ nirvana
+msgid "Post Information Settings"
+msgstr "Postavke informacija na postovima"
+
+#: admin/main.php:112
+#@ nirvana
+msgid "Post Excerpt Settings"
+msgstr "Postavke skraćenog teksta posta"
+
+#: admin/main.php:113
+#@ nirvana
+msgid "Featured Image Settings"
+msgstr "Postavke istaknute slike"
+
+#: admin/main.php:114
+#@ nirvana
+msgid "Social Media Settings"
+msgstr "Postavke društvenih mreža"
+
+#: admin/main.php:115
+#@ nirvana
+msgid "Miscellaneous Settings"
+msgstr "Postavke - razno"
+
+#: admin/main.php:118
+#@ nirvana
+msgid "Main Layout"
+msgstr "Glavni raspored"
+
+#: admin/main.php:119
+#@ nirvana
+msgid "Content / Sidebar Width"
+msgstr "Sadržaj / sidebar širina"
+
+#: admin/main.php:120
+#@ nirvana
+msgid "Content Margins"
+msgstr "Margine sadržaja"
+
+#: admin/main.php:121
+#@ nirvana
+msgid "Duality"
+msgstr "Dualnost"
+
+#: admin/main.php:122
+#@ nirvana
+msgid "Responsiveness"
+msgstr "Responzivnost"
+
+#: admin/main.php:125
+#@ nirvana
+msgid "Enable Presentation Page"
+msgstr "Omogući prezentacijsku stranicu"
+
+#: admin/main.php:126
+#@ nirvana
+msgid "Show Posts on Presentation Page"
+msgstr "Pokaži postove na prezentacijskoj stranici"
+
+#: admin/main.php:127
+#@ nirvana
+msgid "Slider Settings"
+msgstr "Postavke slajdera"
+
+#: admin/main.php:128
+#@ nirvana
+msgid "Slides"
+msgstr "Slajdovi"
+
+#: admin/main.php:129
+#@ nirvana
+msgid "Columns"
+msgstr "Stupci"
+
+#: admin/main.php:130
+#@ nirvana
+msgid "Text Areas"
+msgstr "Polja teksta"
+
+#: admin/main.php:131
+#@ nirvana
+msgid "Extras"
+msgstr "Dodatno"
+
+#: admin/main.php:134
+#@ nirvana
+msgid "Header Height"
+msgstr "Visina headera"
+
+#: admin/main.php:135
+#@ nirvana
+msgid "Header Image"
+msgstr "Slika headera"
+
+#: admin/main.php:136
+#@ nirvana
+msgid "Site Header"
+msgstr "Header sajta"
+
+#: admin/main.php:137
+#@ nirvana
+msgid "Custom Logo Upload"
+msgstr "Upload posebnog loga"
+
+#: admin/main.php:138
+#@ nirvana
+msgid "Header Content Spacing"
+msgstr "Spacing sadržaja u headeru"
+
+#: admin/main.php:139
+#@ nirvana
+msgid "FavIcon Upload"
+msgstr "Upload favikone"
+
+#: admin/main.php:140
+#@ nirvana
+msgid "Header Widget Width"
+msgstr "Širina widgeta u headeru"
+
+#: admin/main.php:143
+#: admin/settings.php:722
+#: admin/settings.php:741
+#: admin/settings.php:760
+#: admin/settings.php:778
+#: admin/settings.php:796
+#: admin/settings.php:817
+#@ nirvana
+msgid "General Font"
+msgstr "Osnovni font"
+
+#: admin/main.php:144
+#@ nirvana
+msgid "Post Title Font "
+msgstr "Font naslova posta "
+
+#: admin/main.php:145
+#@ nirvana
+msgid "Widget Title Font"
+msgstr "Font naslova widgeta"
+
+#: admin/main.php:146
+#@ nirvana
+msgid "Widget Font"
+msgstr "Font widgeta"
+
+#: admin/main.php:147
+#@ nirvana
+msgid "Site Title Font"
+msgstr "Font naslova sajta"
+
+#: admin/main.php:148
+#@ nirvana
+msgid "Main Menu Font"
+msgstr "Font glavnog menija"
+
+#: admin/main.php:149
+#@ nirvana
+msgid "Headings Font"
+msgstr "Font naslova"
+
+#: admin/main.php:150
+#@ nirvana
+msgid "Force Text Align"
+msgstr "Prisili poravnanje teksta"
+
+#: admin/main.php:151
+#@ nirvana
+msgid "Paragraph spacing"
+msgstr "Spacing u odlomku"
+
+#: admin/main.php:152
+#@ nirvana
+msgid "Paragraph Indent"
+msgstr "Uvlačenje odlomka"
+
+#: admin/main.php:153
+#@ nirvana
+msgid "Headings Indent"
+msgstr "Uvlačenje naslova"
+
+#: admin/main.php:154
+#@ nirvana
+msgid "Line Height"
+msgstr "Visina linije"
+
+#: admin/main.php:155
+#@ nirvana
+msgid "Word Spacing"
+msgstr "Spacing riječi"
+
+#: admin/main.php:156
+#@ nirvana
+msgid "Letter Spacing"
+msgstr "Spacing slova"
+
+#: admin/main.php:157
+#@ nirvana
+msgid "Uppercase Text"
+msgstr "Tekst velikim slovima"
+
+#: admin/main.php:161
+#@ nirvana
+msgid "Background Image"
+msgstr "Slika pozadine"
+
+#: admin/main.php:162
+#@ nirvana
+msgid "General"
+msgstr "Osnovno"
+
+#: admin/main.php:163
+#@ nirvana
+msgid "Accents"
+msgstr "Akcenti"
+
+#: admin/main.php:164
+#: admin/settings.php:939
+#@ nirvana
+msgid "Site Title"
+msgstr "Naslov sajta"
+
+#: admin/main.php:165
+#@ nirvana
+msgid "Main Menu"
+msgstr "Glavni meni"
+
+#: admin/main.php:166
+#: admin/main.php:178
+#: admin/settings.php:1619
+#@ nirvana
+msgid "Top Bar"
+msgstr "Gornja traka"
+
+#: admin/main.php:167
+#@ nirvana
+msgid "Content"
+msgstr "Sadržaj"
+
+#: admin/main.php:169
+#@ nirvana
+msgid "Sidebar Widgets"
+msgstr "Widgeti u sidebaru"
+
+#: admin/main.php:170
+#@ nirvana
+msgid "Footer Widgets"
+msgstr "Widgeti u footeru"
+
+#: admin/main.php:171
+#@ nirvana
+msgid "Links"
+msgstr "Linkovi"
+
+#: admin/main.php:172
+#@ nirvana
+msgid "Post metas"
+msgstr "Meta postova"
+
+#: admin/main.php:173
+#@ nirvana
+msgid "Socials"
+msgstr "Ikone društvenih mreža"
+
+#: admin/main.php:174
+#@ nirvana
+msgid "Caption type"
+msgstr "Tip natpisa (caption)"
+
+#: admin/main.php:179
+#@ nirvana
+msgid "Breadcrumbs"
+msgstr "Krušne mrvice"
+
+#: admin/main.php:180
+#@ nirvana
+msgid "Pagination"
+msgstr "Paginacija"
+
+#: admin/main.php:181
+#@ nirvana
+msgid "Menu Alignment"
+msgstr "Poravnanje menija"
+
+#: admin/main.php:182
+#@ nirvana
+msgid "Search Bar Locations"
+msgstr "Lokacija trake pretrage"
+
+#: admin/main.php:183
+#@ nirvana
+msgid "Post Images Border"
+msgstr "Rub slika u postovima"
+
+#: admin/main.php:184
+#@ nirvana
+msgid "Page Titles"
+msgstr "Naslovi stranica"
+
+#: admin/main.php:185
+#@ nirvana
+msgid "Category Titles"
+msgstr "Naslovi kategorija"
+
+#: admin/main.php:186
+#@ nirvana
+msgid "Hide Tables"
+msgstr "Sakrij tablice"
+
+#: admin/main.php:187
+#@ nirvana
+msgid "Back to Top button"
+msgstr "Natrag na vrh gumb"
+
+#: admin/main.php:190
+#@ nirvana
+msgid "Meta Bar Position"
+msgstr "Pozicija Meta trake"
+
+#: admin/main.php:191
+#@ nirvana
+msgid "Show on Blog Pages"
+msgstr "Pokaži na blog stranicama"
+
+#: admin/main.php:192
+#@ nirvana
+msgid "Show on Single Pages"
+msgstr "Pokaži na single stranicama"
+
+#: admin/main.php:193
+#@ nirvana
+msgid "Text Under Comments"
+msgstr "Tekst ispod komentara"
+
+#: admin/main.php:194
+#@ nirvana
+msgid "Comments are closed text"
+msgstr "Tekst: Komentari su zatvoreni"
+
+#: admin/main.php:195
+#@ nirvana
+msgid "Comments off"
+msgstr "Komentari isključeni"
+
+#: admin/main.php:198
+#: includes/theme-functions.php:217
+#@ nirvana
+msgid "Home Page"
+msgstr "Naslovnica"
+
+#: admin/main.php:199
+#: admin/settings.php:401
+#: admin/settings.php:507
+#@ nirvana
+msgid "Sticky Posts"
+msgstr "Ljepljivi post"
+
+#: admin/main.php:200
+#@ nirvana
+msgid "Archive and Category Pages"
+msgstr "Stranice arhive i kategorija"
+
+#: admin/main.php:201
+#@ nirvana
+msgid "Post Excerpt Length "
+msgstr "Duljina sažetka posta "
+
+#: admin/main.php:202
+#@ nirvana
+msgid "Magazine Layout"
+msgstr "Raspored u stilu magazina"
+
+#: admin/main.php:203
+#@ nirvana
+msgid "Excerpt suffix"
+msgstr "Nastavak za sažetak"
+
+#: admin/main.php:204
+#@ nirvana
+msgid "Continue reading link text "
+msgstr "Nastavi čitati tekst za link "
+
+#: admin/main.php:205
+#@ nirvana
+msgid "HTML tags in Excerpts"
+msgstr "HTML tagovi u sažetku"
+
+#: admin/main.php:208
+#@ nirvana
+msgid "Featured Images as POST Thumbnails "
+msgstr "Istaknute slike kao sličice u postu "
+
+#: admin/main.php:209
+#@ nirvana
+msgid "Auto Select Images From Posts "
+msgstr "Automatski odaberi slike iz postova "
+
+#: admin/main.php:210
+#@ nirvana
+msgid "Thumbnails Alignment "
+msgstr "Poravnanje sličica "
+
+#: admin/main.php:211
+#@ nirvana
+msgid "Thumbnails Size "
+msgstr "Veličina sličica "
+
+#: admin/main.php:212
+#@ nirvana
+msgid "Featured Images as HEADER Images "
+msgstr "Istaknute slike kao slike headera "
+
+#: admin/main.php:215
+#@ nirvana
+msgid "Link nr. 1"
+msgstr "Link br. 1"
+
+#: admin/main.php:216
+#@ nirvana
+msgid "Link nr. 2"
+msgstr "Link br. 2"
+
+#: admin/main.php:217
+#@ nirvana
+msgid "Link nr. 3"
+msgstr "Link br. 3"
+
+#: admin/main.php:218
+#@ nirvana
+msgid "Link nr. 4"
+msgstr "Link br. 4"
+
+#: admin/main.php:219
+#@ nirvana
+msgid "Link nr. 5"
+msgstr "Link br. 5"
+
+#: admin/main.php:220
+#@ nirvana
+msgid "Socials display"
+msgstr "Prikazati ikone na"
+
+#: admin/main.php:223
+#@ nirvana
+msgid "Internet Explorer Compatibility Tag"
+msgstr "Tag za kompatibilnost u Internet Exploreru"
+
+#: admin/main.php:224
+#@ nirvana
+msgid "Custom Footer Text"
+msgstr "Posebni tekst za footer"
+
+#: admin/main.php:225
+#@ nirvana
+msgid "Custom CSS"
+msgstr "Posebni CSS"
+
+#: admin/main.php:226
+#@ nirvana
+msgid "Custom JavaScript"
+msgstr "Posebni JavaScript"
+
+#: admin/main.php:249
+#@ nirvana
+msgid "Sorry, but you do not have sufficient permissions to access this page."
+msgstr "Sori, nemate dopuštenje da pristupite ovoj stranici."
+
+#: admin/main.php:268
+#@ nirvana
+msgid "Nirvana settings updated successfully."
+msgstr "Postavke Nirvane uspješno ažurirane."
+
+#: admin/main.php:284
+#@ nirvana
+msgid "Save Changes"
+msgstr "Snimi promjene"
+
+#: admin/main.php:285
+#@ nirvana
+msgid "Reset to Defaults"
+msgstr "Resetiraj na početne postavke"
+
+#: admin/main.php:324
+#@ nirvana
+msgid "Import/Export Settings"
+msgstr "Uvezi/Izvezi postavke"
+
+#: admin/main.php:329
+#@ nirvana
+msgid "Export Theme options"
+msgstr "Izvezi postavke teme"
+
+#: admin/main.php:330
+#@ nirvana
+msgid "It's that easy: a mouse click away - the ability to export your Nirvana settings and save them on your computer. Feeling safer? You should!"
+msgstr "Tako je lako: jedan klik daleko - mogućnost da izvezete svoje postavke Nirvane i sačuvate ih na svojem kompjuteru. Osjećate se sigurnije? Trebali bi!"
+
+#: admin/main.php:335
+#@ nirvana
+msgid "Import Theme options"
+msgstr "Uvezi opcije teme"
+
+#: admin/main.php:336
+#@ nirvana
+msgid "Without the import, the export would just be a fool's exercise. Make sure you have the exported file ready and see you after the mouse click."
+msgstr "Bez uvoza, izvoz bi bio besmislen. Imajte spremnu izvezenu datoteku i vidimo se nakon klika."
+
+#: admin/main.php:341
+#@ nirvana
+msgid "Color Schemes"
+msgstr "Sheme boja"
+
+#: admin/main.php:342
+#@ nirvana
+msgid "A collection of preset color schemes to use as the starting point for your site. Just load one up and see your blog in a different light."
+msgstr "Kolekcija shema boja koje možete koristiti kao početnu točku za vašu stranicu. Samo učitajte jednu i vidjet ćete svoj blog u drugom svjetlu."
+
+#: admin/main.php:349
+#@ nirvana
+msgid "Nirvana Latest News"
+msgstr "Najnovije vijesti o Nirvani"
+
+#: admin/main.php:360
+#@ nirvana
+msgid "Reset Nirvana Settings to Defaults?"
+msgstr "Resetirajte Nirvanu na početne postavke?"
+
+#: admin/prototypes.php:30
+#@ nirvana
+msgid "or Google font"
+msgstr "ili Google font"
+
+#: admin/settings.php:28
+#@ nirvana
+msgid "One column (no sidebars)"
+msgstr "Jedan stupac (bez sidebara)"
+
+#: admin/settings.php:29
+#@ nirvana
+msgid "Two columns, sidebar on the right"
+msgstr "Dva stupca, sidebar desno"
+
+#: admin/settings.php:30
+#@ nirvana
+msgid "Two columns, sidebar on the left"
+msgstr "Dva stupca, sidebar lijevo"
+
+#: admin/settings.php:31
+#@ nirvana
+msgid "Three columns, sidebars on the right"
+msgstr "Tri stupca, sidebarovi desno"
+
+#: admin/settings.php:32
+#@ nirvana
+msgid "Three columns, sidebars on the left"
+msgstr "Tri stupca, sidebarovi lijevo"
+
+#: admin/settings.php:33
+#@ nirvana
+msgid "Three columns, one sidebar on each side"
+msgstr "Tri stupca, sidebarovi sa svake strane"
+
+#: admin/settings.php:41
+#@ nirvana
+msgid "Choose your layout. Possible options are: <br> No sidebar, a single sidebar on either left of right, two sidebars on either left or right and two sidebars on each side.<br>This can be overriden in pages by using Page Templates."
+msgstr "Izaberite svoj raspored. Mogućnosti su: <br> Bez sidebara, jedan sidebar na lijevoj ili desnoj strani, dva sidebara na lijevoj ili desnoj strani, i dva sidebara sa svake strane.<br>Ovo može biti premošteno u stranicama koristeći Predloške stranica."
+
+#: admin/settings.php:90
+#@ nirvana
+msgid "Content ="
+msgstr "Sadržaj ="
+
+#: admin/settings.php:91
+#@ nirvana
+msgid "Sidebar(s) ="
+msgstr "Sidebar(-ovi) ="
+
+#: admin/settings.php:92
+#@ nirvana
+msgid "Total width ="
+msgstr "Ukupna širina ="
+
+#: admin/settings.php:99
+#@ nirvana
+msgid "Select the width of your <b>content</b> and <b>sidebar(s)</b>. When using a 3 columns layout (with 2 sidebars) they will each have half the configured width."
+msgstr "Izaberite širinu vašeg <b>sadržaja</b> i <b>sidebara</b>. Kada koristite raspored s tri stupca (dva sidebara), imat će svaki po pola od definirane širine."
+
+#: admin/settings.php:108
+#@ nirvana
+msgid "Wide"
+msgstr "Široko"
+
+#: admin/settings.php:108
+#@ nirvana
+msgid "Boxed"
+msgstr "Ograničeno"
+
+#: admin/settings.php:116
+#@ nirvana
+msgid "Select the layout format for your site.<br> <strong>Wide</strong> - full width layout. <br><strong>Boxed</strong> - fixed width layout."
+msgstr "Izaberite format sadržaja za vaš sajt.<br> <strong>Široko</strong> - raspored pune širine. <br><strong>Ograničeno</strong> - raspored točno određene širine."
+
+#: admin/settings.php:124
+#: admin/settings.php:214
+#: admin/settings.php:230
+#: admin/settings.php:613
+#: admin/settings.php:848
+#: admin/settings.php:1099
+#: admin/settings.php:1114
+#: admin/settings.php:1214
+#: admin/settings.php:1230
+#: admin/settings.php:1412
+#: admin/settings.php:1441
+#: admin/settings.php:1464
+#: admin/settings.php:1483
+#: admin/settings.php:1532
+#: admin/settings.php:1676
+#@ nirvana
+msgid "Enable"
+msgstr "Uključi"
+
+#: admin/settings.php:124
+#: admin/settings.php:214
+#: admin/settings.php:230
+#: admin/settings.php:848
+#: admin/settings.php:1099
+#: admin/settings.php:1114
+#: admin/settings.php:1214
+#: admin/settings.php:1230
+#: admin/settings.php:1412
+#: admin/settings.php:1441
+#: admin/settings.php:1464
+#: admin/settings.php:1483
+#: admin/settings.php:1532
+#: admin/settings.php:1676
+#@ nirvana
+msgid "Disable"
+msgstr "Isključi"
+
+#: admin/settings.php:132
+#@ nirvana
+msgid "Allow zoom"
+msgstr "Dopusti zoom"
+
+#: admin/settings.php:133
+#@ nirvana
+msgid "Enable to make Nirvana fully responsive. The layout and general sizes of your blog will adjust depending on what device and what resolution it is viewed in.<br> Do not disable unless you have a good reason to."
+msgstr "Uključite kako biste omogućili da Nirvana bude u potpunosti responzivna. Raspored i osnovne veličine vašeg bloga prilagođavati će se ovisno o uređaju i rezoluciji u kojoj se pregledava.<br> Ne isključujte osim ako imate dobar razlog."
+
+#: admin/settings.php:145
+#@ nirvana
+msgid "Select the header's height. After saving the settings go and upload your new header image. The header's minimum width should be "
+msgstr "Izaberite visinu headera. Nakon što ste sačuvali postavke uploadajte novu sliku za header. Minimalna širina headera trebala bi biti "
+
+#: admin/settings.php:151
+#@ nirvana
+msgid "Define header image"
+msgstr "Izaberi sliku headera"
+
+#: admin/settings.php:152
+#@ nirvana
+msgid "Center the header image horizontally"
+msgstr "Centriraj sliku headera horizontalno"
+
+#: admin/settings.php:154
+#@ nirvana
+msgid "Force header image responsiveness."
+msgstr "Prisili sliku headera na responzivnost"
+
+#: admin/settings.php:155
+#@ nirvana
+msgid "By default the header has a minimum height set to accommodate the site title or custom logo. Enabling this option removes that minimum height and the header becomes fully responsive, scalling to any size.<br> Only enable this if you're <b>not</b> using a logo or site title and description in the header. Also make sure you have a header image uploaded. "
+msgstr "Osnovna je postavka da header ima minimalnu visinu postavljenu da može prikazati naslov bloga ili logo. Uključivanjem ove opcije isključujete minimalnu visinu i header postaje potpuno responzivan, skalira se na sve veličine. <br> Uključite samo ako <b>NE</b> koristite logo ili naslov i opis bloga u headeru. Također, morate imati uploadanu sliku headera. "
+
+#: admin/settings.php:163
+#@ nirvana
+msgid "Site Title and Description"
+msgstr "Naslov bloga i opis"
+
+#: admin/settings.php:163
+#@ nirvana
+msgid "Custom Logo"
+msgstr "Posebni logo"
+
+#: admin/settings.php:163
+#@ nirvana
+msgid "Clickable header image"
+msgstr "Klikabilna slika headera"
+
+#: admin/settings.php:163
+#@ nirvana
+msgid "Empty"
+msgstr "Prazno"
+
+#: admin/settings.php:165
+#@ nirvana
+msgid "Choose what to display inside your header area."
+msgstr "Izaberite što želite prikazati u vašem headeru."
+
+#: admin/settings.php:173
+#@ nirvana
+msgid "Custom Logo upload. The logo will appear over the header image if you have used one."
+msgstr "Upload loga. logo će se pojaviti iznad slike headera ako je koristite."
+
+#: admin/settings.php:174
+#: admin/settings.php:190
+#: admin/settings.php:478
+#@ nirvana
+msgid "Select / Upload Image"
+msgstr "Izaberite / uploadajte sliku"
+
+#: admin/settings.php:179
+#@ nirvana
+msgid "top"
+msgstr "gore"
+
+#: admin/settings.php:180
+#@ nirvana
+msgid "left"
+msgstr "lijevo"
+
+#: admin/settings.php:181
+#@ nirvana
+msgid "Select the top and left spacing for the header content. Use it to better position your site title and description or custom logo inside the header. "
+msgstr "Izaberite razmak gore i lijevo  za sadržaj headera. Iskoristite ih kako biste bolje pozicionirali naslov i opis bloga ili logo unutar headera. "
+
+#: admin/settings.php:189
+#@ nirvana
+msgid "Limitations: It has to be an image. It should be max 64x64 pixels in dimensions. Recommended file extensions .ico and .png. <br> <strong>Note that some browsers do not display the changed favicon instantly.</strong>"
+msgstr "Ograničenja: Mora biti slika. Dimenzijama treba biti maksimalno 64x64 pixela. Preporučene vrste datoteka .ico i .png. <br> <strong>Imajte na umu da neki pretraživači ne prikazuju promijenjenu favikonu odmah.</strong>"
+
+#: admin/settings.php:199
+#@ nirvana
+msgid "60%"
+msgstr "60%"
+
+#: admin/settings.php:199
+#@ nirvana
+msgid "50%"
+msgstr "50%"
+
+#: admin/settings.php:199
+#@ nirvana
+msgid "33%"
+msgstr "33%"
+
+#: admin/settings.php:199
+#@ nirvana
+msgid "25%"
+msgstr "25%"
+
+#: admin/settings.php:201
+#@ nirvana
+msgid "Limit the header widget area max width as percentage of the entire header width."
+msgstr "Ograničite maksimalnu širinu widget područja u headeru postotkom od cijele širine headera."
+
+#: admin/settings.php:216
+#@ nirvana
+msgid ""
+"Enable the presentation front-page. This will become your new home page. <br><br> \n"
+"\t     <em> If you have this option enabled and you can't see the presentation page, make sure that the option under WordPress Dashboard >> Settings >> Reading >> <strong>Front page displays</strong> is set to the default value <strong>Your Latest Posts</strong>.<br><br></em>\n"
+"\t\tIf you want another page to hold your latest blog posts, choose 'Blog Template (Posts Page)' from Page Templates while creating or editing that page."
+msgstr ""
+"Uključite prezentacijsku stranicu. Ovo će postati vaša naslovna strana. <br><br> \n"
+"\\\t     <em>Ako imate uključenu ovu opciju i ne vidite prezentacijsku stranicu, idite u WordPress Dashboard >> Settings >> Reading >> <strong>Front page displays</strong> i namjestite na osnovnu postavku <strong>Your Latest Posts</strong>.<br><br></em>\n"
+"\\\t\\\t Ako želite još jednu stranicu koja sadrži vaše posljednje blog postove, izaberite predložak 'Blog Template (Posts Page)' iz Predlošci stranica kada kreirate ili uređujete tu stranicu."
+
+#: admin/settings.php:220
+#, php-format
+#@ nirvana
+msgid ""
+"You have enabled the Presentation Page but your WordPress <em>Front page displays</em> option is not set to your latest posts. <br>\n"
+"\t\t\t\t\tGo to %1$s and make sure you have selected <strong>Your latest posts</strong> under <em>Front page displays</em>."
+msgstr ""
+"Uključili ste prezentacijsku stranicu ali vaša Wordpress opcija <em>Front page displays</em> nije namještene na osnovnu postavku: your latest posts.  <br>\n"
+"\\\t\\\t\\\t\\\t\\\t Idite na %1$s i odaberite <strong>Your latest posts</strong> pod <em>Front page displays</em>."
+
+#: admin/settings.php:232
+#@ nirvana
+msgid "Enable to display the latest posts on the presentation page, below the columns. Sticky posts are always displayed and not counted."
+msgstr "Uključite za prikazivanje posljednjih postova na prezentacijskoj stranici, ispod stupaca. Ljepljivi postovi se uvijek prikazuju prvi i ne broje se."
+
+#: admin/settings.php:233
+#@ nirvana
+msgid "Show:"
+msgstr "Prikaži:"
+
+#: admin/settings.php:235
+#@ nirvana
+msgid "posts"
+msgstr "postovi"
+
+#: admin/settings.php:236
+#@ nirvana
+msgid "The number of posts to show on the Presentation Page. The same number of posts will be loaded with the <em>More Posts</em> button."
+msgstr "Broj postova koju želite prikazati na prezentacijskoj stranici. Isti broj postova bit će učitan gumbom <em>Učitaj još</em>."
+
+#: admin/settings.php:239
+#@ nirvana
+msgid "Posts per row:"
+msgstr "Postova po redu:"
+
+#: admin/settings.php:254
+#@ nirvana
+msgid "Slider Dimensions:"
+msgstr "Dimenzije slajdera:"
+
+#: admin/settings.php:255
+#@ nirvana
+msgid "width"
+msgstr "širina"
+
+#: admin/settings.php:256
+#@ nirvana
+msgid "height"
+msgstr "visina"
+
+#: admin/settings.php:257
+#@ nirvana
+msgid "The dimensions of your slider. Make sure your images are of the same size."
+msgstr "Dimenzije vašeg slajdera. Vaše slike moraju biti iste veličine."
+
+#: admin/settings.php:259
+#@ nirvana
+msgid "Animation:"
+msgstr "Animacija:"
+
+#: admin/settings.php:261
+#@ nirvana
+msgid "Random"
+msgstr "Random"
+
+#: admin/settings.php:261
+#@ nirvana
+msgid "Fold"
+msgstr "Fold"
+
+#: admin/settings.php:261
+#@ nirvana
+msgid "Fade"
+msgstr "Fade"
+
+#: admin/settings.php:261
+#@ nirvana
+msgid "SlideInRight"
+msgstr "SlideInRight"
+
+#: admin/settings.php:261
+#@ nirvana
+msgid "SlideInLeft"
+msgstr "SlideInLeft"
+
+#: admin/settings.php:261
+#@ nirvana
+msgid "SliceDown"
+msgstr "SliceDown"
+
+#: admin/settings.php:261
+#@ nirvana
+msgid "SliceDownLeft"
+msgstr "SliceDownLeft"
+
+#: admin/settings.php:261
+#@ nirvana
+msgid "SliceUp"
+msgstr "SliceUp"
+
+#: admin/settings.php:261
+#@ nirvana
+msgid "SliceUpLeft"
+msgstr "SliceUpLeft"
+
+#: admin/settings.php:261
+#@ nirvana
+msgid "SliceUpDown"
+msgstr "SliceUpDown"
+
+#: admin/settings.php:261
+#@ nirvana
+msgid "SliceUpDownLeft"
+msgstr "SliceUpDownLeft"
+
+#: admin/settings.php:261
+#@ nirvana
+msgid "BoxRandom"
+msgstr "BoxRandom"
+
+#: admin/settings.php:261
+#@ nirvana
+msgid "BoxRain"
+msgstr "BoxRain"
+
+#: admin/settings.php:261
+#@ nirvana
+msgid "BoxRainReverse"
+msgstr "BoxRainReverse"
+
+#: admin/settings.php:261
+#@ nirvana
+msgid "BoxRainGrow"
+msgstr "BoxRainGrow"
+
+#: admin/settings.php:261
+#@ nirvana
+msgid "BoxRainGrowReverse"
+msgstr "BoxRainGrowReverse"
+
+#: admin/settings.php:270
+#@ nirvana
+msgid "The transition effect of your slides."
+msgstr "Tranzicijski efekti vaših slajdova."
+
+#: admin/settings.php:272
+#@ nirvana
+msgid "Animation Time:"
+msgstr "Vrijeme animacije:"
+
+#: admin/settings.php:273
+#: admin/settings.php:277
+#@ nirvana
+msgid "milliseconds"
+msgstr "milisekunde"
+
+#: admin/settings.php:274
+#@ nirvana
+msgid "The time in which the transition animation will take place."
+msgstr "Trajanje animacije."
+
+#: admin/settings.php:276
+#@ nirvana
+msgid "Pause Time:"
+msgstr "Vrijeme pauze:"
+
+#: admin/settings.php:278
+#@ nirvana
+msgid "The time in which a slide will be still and visible."
+msgstr "Vremenski period u kojem će slajd stajati mirno i biti vidljiv."
+
+#: admin/settings.php:280
+#@ nirvana
+msgid "Slider navigation:"
+msgstr "Navigacija slajdera:"
+
+#: admin/settings.php:282
+#@ nirvana
+msgid "Numbers"
+msgstr "Brojevi"
+
+#: admin/settings.php:282
+#@ nirvana
+msgid "Bullets"
+msgstr "Točkice"
+
+#: admin/settings.php:282
+#@ nirvana
+msgid "None"
+msgstr "Ništa"
+
+#: admin/settings.php:290
+#@ nirvana
+msgid "Your slider navigation type. Shown under the slider."
+msgstr "Tip veše navigacije slajdera. Prikazano ispod slajdera."
+
+#: admin/settings.php:292
+#@ nirvana
+msgid "Slider arrows:"
+msgstr "Strelice slajdera:"
+
+#: admin/settings.php:294
+#@ nirvana
+msgid "Always Visible"
+msgstr "Uvijek vidljive"
+
+#: admin/settings.php:294
+#@ nirvana
+msgid "Visible on Hover"
+msgstr "Vidljive na hover"
+
+#: admin/settings.php:294
+#@ nirvana
+msgid "Hidden"
+msgstr "Sakrivene"
+
+#: admin/settings.php:302
+#@ nirvana
+msgid "The Left and Right arrows on your slider"
+msgstr "Lijeva i desna strelica na vašem slajderu."
+
+#: admin/settings.php:304
+#@ nirvana
+msgid "Title font size:"
+msgstr "Veličina fonta naslova"
+
+#: admin/settings.php:313
+#: admin/settings.php:325
+#@ nirvana
+msgid "All Caps"
+msgstr "Velika slova"
+
+#: admin/settings.php:314
+#@ nirvana
+msgid "Slider title Font size."
+msgstr "Veličina fonta naslova slajdera."
+
+#: admin/settings.php:316
+#@ nirvana
+msgid "Text font size:"
+msgstr "Veličina fonta teksta:"
+
+#: admin/settings.php:326
+#@ nirvana
+msgid "Text font size."
+msgstr "Veličina fonta teksta."
+
+#: admin/settings.php:328
+#@ nirvana
+msgid "Slider Border Width:"
+msgstr "Širina ruba slajdera:"
+
+#: admin/settings.php:329
+#: admin/settings.php:333
+#@ nirvana
+msgid "px"
+msgstr "px"
+
+#: admin/settings.php:330
+#@ nirvana
+msgid "The slider's border width. You can also edit its color from the Color Settings. Use a border width when your slider is smaller than the total site width."
+msgstr "Širina ruba slajdera. Boju možete promijeniti u postavkama boja. Iskoristite rub kada je vaš slajder manji od ukupne širine sajta."
+
+#: admin/settings.php:332
+#@ nirvana
+msgid "Slider Top/Bottom Margin:"
+msgstr "Gornja/donja margina slajdera:"
+
+#: admin/settings.php:334
+#@ nirvana
+msgid "Add margins to the slider. By default this is set to 0 and you will want to increase this value when the slider is not full width."
+msgstr "Dodajte margine slajderu. Osnovno je postavljeno na 0 i trebali biste povećati ovu vrijednosti ako slajder nije pune širine."
+
+#: admin/settings.php:401
+#@ nirvana
+msgid "Custom Slides"
+msgstr "Posebni slajdovi"
+
+#: admin/settings.php:401
+#: admin/settings.php:507
+#@ nirvana
+msgid "Latest Posts"
+msgstr "Posljednje postovi"
+
+#: admin/settings.php:401
+#: admin/settings.php:507
+#@ nirvana
+msgid "Random Posts"
+msgstr "Slučajno odabrani postovi"
+
+#: admin/settings.php:401
+#: admin/settings.php:507
+#@ nirvana
+msgid "Latest Posts from Category"
+msgstr "Posljednji postovi iz kategorije"
+
+#: admin/settings.php:401
+#: admin/settings.php:507
+#@ nirvana
+msgid "Random Posts from Category"
+msgstr "Slučajno odabrani postovi iz kategorije"
+
+#: admin/settings.php:401
+#: admin/settings.php:507
+#@ nirvana
+msgid "Specific Posts"
+msgstr "Posebno odabrani postovi"
+
+#: admin/settings.php:401
+#: admin/settings.php:507
+#@ nirvana
+msgid "Disabled"
+msgstr "Onemogućeno"
+
+#: admin/settings.php:410
+#@ nirvana
+msgid "Only the slides with a defined image will become active and visible in the live slider.<br>When using slides from posts, make sure the selected posts have featured images.<br>Read the FAQs for more info."
+msgstr "Samo slajdovi s definiranom slikom će postati aktivni i vidljivi na slajderu. <br>Kada koristite slajdove iz postova, neka postovi imaju istaknute slike.<br>Pročitajte FAQ za dodatne informacije."
+
+#: admin/settings.php:415
+#@ nirvana
+msgid "Latest posts will be loaded into the slider."
+msgstr "Posljednji postovi bit će učitani u slajder."
+
+#: admin/settings.php:419
+#@ nirvana
+msgid "Random posts will be loaded into the slider."
+msgstr "Slučajno odabrani postovi bit će učitani u slajder."
+
+#: admin/settings.php:423
+#@ nirvana
+msgid "Latest posts from the category you choose will be loaded in the slider."
+msgstr "Posljednji postovi iz kategorije koju odaberete bit će učitani u slajder."
+
+#: admin/settings.php:427
+#@ nirvana
+msgid "Random posts from the category you choose will be loaded into the slider."
+msgstr "Slučajno odabrani postovi iz kategorije koju odaberete bit će učitani u slajder."
+
+#: admin/settings.php:431
+#@ nirvana
+msgid "Only sticky posts will be loaded into the slider."
+msgstr "Samo će ljepljivi postovi biti učitani u slajder."
+
+#: admin/settings.php:435
+#: admin/settings.php:543
+#@ nirvana
+msgid "List the post IDs you want to display (separated by a comma): "
+msgstr "Napišite listu ID-ova postova koje želite prikazati. (odvojite zarezom): "
+
+#: admin/settings.php:440
+#: admin/settings.php:553
+#@ nirvana
+msgid "<br> Choose the category: "
+msgstr "<br> Izaberite kategoriju: "
+
+#: admin/settings.php:442
+#: admin/settings.php:555
+#@ nirvana
+msgid "Select Category"
+msgstr "Izaberite kategoriju"
+
+#: admin/settings.php:457
+#@ nirvana
+msgid "Number of posts:"
+msgstr "Broj postova:"
+
+#: admin/settings.php:458
+#: admin/settings.php:462
+#@ nirvana
+msgid "words"
+msgstr "riječi"
+
+#: admin/settings.php:459
+#@ nirvana
+msgid "The number of posts to show in the slider."
+msgstr "Broj postova prikazan u slajderu."
+
+#: admin/settings.php:461
+#@ nirvana
+msgid "Slider excerpt:"
+msgstr "Sažetak u slajderu:"
+
+#: admin/settings.php:463
+#@ nirvana
+msgid "The number of words for the slider excerpts."
+msgstr "Broj riječi za sažetak u slajderu."
+
+#: admin/settings.php:473
+#@ nirvana
+msgid "Slide"
+msgstr "Slajd"
+
+#: admin/settings.php:475
+#: content/content-image.php:14
+#@ nirvana
+msgid "Image"
+msgstr "Slika"
+
+#: admin/settings.php:479
+#: admin/settings.php:629
+#: admin/settings.php:636
+#: admin/settings.php:643
+#@ nirvana
+msgid "Title"
+msgstr "Naslov"
+
+#: admin/settings.php:482
+#: admin/settings.php:631
+#: admin/settings.php:638
+#: admin/settings.php:645
+#@ nirvana
+msgid "Text"
+msgstr "Tekst"
+
+#: admin/settings.php:485
+#: content/content-link.php:15
+#@ nirvana
+msgid "Link"
+msgstr "Link"
+
+#: admin/settings.php:493
+#@ nirvana
+msgid "Read more text:"
+msgstr "Pročitaj više tekst:"
+
+#: admin/settings.php:496
+#@ nirvana
+msgid "The linked text that appears at the bottom of each slide. Leave empty to hide the link."
+msgstr "Linkani tekst koji se prikazuje na dnu svakog slajda. Ostavite prazno kako biste sakrili link."
+
+#: admin/settings.php:507
+#@ nirvana
+msgid "Widget Columns"
+msgstr "Stupci s widgetima"
+
+#: admin/settings.php:516
+#@ nirvana
+msgid "Only the columns with a defined image will become active and visible on the presentation page.<br>When using columns from posts, make sure the selected posts have featured images.<br>Read the FAQs for more info."
+msgstr "Samo stupci s definiranom slikom će postati aktivni i vidljivi na prezentacijskoj stranici. <br>Kada koristite stupce iz postova, neka postovi imaju odabrane istaknute slike. <br> Pročitajte FAQ za više informacija."
+
+#: admin/settings.php:523
+#@ nirvana
+msgid "Latest posts will be loaded into the columns."
+msgstr "Posljednji postovi će biti učitani u stupce."
+
+#: admin/settings.php:527
+#@ nirvana
+msgid "Random posts will be loaded into the columns."
+msgstr "Slučajno odabrani postovi će biti učitani u stupce."
+
+#: admin/settings.php:531
+#@ nirvana
+msgid "Latest posts from the category you choose will be loaded in the columns."
+msgstr "Posljednji postovi iz kategorije koju odaberete će biti učitani u stupce."
+
+#: admin/settings.php:535
+#@ nirvana
+msgid "Random posts from the category you choose will be loaded into the columns."
+msgstr "Slučajno odabrani postovi iz kategorije koju odaberete će biti učitani u stupce."
+
+#: admin/settings.php:539
+#@ nirvana
+msgid "Only sticky posts will be loaded into the columns."
+msgstr "Samo ljepljivi postovi će biti učitani u stupce."
+
+#: admin/settings.php:548
+#@ nirvana
+msgid "Load your custom Widgets as columns. Go to <a>Appearance >> Widgets</a> and create your custom columns using the Columns widget. You can use as many as you want."
+msgstr "Učitajte vaše posebne widgete kao stupce. Idite na <a>Appearance >> Widgets</a> i kreirajte posebne stupce koristeći widget Stupci. Možete ih iskoristiti koliko god želite."
+
+#: admin/settings.php:568
+#@ nirvana
+msgid "Number of posts to show:"
+msgstr "Broj postova za prikazivanje:"
+
+#: admin/settings.php:576
+#@ nirvana
+msgid "Column Display:"
+msgstr "Prikaz stupca"
+
+#: admin/settings.php:578
+#@ nirvana
+msgid "Animated"
+msgstr "Animirano"
+
+#: admin/settings.php:578
+#@ nirvana
+msgid "Static on Image"
+msgstr "Statično na slici"
+
+#: admin/settings.php:578
+#@ nirvana
+msgid "Static under Image"
+msgstr "Statično ispod slike"
+
+#: admin/settings.php:586
+#@ nirvana
+msgid "How to display your Presentation Page Columns."
+msgstr "Kako prikazati stupce na prezentacijskoj stranici."
+
+#: admin/settings.php:588
+#@ nirvana
+msgid "Columns per row:"
+msgstr "Stupaca po redu:"
+
+#: admin/settings.php:598
+#@ nirvana
+msgid "Image Size:"
+msgstr "Veličina slike"
+
+#: admin/settings.php:599
+#@ nirvana
+msgid "Height: "
+msgstr "Visina: "
+
+#: admin/settings.php:600
+#@ nirvana
+msgid "Width: "
+msgstr "Širina: "
+
+#: admin/settings.php:601
+#@ nirvana
+msgid "The sizes for your column images. The width is dependent on total site width and the number of columns per row so it isn't configurable."
+msgstr "Veličine slika u stupcima. Širina ovisi o ukupnoj širini sajta i broju stupaca po redu stoga je nije moguće urediti."
+
+#: admin/settings.php:604
+#@ nirvana
+msgid "Column spacing:"
+msgstr "Razmak stupaca"
+
+#: admin/settings.php:606
+#@ nirvana
+msgid "The space between your columns. Increasing the column spacing will naturally decrease the visible area of your images."
+msgstr "Razmak između stupaca. Povećanjem razmaka između stupaca će smanjiti vidljivu površinu vaših slika."
+
+#: admin/settings.php:608
+#@ nirvana
+msgid "Columns Title:"
+msgstr "Naslov stupaca:"
+
+#: admin/settings.php:611
+#@ nirvana
+msgid "The title for the columns area on the presentation page."
+msgstr "Naslov za područje stupaca na prezentacijskoj stranici."
+
+#: admin/settings.php:612
+#@ nirvana
+msgid "Photo Frames"
+msgstr "Okviri slika"
+
+#: admin/settings.php:614
+#@ nirvana
+msgid "Enable subtle foto frames around your column images. Your columns will have white borders and a small shadow around them and will be slightly skewed."
+msgstr "Uključite suptilne okvire slika oko slika u stupcima. Vaši stupci će imati bijeli obrub i malu sjenu oko njih te će biti lagano iskrivljeni."
+
+#: admin/settings.php:623
+#: admin/settings.php:634
+#: admin/settings.php:641
+#@ nirvana
+msgid "Text Area"
+msgstr "Polje teksta"
+
+#: admin/settings.php:625
+#@ nirvana
+msgid "Text for the Presentation Page"
+msgstr "Tekst za prezentacijsku stranicu."
+
+#: admin/settings.php:627
+#@ nirvana
+msgid "More text for the Presentation Page. The top title is just below the slider, the second title is below the columns. A text area supporting HTML tags and shortcodes below each title<br>It's all optional so leave any input field empty to not dispaly it."
+msgstr "Još teksta za prezentacijsku stranicu. Gornji naslov se nalazi odmah ispod slajdera, drugi naslov je ispod stupaca. Polja teksta podržavaju korištenje HTML tagova i shortcode-ova.<br>Sve je opcionalno, pa ako ne želite nešto prikazati, samo ostavite prazno."
+
+#: admin/settings.php:652
+#@ nirvana
+msgid "Hide areas"
+msgstr "Sakrije područja"
+
+#: admin/settings.php:654
+#@ nirvana
+msgid "Choose the areas to hide on the Presentation Page:"
+msgstr "Izaberite područja koja želite sakriti na prezentacijskoj stranici:"
+
+#: admin/settings.php:665
+#@ nirvana
+msgid "Hide the topbar (includes the top social area and top menu)."
+msgstr "Sakrij gornju traku (uključuje gornje polje s ikonama društvenih mreža i top meni)."
+
+#: admin/settings.php:668
+#@ nirvana
+msgid "Hide the header area (logo/title and/or image/empty area)."
+msgstr "Sakrij područje headera (logo/naslov i/ili slika/prazno područje)."
+
+#: admin/settings.php:671
+#@ nirvana
+msgid "Hide the main menu."
+msgstr "Sakrij glavni meni."
+
+#: admin/settings.php:674
+#@ nirvana
+msgid "Hide the footer widgets. "
+msgstr "Sakrij widgete u footeru. "
+
+#: admin/settings.php:677
+#@ nirvana
+msgid "Hide the footer (copyright area)."
+msgstr "Sakrij footer (područje s copyrightom)."
+
+#: admin/settings.php:702
+#@ nirvana
+msgid ""
+"Select the general font family and size or insert the Google Font name you'll use in your blog. This will affect all text except the text controlled \n"
+"\t\t\t\t\t\t\tby the options below.<br><br> <strong>Additional Info:</strong><br>The fonts under the <em>General Theme Fonts</em> category are suggested for this\n"
+"\t\t\t\t\t\t\tbecause they have all the font weights used througout the theme.<br> When using Google Fonts for General Font make sure they also have multiple font weights and \n"
+"\t\t\t\t\t\t\tthat you specify them all eg.: <em>Roboto:400,300,500,700</em>"
+msgstr "Odaberite opću obitelj i veličinu fontova ili umetnite ime Google Fonta koji ćete koristiti u svom blogu. To će utjecati na cijeli tekst osim teksta kontroliranog \\ n \\ t \\ t \\ t \\ t \\ t \\ t \\ t donjim opcijama <br><br><strong> Dodatne informacije:</strong><br>Fontovi pod kategorijom <em>Opći fontovi teme</em> su predloženi za ovo \\ n \\ t \\ t \\ t \\ t \\ t \\ t \\ tjer imaju sve font težine koje se koriste kroz temu.<br>Kada koristite Google Fontovi za Opći font budite sigurni da imaju više težina fonta i \\ n \\ t \\ t \\ t \\ t \\ t \\ t \\ tda ste ih sve naveli. npr.: <em>Roboto: 400, 300, 500, 700</em>"
+
+#: admin/settings.php:724
+#@ nirvana
+msgid "Select the font family and size or insert the Google Font name you want for your titles. It will affect post titles and page titles. Leave 'General Font' and the general font values you selected will be used."
+msgstr "Odaberite obitelj fonta i veličinu, ili ubacite ime Google font koji želite za svoje naslove. To će utjecati na naslove postova i stranica. Ostavite 'Opći font' i opće vrijednosti fonta koje ste odabrali će se koristiti."
+
+#: admin/settings.php:743
+#@ nirvana
+msgid "Select the font family and size or insert the Google Font name you want your widget titles to have. Leave 'General Font' and the general font values you selected will be used."
+msgstr "Odaberite obitelj fonta i veličinu, ili ubacite ime Google font koji želite za svoje naslove widgeta. Ostavite 'Opći font' i opće vrijednosti fonta koje ste odabrali će se koristiti."
+
+#: admin/settings.php:762
+#@ nirvana
+msgid "Select the font family and size or insert the Google Font name you want your widgets to have. Leave 'General Font' and the general font values you selected will be used."
+msgstr "Odaberite obitelj fonta i veličinu, ili ubacite ime Google font koji želite za svoje widgete. Ostavite 'Opći font' i opće vrijednosti fonta koje ste odabrali će se koristiti."
+
+#: admin/settings.php:780
+#@ nirvana
+msgid "Select the font family and size or insert the Google Font name you want your site title and tagline to use. Leave 'General Font' and the general font values you selected will be used."
+msgstr "Odaberite obitelj fonta i veličinu, ili ubacite ime Google font koji želite za svoj naslov sajta i opis. Ostavite 'Opći font' i opće vrijednosti fonta koje ste odabrali će se koristiti."
+
+#: admin/settings.php:798
+#@ nirvana
+msgid "Select the font family and size or insert the Google Font name you want your main menu to use. Leave 'General Font' and the general font values you selected will be used."
+msgstr "Odaberite obitelj fonta i veličinu, ili ubacite ime Google font koji želite za svoje glavni meni. Ostavite 'Opći font' i opće vrijednosti fonta koje ste odabrali će se koristiti."
+
+#: admin/settings.php:819
+#@ nirvana
+msgid "Select the font family and size or insert the Google Font name you want your headings to have (h1 - h6 tags will be affected). Leave 'General Font' and the general font values you selected will be used."
+msgstr "Odaberite obitelj fonta i veličinu, ili ubacite ime Google font koji želite za svoje naslove (utjecat će na h1 - h6 tagove). Ostavite 'Opći font' i opće vrijednosti fonta koje ste odabrali će se koristiti."
+
+#: admin/settings.php:827
+#: admin/settings.php:868
+#: admin/settings.php:878
+#: admin/settings.php:895
+#@ nirvana
+msgid "Default"
+msgstr "Osnovno"
+
+#: admin/settings.php:827
+#: admin/settings.php:1128
+#: admin/settings.php:1499
+#@ nirvana
+msgid "Left"
+msgstr "Lijevo"
+
+#: admin/settings.php:827
+#: admin/settings.php:1128
+#: admin/settings.php:1499
+#@ nirvana
+msgid "Right"
+msgstr "Desno"
+
+#: admin/settings.php:827
+#@ nirvana
+msgid "Justify"
+msgstr "Poravnaj s obje strane"
+
+#: admin/settings.php:827
+#: admin/settings.php:1128
+#: admin/settings.php:1499
+#@ nirvana
+msgid "Center"
+msgstr "Centriraj"
+
+#: admin/settings.php:829
+#@ nirvana
+msgid "This overwrites the text alignment in posts and pages. Leave 'Default' for normal settings (alignment will remain as declared in posts, comments etc.)."
+msgstr "Ovo će premostiti poravnanje teksta u postovima i stranicama. Ostavite 'Osnovno' za normalne postavke (poravnanje će ostati kako je postavljeno u postovima, komentarima itd)."
+
+#: admin/settings.php:839
+#@ nirvana
+msgid "Choose the indent for your paragraphs."
+msgstr "Izaberite veličinu uvlake za odlomke."
+
+#: admin/settings.php:850
+#@ nirvana
+msgid "Disable the default headings indent (left margin)."
+msgstr "Onemogućite osnovne postavke uvlačenja naslova (ijeva margina)."
+
+#: admin/settings.php:860
+#@ nirvana
+msgid "Text line height. The height between 2 rows of text."
+msgstr "Visina linije teksta. Visina između dva reda teksta."
+
+#: admin/settings.php:870
+#@ nirvana
+msgid "The space between <i>words</i>. Leave 'Default' for normal settings (size value will be as set in the CSS)."
+msgstr "Prostor između <i>riječi</i>. Ostavite 'Osnovno' za normalne postavke (vrijednost veličine bit će postavljena u CSS-u)."
+
+#: admin/settings.php:880
+#@ nirvana
+msgid "The space between <i>letters</i>. Leave 'Default' for normal settings (size value will be as set in the CSS)."
+msgstr "Prostor između <i>slova</i>. Ostavite 'Osnovno' za normalne postavke (vrijednost veličine bit će postavljena u CSS-u)."
+
+#: admin/settings.php:888
+#@ nirvana
+msgid "Select the spacing between the paragraphs."
+msgstr "Izaberite razmak između odlomaka."
+
+#: admin/settings.php:895
+#@ nirvana
+msgid "Force Uppercase"
+msgstr "Prisilite na velika slova"
+
+#: admin/settings.php:895
+#@ nirvana
+msgid "Force Lowercase"
+msgstr "Prisilite na mala slova"
+
+#: admin/settings.php:897
+#@ nirvana
+msgid "By default text is both uppercase and lowercase throughout the theme. With this option you can force uppercase or lowercase text styling in the whole theme. This option won't affect content text."
+msgstr "Početna je postavka da je tekst pisan i samo velikim slovima i samo malim slovima kroz cijelu temu. Ovom opcijom možete prisiliti temu na mala ili velika slova u cijeloj temi. Ova opcija neće utjecati na tekst sadržaja."
+
+#: admin/settings.php:905
+#@ nirvana
+msgid "Define background image"
+msgstr "Odaberi pozadinsku sliku"
+
+#: admin/settings.php:910
+#: admin/settings.php:936
+#: admin/settings.php:961
+#: admin/settings.php:997
+#: admin/settings.php:1008
+#@ nirvana
+msgid "Background:"
+msgstr "Pozadina:"
+
+#: admin/settings.php:911
+#@ nirvana
+msgid "Header Background"
+msgstr "Pozadina headera"
+
+#: admin/settings.php:912
+#@ nirvana
+msgid "Main Site Background"
+msgstr "Pozadina glavnog dijela sajta"
+
+#: admin/settings.php:913
+#@ nirvana
+msgid "Footer Widgets Area Background"
+msgstr "Pozadina područja widgeta u footeru"
+
+#: admin/settings.php:914
+#@ nirvana
+msgid "Footer Background"
+msgstr "Pozadina footera"
+
+#: admin/settings.php:915
+#: admin/settings.php:938
+#: admin/settings.php:963
+#: admin/settings.php:990
+#: admin/settings.php:1000
+#: admin/settings.php:1011
+#@ nirvana
+msgid "Text:"
+msgstr "Tekst:"
+
+#: admin/settings.php:916
+#@ nirvana
+msgid "General Text"
+msgstr "Osnovna boja teksta"
+
+#: admin/settings.php:917
+#@ nirvana
+msgid "General Lighter Text"
+msgstr "Osnovna svjetlija boja teksta"
+
+#: admin/settings.php:918
+#@ nirvana
+msgid "Footer Text"
+msgstr "Tekst footera"
+
+#: admin/settings.php:919
+#@ nirvana
+msgid "The site background features 4 separately coloured areas.<br />The general text colour applies to all text on the website that is not controlled by any other option."
+msgstr "Pozadina sajta sadrži 4 odvojena  polja koja je moguće posebno obojiti.<br/>Osnovna boja teksta primjenjuje se na sav tekst na sajtu koji nije zahvaćen nekom drugom opcijom."
+
+#: admin/settings.php:924
+#@ nirvana
+msgid "Accent Color #1"
+msgstr "Akcent boja #1"
+
+#: admin/settings.php:925
+#@ nirvana
+msgid "Accent Color #2"
+msgstr "Akcent boja #2"
+
+#: admin/settings.php:926
+#@ nirvana
+msgid "Accent Color #3"
+msgstr "Akcent boja #3"
+
+#: admin/settings.php:927
+#@ nirvana
+msgid "Accent Color #4"
+msgstr "Akcent boja #4"
+
+#: admin/settings.php:928
+#@ nirvana
+msgid "Accent Color #5"
+msgstr "Akcent boja #5"
+
+#: admin/settings.php:929
+#@ nirvana
+msgid ""
+"Accents #1 and #2 should either be the same as the link colours or be separate from all other colours on the site.<br />\n"
+"     Accent #5 is used for input fields and buttons backgrounds, borders and lines.<br />\n"
+"     Accents #3 and #4 should be the lighter/darker than the content background colour, being used as borders/shades on elements where accent #5 is background colour."
+msgstr ""
+"Akcent boje #1 i #2 bi trebale biti ili iste kao boje linkova ili biti posebne boje različite od svih ostalih na sajtu.<br/>\n"
+" Akcent boja #5 se koristi za polja za unos i pozadine gumbova, rubove i linije.<br/>\n"
+" Akcent boje #3 i #4 bi trebale biti svijetlije/tamnije od pozadine sadržaja, a koriste se kao rubovi/sjenčanje na elementima gdje je akcent boja #5 pozadinska boja."
+
+#: admin/settings.php:937
+#@ nirvana
+msgid "Site Description Background"
+msgstr "Pozadina opisa sajta"
+
+#: admin/settings.php:940
+#@ nirvana
+msgid "Site Description"
+msgstr "Opis sajta"
+
+#: admin/settings.php:946
+#@ nirvana
+msgid "Menu:"
+msgstr "Meni:"
+
+#: admin/settings.php:947
+#@ nirvana
+msgid "Menu Background"
+msgstr "Pozadina menija"
+
+#: admin/settings.php:948
+#@ nirvana
+msgid "Menu Text"
+msgstr "Tekst menija"
+
+#: admin/settings.php:951
+#@ nirvana
+msgid "Submenu:"
+msgstr "Podmeni:"
+
+#: admin/settings.php:952
+#@ nirvana
+msgid "Submenu Background"
+msgstr "Pozadina podmenija"
+
+#: admin/settings.php:953
+#@ nirvana
+msgid "Submenu Text"
+msgstr "Tekst podmenija"
+
+#: admin/settings.php:954
+#@ nirvana
+msgid "Submenu Shadow"
+msgstr "Sjena podmenija"
+
+#: admin/settings.php:956
+#@ nirvana
+msgid "These colours apply to the main site menu (and dropdown elements)."
+msgstr "Ove boje odnose se na glavni meni sajta (i elemente koji se spuštaju iz njih - dropdown)."
+
+#: admin/settings.php:962
+#@ nirvana
+msgid "Top Bar Background"
+msgstr "Pozadina gornje trake"
+
+#: admin/settings.php:964
+#@ nirvana
+msgid "Top Bar Menu Link"
+msgstr "Link menija u gornjoj traci"
+
+#: admin/settings.php:965
+#@ nirvana
+msgid "Top Bar Menu Link Hover"
+msgstr "Hover link menija u gornjoj traci"
+
+#: admin/settings.php:966
+#@ nirvana
+msgid "These colours apply to the top bar menu."
+msgstr "Ove boje se odnose na meni u gornjoj traci."
+
+#: admin/settings.php:971
+#@ nirvana
+msgid "Content Background"
+msgstr "Pozadina sadržaja"
+
+#: admin/settings.php:972
+#@ nirvana
+msgid "Page/Post Title"
+msgstr "Naslov stranice/posta"
+
+#: admin/settings.php:973
+#@ nirvana
+msgid "Page/Post Title Hover"
+msgstr "Hover naslova stranice/posta"
+
+#: admin/settings.php:974
+#@ nirvana
+msgid "Content Headings"
+msgstr "Naslovi sadržaja"
+
+#: admin/settings.php:975
+#@ nirvana
+msgid "Content colours apply to post and page areas of the site."
+msgstr "Boje sadržaja odnose se na postove i stranice sajta."
+
+#: admin/settings.php:980
+#@ nirvana
+msgid "Slider:"
+msgstr "Slajder:"
+
+#: admin/settings.php:981
+#@ nirvana
+msgid "Slider Background Color"
+msgstr "Pozadinska boja slajdera"
+
+#: admin/settings.php:982
+#@ nirvana
+msgid "Slider Border Color"
+msgstr "Boja ruba slajdera"
+
+#: admin/settings.php:983
+#@ nirvana
+msgid "Slider Caption Text Color"
+msgstr "Boja teksta opisa u slajderu"
+
+#: admin/settings.php:984
+#@ nirvana
+msgid "Slider Caption Background"
+msgstr "Pozadinska boja opisa u slajderu"
+
+#: admin/settings.php:985
+#@ nirvana
+msgid "Areas:"
+msgstr "Područja:"
+
+#: admin/settings.php:986
+#@ nirvana
+msgid "Text Area 1 Background Color"
+msgstr "Pozadinska boja tekst polja 1"
+
+#: admin/settings.php:987
+#@ nirvana
+msgid "Text Area 2 Background Color"
+msgstr "Pozadinska boja tekst polja 2"
+
+#: admin/settings.php:988
+#@ nirvana
+msgid "Text Area 3 Background Color"
+msgstr "Pozadinska boja tekst polja 3"
+
+#: admin/settings.php:989
+#@ nirvana
+msgid "Columns Background Color"
+msgstr "Pozadinska boja stupaca"
+
+#: admin/settings.php:991
+#@ nirvana
+msgid "Titles Color"
+msgstr "Boja naslova"
+
+#: admin/settings.php:992
+#@ nirvana
+msgid "These colours apply to specific areas of the presentation page."
+msgstr "Ove boje odnose se na posebna područja prezentacijske stranice."
+
+#: admin/settings.php:998
+#@ nirvana
+msgid "Sidebars Background"
+msgstr "Pozadina sidebara"
+
+#: admin/settings.php:999
+#@ nirvana
+msgid "Sidebars Widget Title Background"
+msgstr "Pozadina naslova widgeta u sidebaru"
+
+#: admin/settings.php:1001
+#@ nirvana
+msgid "Sidebars Text"
+msgstr "Tekst sidebara"
+
+#: admin/settings.php:1002
+#@ nirvana
+msgid "Sidebars Widget Title Text"
+msgstr "Tekst naslova widgeta u sidebaru"
+
+#: admin/settings.php:1003
+#@ nirvana
+msgid "These colours apply to the widgets placed in either sidebar."
+msgstr "Ove boje odnose se na widgete postavljene u bilo koji sidebar."
+
+#: admin/settings.php:1009
+#@ nirvana
+msgid "Footer Widgets Background"
+msgstr "Pozadina widgeta u footeru"
+
+#: admin/settings.php:1010
+#@ nirvana
+msgid "Footer Widgets Title Background"
+msgstr "Pozadina naslova widgeta u footeru"
+
+#: admin/settings.php:1012
+#@ nirvana
+msgid "Footer Widget Text"
+msgstr "Tekst widgeta u footeru"
+
+#: admin/settings.php:1013
+#@ nirvana
+msgid "Footer Widgets Title Text"
+msgstr "Tekst naslova widgeta u footeru"
+
+#: admin/settings.php:1014
+#@ nirvana
+msgid "These colours apply to the widgets in the footer area."
+msgstr "Ove boje odnose se na widgete u footeru."
+
+#: admin/settings.php:1019
+#@ nirvana
+msgid "General:"
+msgstr "Osnovno:"
+
+#: admin/settings.php:1020
+#@ nirvana
+msgid "General Links"
+msgstr "Osnovni linkovi"
+
+#: admin/settings.php:1021
+#@ nirvana
+msgid "General Links Hover"
+msgstr "Hover osnovnih linkova"
+
+#: admin/settings.php:1022
+#@ nirvana
+msgid "Sidebar Widgets:"
+msgstr "Widgeti u sidebaru:"
+
+#: admin/settings.php:1023
+#@ nirvana
+msgid "Sidebar Widgets Links"
+msgstr "Linkovi u widgetima u sidebaru"
+
+#: admin/settings.php:1024
+#@ nirvana
+msgid "Sidebar Widgets Links Hover"
+msgstr "Hover linkova u widgetima u sidebaru"
+
+#: admin/settings.php:1025
+#@ nirvana
+msgid "Footer Widgets:"
+msgstr "Widgeti u footeru"
+
+#: admin/settings.php:1026
+#@ nirvana
+msgid "Footer Widgets Links"
+msgstr "Linkovi u widgetima u footeru"
+
+#: admin/settings.php:1027
+#@ nirvana
+msgid "Footer Widgets Links Hover"
+msgstr "Hover linkova u widgetima u footeru"
+
+#: admin/settings.php:1028
+#@ nirvana
+msgid "Footer:"
+msgstr "Footer:"
+
+#: admin/settings.php:1029
+#@ nirvana
+msgid "Footer Links"
+msgstr "Linkovi u footeru"
+
+#: admin/settings.php:1030
+#@ nirvana
+msgid "Footer Links Hover"
+msgstr "Hover linkova u footeru"
+
+#: admin/settings.php:1031
+#@ nirvana
+msgid "Footer colours include the footer menu colours."
+msgstr "Boje footera uključuju i boje manija u footeru."
+
+#: admin/settings.php:1036
+#@ nirvana
+msgid "Meta Icons"
+msgstr "Meta ikone"
+
+#: admin/settings.php:1037
+#@ nirvana
+msgid "Meta Links"
+msgstr "Meta linkovi"
+
+#: admin/settings.php:1038
+#@ nirvana
+msgid "Meta Links Hover"
+msgstr "Hover meta linkova"
+
+#: admin/settings.php:1039
+#@ nirvana
+msgid "Colours for your meta area (post information)."
+msgstr "Boje za meta područje (informacije o postu)."
+
+#: admin/settings.php:1044
+#@ nirvana
+msgid "Social Icons Background"
+msgstr "Pozadina ikona društvenih mreža"
+
+#: admin/settings.php:1045
+#@ nirvana
+msgid "Social Icons Background Hover"
+msgstr "Hover pozadine ikona društvenih mreža"
+
+#: admin/settings.php:1046
+#@ nirvana
+msgid "Background colours for your social icons."
+msgstr "Boje pozadine ikona društvenih mreža."
+
+#: admin/settings.php:1052
+#@ nirvana
+msgid "Light"
+msgstr "Svijetlo"
+
+#: admin/settings.php:1052
+#@ nirvana
+msgid "Dark"
+msgstr "Tamno"
+
+#: admin/settings.php:1052
+#@ nirvana
+msgid "Simple"
+msgstr "Jednostavno"
+
+#: admin/settings.php:1060
+#@ nirvana
+msgid "This setting changes the look of your captions. Images that are not inserted through captions will not be affected."
+msgstr "Ove postavke mijenjaju izgled natpisa. Neće utjecati na slike koje nemaju natpise."
+
+#: admin/settings.php:1073
+#@ nirvana
+msgid "Normal"
+msgstr "Normalno"
+
+#: admin/settings.php:1073
+#@ nirvana
+msgid "Fixed"
+msgstr "Fiksirano"
+
+#: admin/settings.php:1073
+#: admin/settings.php:1184
+#: admin/settings.php:1199
+#: admin/settings.php:1249
+#: admin/settings.php:1298
+#: admin/settings.php:1329
+#@ nirvana
+msgid "Hide"
+msgstr "Sakriti"
+
+#: admin/settings.php:1083
+#@ nirvana
+msgid "Site width"
+msgstr "Širina sajta"
+
+#: admin/settings.php:1083
+#@ nirvana
+msgid "Full width"
+msgstr "Puna širina"
+
+#: admin/settings.php:1092
+#@ nirvana
+msgid "Show the topbar that can include social icons and the top menu."
+msgstr "Pokaži gornju traku koja može uključivati traku s ikonama društvenih mreža i gornji meni."
+
+#: admin/settings.php:1107
+#@ nirvana
+msgid "Show breadcrumbs at the top of the content area. Breadcrumbs are a form of navigation that keeps track of your location withtin the site."
+msgstr "Pokaži krušne mrvice na vrhu područja sa sadržajem. Krušne mrvice su oblik navigacije koja prati vašu trenutnu lokaciju unutar sajta."
+
+#: admin/settings.php:1122
+#@ nirvana
+msgid "Show numbered pagination. Where there is more than one page, instead of the bottom <b>Older Posts</b> and <b>Newer posts</b> links you have a numbered pagination. "
+msgstr "Prikaži brojčanu paginaciju. Tamo gdje ima više od jedne stranice, na dnu umjesto <b>Stariji postovi</b> i <b>Noviji postovi</b> linkovi se prikazuju kao brojčana paginacija. "
+
+#: admin/settings.php:1128
+#@ nirvana
+msgid "Right (multiline)"
+msgstr "Desno (više redova)"
+
+#: admin/settings.php:1136
+#@ nirvana
+msgid "Sets the desired menu items alignment."
+msgstr "Postavlja željeno poravnanje elemenata menija."
+
+#: admin/settings.php:1144
+#@ nirvana
+msgid "Top Menu"
+msgstr "Gornji meni"
+
+#: admin/settings.php:1153
+#@ nirvana
+msgid "Select the menus where to add a search bar."
+msgstr "Izaberite menije na koje želite dodati polje za pretragu."
+
+#: admin/settings.php:1158
+#@ nirvana
+msgid "Margin top: "
+msgstr "Gornja margina: "
+
+#: admin/settings.php:1159
+#@ nirvana
+msgid "Set the margin between the content and the menu. It can be set to 0px if you want the content area and menu to join."
+msgstr "Postavite marginu između sadržaja i menija. Ako želite da meni i dio sa sadržajem budu spojeni postavite na 0px"
+
+#: admin/settings.php:1161
+#@ nirvana
+msgid "Padding left/right: "
+msgstr "Padding lijevo/desno: "
+
+#: admin/settings.php:1162
+#@ nirvana
+msgid "Set the left/right padding around the content area. Only works with Boxed layouts."
+msgstr "Postavite lijevi/desni padding oko dijela sa sadržajem. Radi samo u rasporedu točno određene širine."
+
+#: admin/settings.php:1177
+#@ nirvana
+msgid "The border style for your images. Only images inserted in your posts and pages will be affected. "
+msgstr "Stil ruba za slike. Utječe samo na slike umetnute u vaše postove i stranice. "
+
+#: admin/settings.php:1184
+#: admin/settings.php:1199
+#: admin/settings.php:1298
+#: admin/settings.php:1313
+#: admin/settings.php:1329
+#@ nirvana
+msgid "Show"
+msgstr "Pokaži"
+
+#: admin/settings.php:1192
+#@ nirvana
+msgid "Hide or show titles on pages."
+msgstr "Sakrij ili pokaži naslove na stranicama."
+
+#: admin/settings.php:1207
+#@ nirvana
+msgid "Hide or show titles on Categories and Archives."
+msgstr "Sakrij ili pokaži naslove u Kategorijama i Arhivima."
+
+#: admin/settings.php:1222
+#@ nirvana
+msgid "Hide table borders and background color."
+msgstr "Sakrij rub i pozadinsku boju tablica."
+
+#: admin/settings.php:1238
+#@ nirvana
+msgid "Enable the Back to Top button. The button appears after scrolling the page down."
+msgstr "Uključi gumb Natrag na vrh. Gumb se pojavljuje nakon što se scrolla prema dolje."
+
+#: admin/settings.php:1249
+#@ nirvana
+msgid "Top"
+msgstr "Gore"
+
+#: admin/settings.php:1249
+#@ nirvana
+msgid "Bottom"
+msgstr "Dolje"
+
+#: admin/settings.php:1257
+#@ nirvana
+msgid "The position of your meta bar (author, date, category, tags and edit button)."
+msgstr "Pozicija meta trake (autor, datum, kategorija, tagovi i gumb Uredi)."
+
+#: admin/settings.php:1264
+#: admin/settings.php:1280
+#@ nirvana
+msgid "Author"
+msgstr "Autor"
+
+#: admin/settings.php:1264
+#: admin/settings.php:1280
+#: includes/theme-loop.php:202
+#@ nirvana
+msgid "Date"
+msgstr "Datum"
+
+#: admin/settings.php:1264
+#: admin/settings.php:1280
+#@ nirvana
+msgid "Time"
+msgstr "Vrijeme"
+
+#: admin/settings.php:1264
+#: admin/settings.php:1280
+#@ nirvana
+msgid "Category"
+msgstr "Kategorija"
+
+#: admin/settings.php:1264
+#: admin/settings.php:1280
+#@ nirvana
+msgid "Tag"
+msgstr "Tag"
+
+#: admin/settings.php:1264
+#@ nirvana
+msgid "Comments"
+msgstr "Komentari"
+
+#: admin/settings.php:1273
+#@ nirvana
+msgid "Choose the post metas you want to show on multiple post pages (home, blog, category, archive etc.)"
+msgstr "Izaberite koje meta podatke posta želite prikazati na stranicama s više postova (naslovna, blog, kategorija, arhiv, itd.)"
+
+#: admin/settings.php:1280
+#: includes/theme-loop.php:291
+#@ nirvana
+msgid "Bookmark"
+msgstr "Dodaj u bookmarke"
+
+#: admin/settings.php:1289
+#@ nirvana
+msgid "Choose the post metas you want to show on sigle post pages."
+msgstr "Izaberite meta podatke koje želite prikazati na stranicama jednog posta."
+
+#: admin/settings.php:1306
+#@ nirvana
+msgid "Hide the explanatory text under the comments form (starts with  <i>You may use these HTML tags and attributes:...</i>)."
+msgstr "Sakrijte tekst ispod forme komentara koji objašnjava korištenje HTML tagova (počinje s <i>Možete koristiti HTML tagove i atribute:...<i>)."
+
+#: admin/settings.php:1313
+#@ nirvana
+msgid "Hide in posts"
+msgstr "Sakrij u postovima"
+
+#: admin/settings.php:1313
+#@ nirvana
+msgid "Hide in pages"
+msgstr "Sakrij na stranicama"
+
+#: admin/settings.php:1313
+#@ nirvana
+msgid "Hide everywhere"
+msgstr "Sakrij svugdje"
+
+#: admin/settings.php:1321
+#@ nirvana
+msgid "Hide the <b>Comments are closed</b> text that by default shows up on pages or posts with comments disabled."
+msgstr "Sakrij tekst <b>Komentari su zatvoreni</b> koji se pojavljuje na stranicama ili postovima kada su komentari isključeni."
+
+#: admin/settings.php:1337
+#@ nirvana
+msgid "Hide the <b>Comments off</b> text next to posts that have comments disabled."
+msgstr "Sakrij tekst <b>Komentari isključeni</b> koji se pojavljuje kraj postova s isključenim komentarima."
+
+#: admin/settings.php:1349
+#: admin/settings.php:1364
+#: admin/settings.php:1380
+#@ nirvana
+msgid "Excerpt"
+msgstr "Sažetak"
+
+#: admin/settings.php:1349
+#: admin/settings.php:1364
+#: admin/settings.php:1380
+#@ nirvana
+msgid "Full Post"
+msgstr "Puni post"
+
+#: admin/settings.php:1357
+#@ nirvana
+msgid "Excerpts on the main page. Only standard posts will be affected. All other post formats (aside, image, chat, quote etc.) have their specific formating."
+msgstr "Sažeci na glavnoj stranici. Utječe samo na standardne postove. Svi ostali oblici postova (sa strane, slika, chat, citat, itd.) imaju svoje posebno oblikovanje."
+
+#: admin/settings.php:1372
+#@ nirvana
+msgid "Choose if you want the sticky posts on your home page to be visible in full or just the excerpts. "
+msgstr "Izbaberite želite li da ljepljivi postovi s vaše naslovnice budu vidljivi u potpunosti ili samo sažeci. "
+
+#: admin/settings.php:1388
+#@ nirvana
+msgid "Excerpts on archive, categroy and search pages. Same as above, only standard posts will be affected."
+msgstr "Sažeci na stranicama arhive, ketegorija i na stranicama pretraživanja. Isto kao i gore, utječe samo na standardne postove."
+
+#: admin/settings.php:1397
+#@ nirvana
+msgid "Words"
+msgstr "Riječi"
+
+#: admin/settings.php:1397
+#@ nirvana
+msgid "Characters"
+msgstr "Znakovi"
+
+#: admin/settings.php:1405
+#@ nirvana
+msgid "The number of characters/words for excerpts. When that number is reached the post will be interrupted by a <i>Continue reading</i> link that will take the reader to the full post page."
+msgstr "Broj znakova/riječi za sažetke. Kada dosegne taj broj, post će biti prekinut linkom <i>Nastavi čitati</i> koji će čitatelja odvesti do punog posta."
+
+#: admin/settings.php:1420
+#@ nirvana
+msgid "Enable the Magazine Layout. This layout applies to pages with posts and shows 2 posts per row."
+msgstr "Uključite Magazin raspored. Ovaj raspored se odnosi na stranice s postovima i prikazuje 2 posta po redu."
+
+#: admin/settings.php:1427
+#@ nirvana
+msgid "Replaces the three dots ('[...])' that are appended automatically to excerpts."
+msgstr "Zamjenjuje tri točke ('[...])' koje se automatski dodaju sažecima."
+
+#: admin/settings.php:1434
+#@ nirvana
+msgid "Edit the 'Continue Reading' link added to your post excerpts."
+msgstr "Uredite link 'Nastavi čitati' koji se dodaje sažecima."
+
+#: admin/settings.php:1449
+#@ nirvana
+msgid ""
+"By default WordPress excerpts remove all HTML tags (&lt;pre&gt;, &lt;a&gt;, &lt;b&gt and all others) and only clean text is left in the excerpt.\n"
+"Enabling this option allows HTML tags to remain in excerpts so all your default formating will be kept.<br /> <b>Just a warning: </b>If HTML tags are enabled, you have to make sure\n"
+"they are not left open. So if within your post you have an opened HTML tag but the except ends before that tag closes, the rest of the site will be contained in that HTML tag. -- Leave 'Disable' if unsure -- "
+msgstr "Po defaultu WordPress sažeci uklanjaju sve HTML tagove (&lt;pre&gt;, &lt;a&gt;, &lt;b&gt i sve ostale) i u sažetku ostaje samo čisti tekst \\ nUključivanj ove opcije omogućuje da HTML tagovi ostanu u sažecima kako bi vaše uređivanje ostalo netaknuto<br /><b> samo upozorenje: </ b> Ako su HTML tagovi uključeni, morate biti sigurni \\ nda nisu ostali otvoreni. Dakle, ako u svom postu imate otvoreni HTML tag, a sažetak završava prije nego što se taj tag zatvori, ostatak stranice će se nalaziti u tom HTML tagu. -- Ostavite 'Isključi' ako niste sigurni -- "
+
+#: admin/settings.php:1475
+#@ nirvana
+msgid "Link the thumbnail to the post"
+msgstr "Sličice vode na post"
+
+#: admin/settings.php:1476
+#@ nirvana
+msgid "Show featured images as thumbnails on posts. The images must be selected for each post in the Featured Image section."
+msgstr "Prikaži istaknute slike kao sličice na postovima. Slike moraju biti odabrane za svaki post u dijelu za istaknute slike."
+
+#: admin/settings.php:1491
+#@ nirvana
+msgid "Show the first image that you inserted in a post as a thumbnail. If there is a Featured Image selected for that post, it will have priority."
+msgstr "Prikaži samo prvu sliku koju ste ubacili u post kao sličicu. Ako postoji istaknuta slika odabrana za taj post, ona će imati prioritet."
+
+#: admin/settings.php:1507
+#@ nirvana
+msgid "Thumbnail alignment."
+msgstr "Poravnanje sličica."
+
+#: admin/settings.php:1514
+#@ nirvana
+msgid "(width)"
+msgstr "(širina)"
+
+#: admin/settings.php:1515
+#@ nirvana
+msgid "(height)"
+msgstr "(visina)"
+
+#: admin/settings.php:1521
+#@ nirvana
+msgid "Crop images to exact size."
+msgstr "Izreži slike na točne dimenzije."
+
+#: admin/settings.php:1524
+#@ nirvana
+msgid "The size (in pixels) for your thumbnails. By default imges will be scaled with aspect ratio kept. Choose to crop the images if you want the exact size."
+msgstr "Veličina (u pixelima) za vaše sličice. Osnovna postavka je da će slike biti umanjene, a omjer stranica zadržan. Izaberite izrezivanje slika ako želite točne dimenzije."
+
+#: admin/settings.php:1540
+#@ nirvana
+msgid "Show featured images on headers. The header will be replaced with a featured image if you selected it as a Featured Image in the post and if it is bigger or at least equal to the current header size."
+msgstr "Prikaži istaknute slike u headerima. Header će biti zamijenjen istaknutom slikom ako je slika postavljena kao istaknuta slika u postu i ako je veća ili barem iste veličine kao trenutna veličina headera."
+
+#: admin/settings.php:1551
+#@ nirvana
+msgid "Select your desired Social network from the left dropdown menu and insert your corresponding address in the right input field. (ex: <i>http://www.facebook.com/yourname</i> )"
+msgstr "Izaberite željene društvene mreže iz lijevog padajućeg izbornika i unesite korespondirajuće adrese u desno polje za unos. (npr: <i>http://www.facebook.com/vaseime</i> )"
+
+#: admin/settings.php:1552
+#@ nirvana
+msgid "You can also choose if you want the link to open in a new window and what title to dispaly while hovering over the icon."
+msgstr "Također, možete izabrati i želite li link otvoriti u novom prozoru i koji naslov prikazati kada je miš iznad ikone."
+
+#: admin/settings.php:1553
+#@ nirvana
+msgid "You can show up to 5 different social icons from over 35 social networks."
+msgstr "Možete prikazati do 5 različitih ikona od preko 35 društvenih mreža"
+
+#: admin/settings.php:1554
+#@ nirvana
+msgid "You can leave any number of inputs empty."
+msgstr "Možete ostaviti bilo koji broj polja za unos praznima."
+
+#: admin/settings.php:1555
+#@ nirvana
+msgid "You can change the background for your social colors from the colors settings section."
+msgstr "Možete promijeniti pozadinu vaših ikona društvenih mreža na dijelu s postavkama boja."
+
+#: admin/settings.php:1573
+#@ nirvana
+msgid "Social Network Link"
+msgstr "Link društvene mreže"
+
+#: admin/settings.php:1578
+#@ nirvana
+msgid "Open in new window"
+msgstr "Otvori u novom prozoru"
+
+#: admin/settings.php:1580
+#@ nirvana
+msgid "Social Network Title"
+msgstr "Naslov ikone društvene mreže"
+
+#: admin/settings.php:1623
+#@ nirvana
+msgid "Footer"
+msgstr "Footer"
+
+#: admin/settings.php:1627
+#@ nirvana
+msgid "Left side"
+msgstr "Lijeva strana"
+
+#: admin/settings.php:1631
+#@ nirvana
+msgid "Right side"
+msgstr "Desna strana"
+
+#: admin/settings.php:1637
+#: includes/theme-setup.php:220
+#: sidebar-left.php:26
+#@ nirvana
+msgid "Left Sidebar"
+msgstr "Lijevi sidebar"
+
+#: admin/settings.php:1641
+#: includes/theme-setup.php:231
+#: sidebar-right.php:26
+#@ nirvana
+msgid "Right Sidebar"
+msgstr "Desni sidebar"
+
+#: admin/settings.php:1643
+#@ nirvana
+msgid "Choose the <b>areas</b> where to display the social icons."
+msgstr "Izaberite <b>područja</b> u kojima želite prikazati ikone društvenih mreža."
+
+#: admin/settings.php:1656
+#@ nirvana
+msgid "Insert custom text or HTML code that will appear in you footer. <br /> You can use HTML to insert links, images and special characters like &copy;."
+msgstr "Ubavite posebni tekst ili HTML kod koji će se prikazati u footeru. <br /> Možete iskoristiti HTML za ubacivanje linkova, slika i specijalnih znakova, npr. &copy;."
+
+#: admin/settings.php:1664
+#@ nirvana
+msgid "Insert your custom CSS here. Any CSS declarations made here will overwrite Nirvana's (even the custom options specified right here in the Nirvana Settings page). <br /> Your custom CSS will be preserved when updating the theme."
+msgstr "Ubacite posebni CSS ovdje. Sve CSS deklaracije napravljene ovdje nadjačat će Nirvanine (čak i posebne opcije odabrane ovdje na stranici Postavke Nirvane). <br/> Vaš posebni CSS će biti sačuvan kod ažuriranja teme."
+
+#: admin/settings.php:1671
+#@ nirvana
+msgid "Insert your custom Javascript code here. (Google Analytics and any other forms of Analytic software)."
+msgstr "Ubacite svoj posebni javascript kod ovdje. (Google Analytics i bilo koji drugi oblici softwarea za analitiku)."
+
+#: admin/settings.php:1686
+#@ nirvana
+msgid "Enable extra compatibility tag for older Internet Explorer versions. Turning this option on will trigger W3C validation errors."
+msgstr "Uključite posebni tag za kompatibilnost za starije verzije Internet Explorera. Uključivanjem ove opcije pojavljuju se greške prilikom W3C validacije."
+
+#: archive.php:26
+#, php-format
+#@ nirvana
+msgid "Daily Archives: %s"
+msgstr "Dnevna arhiva: %s"
+
+#: archive.php:28
+#, php-format
+#@ nirvana
+msgid "Monthly Archives: %s"
+msgstr "Mjesečna arhiva: %s"
+
+#: archive.php:28
+#@ nirvana
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr "F Y"
+
+#: archive.php:30
+#, php-format
+#@ nirvana
+msgid "Yearly Archives: %s"
+msgstr "Godišnja arhiva: %s"
+
+#: archive.php:30
+#@ nirvana
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "Y"
+
+#: archive.php:32
+#@ nirvana
+msgid "Blog Archives"
+msgstr "Arhiva bloga"
+
+#: archive.php:56
+#: author.php:71
+#: category.php:49
+#: content/content-frontpage.php:41
+#: content/content-index.php:35
+#: search.php:38
+#: tag.php:50
+#: templates/template-blog.php:34
+#@ nirvana
+msgid "Nothing Found"
+msgstr "Ništa nije pronađeno"
+
+#: archive.php:60
+#: author.php:75
+#: category.php:53
+#: content/content-frontpage.php:45
+#: content/content-index.php:39
+#: tag.php:54
+#: templates/template-blog.php:38
+#@ nirvana
+msgid "Apologies, but no results were found for the requested archive. Perhaps searching will help find a related post."
+msgstr "Isprike, ali nisu nađeni rezultati za ovu arhivu. Pretraga bi mogla pomoći u pronalasku vezanog posta."
+
+#: attachment.php:18
+#, php-format
+#@ nirvana
+msgid "Return to %s"
+msgstr "Vrati se na %s"
+
+#. translators: %s - title of parent post
+#: attachment.php:32
+#, php-format
+#@ nirvana
+msgid "Full size is %s pixels"
+msgstr "Puna veličina je %s pixela"
+
+#: attachment.php:35
+#@ nirvana
+msgid "Link to full-size image"
+msgstr "Link na sliku pune veličine"
+
+#: attachment.php:75
+#: content/content-page.php:23
+#: includes/theme-loop.php:228
+#: single.php:49
+#: templates/template-page-with-intro.php:17
+#@ nirvana
+msgid "Edit"
+msgstr "Uredi"
+
+#: attachment.php:86
+#@ nirvana
+msgid "Continue reading"
+msgstr "Nastavi čitati"
+
+#: attachment.php:87
+#: content/content-aside.php:30
+#: content/content-audio.php:24
+#: content/content-chat.php:29
+#: content/content-gallery.php:51
+#: content/content-image.php:23
+#: content/content-link.php:29
+#: content/content-page.php:22
+#: content/content-quote.php:27
+#: content/content-video.php:24
+#: content/content.php:40
+#: content/content.php:56
+#: single.php:27
+#: templates/template-page-with-intro.php:16
+#@ nirvana
+msgid "Pages:"
+msgstr "Stranice:"
+
+#: attachment.php:92
+#@ nirvana
+msgid "Previous image"
+msgstr "Prethodna slika"
+
+#: attachment.php:93
+#@ nirvana
+msgid "Next image"
+msgstr "Slijedeća slika"
+
+#: author.php:29
+#, php-format
+#@ nirvana
+msgid "Author Archives: %s"
+msgstr "Članci koje je objavio: %s"
+
+#: category.php:20
+#, php-format
+#@ nirvana
+msgid "Category Archives: %s"
+msgstr "Članci u kategoriji: %s"
+
+#: comments.php:25
+#@ nirvana
+msgid "This post is password protected. Enter the password to view any comments."
+msgstr "Ovaj post je zaštićen zaporkom. Unesite zaporku kako biste vidjeli komentare."
+
+#: comments.php:50
+#@ nirvana
+msgid "Comments are closed"
+msgstr "Komentari su zatvoreni"
+
+#: content/content-aside.php:15
+#: content/content-audio.php:15
+#: content/content-chat.php:15
+#: content/content-gallery.php:18
+#: content/content-gallery.php:42
+#: content/content-image.php:14
+#: content/content-link.php:15
+#: content/content-quote.php:13
+#: content/content-status.php:14
+#: content/content-video.php:15
+#: content/content.php:21
+#, php-format
+#@ nirvana
+msgid "Permalink to %s"
+msgstr "Permalink na %s"
+
+#: content/content-aside.php:21
+#@ nirvana
+msgid "Aside"
+msgstr "Sa strane"
+
+#: content/content-aside.php:29
+#: content/content-audio.php:23
+#: content/content-chat.php:28
+#: content/content-image.php:22
+#: content/content-link.php:28
+#: content/content-quote.php:26
+#: content/content-status.php:32
+#: content/content-video.php:23
+#@ nirvana
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Nastavi čitati <span class=\"meta-nav\">&rarr;</span>"
+
+#: content/content-audio.php:15
+#@ nirvana
+msgid "Audio"
+msgstr "Audio"
+
+#: content/content-chat.php:15
+#@ nirvana
+msgid "Chat"
+msgstr "Chat"
+
+#: content/content-gallery.php:18
+#@ nirvana
+msgid "Gallery"
+msgstr "Galerija"
+
+#: content/content-gallery.php:41
+#, php-format
+#@ nirvana
+msgid "This gallery contains <a %1$s>%2$s photo</a>."
+msgid_plural "This gallery contains <a %1$s>%2$s photos</a>."
+msgstr[0] "Ova galerija sadrži <a %1$s>%2$s slika</a>."
+msgstr[1] "Ova galerija sadrži <a %1$s>%2$s sliku</a>."
+msgstr[2] "Ova galerija sadrži <a %1$s>%2$s slike</a>."
+
+#: content/content-quote.php:13
+#@ nirvana
+msgid "Quote"
+msgstr "Citat"
+
+#: content/content-status.php:14
+#@ nirvana
+msgid "Status"
+msgstr "Status"
+
+#: content/content-video.php:15
+#@ nirvana
+msgid "Video"
+msgstr "Video"
+
+#: includes/ajax.php:81
+#@ nirvana
+msgid "More posts"
+msgstr "Učitaj još"
+
+#: includes/theme-comments.php:26
+#@ nirvana
+msgid "Pingback: "
+msgstr "Pingback: "
+
+#: includes/theme-comments.php:26
+#: includes/theme-comments.php:41
+#@ nirvana
+msgid "(Edit)"
+msgstr "(Uredi)"
+
+#. translators: 1: date, 2: time
+#: includes/theme-comments.php:41
+#@ nirvana
+msgid "at"
+msgstr "u"
+
+#: includes/theme-comments.php:48
+#@ nirvana
+msgid "Your comment is awaiting moderation."
+msgstr "Vaš komentar čeka odobrenje."
+
+#: includes/theme-comments.php:54
+#@ nirvana
+msgid "Reply"
+msgstr "Odgovori"
+
+#: includes/theme-comments.php:89
+#@ nirvana
+msgid "<b>0</b>"
+msgstr "<b>0</b>"
+
+#: includes/theme-comments.php:89
+#@ nirvana
+msgid "<b>1</b>"
+msgstr "<b>1</b>"
+
+#: includes/theme-comments.php:89
+#@ nirvana
+msgid "<b>%</b>"
+msgstr "<b>%</b>"
+
+#: includes/theme-comments.php:89
+#@ nirvana
+msgid "<b>-</b>"
+msgstr "<b>-</b>"
+
+#: includes/theme-comments.php:100
+#, php-format
+#@ nirvana
+msgid "One Comment"
+msgid_plural "%1$s Comments"
+msgstr[0] "Jedan komentar"
+msgstr[1] "%1$s Komentara"
+msgstr[2] "%1$s Komentara"
+
+#: includes/theme-comments.php:114
+#@ nirvana
+msgid "Older Comments"
+msgstr "Stariji komentari"
+
+#: includes/theme-comments.php:115
+#@ nirvana
+msgid "Newer Comments"
+msgstr "Noviji komentari"
+
+#: includes/theme-comments.php:142
+#@ nirvana
+msgid "Comments are closed."
+msgstr "Komentari su zatvoreni."
+
+#: includes/theme-comments.php:158
+#@ nirvana
+msgid "Name"
+msgstr "Ime"
+
+#: includes/theme-comments.php:159
+#@ nirvana
+msgid "Name*"
+msgstr "Ime*"
+
+#: includes/theme-comments.php:163
+#@ nirvana
+msgid "Email"
+msgstr "Email"
+
+#: includes/theme-comments.php:164
+#@ nirvana
+msgid "Email*"
+msgstr "Email*"
+
+#: includes/theme-comments.php:168
+#: includes/theme-comments.php:169
+#@ nirvana
+msgid "Website"
+msgstr "Web stranica"
+
+#: includes/theme-comments.php:180
+#: includes/theme-comments.php:181
+#@ nirvana
+msgctxt "noun"
+msgid "Comment"
+msgstr "Komentar"
+
+#: includes/theme-functions.php:226
+#@ nirvana
+msgid "Archive by category"
+msgstr "Arhiva kategorije"
+
+#: includes/theme-functions.php:229
+#@ nirvana
+msgid "Search results for"
+msgstr "Rezultati pretraživanja za"
+
+#: includes/theme-functions.php:287
+#@ nirvana
+msgid "Posts tagged"
+msgstr "Arhiva oznake"
+
+#: includes/theme-functions.php:292
+#@ nirvana
+msgid "Articles posted by"
+msgstr "Arhiva autora: "
+
+#: includes/theme-functions.php:295
+#@ nirvana
+msgid "Error 404"
+msgstr "Greška 404"
+
+#: includes/theme-functions.php:300
+#@ nirvana
+msgid "Page"
+msgstr "Stranica"
+
+#: includes/theme-functions.php:319
+#: searchform.php:1
+#@ nirvana
+msgid "Search"
+msgstr "Pretraži"
+
+#: includes/theme-functions.php:388
+#@ nirvana
+msgid "Powered by"
+msgstr "Pokreće"
+
+#: includes/theme-functions.php:389
+#@ nirvana
+msgid "Semantic Personal Publishing Platform"
+msgstr "Semantička osobna platforma za objavljivanje"
+
+#: includes/theme-loop.php:189
+#@ nirvana
+msgid "Author "
+msgstr "Autor "
+
+#: includes/theme-loop.php:191
+#, php-format
+#@ nirvana
+msgid "View all posts by %s"
+msgstr "Pregledaj sve postove po %s"
+
+#: includes/theme-loop.php:206
+#@ nirvana
+msgid "Categories"
+msgstr "Kategorije"
+
+#: includes/theme-loop.php:226
+#@ nirvana
+msgid "Tags"
+msgstr "Oznake"
+
+#: includes/theme-loop.php:288
+#@ nirvana
+msgid "Tagged"
+msgstr "Označeno"
+
+#: includes/theme-loop.php:291
+#@ nirvana
+msgid " Bookmark the permalink"
+msgstr "Stavi permalink u bookmarke"
+
+#: includes/theme-loop.php:291
+#@ nirvana
+msgid "Permalink to"
+msgstr "Permalink na"
+
+#: includes/theme-loop.php:314
+#@ nirvana
+msgid "<i class=\"meta-nav-prev\"></i> <span>Older posts</span>"
+msgstr "<i class=\"meta-nav-prev\"></i> <span>Stariji postovi</span>"
+
+#: includes/theme-loop.php:315
+#@ nirvana
+msgid "<span>Newer posts</span> <i class=\"meta-nav-next\"></i>"
+msgstr "<span>Noviji postovi</span> <i class=\"meta-nav-next\"></i>"
+
+#: includes/theme-meta.php:26
+#, php-format
+#@ parabola
+msgid "Page %s"
+msgstr "Stranica %s"
+
+#: includes/theme-setup.php:86
+#@ nirvana
+msgid "Primary Navigation"
+msgstr "Primarna navigacija"
+
+#: includes/theme-setup.php:87
+#@ nirvana
+msgid "Top Navigation"
+msgstr "Gornja navigacija"
+
+#: includes/theme-setup.php:88
+#@ nirvana
+msgid "Footer Navigation"
+msgstr "Footer navigacija"
+
+#: includes/theme-setup.php:130
+#@ nirvana
+msgid "Nirvana Default Header Image"
+msgstr "Defaultna slika headera Nirvane"
+
+#: includes/theme-setup.php:191
+#@ nirvana
+msgid "Skip to content"
+msgstr "Skoči do sadržaja"
+
+#: includes/theme-setup.php:222
+#@ nirvana
+msgid "Left sidebar"
+msgstr "Lijevi sidebar"
+
+#: includes/theme-setup.php:233
+#@ nirvana
+msgid "Right sidebar"
+msgstr "Desni sidebar"
+
+#: includes/theme-setup.php:242
+#@ nirvana
+msgid "First Footer Area"
+msgstr "Prvo footer područje"
+
+#: includes/theme-setup.php:244
+#@ nirvana
+msgid "First footer area"
+msgstr "Prvo footer područje"
+
+#: includes/theme-setup.php:253
+#@ nirvana
+msgid "Second Footer Area"
+msgstr "Drugo footer područje"
+
+#: includes/theme-setup.php:255
+#@ nirvana
+msgid "Second footer area"
+msgstr "Drugo footer područje"
+
+#: includes/theme-setup.php:264
+#@ nirvana
+msgid "Third Footer Area"
+msgstr "Treće footer područje"
+
+#: includes/theme-setup.php:266
+#@ nirvana
+msgid "The third footer area"
+msgstr "Treće footer područje"
+
+#: includes/theme-setup.php:275
+#@ nirvana
+msgid "Fourth Footer Area"
+msgstr "Četvrto footer područje"
+
+#: includes/theme-setup.php:277
+#@ nirvana
+msgid "The fourth footer area"
+msgstr "Četvrto footer područje"
+
+#: includes/theme-setup.php:286
+#: includes/theme-setup.php:288
+#@ nirvana
+msgid "Above Content Area"
+msgstr "Područje iznad sadržaja"
+
+#: includes/theme-setup.php:297
+#: includes/theme-setup.php:299
+#@ nirvana
+msgid "Below Content Area"
+msgstr "Područje ispod sadržaja"
+
+#: includes/theme-setup.php:308
+#: includes/theme-setup.php:310
+#@ nirvana
+msgid "Header Widgets"
+msgstr "Widgeti u headeru"
+
+#: includes/theme-setup.php:321
+#@ nirvana
+msgid "Presentation Page Columns"
+msgstr "Stupci prezentacijske stranice"
+
+#: includes/theme-setup.php:323
+#, php-format
+#@ nirvana
+msgid "Only drag [Cryout Column] widgets here. Recommended size for uploaded images: %1$dpx (width) x %2$dpx (height). Go to the Nirvana Settings page >> Presentation Page Settings >> Columns to edit sizes and more."
+msgstr "Ovdje povucite samo [Cryout Column] widgete ovdje. Preporučena veličina uploadanih slika: %1$dpx (širina) x %2$dpx (visina). Idite na stranicu Nirvana postavki >> Postavke prezentacijske stranice >> Stupci kako biste uredili dimenzije i više od toga."
+
+#: search.php:18
+#, php-format
+#@ nirvana
+msgid "Search Results for: %s"
+msgstr "Rezultati pretraživanja za: %s"
+
+#: search.php:40
+#, php-format
+#@ nirvana
+msgid "No search results for: %s."
+msgstr "Nema rezultata pretraživanja za: %s."
+
+#: sidebar-left.php:28
+#, php-format
+#@ nirvana
+msgid "You currently have no widgets set in the left sidebar. You can add widgets via the <a href=\"%s\">Dashboard</a>."
+msgstr "Trenutno nemate widgeta postavljenih u lijevom sidebaru. Widgete možete dodati preko <a href=\"%s\">Dashboarda</a>."
+
+#: sidebar-left.php:29
+#: sidebar-right.php:29
+#, php-format
+#@ nirvana
+msgid "To hide this sidebar, switch to a different Layout via the <a href=\"%s\">Theme Settings</a>."
+msgstr "Ako želite sakriti ovaj sidebar, prebacite na drugi raspored na <a href=\"%s\">Postavkama teme</a>."
+
+#: sidebar-right.php:28
+#, php-format
+#@ nirvana
+msgid "You currently have no widgets set in the right sidebar. You can add widgets via the <a href=\"%s\">Dashboard</a>."
+msgstr "Trenutno nemate widgeta postavljenih u desnom sidebaru. Widgete možete dodati preko <a href=\"%s\">Dashboarda</a>."
+
+#: single.php:36
+#@ nirvana
+msgid "About"
+msgstr "O"
+
+#: single.php:40
+#@ nirvana
+msgid "View all posts by "
+msgstr "Pregledaj sve postove od "
+
+#: tag.php:21
+#, php-format
+#@ nirvana
+msgid "Tag Archives: %s"
+msgstr " Postovi označeni: %s"
+

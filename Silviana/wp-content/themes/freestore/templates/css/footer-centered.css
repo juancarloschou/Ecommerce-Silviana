@@ -1,0 +1,60 @@
+/*--------------------------------------------------------------
+FreeStore - Footer Centered Styling
+--------------------------------------------------------------*/
+
+.site-footer-centered {
+    color: #000000;
+    text-align: center;
+    max-width: 1180px;
+    margin: 0 auto;
+    border-top: 3px solid #000;
+}
+
+.site-footer-bottom-bar {
+    background-color: rgb(0, 0, 0);
+    padding: 8px 0 8px;
+    color: #FFF;
+}
+
+.site-container > ul {
+    margin: 0;
+    padding: 50px 0 20px;
+}
+.site-container > ul > li {
+    margin: 0 auto 45px;
+    padding: 0;
+    list-style-type: none;
+    display: block;
+    max-width: 600px;
+}
+
+.site-container .widget ul {
+    margin: 0;
+    padding: 0;
+}
+.site-container .widget ul li {
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+    display: block;
+}
+
+.site-footer .widget a {
+    color: inherit;
+}
+
+.site-footer-centered .widgettitle {
+    margin: 0 0 10px;
+    padding: 0 0 8px;
+    color: #000000;
+    text-transform: uppercase;
+    font-size: 16px;
+}
+
+@media only screen and (max-width: 782px) {
+    
+    .site-footer-centered .site-container > ul > li {
+        margin: 0 0 40px;
+    }
+    
+}

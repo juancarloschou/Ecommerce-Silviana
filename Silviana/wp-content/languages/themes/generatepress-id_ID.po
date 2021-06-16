@@ -1,0 +1,805 @@
+# Translation of Themes - GeneratePress in Indonesian
+# This file is distributed under the same license as the Themes - GeneratePress package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2017-07-25 02:59:37+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: id\n"
+"Project-Id-Version: Themes - GeneratePress\n"
+
+#. Description of the plugin/theme
+msgid "GeneratePress is a fast, lightweight (less than 1MB zipped), mobile responsive WordPress theme built with speed, SEO and usability in mind. GP can serve as a solid base for any website, and works great with any of your favorite page builders. With an emphasis on WordPress coding standards, we ensure GeneratePress is compatible with all well-coded plugins, including major ones like WooCommerce, WPML, BuddyPress and bbPress. GeneratePress is device friendly (mobile and tablet), uses 100% valid HTML, is fully schema microdata integrated, is translated into over 20 languages by our amazing community and is cross browser compatible (including IE8). Some of our features include 9 widget areas, 5 navigation positions, 5 sidebar layouts, dropdown menus (click or hover) and a back to top button. All our options use the native WordPress Customizer, meaning you can see every change you make instantly before pressing the publish button. Learn more and check out our powerful premium version at https://generatepress.com"
+msgstr "GeneratePress adalah sebuah tema WordPress yang cepat, ringan (kurang dari 1MB di-zip), responsive menyesuakan mobile dengan menitik beratkan pada kecepatan, SEO, dan kemudahan penggunaan. GP dapat dipakai sebagai dasar yang kokoh untuk pembuatan website apa saja, dan bekerja dengan sangat baik dengan berbagai page builder favorit Anda. Dengan penekanan pada standar coding WordPress, kami memastikan GeneratePress dapat bekerja dengan semua plugin dengan kode sumber yang baik, termasuk plugin terkenal seperti WooCommerce, WPML, BuddyPress dan bbPress. GeneratePress bersahabat dengan gadget (handphone dan tablet), menggunakan HTML yang valid 100%, dan terintegrasi dengan schema microdata sepenuhnya, diterjemahkan ke dalam lebih dari 20 bahasa oleh komunitas mengagumkan kami dan kompatible dengan berbagai peramban (termasuk IE8). Beberapa fitur kami termasuk 9 area widget, 5 posisi navigasi, 5 layout sidebar, menu dropdown (click dan hover) dan tombol kembali ke atas. Semua opsi kami menggunakan Customizer bawaan WordPress, yang berarti Anda bisa melihat perubahan yang Anda lakukan seketika sebelum memencet tombol penerbitan. Pelajari lebih lanjut dan coba versi premium kami yang bertenaga di https://generatepress.com"
+
+#. #-#-#-#-#  generatepress.pot (GeneratePress 1.3.48)  #-#-#-#-#
+#. Theme Name of the plugin/theme
+#: functions.php:452
+msgid "GeneratePress"
+msgstr "GeneratePress"
+
+#: inc/controls.php:48
+msgid "Mobile"
+msgstr "Smartphone"
+
+#: inc/controls.php:47
+msgid "Tablet"
+msgstr "Tablet"
+
+#: inc/controls.php:46
+msgid "Desktop"
+msgstr "Desktop"
+
+#: inc/options.php:184
+msgid "Delete Default Settings"
+msgstr "Hapus Pengaturan Bawaan"
+
+#: inc/metaboxes.php:284
+msgid "Full Width"
+msgstr "Lebar Penuh"
+
+#: inc/metaboxes.php:275
+msgid "Choose your page builder content container type. Both options remove the content padding for you."
+msgstr "Pilih jenis container konten dari page builder anda. Kedua pilihan menghapus padding konten anda."
+
+#: inc/metaboxes.php:248
+msgid "Page Builder Container"
+msgstr "Container Page Builder"
+
+#: inc/metaboxes.php:58 inc/metaboxes.php:62 inc/metaboxes.php:70
+#: inc/metaboxes.php:74 inc/metaboxes.php:78
+msgctxt "Short name for meta box"
+msgid "Sidebar"
+msgstr "Sidebar"
+
+#: inc/customizer.php:384
+msgid "Top Bar Alignment"
+msgstr "Alignment Bar Atas"
+
+#: inc/customizer.php:356
+msgid "Top Bar Inner Width"
+msgstr "Lebar Dalam Bar Atas"
+
+#: inc/customizer.php:328
+msgid "Top Bar Width"
+msgstr "Lebar Bar Atas"
+
+#: functions.php:177 inc/customizer.php:305
+msgid "Top Bar"
+msgstr "Bar Atas"
+
+#. translators: %s: post title
+#: comments.php:38
+msgctxt "comments title"
+msgid "One thought on &ldquo;%s&rdquo;"
+msgstr "Satu gagasan pada &ldquo;%s&rdquo;"
+
+#: inc/options.php:164
+msgid "Adding a Logo"
+msgstr "Menambahkan sebuah Logo"
+
+#: inc/options.php:161
+msgid "View all"
+msgstr "Lihat semua"
+
+#: inc/options.php:134
+msgid "Learn more"
+msgstr "Pelajari lebih lanjut"
+
+#: inc/options.php:54 inc/options.php:161
+msgid "Documentation"
+msgstr "Dokumentasi"
+
+#: inc/options.php:51
+msgid "Premium"
+msgstr "Berbayar"
+
+#: functions.php:176
+msgid "Footer Bar"
+msgstr "Bar Footer"
+
+#: inc/customizer.php:904
+msgid "Footer Bar Alignment"
+msgstr "Alignment Bar Footer"
+
+#: inc/add-ons/typography.php:596
+msgid "Paragraph margin"
+msgstr "Margin Paragraf"
+
+#: inc/add-ons/typography.php:561
+msgid "Line height"
+msgstr "Tinggi baris"
+
+#: inc/controls.php:49
+msgid "Reset"
+msgstr "Setel ulang"
+
+#: inc/customizer.php:543
+msgid "Inner Navigation Width"
+msgstr "Lebar Bagian Dalam Navigasi"
+
+#: inc/customizer.php:451
+msgid "Inner Header Width"
+msgstr "Lebar Bagian Dalam Header"
+
+#: inc/customizer.php:847
+msgid "Inner Footer Width"
+msgstr "Lebar Bagian Dalam Footer"
+
+#: inc/customizer.php:797
+msgid "Footer"
+msgstr "Footer"
+
+#: inc/customizer.php:697
+msgid "Sidebars"
+msgstr "Sidebar"
+
+#: inc/customizer.php:493
+msgid "Primary Navigation"
+msgstr "Navigasi Utama"
+
+#: inc/customizer.php:258
+msgid "Container"
+msgstr "Kontainer"
+
+#: comments.php:109
+msgid "Logged in as <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\" class=\"comment-logout\" title=\"Log out of this account\">Log out?</a>"
+msgstr "Masuk sebagai <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\" class=\"comment-logout\" title=\"Keluar dari akun ini\">Keluar?</a>"
+
+#: inc/customizer.php:632
+msgid "Hover"
+msgstr "Hover"
+
+#: inc/template-tags.php:686 inc/template-tags.php:690
+msgid "Scroll back to top"
+msgstr "Gulirkan kembali ke puncak laman"
+
+#: inc/customizer.php:820
+msgid "Footer Width"
+msgstr "Lebar Footer"
+
+#: inc/customizer.php:629
+msgid "Navigation Dropdown"
+msgstr "Dropdown Navigasi"
+
+#: inc/customizer.php:516
+msgid "Navigation Width"
+msgstr "Lebar Navigasi"
+
+#: inc/customizer.php:634
+msgid "Click - Arrow"
+msgstr "Klik - Panah"
+
+#: inc/customizer.php:633
+msgid "Click - Menu Item"
+msgstr "Klik - Item Menu"
+
+#: inc/customizer.php:932
+msgid "Back to Top Button"
+msgstr "Tombol Kembali ke Atas"
+
+#: inc/customizer.php:331 inc/customizer.php:359 inc/customizer.php:427
+#: inc/customizer.php:455 inc/customizer.php:519 inc/customizer.php:547
+#: inc/customizer.php:823 inc/customizer.php:851
+msgid "Full"
+msgstr "Penuh"
+
+#: inc/customizer.php:424
+msgid "Header Width"
+msgstr "Lebar Header"
+
+#: inc/customizer.php:576
+msgid "Float Left"
+msgstr "Float ke kiri"
+
+#: inc/options.php:196
+msgctxt "made with love"
+msgid "Made with %s by Tom Usborne"
+msgstr "Dibuat dengan %s oleh Tom Usborne"
+
+#: inc/options.php:53
+msgid "Support"
+msgstr "Bantuan"
+
+#: inc/add-ons/disable-elements.php:50 inc/add-ons/disable-elements.php:52
+msgid "Content Title"
+msgstr "Judul Halaman"
+
+#: 404.php:25
+msgid "It looks like nothing was found at this location. Maybe try searching?"
+msgstr "Sepertinya tidak ada yang bisa ditemukan di sini. Coba pencarian saja?"
+
+#: inc/template-tags.php:842 inc/template-tags.php:856
+#: inc/template-tags.php:870 inc/template-tags.php:884
+#: inc/template-tags.php:898
+msgid "Replace this widget content by going to <a href=\"%1$s\"><strong>Appearance / Widgets</strong></a> and dragging widgets into this widget area."
+msgstr "Ganti isi widget ini dengan mengunjungi <a href=\"%1$s\"><strong>Tampilan / Widgets</strong></a> dan tarik widget ke dalam area widget ini."
+
+#: inc/options.php:176
+msgid "<strong>Warning:</strong> Deleting your <a href=\"%1$s\">Customizer</a> settings can not be undone."
+msgstr "<strong>Peringatan:</strong> Mengapus pengaturan <a href=\"%1$s\">Customizer</a> Anda tidak bisa dikembalikan lagi."
+
+#: inc/template-tags.php:843 inc/template-tags.php:857
+#: inc/template-tags.php:871 inc/template-tags.php:885
+#: inc/template-tags.php:899
+msgid "To remove or choose the number of footer widgets, go to <a href=\"%1$s\"><strong>Appearance / Customize / Layout / Footer Widgets</strong></a>."
+msgstr "Untuk menghapus atau menentukan jumlah widget di footer, buka <a href=\"%1$s\"><strong>Tampilan / Customize / Layout / Widget Footer</strong></a>."
+
+#: searchform.php:14
+msgctxt "placeholder"
+msgid "Search &hellip;"
+msgstr "Cari &hellip;"
+
+#: searchform.php:13 searchform.php:14
+msgctxt "label"
+msgid "Search for:"
+msgstr "Cari untuk:"
+
+#: search.php:19
+msgid "Search Results for: %s"
+msgstr "Hasil Pencarian untuk: %s"
+
+#: no-results.php:34
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Rupanya kami tidak dapat menemukan hal yang sedang Anda cari. Cobalah pada pencarian."
+
+#: no-results.php:29
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Maaf, tidak ada yang cocok dengan kata yang anda cari. Silahkan coba lagi dengan kata kunci yang lain"
+
+#: no-results.php:25
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Sudah siap menerbitkan tulisan pertamamu? <a href=\"%1$s\">Mulai di sini</a>."
+
+#: no-results.php:18
+msgid "Nothing Found"
+msgstr "Tidak Ditemukan"
+
+#: inc/template-tags.php:225
+msgid "% Comments"
+msgstr "% Komentar"
+
+#: inc/template-tags.php:225
+msgid "1 Comment"
+msgstr "1 Komentar"
+
+#: inc/template-tags.php:225
+msgid "Leave a comment"
+msgstr "Tinggalkan komentar"
+
+#: inc/template-tags.php:218
+msgctxt "Used before tag names."
+msgid "Tags"
+msgstr "Tag"
+
+#: inc/template-tags.php:210
+msgctxt "Used before category names."
+msgid "Categories"
+msgstr "Kategori"
+
+#: inc/template-tags.php:207 inc/template-tags.php:215
+msgctxt "Used between list items, there is a space after the comma."
+msgid ", "
+msgstr ", "
+
+#: inc/template-tags.php:372
+msgctxt "label"
+msgid "Search"
+msgstr "Cari"
+
+#: inc/template-tags.php:240 inc/template-tags.php:254
+msgid "Read more"
+msgstr "Baca Selengkapnya"
+
+#: inc/template-tags.php:187
+msgid "View all posts by %s"
+msgstr "Lihat semua tulisan oleh %s"
+
+#: inc/template-tags.php:185
+msgid "by"
+msgstr "Oleh"
+
+#: inc/template-tags.php:136
+msgid "Your comment is awaiting moderation."
+msgstr "Komentar Anda menunggu moderasi."
+
+#: inc/template-tags.php:119
+msgctxt "1: date, 2: time"
+msgid "%1$s at %2$s"
+msgstr "%1$s pada %2$s"
+
+#: inc/template-tags.php:102
+msgid "Pingback:"
+msgstr "Ping-balik:"
+
+#: inc/template-tags.php:52
+msgid "Newer posts"
+msgstr "Pos-pos terbaru"
+
+#: inc/template-tags.php:48
+msgid "Older posts"
+msgstr "Pos-pos terdahulu"
+
+#: inc/template-tags.php:43 inc/template-tags.php:52
+msgid "Next"
+msgstr "Berikut"
+
+#: inc/template-tags.php:42 inc/template-tags.php:48
+msgid "Previous"
+msgstr "Sebelumnya"
+
+#: inc/template-tags.php:38
+msgid "Post navigation"
+msgstr "Navigasi Tulisan"
+
+#: inc/deprecated.php:17 inc/template-tags.php:59
+msgid "Next &rarr;"
+msgstr "Selanjutnya &rarr;"
+
+#: inc/deprecated.php:16 inc/template-tags.php:58
+msgid "&larr; Previous"
+msgstr "&larr; Sebelumnya"
+
+#: inc/options.php:247
+msgid "Settings removed."
+msgstr "Pengaturan dihapus."
+
+#: inc/options.php:243
+msgid "Import successful."
+msgstr "Impor berhasil."
+
+#: inc/options.php:239
+msgid "Settings saved."
+msgstr "Pengaturan telah disimpan."
+
+#: inc/options.php:125
+msgid "Add-ons"
+msgstr "Add-on"
+
+#: inc/options.php:182
+msgid "Warning: This will delete your settings."
+msgstr "Peringatan: Ini akan menghapus pengaturan Anda."
+
+#: inc/options.php:177
+msgid "Consider using our Import/Export add-on to export your settings before deleting them."
+msgstr "Pertimbangkan menggunakan add-on Import/Export kami untuk mengekspor pengaturan Anda sebelum menghapusnya."
+
+#: inc/options.php:174
+msgid "Delete Customizer Settings"
+msgstr "Hapus Pengaturan Customizer"
+
+#: inc/add-ons/disable-elements.php:27
+msgid "Disable Elements"
+msgstr "Matikan Elemen"
+
+#: inc/options.php:72 inc/options.php:154
+msgid "Customize"
+msgstr "Sesuaikan"
+
+#: inc/navigation.php:136 inc/template-tags.php:398 inc/template-tags.php:429
+#: inc/template-tags.php:432 searchform.php:16
+msgctxt "submit button"
+msgid "Search"
+msgstr "Cari"
+
+#: header.php:23
+msgid "Skip to content"
+msgstr "Langsung ke isi"
+
+#: inc/navigation.php:90
+msgid "Menu"
+msgstr "Menu"
+
+#: inc/metaboxes.php:186 inc/metaboxes.php:188
+msgid "5 Widgets"
+msgstr "5 Widget"
+
+#: inc/metaboxes.php:182 inc/metaboxes.php:184
+msgid "4 Widgets"
+msgstr "4 Widget"
+
+#: inc/metaboxes.php:178 inc/metaboxes.php:180
+msgid "3 Widgets"
+msgstr "3 Widget"
+
+#: inc/metaboxes.php:174 inc/metaboxes.php:176
+msgid "2 Widgets"
+msgstr "2 Widget"
+
+#: inc/metaboxes.php:170 inc/metaboxes.php:172
+msgid "1 Widget"
+msgstr "1 Widget"
+
+#: inc/metaboxes.php:166 inc/metaboxes.php:168
+msgid "0 Widgets"
+msgstr "0 Widget"
+
+#: inc/metaboxes.php:76
+msgid "Both Sidebars on Right"
+msgstr "Kedua Sidebar di Kanan"
+
+#: inc/metaboxes.php:72
+msgid "Both Sidebars on Left"
+msgstr "Kedua Sidebar di Kiri"
+
+#: inc/metaboxes.php:68
+msgid "Both Sidebars"
+msgstr "Kedua Sidebar"
+
+#: inc/metaboxes.php:64
+msgid "No Sidebars"
+msgstr "Tanpa Sidebar"
+
+#: inc/metaboxes.php:58 inc/metaboxes.php:62 inc/metaboxes.php:70
+#: inc/metaboxes.php:74 inc/metaboxes.php:78
+msgid "Content"
+msgstr "Konten"
+
+#: inc/customizer.php:65
+msgid "Add-ons Available! Take a look"
+msgstr "Add-ons Tersedia! Coba lihat"
+
+#: inc/add-ons/disable-elements.php:56 inc/controls.php:205
+msgid "Add-on available"
+msgstr "Add-on tersedia"
+
+#: inc/metaboxes.php:54 inc/metaboxes.php:164 inc/metaboxes.php:280
+msgid "Default"
+msgstr "Standar"
+
+#: inc/customizer.php:996
+msgid "Check out Generate Blog"
+msgstr "Lihat Blog Generate"
+
+#: inc/customizer.php:992
+msgid "Looking to add more blog settings?<br /> %s."
+msgstr "Ingin menambah pengaturan blog lainnya?<br /> %s."
+
+#: inc/customizer.php:969
+msgid "Blog Post Content"
+msgstr "Konten Artikel Blog"
+
+#: inc/customizer.php:972
+msgid "Show full post"
+msgstr "Tampilkan semua post"
+
+#: inc/customizer.php:973
+msgid "Show excerpt"
+msgstr "Tampilkan ringkasan"
+
+#: inc/customizer.php:947
+msgid "Blog"
+msgstr "Blog"
+
+#: inc/customizer.php:749
+msgid "Blog Sidebar Layout"
+msgstr "Layout Sidebar Blog"
+
+#: inc/customizer.php:727 inc/customizer.php:757 inc/customizer.php:787
+msgid "Content / Sidebar / Sidebar"
+msgstr "Konten / Sidebar / Sidebar"
+
+#: inc/customizer.php:726 inc/customizer.php:756 inc/customizer.php:786
+msgid "Sidebar / Sidebar / Content"
+msgstr "Sidebar / Sidebar / Konten"
+
+#: inc/customizer.php:725 inc/customizer.php:755 inc/customizer.php:785
+msgid "Sidebar / Content / Sidebar"
+msgstr "Sidebar / Konten / Sidebar"
+
+#: inc/customizer.php:724 inc/customizer.php:754 inc/customizer.php:784
+#: inc/metaboxes.php:66
+msgid "Content (no sidebars)"
+msgstr "Konten (tanpa sidebar)"
+
+#: inc/customizer.php:723 inc/customizer.php:753 inc/customizer.php:783
+msgid "Content / Sidebar"
+msgstr "Konten / Sidebar"
+
+#: inc/customizer.php:873 inc/metaboxes.php:138 inc/options.php:168
+msgid "Footer Widgets"
+msgstr "Widget Footer"
+
+#: inc/customizer.php:779
+msgid "Single Post Sidebar Layout"
+msgstr "Layout Sidebar pada Post Tunggal"
+
+#: inc/customizer.php:722 inc/customizer.php:752 inc/customizer.php:782
+msgid "Sidebar / Content"
+msgstr "Sidebar / Konten"
+
+#: inc/customizer.php:719 inc/metaboxes.php:26 inc/options.php:165
+msgid "Sidebar Layout"
+msgstr "Layout Sidebar"
+
+#: inc/customizer.php:683
+msgid "Content Layout"
+msgstr "Layout Konten"
+
+#: inc/customizer.php:687
+msgid "One Container"
+msgstr "Satu Kontainer"
+
+#: inc/customizer.php:686
+msgid "Separate Containers"
+msgstr "Kontainer Terpisah"
+
+#: inc/customizer.php:660 inc/customizer.php:936
+msgid "Disable"
+msgstr "Matikan"
+
+#: inc/customizer.php:602
+msgid "Navigation Alignment"
+msgstr "Alignment Navigasi"
+
+#: inc/customizer.php:579
+msgid "No Navigation"
+msgstr "Tanpa Navigasi"
+
+#: inc/customizer.php:575
+msgid "Float Right"
+msgstr "Mengambang ke Kanan"
+
+#: inc/customizer.php:574
+msgid "Above Header"
+msgstr "Diatas Header"
+
+#: inc/customizer.php:573
+msgid "Below Header"
+msgstr "Dibawah Header"
+
+#: inc/customizer.php:570 inc/options.php:167
+msgid "Navigation Location"
+msgstr "Lokasi Navigasi"
+
+#: inc/customizer.php:656
+msgid "Navigation Search"
+msgstr "Pencarian pada Navigasi"
+
+#: inc/customizer.php:659 inc/customizer.php:935
+msgid "Enable"
+msgstr "Hidupkan"
+
+#: inc/customizer.php:389 inc/customizer.php:483 inc/customizer.php:607
+#: inc/customizer.php:909
+msgid "Right"
+msgstr "Kanan"
+
+#: inc/customizer.php:388 inc/customizer.php:482 inc/customizer.php:606
+#: inc/customizer.php:908
+msgid "Center"
+msgstr "Tengah"
+
+#: inc/customizer.php:387 inc/customizer.php:481 inc/customizer.php:605
+#: inc/customizer.php:907
+msgid "Left"
+msgstr "Kiri"
+
+#: inc/customizer.php:282 inc/options.php:166
+msgid "Container Width"
+msgstr "Lebar kotak"
+
+#: inc/customizer.php:478
+msgid "Header Alignment"
+msgstr "Alignment Header"
+
+#: inc/customizer.php:332 inc/customizer.php:360 inc/customizer.php:428
+#: inc/customizer.php:454 inc/customizer.php:520 inc/customizer.php:546
+#: inc/customizer.php:824 inc/customizer.php:850 inc/metaboxes.php:288
+msgid "Contained"
+msgstr "Dalam Kotak"
+
+#: inc/customizer.php:248
+msgid "Layout"
+msgstr "Tata letak"
+
+#: inc/customizer.php:232
+msgid "Check out Generate Colors"
+msgstr "Lihat Generate Colors"
+
+#: inc/customizer.php:228
+msgid "Looking to add more color settings?<br /> %s."
+msgstr "Ingin menambah pengaturan warna yang lebih banyak?<br /> %s."
+
+#: inc/customizer.php:189
+msgid "Link Color Visited"
+msgstr "Warna Tautan Dikunjungi"
+
+#: inc/customizer.php:183
+msgid "Link Color Hover"
+msgstr "Warna Hover Tautan "
+
+#: inc/customizer.php:177
+msgid "Link Color"
+msgstr "Warna Taut"
+
+#: inc/customizer.php:171
+msgid "Text Color"
+msgstr "Warna Teks"
+
+#: inc/customizer.php:165
+msgid "Background Color"
+msgstr "Warna Latar belakang"
+
+#: inc/customizer.php:153
+msgid "Colors"
+msgstr "Warna"
+
+#: inc/customizer.php:131
+msgid "Logo"
+msgstr "Logo"
+
+#: inc/customizer.php:109
+msgid "Hide site tagline"
+msgstr "Sembunyakan semboyan situs"
+
+#: inc/customizer.php:89
+msgid "Hide site title"
+msgstr "Sembunyikan judul situs"
+
+#: inc/add-ons/typography.php:631
+msgid "Check out Generate Typography"
+msgstr "Lihat Generate Typography"
+
+#: inc/add-ons/typography.php:627
+msgid "Looking to add more typography settings?<br /> %s."
+msgstr "Ingin menambah pengaturan typography lainnya?<br /> %s."
+
+#: inc/add-ons/typography.php:624 inc/customizer.php:225 inc/customizer.php:989
+msgid "More Settings"
+msgstr "Pengaturan Lebih"
+
+#: inc/add-ons/typography.php:495
+msgid "Text transform"
+msgstr "Text transform"
+
+#: inc/add-ons/typography.php:457
+msgid "Font weight"
+msgstr "Font weight"
+
+#: inc/add-ons/typography.php:393 inc/customizer.php:143
+msgid "Body"
+msgstr "Body"
+
+#: inc/add-ons/typography.php:526
+msgid "Font size"
+msgstr "Ukuran font"
+
+#: inc/add-ons/typography.php:371
+msgid "Typography"
+msgstr "Tipografi"
+
+#: inc/add-ons/controls.php:29
+msgid "Google fonts"
+msgstr "Google fonts"
+
+#: inc/add-ons/controls.php:28
+msgid "Default fonts"
+msgstr "Font default"
+
+#: inc/add-ons/controls.php:30
+msgid "Font family"
+msgstr "Font family"
+
+#: functions.php:170 inc/customizer.php:401
+msgid "Header"
+msgstr "Kepala Laman"
+
+#: functions.php:169 inc/customizer.php:577 inc/metaboxes.php:60
+msgid "Left Sidebar"
+msgstr "Sidebar Kiri"
+
+#: functions.php:168 inc/customizer.php:578 inc/metaboxes.php:56
+msgid "Right Sidebar"
+msgstr "Sidebar Kanan"
+
+#: functions.php:47
+msgid "Primary Menu"
+msgstr "Menu Utama"
+
+#: functions.php:171 inc/template-tags.php:840
+msgid "Footer Widget 1"
+msgstr "Footer Widget 1"
+
+#: functions.php:172 inc/template-tags.php:854
+msgid "Footer Widget 2"
+msgstr "Footer Widget 2"
+
+#: functions.php:173 inc/template-tags.php:868
+msgid "Footer Widget 3"
+msgstr "Footer Widget 3"
+
+#: functions.php:175 inc/template-tags.php:896
+msgid "Footer Widget 5"
+msgstr "Widget Footer 5"
+
+#: functions.php:174 inc/template-tags.php:882
+msgid "Footer Widget 4"
+msgstr "Widget Footer 4"
+
+#: inc/template-tags.php:102 inc/template-tags.php:122
+msgid "Edit"
+msgstr "Sunting"
+
+#: content-link.php:29 content-page.php:27 content-single.php:27 content.php:28
+msgid "Pages:"
+msgstr "Laman:"
+
+#: comments.php:117
+msgid "Post Comment"
+msgstr "Kirim Komentar"
+
+#: comments.php:116
+msgid "Cancel reply"
+msgstr "Batalkan balasan"
+
+#: comments.php:115
+msgid "Leave a Reply to %s"
+msgstr "Tinggalkan Balasan ke %s"
+
+#: comments.php:114
+msgid "Leave a Comment"
+msgstr "Tinggalkan komentar"
+
+#: comments.php:108
+msgid "You must be <a href=\"%1$s\">logged in</a> to post a comment."
+msgstr "Kamu harus <a href=\"%1$s\">log masuk</a> untuk menulis sebuah komentar."
+
+#: comments.php:103
+msgid "Website"
+msgstr "Situs web"
+
+#: comments.php:102
+msgid "Email"
+msgstr "Surel"
+
+#: comments.php:101
+msgid "Name"
+msgstr "Nama"
+
+#: comments.php:96
+msgid "Comments are closed."
+msgstr "Komentar ditutup."
+
+#: comments.php:64 comments.php:86
+msgid "Newer Comments &rarr;"
+msgstr "Komentar Lebih Baru &rarr;"
+
+#: comments.php:63 comments.php:85
+msgid "&larr; Older Comments"
+msgstr "&larr; Komentar Lama"
+
+#: comments.php:62 comments.php:84
+msgid "Comment navigation"
+msgstr "Navigasi komentar"
+
+#. translators: 1: number of comments, 2: post title
+#: comments.php:44
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "Satu pemikiran pada &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s pemikiran pada &ldquo;%2$s&rdquo;"
+
+#: sidebar-left.php:35 sidebar.php:34
+msgid "Archives"
+msgstr "Arsip"
+
+#: 404.php:20
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Ups! Laman tersebut tak bisa ditemukan."
+
+#. Author of the plugin/theme
+msgid "Tom Usborne"
+msgstr "Tom Usborne"
+
+#. Author URI of the plugin/theme
+msgid "https://tomusborne.com"
+msgstr "https://tomusborne.com"
+
+#. Theme URI of the plugin/theme
+msgid "https://generatepress.com"
+msgstr "https://generatepress.com"

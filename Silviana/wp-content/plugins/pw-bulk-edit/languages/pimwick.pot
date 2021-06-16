@@ -1,0 +1,100 @@
+# Copyright (C) 2018 PW WooCommerce Bulk Edit
+# This file is distributed under the same license as the PW WooCommerce Bulk Edit package.
+msgid ""
+msgstr ""
+"Project-Id-Version: PW WooCommerce Bulk Edit 2.47\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/free\n"
+"POT-Creation-Date: 2018-05-09 15:32:21+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2018-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: includes/select-options.php:93
+msgid "Taxable"
+msgstr ""
+
+#: includes/select-options.php:95
+msgid "Shipping only"
+msgstr ""
+
+#: includes/select-options.php:97
+msgid "None"
+msgstr ""
+
+#: includes/select-options.php:101
+msgid "Same as parent"
+msgstr ""
+
+#: includes/select-options.php:103
+msgid "Standard"
+msgstr ""
+
+#: includes/select-options.php:115
+msgid "In stock"
+msgstr ""
+
+#: includes/select-options.php:117
+msgid "Out of stock"
+msgstr ""
+
+#: includes/select-options.php:120
+msgid "Do not allow"
+msgstr ""
+
+#: includes/select-options.php:122
+msgid "Allow, but notify customer"
+msgstr ""
+
+#: includes/select-options.php:124
+msgid "Allow"
+msgstr ""
+
+#: includes/select-options.php:131
+msgid "Catalog/search"
+msgstr ""
+
+#: includes/select-options.php:132
+msgid "Catalog"
+msgstr ""
+
+#: includes/select-options.php:133
+msgid "Search"
+msgstr ""
+
+#: includes/select-options.php:134
+msgid "Hidden"
+msgstr ""
+
+#: pw-bulk-edit.php:237 pw-bulk-edit.php:248 pw-bulk-edit.php:260
+#: pw-bulk-edit.php:261 pw-bulk-edit.php:269 pw-bulk-edit.php:270
+msgid "PW Bulk Edit"
+msgstr ""
+
+#: pw-bulk-edit.php:238 pw-bulk-edit.php:249
+msgid "Pimwick Plugins"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "PW WooCommerce Bulk Edit"
+msgstr ""
+
+#. #-#-#-#-#  pimwick.pot (PW WooCommerce Bulk Edit 2.47)  #-#-#-#-#
+#. Plugin URI of the plugin/theme
+#. #-#-#-#-#  pimwick.pot (PW WooCommerce Bulk Edit 2.47)  #-#-#-#-#
+#. Author URI of the plugin/theme
+msgid "http://www.pimwick.com/pw-bulk-edit/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"A powerful way to update your WooCommerce product catalog. Finally, no more "
+"tedious clicking through countless pages making the same change to all "
+"products!"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Pimwick, LLC"
+msgstr ""

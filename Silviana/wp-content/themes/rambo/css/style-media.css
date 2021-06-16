@@ -1,0 +1,105 @@
+/* -----Add additional css created by Shahid----- */
+@media (max-width: 767px) { #slider-carousel .item.active > div { display:block; } }
+@media (min-width: 767px) and (max-width: 992px ) { #slider-carousel .item.active > div { display:block; } }
+
+@media screen and (max-width: 1380px) { 
+div.boxed { max-width: 100%; }
+.newsletter_btn { display: block; }
+.dropup, .dropdown:hover { position: relative; color: #ffffff !important; text-decoration: none; background-color: transparent !important; } 
+}
+
+@media (max-width: 979px) { 
+.navbar { margin: 14px 15px 14px !important; }
+.navbar .brand { padding: 0px; } 
+.navbar .btn-navbar { margin: 10px 0 0 !important; } 
+.nav-collapse { padding: 10px 0 0; }
+.nav-collapse .dropdown-menu { margin: 0 1px; }
+}
+
+/* For Slider Captions */
+
+@media only screen and (max-width: 979px) and (min-width: 768px) { 
+.slider_con h2, .slide-title { width: 80%; }
+.slider_con h2 { font-size: 30px; line-height: 36px; margin: 0px 0px 15px; }
+.slider_con span { font-size: 14px; line-height: 24px; }
+.flex_btn { font-size: 14px; margin-top: 24px; padding: 7px 18px; }
+.flex_btn:hover { padding: 7px 25px; }
+}
+
+@media (max-width: 768px) {
+.banner_con {display: none;}
+body{padding-left:0 !important; padding-right:0 !important;}
+#slider-carousel .container { padding-right: 15px; padding-left: 15px; margin-right: auto; margin-left: auto; }	
+.slider_con h2, .slide-title { width: 80%; }
+.slider_con h2 { font-size: 24px; line-height: 30px; margin: 0px 0px 8px; }
+.slider_con span { font-size: 12px; line-height: 20px; padding: 2px 0; }
+.slide-btn { font-size: 12px; margin-top: 10px; padding: 5px 15px; }	
+.slide-btn:hover { padding: 5px 15px; }		
+.carou-direction-nav a { width: 40px; height: 40px; }	
+.carou-direction-nav a:before { font-size: 13px; line-height: 3.2em; }		
+	
+.team_bg { margin-bottom: 30px; }	
+.sidebar_widget, .sidebar-widget { margin-left: 15px !important; margin-right: 15px !important; }
+.portfolio-detail-pagi { margin-left: 0px; }
+.portfolio-detail-info { margin-left: 0px; }
+.portfolio-detail-description { margin-left: 0px; }
+.dropup, .dropdown:hover { position: relative; color: #ffffff !important; text-decoration: none; background-color: transparent !important; } 
+.about_section, .team_section, .portfolio_section { padding: 0 15px; }	
+.about_section img { margin: 0 0 20px; }
+.team_head_title { margin: 0px 15px 25px; }
+.main_space .team_head_title, .for_mobile .team_head_title { margin: 0px 0px 25px; }
+.team_section { margin-bottom: 25px; }
+.about_section p { margin: 0; }
+.page-template-about-us .main_space, 
+.woocommerce ul.products, .woocommerce .page-title, 
+.woocommerce-result-count, .woocommerce-ordering, 
+.woocommerce .product, .our_client_service_section { 
+	padding: 0 15px; 
+}
+.woocommerce span.onsale { left: 25px; }
+.products ul.products { padding: 0; }
+.page-template-about-us .main_space { margin-bottom: 10px; }
+.navbar .brand { padding: 0px 15px ; }
+.blog_section2_comment a { padding: 6px; }  
+.newsletter_btn { display:block; } 
+form#searchform { margin: 0; }
+.search_head.pull-right { float: none; }
+.Blog_main .tiled-gallery { margin: 0 0px 20px; }
+#myformdata { padding: 0 15px; }
+.wpcf7-form { width: 95%; }
+.blog_section2, .comment_section, .portfolio_tabs_section, .porfolio_detail_title, .comment_mn { margin-left: 15px; margin-right: 15px; }
+.blog_section { margin: 0 15px 50px; }
+.blog_single_post { margin-left: 15px; margin-right: 15px; float: none; width: auto; }
+.woocommerce-product-search input[type="search"] { width: 80%; }
+
+}
+
+@media (max-width: 480px) {
+.slider_con h2, .slide-title { width: 80%; }
+.slider_con h2 { font-size: 18px; line-height: 25px; margin: 0px 0px 8px; }
+.slider_con span { font-size: 10px; line-height: 18px; padding: 2px 0; }
+.slide-btn { font-size: 10px; margin-top: 10px; padding: 2px 11px; }	
+.slide-btn:hover { padding: 2px 15px; }	
+.carou-direction-nav a { width: 25px; height: 25px; }	
+.carou-direction-nav a:before { font-size: 10px; line-height: 2.6em; }	
+.team_bg { margin-bottom: 30px; }
+.blog_section_readmore { float: left !important; }
+.blog_section_img { width: 100%; height: auto; }
+.blog_pull_img { margin-right: 0px !important; }
+.sidebar_widget { margin-left: 0; }
+.para_img_left, .para_img_right { height: auto; width: 99%; }
+.para_img_pull { margin: 0px !important; }	
+.sidebar_widget { margin-left: 0px; }
+.portfolio-detail-pagi { margin-left: 0px; }
+.portfolio-detail-info { margin-left: 0px; }
+.portfolio-detail-description { margin-left: 0px; }
+.purchase_now_btn { font-size: 16px; line-height: 20px; padding: 14px 35px; }	
+
+}
+
+@media only screen and (min-width: 200px) and (max-width: 480px) {
+.blog_section { padding: 10px; }
+.blog_tags { display: block; margin: 5px 15px 15px 0; }
+.dropup, .dropdown:hover { position: relative; color: #ffffff !important; text-decoration: none; background-color: transparent !important; } 
+.about_space .pull-right { float: none; margin-bottom: 0px; }
+}

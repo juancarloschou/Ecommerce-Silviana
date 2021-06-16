@@ -1,0 +1,373 @@
+# Translation of Plugins - Woocommerce Google Feed Manager - Stable (latest release) in Greek
+# This file is distributed under the same license as the Plugins - Woocommerce Google Feed Manager - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2018-04-03 09:37:39+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: el_GR\n"
+"Project-Id-Version: Plugins - Woocommerce Google Feed Manager - Stable (latest release)\n"
+
+#: includes/user-interface/class-options-form.php:99
+#: includes/user-interface/class-options-form.php:101
+msgid "Clear feed process"
+msgstr "Καθαρίστε τη διαδικασία τροφοδοσίας"
+
+#: includes/user-interface/class-options-form.php:102
+msgid "Use this option when feeds get stuck processing - does not delete your current feeds or settings."
+msgstr "Χρησιμοποιήστε αυτήν την επιλογή όταν οι τροφοδοσίες κολλάνε - δεν διαγράφει τις τρέχουσες τροφοδοσίες ή ρυθμίσεις σας."
+
+#: includes/data/class-ajax-file.php:155
+msgid "Pushed the feed to the background queue. Processing starts after all other feeds are processed."
+msgstr "Τράβηξε την τροφοδοσία στην σειρά του παρασκηνίου. Η επεξεργασία ξεκινά μετά την επεξεργασία όλων των άλλων τροφοδοσιών."
+
+#: includes/application/class-feed-master.php:104
+msgid "1428 - Failed to load the feed data"
+msgstr "1428 - Αποτυχία φόρτωσης των δεδομένων τροφοδοσίας"
+
+#: includes/application/class-feed-master.php:131
+msgid "Started processing feed \"%s\" in the background."
+msgstr "Ξεκίνησε η επεξεργασία της ροής \"%s\" στο παρασκήνιο."
+
+#: includes/user-interface/class-options-form.php:109
+msgid "Updates the tables if required, re-initiates the cron events and resets the stored license - does not delete your current feeds or settings."
+msgstr "Ενημερώνει τους πίνακες εάν απαιτείται, ξαναρχίζει τις προγραμματισμένες εργασίες (cron events) και επαναφέρει την αποθηκευμένη άδεια - δεν διαγράφει τις τρέχουσες τροφοδοσίες ή ρυθμίσεις σας."
+
+#: includes/user-interface/class-options-form.php:108
+msgid "Re-initiate plugin"
+msgstr "Επανεκκινήστε το πρόσθετο"
+
+#: includes/user-interface/class-options-form.php:106
+msgid "Re-initialize"
+msgstr "Επαναλάβετε την προετοιμασία "
+
+#: includes/data/class-ftp.php:44
+msgid "You have no read/write permission to the %s folder. Please update the file permissions of this folder to make it writable and then try installing a channel again."
+msgstr "Δεν έχετε άδεια ανάγνωσης / εγγραφής στο φάκελο %s. Ενημερώστε τα δικαιώματα αρχείου αυτού του φακέλου για να το καταστήσετε εγγράψιμο και, στη συνέχεια, δοκιμάστε να εγκαταστήσετε ξανά ένα κανάλι."
+
+#: includes/user-interface/class-options-form.php:75
+msgid "Automatically fix feeds that are failed (default on). Change this setting if a feed keeps failing."
+msgstr "Αυτόματη επιδιόρθωση feeds που έχουν αποτύχει (προεπιλογή ενεργοποιημένη). Αλλαγή αυτής της ρύθμισης εάν μια τροφοδοσία συνεχίζει να αποτυγχάνει."
+
+#: includes/user-interface/class-options-form.php:69
+#: includes/user-interface/class-options-form.php:72
+#: includes/user-interface/class-options-form.php:92
+msgid "Auto Feed Fix"
+msgstr "Αυτόματη διόρθωση feed"
+
+#: includes/user-interface/class-main-admin-page.php:145
+msgid "Add New Feed"
+msgstr "Προσθήκη νέου feed"
+
+#: includes/user-interface/class-main-admin-page.php:82
+#: includes/user-interface/class-options-form.php:121
+msgid "Actions"
+msgstr "Ενέργειες"
+
+#: includes/user-interface/class-main-admin-page.php:81
+msgid "Status"
+msgstr "Κατάσταση"
+
+#: includes/user-interface/class-main-admin-page.php:79
+msgid "Last change"
+msgstr "Τελευταία αλλαγή"
+
+#: includes/user-interface/class-feed-form.php:89
+msgid "Highly recommended"
+msgstr "Συνιστάται επιτακτικά"
+
+#: includes/user-interface/class-main-admin-page.php:78
+msgid "Url"
+msgstr "Url"
+
+#: includes/user-interface/class-main-admin-page.php:77
+msgid "Name"
+msgstr "Όνομα"
+
+#: includes/user-interface/class-feed-form.php:117
+msgid "Condition"
+msgstr "Κατάσταση"
+
+#: includes/user-interface/class-feed-form.php:116
+msgid "From WooCommerce source"
+msgstr "Από την πηγή του WooCommerce"
+
+#: includes/user-interface/class-feed-form.php:115
+msgid "Add to feed"
+msgstr "Προσθήκη στην τροφοδοσία"
+
+#: includes/user-interface/class-feed-form.php:98
+msgid "Custom attributes"
+msgstr "Προσαρμοσμένες ιδιότητες"
+
+#: includes/user-interface/class-feed-form.php:95
+msgid "Optional"
+msgstr "Προαιρετικά"
+
+#: includes/user-interface/class-feed-form.php:92
+msgid "Recommended"
+msgstr "Συνιστάται"
+
+#: includes/user-interface/class-feed-form.php:86
+msgid "Required"
+msgstr "Απαιτείται"
+
+#: includes/user-interface/class-feed-form.php:85
+msgid "Attribute Mapping"
+msgstr "Χαρτογράφηση ιδιοτήτων"
+
+#: includes/user-interface/class-feed-form.php:80
+#: includes/user-interface/class-feed-form.php:105
+msgid "Save Feed"
+msgstr "Αποθήκευση τροφοδοσίας"
+
+#: includes/user-interface/class-feed-form.php:79
+#: includes/user-interface/class-feed-form.php:104
+msgid "Save & Generate Feed"
+msgstr "Αποθήκευση & Δημιουργία τροφοδοσίας"
+
+#: includes/user-interface/class-feed-form.php:71
+msgid "Update Schedule"
+msgstr "Ενημέρωση Προγράμματος"
+
+#: includes/user-interface/class-feed-form.php:69
+msgid "Feed Description"
+msgstr "Περιγραφή τροφοδοσίας"
+
+#: includes/user-interface/class-feed-form.php:67
+msgid "Feed Title"
+msgstr "Τίτλος Τροφοδοσίας"
+
+#: includes/user-interface/class-feed-form.php:65
+msgid "Include Product Variations"
+msgstr "Συμπεριλάβετε παραλλαγές προϊόντων"
+
+#: includes/user-interface/class-feed-form.php:63
+msgid "Aggregator Shop"
+msgstr "Συναθροιστής Καταστήματος"
+
+#: includes/user-interface/class-feed-form.php:61
+msgid "Default Category"
+msgstr "Προεπιλεγμένη κατηγορία"
+
+#: includes/user-interface/class-feed-form.php:59
+msgid "Target Country"
+msgstr "Στόχευση Χώρας"
+
+#: includes/user-interface/class-feed-form.php:56
+msgid "Channel"
+msgstr "Κανάλι"
+
+#: includes/user-interface/class-feed-form.php:54
+msgid "Products source"
+msgstr "Πηγή προϊόντων"
+
+#: includes/user-interface/class-feed-form.php:52
+msgid "File Name"
+msgstr "Όνομα Αρχείου"
+
+#: includes/user-interface/class-feed-form.php:43
+#: includes/user-interface/class-main-admin-page.php:95
+msgid "Add or Edit Feed"
+msgstr "Προσθήκη ή επεξεργασία τροφοδοσίας"
+
+#: includes/user-interface/class-feed-form.php:28
+msgid "Basic Feed Options"
+msgstr "Βασικές επιλογές τροφοδοσίας"
+
+#: includes/user-interface/class-feed-form-controls.php:128
+#: includes/user-interface/class-main-admin-page.php:80
+msgid "Products"
+msgstr "Προϊόντα"
+
+#: includes/user-interface/class-feed-form-controls.php:127
+msgid "Feed Category"
+msgstr "Κατηγορία Τροφοδοσίας"
+
+#: includes/user-interface/class-feed-form-controls.php:126
+msgid "Shop Category"
+msgstr "Κατηγορία Καταστήματος"
+
+#: includes/user-interface/class-feed-form-controls.php:117
+msgid "Category Mapping"
+msgstr "Χαρτογράφηση Κατηγοριών"
+
+#: includes/user-interface/class-feed-form-controls.php:107
+msgid " time(s) a day"
+msgstr "Φορά(ές) την ημέρα"
+
+#: includes/user-interface/class-feed-form-controls.php:105
+msgid " for "
+msgstr "Για"
+
+#: includes/user-interface/class-feed-form-controls.php:101
+msgid "Every day at"
+msgstr "Κάθε μέρα στις"
+
+#: includes/user-interface/class-feed-form-controls.php:100
+msgid "day(s) at"
+msgstr "μέρα(ες) σε"
+
+#: includes/user-interface/class-feed-form-controls.php:99
+msgid "Every "
+msgstr "Κάθε"
+
+#: includes/user-interface/class-feed-form-controls.php:88
+msgid "-- Select your target country --"
+msgstr "Επιλέξτε χώρα στόχευσης"
+
+#: includes/user-interface/class-feed-form-controls.php:70
+msgid "-- Select your merchant --"
+msgstr "Επιλέξτε τον έμπορο σας"
+
+#: includes/user-interface/class-feed-form-controls.php:46
+msgid "Select your product source"
+msgstr "Επιλέξτε την πηγή του προϊόντος σας"
+
+#: includes/user-interface/class-admin-page.php:43
+msgid "Manage your feeds with ease"
+msgstr "Διαχειριστείτε τις τροφοδοσίες σας με ευκολία"
+
+#: includes/user-interface/class-add-options-page.php:52
+msgid "Feed Manager Settings"
+msgstr "Ρυθμίσεις διαχείρισης τροφοδοσίας"
+
+#: includes/user-interface/class-add-feed-page.php:58
+#: includes/user-interface/class-feed-form.php:42
+#: includes/user-interface/class-main-admin-page.php:94
+msgid "Feeds List"
+msgstr "Λίστα τροφοδοσιών"
+
+#: includes/data/class-file.php:60 includes/data/class-file.php:103
+msgid "Unable to open the file containing the categories"
+msgstr "Δεν είναι δυνατό να ανοίξει το αρχείο που περιέχει τις κατηγορίες"
+
+#: includes/data/class-file.php:12
+msgid "He! Do not call me directly."
+msgstr "Χα! Μη μου τηλεφωνείτε άμεσα."
+
+#: includes/data/class-db-management.php:198
+msgid "A backup file with the selected name does not exists."
+msgstr "Ένα αρχείο αντιγράφου ασφαλείας με το επιλεγμένο όνομα δεν υπάρχει."
+
+#: includes/data/class-db-management.php:151
+msgid "The backup file is of an older version of the database and can not be restored as it is not compatible with the current database."
+msgstr "Το αρχείο αντιγράφων ασφαλείας είναι παλαιότερης έκδοσης της βάσης δεδομένων και δεν μπορεί να αποκατασταθεί επειδή δεν είναι συμβατό με την τρέχουσα βάση δεδομένων."
+
+#: includes/data/class-db-management.php:90
+msgid "A backup file with the selected name already exists. Please choose another name or delete the existing file first."
+msgstr "Ένα αρχείο αντιγράφου ασφαλείας με το επιλεγμένο όνομα υπάρχει ήδη. Επιλέξτε ένα άλλο όνομα ή διαγράψτε πρώτα το υπάρχον αρχείο."
+
+#: includes/data/class-ajax-file.php:158 includes/data/class-ajax-file.php:182
+msgid "Error writing the feed. You do not have the correct authorities to write the file."
+msgstr "Σφάλμα κατά την εγγραφή της τροφοδοσίας. Δεν έχετε τις σωστές αρχές για να γράψετε το αρχείο."
+
+#: includes/data/class-ajax-file.php:126
+#: includes/data/class-db-management.php:217
+msgid "Error deleting the feed. You do not have the correct authorities to delete the file."
+msgstr "Σφάλμα κατά τη διαγραφή της ροής. Δεν έχετε τις σωστές αρχές για να διαγράψετε το αρχείο."
+
+#: includes/data/class-ajax-calls.php:38
+msgid "You are not allowed to do this!"
+msgstr "Δεν σας επιτρέπεται να το κάνετε αυτό!"
+
+#: includes/application/class-feed-processor.php:211
+msgid ""
+"Could not identify the correct categorymap for the product with ID: %s! \n"
+"\t\t\t\t\tPlease check the category settings of this product."
+msgstr ""
+"Δεν ήταν δυνατή η αναγνώριση του σωστού χάρτη κατηγοριών για το προϊόν με αναγνωριστικό:%s! \n"
+"\t \t \t \t \t Ελέγξτε τις ρυθμίσεις κατηγορίας αυτού του προϊόντος."
+
+#: includes/application/class-feed-master.php:143
+msgid "1430 - %s is not a writable folder. Make sure you have admin rights to this folder."
+msgstr "1430 -%s δεν είναι ένας εγγράψιμος φάκελος. Βεβαιωθείτε ότι έχετε δικαιώματα διαχειριστή σε αυτόν το φάκελο"
+
+#: includes/libraries/wppfm-background-process.php:524
+msgid "Every %d minutes"
+msgstr "Κάθε %d λεπτά"
+
+#. Author of the plugin/theme
+msgid "Michel Jongbloed"
+msgstr "Michel Jongbloed"
+
+#. Description of the plugin/theme
+msgid "An easy to use WordPress plugin that generates and submits your product feeds to merchant centres."
+msgstr "Ένα εύχρηστο πρόσθετο για την πλατφόρμα WordPress που δημιουργεί και υποβάλλει τις τροφοδοσίες των προϊόντων σας σε εμπορικά κέντρα."
+
+#. #-#-#-#-#  wp-product-feed-manager-code.pot (WP Product Feed Manager 1.9.4) 
+#. #-#-#-#-#
+#. Plugin URI of the plugin/theme
+#. #-#-#-#-#  wp-product-feed-manager-code.pot (WP Product Feed Manager 1.9.4) 
+#. #-#-#-#-#
+#. Author URI of the plugin/theme
+msgid "https://www.wpmarketingrobot.com"
+msgstr "https://www.wpmarketingrobot.com"
+
+#. Plugin Name of the plugin/theme
+msgid "WP Product Feed Manager"
+msgstr "WP Product Feed Manager"
+
+#: wp-product-feed-manager.php:75
+msgid "Unserializing instances of this class is not allowed"
+msgstr "Δεν επιτρέπεται η κατάργηση σειριακών περιστάσεων αυτής της κατηγορίας"
+
+#: wp-product-feed-manager.php:67
+msgid "Cloning is not allowed"
+msgstr "Η κλωνοποίηση δεν επιτρέπεται"
+
+#: includes/user-interface/wppfm-admin-menu.php:77
+msgid "Due to the latest update your Feed Manager backups are no longer valid! Please open the Feed Manager Settings page, remove all your backups in and make a new one."
+msgstr "Λόγω της τελευταίας ενημέρωσης, τα αντίγραφα ασφαλείας του Feed Manager δεν είναι πλέον έγκυρα! Ανοίξτε τη σελίδα Ρυθμίσεις Διαχείρισης Τροφοδοσιών, αφαιρέστε όλα τα αντίγραφα ασφαλείας και δημιουργήστε ένα νέο."
+
+#: includes/user-interface/wppfm-admin-menu.php:43
+msgid "Settings"
+msgstr "Ρυθμίσεις"
+
+#: includes/user-interface/wppfm-admin-menu.php:34
+#: includes/user-interface/wppfm-admin-menu.php:35
+msgid "Add Feed"
+msgstr "Προσθήκη τροφοδοσίας"
+
+#: includes/user-interface/wppfm-admin-menu.php:26
+msgid "Feed Manager"
+msgstr "Διαχείριση Τροφοδοσιών"
+
+#: includes/user-interface/wppfm-admin-menu.php:25
+msgid "WP Feed Manager"
+msgstr "WP Feed Manager"
+
+#: includes/user-interface/class-options-form.php:132
+msgid "Cancel backup"
+msgstr "Ακύρωση αντιγράφου ασφαλείας"
+
+#: includes/user-interface/class-options-form.php:131
+msgid "Backup current feeds"
+msgstr "Δημιουργήστε αντίγραφο ασφαλείας των τρεχουσών τροφοδοσιών"
+
+#: includes/user-interface/class-options-form.php:126
+msgid "Add new backup"
+msgstr "Προσθέστε νέο αντίγραφο ασφαλείας"
+
+#: includes/user-interface/class-options-form.php:120
+msgid "Backup date"
+msgstr "Ημερομηνία αντιγράφου ασφαλείας"
+
+#: includes/user-interface/class-options-form.php:119
+msgid "File name"
+msgstr "Όνομα αρχείου"
+
+#: includes/user-interface/class-options-form.php:113
+msgid "Backups"
+msgstr "Αντίγραφα ασφαλείας"
+
+#: includes/user-interface/class-options-form.php:95
+msgid "Enter comma separated keywords and wildcards to use third party attributes."
+msgstr "Εισάγετε ξεχωρισμένα με κόμμα, λέξεις κλειδιά και ειδικούς χαρακτήρες,για να χρησιμοποιήσετε ιδιότητες τρίτου μέρους."
+
+#: includes/user-interface/class-options-form.php:89
+msgid "Third Party Attributes"
+msgstr "Ιδιότητες τρίτου μέρους"

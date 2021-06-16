@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configuration>
+  <system.web>
+    <customErrors mode="Off" />
+  </system.web>
+  <system.webServer>
+    <directoryBrowse enabled="false" />
+    <rewrite>
+      <rules><rule name="Plesk. Wordpress redirect wpConfigRule #ffb0061e-ded0-435f-b51f-0b819b73f8e5" stopProcessing="true"><match url="^wp-config.php$" ignoreCase="false" /><action type="CustomResponse" statusCode="403" statusReason="Forbidden" statusDescription="Forbidden" /></rule>
+			<rule name="WordPress: http://silviana.es" patternSyntax="Wildcard">
+				<match url="*" />
+					<conditions>
+						<add input="{REQUEST_FILENAME}" matchType="IsFile" negate="true" />
+						<add input="{REQUEST_FILENAME}" matchType="IsDirectory" negate="true" />
+					</conditions>
+				<action type="Rewrite" url="index.php" />
+			</rule></rules>
+    </rewrite>
+        <defaultDocument>
+            <files>
+                <clear />
+                <add value="Index.php" />
+                <add value="Index.html" />
+                <add value="Index.htm" />
+                <add value="Index.cfm" />
+                <add value="Index.shtml" />
+                <add value="Index.shtm" />
+                <add value="Index.stm" />
+                <add value="Index.php3" />
+                <add value="Index.asp" />
+                <add value="Index.aspx" />
+                <add value="Default.htm" />
+                <add value="Default.asp" />
+                <add value="Default.aspx" />
+            </files>
+        </defaultDocument>
+  </system.webServer>
+</configuration>

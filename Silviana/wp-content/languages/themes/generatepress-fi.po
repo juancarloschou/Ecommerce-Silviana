@@ -1,0 +1,805 @@
+# Translation of Themes - GeneratePress in Finnish
+# This file is distributed under the same license as the Themes - GeneratePress package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2017-06-24 21:30:21+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: fi\n"
+"Project-Id-Version: Themes - GeneratePress\n"
+
+#. Description of the plugin/theme
+msgid "GeneratePress is a fast, lightweight (less than 1MB zipped), mobile responsive WordPress theme built with speed, SEO and usability in mind. GP can serve as a solid base for any website, and works great with any of your favorite page builders. With an emphasis on WordPress coding standards, we ensure GeneratePress is compatible with all well-coded plugins, including major ones like WooCommerce, WPML, BuddyPress and bbPress. GeneratePress is device friendly (mobile and tablet), uses 100% valid HTML, is fully schema microdata integrated, is translated into over 20 languages by our amazing community and is cross browser compatible (including IE8). Some of our features include 9 widget areas, 5 navigation positions, 5 sidebar layouts, dropdown menus (click or hover) and a back to top button. All our options use the native WordPress Customizer, meaning you can see every change you make instantly before pressing the publish button. Learn more and check out our powerful premium version at https://generatepress.com"
+msgstr "GeneratePress on nopea, kevyt (vähemmän kuin 1MB pakattuna) ja responsiivinen, mobiiliystävällinen WordPress teema, jonka suunnittelussa on erityisesti painotettu hakukoneoptimointia sekä käyttäjäystävällisyyttä. GP toimii hienosti minkä tahansa sivuston pohjana ja se toimii myös minkä tahansa sivunrakentajatyökalun kanssa. GeneratePress on tehty WordPress -koodistandardien mukaisesti ja lupaamme sen olevan yhteensopiva oikeaoppisesti koodattujen lisäosien kanssa kuten esimerkiksi WooCommerce, WPML, BuddyPress ja bbPress. GeneratePress on mobiiliystävällinen (puhelimet ja tabletit), koodi on 100% kelpo HTMLää mukaanlukien Schema microdata -ominaisuudet ja se toimii kaikissa uusissa selaimissa (myös mukaanlukien vanha IE8). Teema on käännetty yli 20 kielelle hienon käyttäjäyhteisön toimesta. Teeman ominaisuuksista mainittakoon mm. 9 vimpainaluetta, 5 paikkaa valikoille, 5 sivupalkkiasettelua, alasvetovalikot ja takaisin ylös -painikkeet. Kaikki käyttöliittymän ominaisuudet säädetään WordPressin omalla muokkaimella, joten näet kaikki muutokset samantien ennen julkaisua. Lue lisää teemasta ja tutustu premium -version mahtaviin ominaisuuksiin osoitteessa https://generatepress.com"
+
+#. #-#-#-#-#  generatepress.pot (GeneratePress 1.3.48)  #-#-#-#-#
+#. Theme Name of the plugin/theme
+#: functions.php:452
+msgid "GeneratePress"
+msgstr "GeneratePress"
+
+#: inc/controls.php:48
+msgid "Mobile"
+msgstr "Mobiili"
+
+#: inc/controls.php:47
+msgid "Tablet"
+msgstr "Tabletti"
+
+#: inc/controls.php:46
+msgid "Desktop"
+msgstr "Työpöytä"
+
+#: inc/options.php:184
+msgid "Delete Default Settings"
+msgstr "Poista Oletusasetukset"
+
+#: inc/metaboxes.php:284
+msgid "Full Width"
+msgstr "Koko Leveys"
+
+#: inc/metaboxes.php:275
+msgid "Choose your page builder content container type. Both options remove the content padding for you."
+msgstr "Valitse sivunrakentajan (Page Builder) säiliön tyyppi. Molemmat asetukset poistavat sisällön täytteen (padding). "
+
+#: inc/metaboxes.php:248
+msgid "Page Builder Container"
+msgstr "Page Builder Säiliö"
+
+#: inc/metaboxes.php:58 inc/metaboxes.php:62 inc/metaboxes.php:70
+#: inc/metaboxes.php:74 inc/metaboxes.php:78
+msgctxt "Short name for meta box"
+msgid "Sidebar"
+msgstr "Sivupalkki"
+
+#: inc/customizer.php:384
+msgid "Top Bar Alignment"
+msgstr "Yläpalkin suuntaus"
+
+#: inc/customizer.php:356
+msgid "Top Bar Inner Width"
+msgstr "Yläpalkin sisäleveys"
+
+#: inc/customizer.php:328
+msgid "Top Bar Width"
+msgstr "Yläpalkin leveys"
+
+#: functions.php:177 inc/customizer.php:305
+msgid "Top Bar"
+msgstr "Yläpalkki"
+
+#. translators: %s: post title
+#: comments.php:38
+msgctxt "comments title"
+msgid "One thought on &ldquo;%s&rdquo;"
+msgstr "Ajatuksia tästä: &ldquo;%s&rdquo;"
+
+#: inc/options.php:164
+msgid "Adding a Logo"
+msgstr "Logon lisäys"
+
+#: inc/options.php:161
+msgid "View all"
+msgstr "Näytä kaikki"
+
+#: inc/options.php:134
+msgid "Learn more"
+msgstr "Lue lisää aiheesta"
+
+#: inc/options.php:54 inc/options.php:161
+msgid "Documentation"
+msgstr "Ohjeet"
+
+#: inc/options.php:51
+msgid "Premium"
+msgstr "Premium"
+
+#: inc/customizer.php:904
+msgid "Footer Bar Alignment"
+msgstr "Alapalkin kohdistaminen"
+
+#: functions.php:176
+msgid "Footer Bar"
+msgstr "Alapalkki"
+
+#: inc/customizer.php:847
+msgid "Inner Footer Width"
+msgstr "Alatunnisteen sisäleveys"
+
+#: inc/customizer.php:543
+msgid "Inner Navigation Width"
+msgstr "Valikon sisäleveys"
+
+#: inc/customizer.php:451
+msgid "Inner Header Width"
+msgstr "Otsakkeen sisäleveys"
+
+#: inc/add-ons/typography.php:596
+msgid "Paragraph margin"
+msgstr "Tekstikappaleen marginaali"
+
+#: inc/add-ons/typography.php:561
+msgid "Line height"
+msgstr "Rivin korkeus"
+
+#: inc/controls.php:49
+msgid "Reset"
+msgstr "Palauta alkuarvot"
+
+#: inc/customizer.php:797
+msgid "Footer"
+msgstr "Alatunniste"
+
+#: inc/customizer.php:697
+msgid "Sidebars"
+msgstr "Sivupalkit"
+
+#: inc/customizer.php:493
+msgid "Primary Navigation"
+msgstr "Päävalikko"
+
+#: inc/customizer.php:258
+msgid "Container"
+msgstr "Säiliö"
+
+#: comments.php:109
+msgid "Logged in as <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\" class=\"comment-logout\" title=\"Log out of this account\">Log out?</a>"
+msgstr "Olet kirjautunut sis&auml;&auml;n k&auml;ytt&auml;j&auml;nimell&auml; <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\" class=\"comment-logout\" title=\"Kirjaudu ulos\">Kirjaudu ulos?</a>"
+
+#: inc/template-tags.php:686 inc/template-tags.php:690
+msgid "Scroll back to top"
+msgstr "Vieritä sivun ylälaitaan"
+
+#: inc/customizer.php:932
+msgid "Back to Top Button"
+msgstr "Takaisin ylös -painike"
+
+#: inc/customizer.php:820
+msgid "Footer Width"
+msgstr "Alatunnisteen leveys"
+
+#: inc/customizer.php:634
+msgid "Click - Arrow"
+msgstr "Klikkaa - nuoli"
+
+#: inc/customizer.php:633
+msgid "Click - Menu Item"
+msgstr "Klikkaa - valikkokohta"
+
+#: inc/customizer.php:632
+msgid "Hover"
+msgstr "Kohdistimella osoitettaessa"
+
+#: inc/customizer.php:629
+msgid "Navigation Dropdown"
+msgstr "Navigoinnin pudotusvalikko"
+
+#: inc/customizer.php:516
+msgid "Navigation Width"
+msgstr "Navigoinnin leveys"
+
+#: inc/customizer.php:331 inc/customizer.php:359 inc/customizer.php:427
+#: inc/customizer.php:455 inc/customizer.php:519 inc/customizer.php:547
+#: inc/customizer.php:823 inc/customizer.php:851
+msgid "Full"
+msgstr "Täysi"
+
+#: inc/customizer.php:424
+msgid "Header Width"
+msgstr "Otsakkeen leveys"
+
+#: inc/options.php:196
+msgctxt "made with love"
+msgid "Made with %s by Tom Usborne"
+msgstr "Tehty %s:n avulla, tekijältä Tom Usborne"
+
+#: inc/customizer.php:576
+msgid "Float Left"
+msgstr "Kelluu vasemmalla"
+
+#: inc/options.php:53
+msgid "Support"
+msgstr "Käyttäjätuki"
+
+#: inc/add-ons/disable-elements.php:50 inc/add-ons/disable-elements.php:52
+msgid "Content Title"
+msgstr "Sisältöotsikko"
+
+#: 404.php:25
+msgid "It looks like nothing was found at this location. Maybe try searching?"
+msgstr "Näyttää siltä, että täällä ei ole mitään. Kokeilepa hakua?"
+
+#: inc/options.php:176
+msgid "<strong>Warning:</strong> Deleting your <a href=\"%1$s\">Customizer</a> settings can not be undone."
+msgstr "<strong>Varoitus:</strong> <a href=\"%1$s\">Mukauttimen</a> asetusten poistamista ei voi perua."
+
+#: inc/template-tags.php:843 inc/template-tags.php:857
+#: inc/template-tags.php:871 inc/template-tags.php:885
+#: inc/template-tags.php:899
+msgid "To remove or choose the number of footer widgets, go to <a href=\"%1$s\"><strong>Appearance / Customize / Layout / Footer Widgets</strong></a>."
+msgstr "Kun haluat poistaa tai valita alapalkin vimpainten lukumäärän mene <a href=\"%1$s\"><strong>Ulkoasu / Mukauta / Asettelu / Alapalkin vimpaimet</strong></a>."
+
+#: inc/template-tags.php:842 inc/template-tags.php:856
+#: inc/template-tags.php:870 inc/template-tags.php:884
+#: inc/template-tags.php:898
+msgid "Replace this widget content by going to <a href=\"%1$s\"><strong>Appearance / Widgets</strong></a> and dragging widgets into this widget area."
+msgstr "Korvaa tämä vimpainsisältö menemällä <a href=\"%1$s\"><strong>Ulkoasu / Vimpaimet</strong></a> ja vetämällä vimpaimia tähän vimpainalueeseen."
+
+#: searchform.php:14
+msgctxt "placeholder"
+msgid "Search &hellip;"
+msgstr "Haku &hellip;"
+
+#: searchform.php:13 searchform.php:14
+msgctxt "label"
+msgid "Search for:"
+msgstr "Haku:"
+
+#: search.php:19
+msgid "Search Results for: %s"
+msgstr "Hakutulokset kohteelle: %s"
+
+#: no-results.php:34
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Emme valitettavasti löytäneet etsimääsi. Ehkä hakutoiminnosta on apua."
+
+#: no-results.php:29
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Pahoittelut mutta mitään ei löytynyt hakuehdoillasi. Kokeile uudelleen joillakin toisilla hakusanoilla."
+
+#: no-results.php:25
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Oletko valmis julkaisemaan ensimmäisen kirjoituksesi? <a href=\"%1$s\">Aloita tästä</a>."
+
+#: no-results.php:18
+msgid "Nothing Found"
+msgstr "Mitään ei löytynyt."
+
+#: inc/template-tags.php:225
+msgid "% Comments"
+msgstr "% kommenttia"
+
+#: inc/template-tags.php:225
+msgid "1 Comment"
+msgstr "1 kommentti"
+
+#: inc/template-tags.php:225
+msgid "Leave a comment"
+msgstr "Jätä kommentti"
+
+#: inc/template-tags.php:218
+msgctxt "Used before tag names."
+msgid "Tags"
+msgstr "Avainsanat"
+
+#: inc/template-tags.php:210
+msgctxt "Used before category names."
+msgid "Categories"
+msgstr "Kategoriat"
+
+#: inc/template-tags.php:207 inc/template-tags.php:215
+msgctxt "Used between list items, there is a space after the comma."
+msgid ", "
+msgstr ", "
+
+#: inc/template-tags.php:372
+msgctxt "label"
+msgid "Search"
+msgstr "Haku"
+
+#: inc/template-tags.php:240 inc/template-tags.php:254
+msgid "Read more"
+msgstr "Lue lisää"
+
+#: inc/template-tags.php:187
+msgid "View all posts by %s"
+msgstr "Näytä kaikki artikkelit kirjoittajalta %s"
+
+#: inc/template-tags.php:185
+msgid "by"
+msgstr "kirjoittaja"
+
+#: inc/template-tags.php:136
+msgid "Your comment is awaiting moderation."
+msgstr "Kommenttisi on arvioitavana."
+
+#: inc/template-tags.php:119
+msgctxt "1: date, 2: time"
+msgid "%1$s at %2$s"
+msgstr "%1$s klo %2$s"
+
+#: inc/template-tags.php:102
+msgid "Pingback:"
+msgstr "Päivitysilmoitus:"
+
+#: inc/template-tags.php:52
+msgid "Newer posts"
+msgstr "Uudemmat artikkelit"
+
+#: inc/template-tags.php:48
+msgid "Older posts"
+msgstr "Vanhemmat artikkelit"
+
+#: inc/template-tags.php:43 inc/template-tags.php:52
+msgid "Next"
+msgstr "Seuraava"
+
+#: inc/template-tags.php:42 inc/template-tags.php:48
+msgid "Previous"
+msgstr "Edellinen"
+
+#: inc/template-tags.php:38
+msgid "Post navigation"
+msgstr "Artikkelien selaus"
+
+#: inc/deprecated.php:17 inc/template-tags.php:59
+msgid "Next &rarr;"
+msgstr "Seuraava &rarr;"
+
+#: inc/deprecated.php:16 inc/template-tags.php:58
+msgid "&larr; Previous"
+msgstr "&larr; Edellinen"
+
+#: inc/options.php:247
+msgid "Settings removed."
+msgstr "Asetukset poistettu."
+
+#: inc/options.php:243
+msgid "Import successful."
+msgstr "Tuonti onnistui."
+
+#: inc/options.php:239
+msgid "Settings saved."
+msgstr "Asetukset tallennettu."
+
+#: inc/add-ons/disable-elements.php:27
+msgid "Disable Elements"
+msgstr "Piilota elementtejä"
+
+#: inc/options.php:182
+msgid "Warning: This will delete your settings."
+msgstr "Varoitus: Tämä poistaa tekemäsi asetukset."
+
+#: inc/options.php:177
+msgid "Consider using our Import/Export add-on to export your settings before deleting them."
+msgstr "Harkitse asetusten viemistä talteen ennen niiden poistamista käyttämällä GeneratePressin Import/Export-lisäosaa."
+
+#: inc/options.php:174
+msgid "Delete Customizer Settings"
+msgstr "Poista mukauttimen asetukset"
+
+#: inc/options.php:125
+msgid "Add-ons"
+msgstr "Lisäosat"
+
+#: inc/options.php:72 inc/options.php:154
+msgid "Customize"
+msgstr "Mukauta"
+
+#: inc/navigation.php:136 inc/template-tags.php:398 inc/template-tags.php:429
+#: inc/template-tags.php:432 searchform.php:16
+msgctxt "submit button"
+msgid "Search"
+msgstr "Hae"
+
+#: header.php:23
+msgid "Skip to content"
+msgstr "Siirry sisältöön"
+
+#: inc/navigation.php:90
+msgid "Menu"
+msgstr "Valikko"
+
+#: inc/metaboxes.php:186 inc/metaboxes.php:188
+msgid "5 Widgets"
+msgstr "5 vimpainta"
+
+#: inc/metaboxes.php:182 inc/metaboxes.php:184
+msgid "4 Widgets"
+msgstr "4 vimpainta"
+
+#: inc/metaboxes.php:178 inc/metaboxes.php:180
+msgid "3 Widgets"
+msgstr "3 vimpainta"
+
+#: inc/metaboxes.php:174 inc/metaboxes.php:176
+msgid "2 Widgets"
+msgstr "2 vimpainta"
+
+#: inc/metaboxes.php:170 inc/metaboxes.php:172
+msgid "1 Widget"
+msgstr "1 vimpain"
+
+#: inc/metaboxes.php:166 inc/metaboxes.php:168
+msgid "0 Widgets"
+msgstr "0 vimpainta"
+
+#: inc/metaboxes.php:76
+msgid "Both Sidebars on Right"
+msgstr "Molemmat sivupalkit oikealla"
+
+#: inc/metaboxes.php:72
+msgid "Both Sidebars on Left"
+msgstr "Molemmat sivupalkit vasemmalla"
+
+#: inc/metaboxes.php:68
+msgid "Both Sidebars"
+msgstr "Molemmat sivupalkit"
+
+#: inc/metaboxes.php:64
+msgid "No Sidebars"
+msgstr "Ei sivupalkkeja"
+
+#: inc/metaboxes.php:58 inc/metaboxes.php:62 inc/metaboxes.php:70
+#: inc/metaboxes.php:74 inc/metaboxes.php:78
+msgid "Content"
+msgstr "Sisältö"
+
+#: inc/customizer.php:65
+msgid "Add-ons Available! Take a look"
+msgstr "Lisäosia saatavilla! Tutustu"
+
+#: inc/add-ons/disable-elements.php:56 inc/controls.php:205
+msgid "Add-on available"
+msgstr "Lisäosa saatavilla"
+
+#: inc/metaboxes.php:54 inc/metaboxes.php:164 inc/metaboxes.php:280
+msgid "Default"
+msgstr "Oletus"
+
+#: inc/customizer.php:996
+msgid "Check out Generate Blog"
+msgstr "Tutustu Generate Blog -lisäosaan"
+
+#: inc/customizer.php:992
+msgid "Looking to add more blog settings?<br /> %s."
+msgstr "Haluatko lisää blogiasetuksia?<br /> %s."
+
+#: inc/customizer.php:973
+msgid "Show excerpt"
+msgstr "Näytä ote"
+
+#: inc/customizer.php:972
+msgid "Show full post"
+msgstr "Näytä koko artikkeli"
+
+#: inc/customizer.php:969
+msgid "Blog Post Content"
+msgstr "Artikkelin sisältö"
+
+#: inc/customizer.php:947
+msgid "Blog"
+msgstr "Blogi"
+
+#: inc/customizer.php:873 inc/metaboxes.php:138 inc/options.php:168
+msgid "Footer Widgets"
+msgstr "Alapalkin vimpaimet"
+
+#: inc/customizer.php:779
+msgid "Single Post Sidebar Layout"
+msgstr "Artikkelin sivupalkkien asettelu"
+
+#: inc/customizer.php:749
+msgid "Blog Sidebar Layout"
+msgstr "Blogin sivupalkkien asettelu"
+
+#: inc/customizer.php:727 inc/customizer.php:757 inc/customizer.php:787
+msgid "Content / Sidebar / Sidebar"
+msgstr "Sisältö / Sivupalkki / Sivupalkki"
+
+#: inc/customizer.php:726 inc/customizer.php:756 inc/customizer.php:786
+msgid "Sidebar / Sidebar / Content"
+msgstr "Sivupalkki / Sivupalkki / Sisältö"
+
+#: inc/customizer.php:725 inc/customizer.php:755 inc/customizer.php:785
+msgid "Sidebar / Content / Sidebar"
+msgstr "Sivupalkki / Sisältö / Sivupalkki"
+
+#: inc/customizer.php:724 inc/customizer.php:754 inc/customizer.php:784
+#: inc/metaboxes.php:66
+msgid "Content (no sidebars)"
+msgstr "Sisältö (ei sivupalkkeja)"
+
+#: inc/customizer.php:723 inc/customizer.php:753 inc/customizer.php:783
+msgid "Content / Sidebar"
+msgstr "Sisältö / Sivupalkki"
+
+#: inc/customizer.php:722 inc/customizer.php:752 inc/customizer.php:782
+msgid "Sidebar / Content"
+msgstr "Sivupalkki / Sisältö"
+
+#: inc/customizer.php:719 inc/metaboxes.php:26 inc/options.php:165
+msgid "Sidebar Layout"
+msgstr "Sivupalkkien asettelu"
+
+#: inc/customizer.php:687
+msgid "One Container"
+msgstr "Yksi sisältöalue"
+
+#: inc/customizer.php:686
+msgid "Separate Containers"
+msgstr "Erilliset sisältöalueet"
+
+#: inc/customizer.php:683
+msgid "Content Layout"
+msgstr "Sisällön asettelu"
+
+#: inc/customizer.php:660 inc/customizer.php:936
+msgid "Disable"
+msgstr "Poista käytöstä"
+
+#: inc/customizer.php:659 inc/customizer.php:935
+msgid "Enable"
+msgstr "Ota käyttöön"
+
+#: inc/customizer.php:656
+msgid "Navigation Search"
+msgstr "Haku navigaatiopalkissa"
+
+#: inc/customizer.php:602
+msgid "Navigation Alignment"
+msgstr "Navigoinnin tasaus"
+
+#: inc/customizer.php:579
+msgid "No Navigation"
+msgstr "Ei navigointia"
+
+#: inc/customizer.php:575
+msgid "Float Right"
+msgstr "Kelluu oikealla"
+
+#: inc/customizer.php:574
+msgid "Above Header"
+msgstr "Otsakkeen yläpuolella"
+
+#: inc/customizer.php:573
+msgid "Below Header"
+msgstr "Otsakkeen alla"
+
+#: inc/customizer.php:570 inc/options.php:167
+msgid "Navigation Location"
+msgstr "Valikon sijainti"
+
+#: inc/customizer.php:389 inc/customizer.php:483 inc/customizer.php:607
+#: inc/customizer.php:909
+msgid "Right"
+msgstr "Oikealle"
+
+#: inc/customizer.php:388 inc/customizer.php:482 inc/customizer.php:606
+#: inc/customizer.php:908
+msgid "Center"
+msgstr "Keskelle"
+
+#: inc/customizer.php:387 inc/customizer.php:481 inc/customizer.php:605
+#: inc/customizer.php:907
+msgid "Left"
+msgstr "Vasemmalle"
+
+#: inc/customizer.php:478
+msgid "Header Alignment"
+msgstr "Otsakkeen tasaus"
+
+#: inc/customizer.php:332 inc/customizer.php:360 inc/customizer.php:428
+#: inc/customizer.php:454 inc/customizer.php:520 inc/customizer.php:546
+#: inc/customizer.php:824 inc/customizer.php:850 inc/metaboxes.php:288
+msgid "Contained"
+msgstr "Sisällytetty"
+
+#: inc/customizer.php:282 inc/options.php:166
+msgid "Container Width"
+msgstr "Säiliön leveys"
+
+#: inc/customizer.php:248
+msgid "Layout"
+msgstr "Asettelu"
+
+#: inc/customizer.php:232
+msgid "Check out Generate Colors"
+msgstr "Tutustu Generate Colors -lisäosaan"
+
+#: inc/customizer.php:228
+msgid "Looking to add more color settings?<br /> %s."
+msgstr "Haluatko lisää väriasetuksia?<br /> %s."
+
+#: inc/customizer.php:189
+msgid "Link Color Visited"
+msgstr "Avattujen linkkien väri"
+
+#: inc/customizer.php:183
+msgid "Link Color Hover"
+msgstr "Vaalea väri \"hover\""
+
+#: inc/customizer.php:177
+msgid "Link Color"
+msgstr "Linkin väri"
+
+#: inc/customizer.php:171
+msgid "Text Color"
+msgstr "Tekstin väri"
+
+#: inc/customizer.php:165
+msgid "Background Color"
+msgstr "Taustaväri"
+
+#: inc/customizer.php:153
+msgid "Colors"
+msgstr "Värit"
+
+#: inc/customizer.php:131
+msgid "Logo"
+msgstr "Logo"
+
+#: inc/customizer.php:109
+msgid "Hide site tagline"
+msgstr "Piilota sivun kuvaus"
+
+#: inc/customizer.php:89
+msgid "Hide site title"
+msgstr "Piilota sivun otsikko"
+
+#: inc/add-ons/typography.php:631
+msgid "Check out Generate Typography"
+msgstr "Tutustu Generate Typography -lisäosaan"
+
+#: inc/add-ons/typography.php:627
+msgid "Looking to add more typography settings?<br /> %s."
+msgstr "Haluatko lisää tekstin muotoiluasetuksia?<br /> %s."
+
+#: inc/add-ons/typography.php:624 inc/customizer.php:225 inc/customizer.php:989
+msgid "More Settings"
+msgstr "Lisää asetuksia"
+
+#: inc/add-ons/typography.php:526
+msgid "Font size"
+msgstr "Fontin koko"
+
+#: inc/add-ons/typography.php:495
+msgid "Text transform"
+msgstr "Tekstin muuntaminen"
+
+#: inc/add-ons/typography.php:457
+msgid "Font weight"
+msgstr "Fontin paksuus"
+
+#: inc/add-ons/typography.php:393 inc/customizer.php:143
+msgid "Body"
+msgstr "Runko"
+
+#: inc/add-ons/typography.php:371
+msgid "Typography"
+msgstr "Kirjasintyyli"
+
+#: inc/add-ons/controls.php:30
+msgid "Font family"
+msgstr "Fontin tyyli"
+
+#: inc/add-ons/controls.php:29
+msgid "Google fonts"
+msgstr "Google-fontit"
+
+#: inc/add-ons/controls.php:28
+msgid "Default fonts"
+msgstr "Oletusfontit"
+
+#: functions.php:170 inc/customizer.php:401
+msgid "Header"
+msgstr "Otsake"
+
+#: functions.php:169 inc/customizer.php:577 inc/metaboxes.php:60
+msgid "Left Sidebar"
+msgstr "Vasen sivupalkki"
+
+#: functions.php:168 inc/customizer.php:578 inc/metaboxes.php:56
+msgid "Right Sidebar"
+msgstr "Oikea sivupalkki"
+
+#: functions.php:47
+msgid "Primary Menu"
+msgstr "Ensisijainen valikko"
+
+#: functions.php:175 inc/template-tags.php:896
+msgid "Footer Widget 5"
+msgstr "Alatunnisteen 5. vimpain"
+
+#: functions.php:174 inc/template-tags.php:882
+msgid "Footer Widget 4"
+msgstr "Alatunnisteen 4. vimpain"
+
+#: functions.php:173 inc/template-tags.php:868
+msgid "Footer Widget 3"
+msgstr "Alatunnisteen vimpain 3"
+
+#: functions.php:172 inc/template-tags.php:854
+msgid "Footer Widget 2"
+msgstr "Alatunnisteen vimpain 2"
+
+#: functions.php:171 inc/template-tags.php:840
+msgid "Footer Widget 1"
+msgstr "Alatunnisteen vimpain 1"
+
+#: inc/template-tags.php:102 inc/template-tags.php:122
+msgid "Edit"
+msgstr "Muokkaa"
+
+#: content-link.php:29 content-page.php:27 content-single.php:27 content.php:28
+msgid "Pages:"
+msgstr "Sivut:"
+
+#: comments.php:117
+msgid "Post Comment"
+msgstr "Lähetä kommentti"
+
+#: comments.php:116
+msgid "Cancel reply"
+msgstr "Peruuta vastaus"
+
+#: comments.php:115
+msgid "Leave a Reply to %s"
+msgstr "Vastaa käyttäjälle %s"
+
+#: comments.php:114
+msgid "Leave a Comment"
+msgstr "Jätä kommentti"
+
+#: comments.php:108
+msgid "You must be <a href=\"%1$s\">logged in</a> to post a comment."
+msgstr "Sinun tulee olla <a href=\"%1$s\">sisäänkirjautuneena</a> kommentoidaksesi."
+
+#: comments.php:103
+msgid "Website"
+msgstr "Kotisivu"
+
+#: comments.php:102
+msgid "Email"
+msgstr "Sähköpostiosoite"
+
+#: comments.php:101
+msgid "Name"
+msgstr "Nimi"
+
+#: comments.php:96
+msgid "Comments are closed."
+msgstr "Kommentointi on suljettu."
+
+#: comments.php:64 comments.php:86
+msgid "Newer Comments &rarr;"
+msgstr "Uudemmat kommentit &rarr;"
+
+#: comments.php:63 comments.php:85
+msgid "&larr; Older Comments"
+msgstr "&larr; Vanhemmat kommentit"
+
+#: comments.php:62 comments.php:84
+msgid "Comment navigation"
+msgstr "Kommenttien selaus"
+
+#. translators: 1: number of comments, 2: post title
+#: comments.php:44
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "Yksi kommentti artikkeliin &rdquo;%2$s&rdquo;"
+msgstr[1] "%1$s kommenttia artikkeliin &rdquo;%2$s&rdquo;"
+
+#: sidebar-left.php:35 sidebar.php:34
+msgid "Archives"
+msgstr "Arkistot"
+
+#: 404.php:20
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Hups! Etsimääsi sivua ei löytynyt."
+
+#. Author of the plugin/theme
+msgid "Tom Usborne"
+msgstr "Tom Usborne"
+
+#. Author URI of the plugin/theme
+msgid "https://tomusborne.com"
+msgstr "https://tomusborne.com"
+
+#. Theme URI of the plugin/theme
+msgid "https://generatepress.com"
+msgstr "https://generatepress.com"
